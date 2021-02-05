@@ -12,7 +12,7 @@ More than 90% of all homes in United States and Japan have air conditioners [1].
 
 Extractor or two-way fan systems have the potential to reduce energy over more complex conditioner systems. The cooler evening and night-time air can be exchanged with warmer interior air. Because of airflow and capacitive effects in buildings an intelligent control system is necessary to optimize the period of operation of the fan. 
 
-## Projects Description
+## Project Description
 
  Night-time temperatures are generally lower than daytime temperatures. Model a simple fan mechanism that pumps-in or extracts air based on temperature differential between inside and outside. The cooler night-time air can be used to bring down the temperature of air and capacitive elements within the house. Over the course of the day, the air and the cooler structure will keep temperatures lower, until it crosses the evening or night-time temperatures.
 
