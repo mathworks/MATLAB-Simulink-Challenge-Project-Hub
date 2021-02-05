@@ -1,7 +1,7 @@
 **Project 161:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the rewards
 
 <table>
-<td><img src="images/fan.jpg"  width=400 /></td>
+<td><img src="/images/fan.jpg"  width=400 /></td>
 <td><p><h1>Intelligent Fan Air Cooling System</h1></p>
 <p> Design an intelligent fan cooling system to moderate temperatures in a building to eliminate or reduce the need for air conditioning systems.</p>
 </table>

@@ -1,7 +1,7 @@
 **Project 148:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the rewards
 
 <table>
-<td><img src="images/actuator.png"  width=400 /></td>
+<td><img src="/images/actuator.png"  width=400 /></td>
 <td><p><h1>Selection of Mechanical Actuators Using Simulation-Based Analysis</h1></p>
 <p>Help accelerate the design and development of autonomous systems by providing a framework for mechanical actuators analysis and selection.</p>
 </table>
