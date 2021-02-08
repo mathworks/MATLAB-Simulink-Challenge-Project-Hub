@@ -1,4 +1,4 @@
-# Renewable Energy projects:</table>  <table>
+# Renewable Energy projects:<br/>  <table>
 <tbody>
 <td><img src="/images/battery.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Battery%20Pack%20Automation%20Using%20MATLAB%20and%20Simulink">Battery Pack Automation Using MATLAB and Simulink</a></h2></p>
