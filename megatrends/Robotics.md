@@ -1,4 +1,4 @@
-# Robotics projects: <br /> <table>
+# Robotics projects:
 <tbody>
 <td><img src="/images/auto.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Vehicle%20localization">Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps</a></h2></p>

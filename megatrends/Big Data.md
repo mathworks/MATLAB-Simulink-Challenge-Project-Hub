@@ -1,1 +1,1 @@
-# Big Data projects:  <br /> <table></table>
+# Big Data projects:</table>

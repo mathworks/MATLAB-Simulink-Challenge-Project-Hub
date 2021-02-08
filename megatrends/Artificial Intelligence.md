@@ -1,4 +1,4 @@
-# Artificial Intelligence projects: <br /> <table>
+# Artificial Intelligence projects:
 <tbody>
 <td><img src="/images/AUV.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Underwater%20Drone%20Hide%20and%20Seek">Underwater Drone Hide and Seek</a></h2></p>

@@ -1,1 +1,1 @@
-# Neuroscience projects: <br /> <table></table>
+# Neuroscience projects:</table>
