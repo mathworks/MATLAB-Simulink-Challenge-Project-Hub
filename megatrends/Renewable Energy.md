@@ -7,7 +7,7 @@
 <p><strong>Expertise gained</strong>: Renewable Energy, Control, Electrification, Optimization, Parallel Computing</p></td>
 </tbody>
 <tbody>
-<td><img src="/images/fan_Roberto Valenti.jpg"  width=400 /></td>
+<td><img src="/images/fan.jpg"  width=400 /></td>
 <td><p><h2><a href="https://insidelabs-git.mathworks.com/marto/mathworks-excellence-in-innovation-projects/-/tree/master/projects/Intelligent%20Fan%20Air%20Cooling%20System">Intelligent Fan Air Cooling System</a></h2></p>
 <p>Design an intelligent fan cooling system to moderate temperatures in a building to eliminate or reduce the need for air conditioning systems.</p>
 <p><strong>Impact</strong>: Contribute to energy and carbon footprint reduction.</p>
