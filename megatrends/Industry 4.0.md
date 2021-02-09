@@ -1,1 +1,2 @@
-# Industry 4.0 projects:</table>
+# Industry 4.0 projects: 
+<table></table>

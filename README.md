@@ -27,7 +27,7 @@ Make the results of your work open and accessible to receive a certificate and e
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 
 ## All projects
-*Updated: February 08, 2021*
+*Updated: February 09, 2021*
 <table>
 <tbody>
 <td><img src="/images/auto.png"  width=500 /></td>
