@@ -18,16 +18,18 @@ Battery pack automation is a challenging problem because of the complexity of th
 Work with the Powertrain Blockset™ product to automate the battery pack design using MATLAB® and Simulink® with the key characteristics being electrical, cooling, and mass.
 The non-linear parameters will be derived using data fit optimization techniques such as Optimization Toolbox and Simulink Design Optimization.
 Finally, a workflow that demonstrates battery pack design optimization using an FTP75 and other drive cycles will be developed.
+
 Suggested steps:
-1.	For this challenge problem the author suggests basing the work on Lithium Ion battery technologies.  Also, we encourage the teams to perform a literature search prior to starting the work.  
-2.	Create a 3RC Lithium Cell model with temperature and SOC as input factors and a thermal connection.  https://www.mathworks.com/help/autoblks/ref/equivalentcircuitbattery.html
-3.	Fit the 3RC Lithium Cell using the Generate Parameter Data for Equivalent Circuit Battery Block: https://www.mathworks.com/help/autoblks/ug/generate-parameter-data-for-estimations-circuit-battery-block.html.
-4.	Develop a tool that will automatically assemble the Lithium Ion Cell block into modules and packs as part of a Simulink model.  The tool should take as an input desired pack voltage, power, energy, module size, thermal connectivity for conduction and convection.  Note, for thermal connectivity consider a cube module that has possible connections on all 6 sides.
-5.	Using the tool developed in 4, determine the optimal size of the battery pack that takes into account range, cost, volume, cooling, and mass constraints.  For example, one optimal problem statement would be to maximize range while reducing mass and cost.  Another optimal problem would be just to maximize range.  The Powertrain Blockset EV reference application can be used as a system model.  https://www.mathworks.com/help/autoblks/ug/explore-the-electric-vehicle-reference-application.html
+1.	Use Lithium Ion battery technologies.  
+2. Perform a literature search prior to starting the work.  
+3.	Create a 3RC Lithium Cell model with temperature and SOC as input factors and a thermal connection.  https://www.mathworks.com/help/autoblks/ref/equivalentcircuitbattery.html
+4.	Fit the 3RC Lithium Cell using the Generate Parameter Data for Equivalent Circuit Battery Block: https://www.mathworks.com/help/autoblks/ug/generate-parameter-data-for-estimations-circuit-battery-block.html.
+5.	Develop a tool that will automatically assemble the Lithium Ion Cell block into modules and packs as part of a Simulink model.  The tool should take as an input desired pack voltage, power, energy, module size, thermal connectivity for conduction and convection.  Note, for thermal connectivity consider a cube module that has possible connections on all 6 sides.
+6.	Using the tool developed in 5, determine the optimal size of the battery pack that takes into account range, cost, volume, cooling, and mass constraints.  For example, one optimal problem statement would be to maximize range while reducing mass and cost.  Another optimal problem would be just to maximize range.  The Powertrain Blockset EV reference application can be used as a system model.  https://www.mathworks.com/help/autoblks/ug/explore-the-electric-vehicle-reference-application.html
 
 Optional:
 
-6.	Extend this work to Solid State Batteries.
+7.	Extend this work to Solid State Batteries.
 
 
 ## Background Material
