@@ -18,7 +18,7 @@ Extractor or two-way fan systems have the potential to reduce energy over more c
 
 Develop a simulation model and an intelligent control mechanism for a simple fan system. The fan system could be:
 -   A [twin fan system](https://en.wikipedia.org/wiki/Window_fan), or
--	An extractor fan (e.g., [window]https://en.wikipedia.org/wiki/Window_fan or [whole-house](https://en.wikipedia.org/wiki/Whole-house_fan))
+-	An extractor fan (e.g., [window](https://en.wikipedia.org/wiki/Window_fan) or [whole-house](https://en.wikipedia.org/wiki/Whole-house_fan))
 
 Use temperature measurements from outside and inside the building and model building/room capacity as well as seasonal weather patterns to optimally maintain a temperature inside the building within a defined comfort range.
 
