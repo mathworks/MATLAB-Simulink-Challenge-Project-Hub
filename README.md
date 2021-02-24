@@ -27,7 +27,7 @@ Make the results of your work open and accessible to receive a certificate and e
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 
 ## All projects
-*Updated: February 09, 2021*
+*Updated: February 24, 2021*
 <table>
 <tbody>
 <td><img src="/images/auto.png"  width=500 /></td>
@@ -105,4 +105,11 @@ Make the results of your work open and accessible to receive a certificate and e
 <p>Design an intelligent fan cooling system to moderate temperatures in a building to eliminate or reduce the need for air conditioning systems.</p>
 <p><strong>Impact</strong>: Contribute to energy and carbon footprint reduction.</p>
 <p><strong>Expertise gained</strong>: Renewable Energy, Control, Modeling and Simulation, Optimization</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/humanoidRobot.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Simulation-Based%20Design%20of%20Humanoid%20Robots">Simulation-Based Design of Humanoid Robots</a></h2></p>
+<p>Develop and use models of humanoid robots to increase understanding of how best to control them and direct them to do useful tasks.</p>
+<p><strong>Impact</strong>: Accelerate the deployment of humanoid robots to real-world tasks including in healthcare, construction, and manufacturing</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Robotics, Control, Cyber-Physical Systems, Deep Learning, Humanoid, Human-Robot Interaction, Machine Learning, Mobile Robots, Modeling and Simulation, Optimization, Reinforcement Learning</p></td>
 </tbody></table>

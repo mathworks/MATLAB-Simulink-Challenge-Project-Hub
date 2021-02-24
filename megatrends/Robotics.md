@@ -41,4 +41,11 @@
 <p>Help accelerate the design and development of autonomous systems by providing a framework for mechanical actuators analysis and selection.</p>
 <p><strong>Impact</strong>: Help evaluate and select actuation systems across multiple industries (robotic, automotive, manufacturing, aerospace) and help designers come up with novel actuation solutions.</p>
 <p><strong>Expertise gained</strong>: Drones, Robotics, Control, Cyber-physical Systems, Electrification, Humanoid, Manipulators, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/humanoidRobot.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Simulation-Based%20Design%20of%20Humanoid%20Robots">Simulation-Based Design of Humanoid Robots</a></h2></p>
+<p>Develop and use models of humanoid robots to increase understanding of how best to control them and direct them to do useful tasks.</p>
+<p><strong>Impact</strong>: Accelerate the deployment of humanoid robots to real-world tasks including in healthcare, construction, and manufacturing</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Robotics, Control, Cyber-Physical Systems, Deep Learning, Humanoid, Human-Robot Interaction, Machine Learning, Mobile Robots, Modeling and Simulation, Optimization, Reinforcement Learning</p></td>
 </tbody></table>
