@@ -12,19 +12,20 @@ Robots that can be repurposed are predicted to revolutionize many things, rangin
 
 ## Project Description
 
-Project description 
-This project could take on many different forms depending on your interests.  A good starting point is the humanoid robot example already modeled in Simscape™ Multibody™ that is linked from the background material section below. Review this model and also the associated MATLAB® live scripts that design algorithms that make the robot walk. Having done this, it is then suggested that you pick at least one modeling task and one research task as the basis of your project. Some ideas for modeling and research tasks are listed below.
-Modeling tasks:
-•	Add more degrees of freedom e.g. in the hip and in the foot. Currently the robot relies on having a wide flat foot and flat ground surface. Adding another degree of freedom at the foot will help with balance when coupled with suitable control.
-•	Add actuation and sensor models. The model currently assumes ideal actuators that deliver demanded forces and torques. Replacing these with models of real actuators will bring some more real-world realism into the model. You will find examples of electrical, hydraulic, and pneumatic actuation in Simscape™ product examples to help you get started.
-•	Automate definition of the robot from MATLAB to support easy sizing of the robot.
- 
-Research tasks:
-•	Develop algorithms to manage balance as measured by, for example, the minimum force required to make it fall over. You might want to tackle this task before trying any of the motion tasks to gain understanding and/or to provide an inner-loop balance feedback system.
-•	Develop algorithms to perform specific tasks such as walking, stopping, crouching, jumping, reaching/leaning. Consider using conventional approaches and/or AI methods such as reinforcement learning.
-•	Develop motion planning and control algorithms to perform more complex tasks. For example, can you get the robot to hit an incoming cricket ball or baseball? In the context of healthcare, can you develop solutions to one robot helping stabilize a second one that has more limited actuator capability? For construction, can you get two robots to coordinate lifting an I-beam from its two ends? Again, consider using conventional approaches and/or AI methods such as reinforcement learning and deep learning.
-•	Research controller architectures. Humans and animals have a structure of multiple nested feedback loops; would this help with a robot’s balance too? What is the role for pattern generators and feedforward in robotics versus other approaches?
-•	Does including natural mechanical compliance into the actuation system help or hinder control? Under what circumstances? This may be particularly pertinent to maintaining balance. How does compliance help with efficiency of locomotion?
+This project could take on many different forms depending on your interests.  A good starting point is the humanoid robot example already modeled in Simscape Multibody™ that is linked from the background material section below. Review this model and also the associated MATLAB® live scripts that design algorithms that make the robot walk. Having done this, it is then suggested that you pick at least one modeling task and one research task as the basis of your project. Some ideas for modeling and research tasks are listed below.
+
+**Modeling tasks:**
+- Add more degrees of freedom e.g. in the hip and in the foot. Currently the robot relies on having a wide flat foot and flat ground surface. Adding another degree of freedom at the foot will help with balance when coupled with suitable control.
+-	Add actuation and sensor models. The model currently assumes ideal actuators that deliver demanded forces and torques. Replacing these with models of real actuators will bring some more real-world realism into the model. You will find examples of electrical, hydraulic, and pneumatic actuation in Simscape™ product examples to help you get started.
+-	Automate definition of the robot from MATLAB to support easy sizing of the robot.
+  
+  
+ **Research tasks:**
+-	Develop algorithms to manage balance as measured by, for example, the minimum force required to make it fall over. You might want to tackle this task before trying any of the motion tasks to gain understanding and/or to provide an inner-loop balance feedback system.
+-	Develop algorithms to perform specific tasks such as walking, stopping, crouching, jumping, reaching/leaning. Consider using conventional approaches and/or AI methods such as reinforcement learning.
+-	Develop motion planning and control algorithms to perform more complex tasks. For example, can you get the robot to hit an incoming cricket ball or baseball? In the context of healthcare, can you develop solutions to one robot helping stabilize a second one that has more limited actuator capability? For construction, can you get two robots to coordinate lifting an I-beam from its two ends? Again, consider using conventional approaches and/or AI methods such as reinforcement learning and deep learning.
+-	Research controller architectures. Humans and animals have a structure of multiple nested feedback loops; would this help with a robot’s balance too? What is the role for pattern generators and feedforward in robotics versus other approaches?
+-	Does including natural mechanical compliance into the actuation system help or hinder control? Under what circumstances? This may be particularly pertinent to maintaining balance. How does compliance help with efficiency of locomotion?
 
 
 ## Background Material
@@ -32,19 +33,22 @@ Research tasks:
 It is suggested that you start with this humanoid robot example:
 https://www.mathworks.com/help/physmod/sm/ug/humanoid_walker.html
 The example includes two approaches to getting the robot to walk.
+
 For electrical actuation modeling, take a look at:
-•	Motor & Drive modeling: https://www.mathworks.com/help/physmod/sps/ref/motordrivesystemlevel.html 
-•	RC Servo modeling: https://www.mathworks.com/help/physmod/sps/ref/rcservo.html 
-•	DC Motor: https://www.mathworks.com/help/physmod/sps/ref/dcmotor.html 
+-	Motor & Drive modeling: https://www.mathworks.com/help/physmod/sps/ref/motordrivesystemlevel.html 
+-	RC Servo modeling: https://www.mathworks.com/help/physmod/sps/ref/rcservo.html 
+-	DC Motor: https://www.mathworks.com/help/physmod/sps/ref/dcmotor.html 
+
 For hydraulic and pneumatic actuation, take a look at:
-•	Air muscles (McKibben actuation): https://www.mathworks.com/help/physmod/hydro/ug/antagonistic-mcKibben-muscle-actuator.html
-•	Hydraulic actuation: https://www.mathworks.com/help/physmod/hydro/ug/creating-a-simple-model.html 
+-	Air muscles (McKibben actuation): https://www.mathworks.com/help/physmod/hydro/ug/antagonistic-mcKibben-muscle-actuator.html
+-	Hydraulic actuation: https://www.mathworks.com/help/physmod/hydro/ug/creating-a-simple-model.html 
+
 For control and AI (including reinforcement learning) see:
-•	Control Systems Toolbox: https://www.mathworks.com/products/control.html
-•	Reinforcement Learning Toolbox: https://www.mathworks.com/products/reinforcement-learning.html 
-•	Deep Learning Toolbox: https://www.mathworks.com/products/deep-learning.html 
-•	Optimization Toolbox: https://www.mathworks.com/products/optimization.html 
-•	Global Optimization Toolbox: https://www.mathworks.com/products/global-optimization.html
+-	Control Systems Toolbox: https://www.mathworks.com/products/control.html
+-	Reinforcement Learning Toolbox: https://www.mathworks.com/products/reinforcement-learning.html 
+-	Deep Learning Toolbox: https://www.mathworks.com/products/deep-learning.html 
+-	Optimization Toolbox: https://www.mathworks.com/products/optimization.html 
+-	Global Optimization Toolbox: https://www.mathworks.com/products/global-optimization.html
 
 
 ## Impact
@@ -58,7 +62,7 @@ Artificial Intelligence, Robotics, Control, Cyber-Physical Systems, Deep Learnin
 
 ## Project Difficulty
 
-Master's, Bachelor, Doctoral
+Bachelor, Master's, Doctoral
 
 ## Project Number
 
