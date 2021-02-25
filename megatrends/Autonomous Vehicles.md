@@ -20,4 +20,11 @@
 <p>Realistic synthetic sensor data will soon eliminate the need of collecting tons of real data for machine learning based perception algorithms. Accelerate this transition by creating a real-time camera distortion model.</p>
 <p><strong>Impact</strong>: Reduce development efforts of autonomous vehicles and robots.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Autonomous Vehicles, Computer Vision, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/virtualWorld.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/3D%20Virtual%20Test%20Track%20for%20Autonomous%20Driving">3D Virtual Test Track for Autonomous Driving</a></h2></p>
+<p>Design a 3D virtual environment to test the diverse conditions needed to develop an autonomous vehicle. </p>
+<p><strong>Impact</strong>: Contribute to autonomous vehicle development by creating virtual test scenes that can be used with many simulators across multiple vehicle development programs. </p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Modeling and Simulation</p></td>
 </tbody></table>

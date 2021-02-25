@@ -27,7 +27,7 @@ Make the results of your work open and accessible to receive a certificate and e
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 
 ## All projects
-*Updated: February 24, 2021*
+*Updated: February 25, 2021*
 <table>
 <tbody>
 <td><img src="/images/auto.png"  width=500 /></td>
@@ -112,4 +112,11 @@ Make the results of your work open and accessible to receive a certificate and e
 <p>Develop and use models of humanoid robots to increase understanding of how best to control them and direct them to do useful tasks.</p>
 <p><strong>Impact</strong>: Accelerate the deployment of humanoid robots to real-world tasks including in healthcare, construction, and manufacturing</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Robotics, Control, Cyber-Physical Systems, Deep Learning, Humanoid, Human-Robot Interaction, Machine Learning, Mobile Robots, Modeling and Simulation, Optimization, Reinforcement Learning</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/virtualWorld.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/3D%20Virtual%20Test%20Track%20for%20Autonomous%20Driving">3D Virtual Test Track for Autonomous Driving</a></h2></p>
+<p>Design a 3D virtual environment to test the diverse conditions needed to develop an autonomous vehicle. </p>
+<p><strong>Impact</strong>: Contribute to autonomous vehicle development by creating virtual test scenes that can be used with many simulators across multiple vehicle development programs. </p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Modeling and Simulation</p></td>
 </tbody></table>
