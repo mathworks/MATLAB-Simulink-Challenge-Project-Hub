@@ -12,7 +12,7 @@ Autonomous driving will revolutionize transportation and change the way we move 
 
 ## Project Description
 
-Test tracks such as Mcity and K-City are used to test physical prototypes for autonomous vehicles. Virtual test tracks can be used at an earlier stage to explore ideas and test algorithms for autonomous driving. RoadRunner is the leading product for building automated driving scenes. Do a literature search to find the common challenging scenarios for autonomous driving and use RoadRunner to build a test track that has the key elements. Export your work into industry-standard formats such as OpenDRIVE and FBX. 
+Test tracks such as [Mcity](https://en.wikipedia.org/wiki/Mcity) and [K-City](https://www.imnovation-hub.com/digital-transformation/k-cit-test-bed-fo-driverless-cars/) are used to test physical prototypes for autonomous vehicles. Virtual test tracks can be used at an earlier stage to explore ideas and test algorithms for autonomous driving. RoadRunner is the leading product for building automated driving scenes. Do a literature search to find the common challenging scenarios for autonomous driving and use RoadRunner to build a test track that has the key elements. Export your work into industry-standard formats such as OpenDRIVE and FBX. 
 
 Attributes of such a dataset might include: 
 
@@ -45,9 +45,9 @@ Advanced features:
 
 ## Background Material
 
-https://www.mathworks.com/products/roadrunner.html
+- [RoadRunner](https://www.mathworks.com/products/roadrunner.html)
 
-https://www.youtube.com/watch?v=uts6n8go1Q0
+- [K-City: Pilot City for Autonomus Vehicles](https://www.youtube.com/watch?v=uts6n8go1Q0)
 
 ## Impact
 
