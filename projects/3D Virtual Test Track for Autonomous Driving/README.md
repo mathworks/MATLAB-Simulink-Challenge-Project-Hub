@@ -47,7 +47,7 @@ Advanced features:
 
 - [RoadRunner](https://www.mathworks.com/products/roadrunner.html)
 
-- [K-City: Pilot City for Autonomus Vehicles](https://www.youtube.com/watch?v=uts6n8go1Q0)
+- [K-City: Pilot City for Autonomous Vehicles](https://www.youtube.com/watch?v=uts6n8go1Q0)
 
 ## Impact
 
