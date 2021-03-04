@@ -12,7 +12,7 @@
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot%20with%20Simulink">Voice Controlled Robot With Simulink</a></h2></p>
 <p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
 <p><strong>Impact</strong>: Open up the opportunities to create robots that can be an intuitive part of our world. </p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Low-cost Hardware, Human-Robot Interaction</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p></td>
 </tbody>
 <tbody>
 <td><img src="/images/adas-perception.jpg"  width=500 /></td>
@@ -32,6 +32,6 @@
 <td><img src="/images/humanoidRobot.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Simulation-Based%20Design%20of%20Humanoid%20Robots">Simulation-Based Design of Humanoid Robots</a></h2></p>
 <p>Develop and use models of humanoid robots to increase understanding of how best to control them and direct them to do useful tasks.</p>
-<p><strong>Impact</strong>: Accelerate the deployment of humanoid robots to real-world tasks including in healthcare, construction, and manufacturing</p>
+<p><strong>Impact</strong>: Accelerate the deployment of humanoid robots to real-world tasks including in healthcare, construction, and manufacturing.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Robotics, Control, Cyber-Physical Systems, Deep Learning, Humanoid, Human-Robot Interaction, Machine Learning, Mobile Robots, Modeling and Simulation, Optimization, Reinforcement Learning</p></td>
 </tbody></table>

@@ -12,7 +12,7 @@
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot%20with%20Simulink">Voice Controlled Robot With Simulink</a></h2></p>
 <p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
 <p><strong>Impact</strong>: Open up the opportunities to create robots that can be an intuitive part of our world. </p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Low-cost Hardware, Human-Robot Interaction</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p></td>
 </tbody>
 <tbody>
 <td><img src="/images/adas-perception.jpg"  width=500 /></td>

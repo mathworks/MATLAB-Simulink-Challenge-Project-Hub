@@ -27,7 +27,7 @@ Make the results of your work open and accessible to receive a certificate and e
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 
 ## All projects
-*Updated: February 25, 2021*
+*Updated: March 04, 2021*
 <table>
 <tbody>
 <td><img src="/images/auto.png"  width=500 /></td>
@@ -55,7 +55,7 @@ Make the results of your work open and accessible to receive a certificate and e
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot%20with%20Simulink">Voice Controlled Robot With Simulink</a></h2></p>
 <p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
 <p><strong>Impact</strong>: Open up the opportunities to create robots that can be an intuitive part of our world. </p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Low-cost Hardware, Human-Robot Interaction</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p></td>
 </tbody>
 <tbody>
 <td><img src="/images/mimo.png"  width=500 /></td>
@@ -107,6 +107,13 @@ Make the results of your work open and accessible to receive a certificate and e
 <p><strong>Expertise gained</strong>: Renewable Energy, Control, Modeling and Simulation, Optimization</p></td>
 </tbody>
 <tbody>
+<td><img src="/images/SDR.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20MATLAB%20and%20software%20defined%20radio">Build a Wireless Communications Link with MATLAB and Software-Defined Radio</a></h2></p>
+<p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
+<p><strong>Impact</strong>: Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
+<p><strong>Expertise gained</strong>: 5G, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio, Wireless Communication</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/humanoidRobot.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Simulation-Based%20Design%20of%20Humanoid%20Robots">Simulation-Based Design of Humanoid Robots</a></h2></p>
 <p>Develop and use models of humanoid robots to increase understanding of how best to control them and direct them to do useful tasks.</p>
@@ -119,12 +126,4 @@ Make the results of your work open and accessible to receive a certificate and e
 <p>Design a 3D virtual environment to test the diverse conditions needed to develop an autonomous vehicle. </p>
 <p><strong>Impact</strong>: Contribute to autonomous vehicle development by creating virtual test scenes that can be used with many simulators across multiple vehicle development programs. </p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Modeling and Simulation</p></td>
-</tbody>
-<tbody>
-<td><img src="/images/SDR.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20MATLAB%20and%20software%20defined%20radio">Build a Wireless Communications Link with MATLAB and Software-Defined Radio</a></h2></p>
-<p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
-<p><strong>Impact</strong>: Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
-<p><strong>Expertise gained</strong>: 5G, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio, Wireless Communication</p></td>
-</tbody>
-</table>
+</tbody></table>
