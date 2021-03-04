@@ -30,25 +30,24 @@ This project could take on many different forms depending on your interests.  A 
 
 ## Background Material
 
-It is suggested that you start with this humanoid robot example:
-https://www.mathworks.com/help/physmod/sm/ug/humanoid_walker.html
+It is suggested that you start with this [humanoid robot example](https://www.mathworks.com/help/physmod/sm/ug/humanoid_walker.html).
 The example includes two approaches to getting the robot to walk.
 
 For electrical actuation modeling, take a look at:
--	Motor & Drive modeling: https://www.mathworks.com/help/physmod/sps/ref/motordrivesystemlevel.html 
--	RC Servo modeling: https://www.mathworks.com/help/physmod/sps/ref/rcservo.html 
--	DC Motor: https://www.mathworks.com/help/physmod/sps/ref/dcmotor.html 
+-	[Motor & Drive modeling](https://www.mathworks.com/help/physmod/sps/ref/motordrivesystemlevel.html) 
+-	[RC Servo modeling](https://www.mathworks.com/help/physmod/sps/ref/rcservo.html) 
+-	[DC Motor](https://www.mathworks.com/help/physmod/sps/ref/dcmotor.html) 
 
 For hydraulic and pneumatic actuation, take a look at:
--	Air muscles (McKibben actuation): https://www.mathworks.com/help/physmod/hydro/ug/antagonistic-mcKibben-muscle-actuator.html
--	Hydraulic actuation: https://www.mathworks.com/help/physmod/hydro/ug/creating-a-simple-model.html 
+-	[Air muscles (McKibben actuation)](https://www.mathworks.com/help/physmod/hydro/ug/antagonistic-mcKibben-muscle-actuator.html)
+-	[Hydraulic actuation](https://www.mathworks.com/help/physmod/hydro/ug/creating-a-simple-model.html) 
 
 For control and AI (including reinforcement learning) see:
--	Control Systems Toolbox: https://www.mathworks.com/products/control.html
--	Reinforcement Learning Toolbox: https://www.mathworks.com/products/reinforcement-learning.html 
--	Deep Learning Toolbox: https://www.mathworks.com/products/deep-learning.html 
--	Optimization Toolbox: https://www.mathworks.com/products/optimization.html 
--	Global Optimization Toolbox: https://www.mathworks.com/products/global-optimization.html
+-	[Control Systems Toolbox](https://www.mathworks.com/products/control.html)
+-	[Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html)
+-	[Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)
+-	[Optimization Toolbox](https://www.mathworks.com/products/optimization.html)
+-	[Global Optimization Toolbox](https://www.mathworks.com/products/global-optimization.html)
 
 
 ## Impact
