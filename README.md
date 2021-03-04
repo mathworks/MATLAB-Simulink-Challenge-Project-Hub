@@ -119,4 +119,11 @@ Make the results of your work open and accessible to receive a certificate and e
 <p>Design a 3D virtual environment to test the diverse conditions needed to develop an autonomous vehicle. </p>
 <p><strong>Impact</strong>: Contribute to autonomous vehicle development by creating virtual test scenes that can be used with many simulators across multiple vehicle development programs. </p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Modeling and Simulation</p></td>
-</tbody></table>
+</tbody>
+<td><img src="/images/SDR.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/3D%20Virtual%20Test%20Track%20for%20Autonomous%20Driving">Build a Wireless Communications Link with MATLAB and Software-Defined Radio</a></h2></p>
+<p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
+<p><strong>Impact</strong>: Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
+<p><strong>Expertise gained</strong>: 5G, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio, Wireless Communication</p></td>
+</tbody>
+</table>
