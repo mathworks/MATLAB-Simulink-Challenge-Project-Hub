@@ -43,7 +43,7 @@ Suggested steps:
 - [QPSK Transmitter and Receiver - MATLAB](https://www.mathworks.com/help/comm/ug/qpsk-transmitter-and-receiver.html)
 - [QPSK Transmitter and Receiver - Simulink](https://www.mathworks.com/help/comm/ug/qpsk-transmitter-and-receiver-in-simulink.html)
 - [QPSK Transmitter with USRP Hardware - MATLAB](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-transmitter-with-usrp-r-hardware.html)
-- [QPSK Receiver with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-receiver-with-usrp-r-hardware.html)
+- [QPSK Receiver with USRP Hardware - MATLAB](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-receiver-with-usrp-r-hardware.html)
 - [QPSK Transmitter with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-transmitter-with-usrp-r-hardware-1.html)
 - [QPSK Receiver with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-receiver-with-usrp-r-hardware-1.html)
 
