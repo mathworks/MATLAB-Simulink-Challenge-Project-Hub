@@ -122,7 +122,7 @@ Make the results of your work open and accessible to receive a certificate and e
 </tbody>
 <tbody>
 <td><img src="/images/SDR.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/3D%20Virtual%20Test%20Track%20for%20Autonomous%20Driving">Build a Wireless Communications Link with MATLAB and Software-Defined Radio</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20MATLAB%20and%20software%20defined%20radio">Build a Wireless Communications Link with MATLAB and Software-Defined Radio</a></h2></p>
 <p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
 <p><strong>Impact</strong>: Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
 <p><strong>Expertise gained</strong>: 5G, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio, Wireless Communication</p></td>
