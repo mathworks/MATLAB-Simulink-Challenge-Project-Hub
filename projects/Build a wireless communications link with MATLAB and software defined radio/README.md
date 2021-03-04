@@ -18,7 +18,7 @@ of wireless data transmission.
 ## Project Description
 
 Using MATLAB or Simulink as a simulation platform, build a unidirectional wireless communications link. Transmit and receive over-the-air (OTA) signals with a suitable
-software-defined radio such as a USRP or ADALM-Pluto. Use Communications Toolbox™ capabilities to implement modulation, error control coding, and synchronization.
+software-defined radio such as a USRP or ADALM-Pluto. Use [Communications Toolbox™](https://www.mathworks.com/products/communications.html) capabilities to implement modulation, error control coding, and synchronization.
 Choose your design criterion: maximize transfer speed, maximize reliability, or maximize confidentiality/security, or you can pick your own optimization criteria. 
 
 Suggested steps:
@@ -37,23 +37,15 @@ Suggested steps:
 
 7.  Continue from there to optimize your design for selected criteria such as throughput, or reliability, or security, or your own design criterion.
 
-
 ## Background Material
 
 - [Software-Defined Radio (SDR)](https://www.mathworks.com/discovery/sdr.html)
-	
 - [QPSK Transmitter and Receiver - MATLAB](https://www.mathworks.com/help/comm/ug/qpsk-transmitter-and-receiver.html)
-
 - [QPSK Transmitter and Receiver - Simulink](https://www.mathworks.com/help/comm/ug/qpsk-transmitter-and-receiver-in-simulink.html)
-
 - [QPSK Transmitter with USRP Hardware - MATLAB](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-transmitter-with-usrp-r-hardware.html)
-
 - [QPSK Receiver with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-receiver-with-usrp-r-hardware.html)
-
 - [QPSK Transmitter with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-transmitter-with-usrp-r-hardware-1.html)
-
 - [QPSK Receiver with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-receiver-with-usrp-r-hardware-1.html)
-
 
 ## Impact
 
