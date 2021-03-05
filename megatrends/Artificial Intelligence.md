@@ -34,4 +34,11 @@
 <p>Develop and use models of humanoid robots to increase understanding of how best to control them and direct them to do useful tasks.</p>
 <p><strong>Impact</strong>: Accelerate the deployment of humanoid robots to real-world tasks including in healthcare, construction, and manufacturing.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Robotics, Control, Cyber-Physical Systems, Deep Learning, Humanoid, Human-Robot Interaction, Machine Learning, Mobile Robots, Modeling and Simulation, Optimization, Reinforcement Learning</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/utilities-energy-image-processing-and-deep-le.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection">Deep Learning for UAV Infrastructure Inspection</a></h2></p>
+<p>Automate the process of infrastructure inspection using unmanned aerial vehicles and deep learning.</p>
+<p><strong>Impact</strong>: Enhance safety and speed of infrastructure inspection across a wide range of industries.</p>
+<p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, UAV, SLAM, Deep Learning</p></td>
 </tbody></table>

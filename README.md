@@ -27,7 +27,7 @@ Make the results of your work open and accessible to receive a certificate and e
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 
 ## All projects
-*Updated: March 04, 2021*
+*Updated: March 05, 2021*
 <table>
 <tbody>
 <td><img src="/images/auto.png"  width=500 /></td>
@@ -126,4 +126,11 @@ Make the results of your work open and accessible to receive a certificate and e
 <p>Design a 3D virtual environment to test the diverse conditions needed to develop an autonomous vehicle. </p>
 <p><strong>Impact</strong>: Contribute to autonomous vehicle development by creating virtual test scenes that can be used with many simulators across multiple vehicle development programs. </p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/utilities-energy-image-processing-and-deep-le.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection">Deep Learning for UAV Infrastructure Inspection</a></h2></p>
+<p>Automate the process of infrastructure inspection using unmanned aerial vehicles and deep learning.</p>
+<p><strong>Impact</strong>: Enhance safety and speed of infrastructure inspection across a wide range of industries.</p>
+<p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, UAV, SLAM, Deep Learning</p></td>
 </tbody></table>

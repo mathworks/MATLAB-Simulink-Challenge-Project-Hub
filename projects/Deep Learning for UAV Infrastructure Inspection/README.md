@@ -14,7 +14,7 @@ Detecting infrastructure faults in images captured from the drone is still mostl
 
 ## Project Description
 
-Work with [UAV Toolbox](https://www.mathworks.com/products/uav.html), [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html?s_tid=srchtitle), and [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html) to train a deep neural network to recognize infrastructure faults. Use simulation to rapidly train your network. Then use transfer learning to enhance detection performance on real-world camera data.
+Work with [UAV Toolbox](https://www.mathworks.com/products/uav.html), [Deep Learning Toolbox™](https://www.mathworks.com/products/deep-learning.html?s_tid=srchtitle), and [Computer Vision Toolbox™](https://www.mathworks.com/products/computer-vision.html) to train a deep neural network to recognize infrastructure faults. Use simulation to rapidly train your network. Then use transfer learning to enhance detection performance on real-world camera data.
 
 **Suggested Steps**:
 1. Pick an application area and what kind of fault you want to detect, e.g., cracks in bridges, leaks in oil pipelines, etc.
@@ -26,8 +26,8 @@ Work with [UAV Toolbox](https://www.mathworks.com/products/uav.html), [Deep Lear
 
 **Optional Stretch Goals**:
 * Go from simulated to real images. Use online data sets for infrastructure faults or collect data from a physical UAV. This dataset can be much smaller than the simulated dataset. Use [transfer learning](https://www.mathworks.com/help/deeplearning/gs/get-started-with-transfer-learning.html) to ensure your network works well on real-world data.
-* Deploy your trained network to a physical drone and run it during the UAV flight. For example, you can deploy the network to an NVIDIA Jetson with MathWorks tools. See the [GPU Coder Support Package for NVIDIA GPUs](https://www.mathworks.com/matlabcentral/fileexchange/68644-gpu-coder-support-package-for-nvidia-gpus?s_tid=srchtitle). 
-* Extend your network to also use data from other sensors, e.g., lidar, to increase the recognition performance. See the examples in [Lidar Toolbox](https://www.mathworks.com/products/lidar.html).
+* Deploy your trained network to a physical drone and run it during the UAV flight. For example, you can deploy the network to an NVIDIA Jetson with MathWorks tools. See the [GPU Coder™ Support Package for NVIDIA GPUs](https://www.mathworks.com/matlabcentral/fileexchange/68644-gpu-coder-support-package-for-nvidia-gpus?s_tid=srchtitle). 
+* Extend your network to also use data from other sensors, e.g., lidar, to increase the recognition performance. See the examples in [Lidar Toolbox™](https://www.mathworks.com/products/lidar.html).
 
 
 ## Background Material
