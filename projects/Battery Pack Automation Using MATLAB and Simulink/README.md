@@ -2,7 +2,7 @@
 
 <table>
 <td><img src="/images/battery.jpg"  width=400 /></td>
-<td><p><h1>Battery Pack Automation Using MATLAB and Simulink</h1></p>
+<td><p><h1>Battery Pack Design Automation</h1></p>
 <p>Reduce the effort required to properly develop a battery pack and contribute to the global transition to zero-emission energy source.</p>
 </table>
 
