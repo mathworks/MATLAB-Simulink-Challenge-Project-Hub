@@ -2,7 +2,7 @@
 
 <table>
 <td><img src="/images/SDR.png"  width=500 /></td>
-<td><p><h1>Build a Wireless Communications Link with MATLAB and Software-Defined Radio</h1></p>
+<td><p><h1>Build a Wireless Communications Link with Software-Defined Radio</h1></p>
 <p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
 </table>
 
