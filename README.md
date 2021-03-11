@@ -66,7 +66,7 @@ Make the results of your work open and accessible to receive a certificate and e
 </tbody>
 <tbody>
 <td><img src="/images/uav.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Rotor-flying%20Manipulator%20Simulation">Rotor-flying Manipulator Simulation</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Rotor-Flying%20Manipulator%20Simulation">Rotor-Flying Manipulator Simulation</a></h2></p>
 <p>Rotor-flying manipulation will change the future of aerial transportation and manipulation in construction and hazardous environments. Take robotics manipulation to the next level with an autonomous UAV.</p>
 <p><strong>Impact</strong>: Transform the field of robot manipulation.</p>
 <p><strong>Expertise gained</strong>: Drones, Robotics, Manipulators, Modeling and Simulation, UAV</p></td>
@@ -108,7 +108,7 @@ Make the results of your work open and accessible to receive a certificate and e
 </tbody>
 <tbody>
 <td><img src="/images/SDR.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20MATLAB%20and%20software%20defined%20radio">Build a Wireless Communications Link with Software-Defined Radio</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20software%20defined%20radio">Build a Wireless Communications Link with Software-Defined Radio</a></h2></p>
 <p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
 <p><strong>Impact</strong>: Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
 <p><strong>Expertise gained</strong>: 5G, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio, Wireless Communication</p></td>
