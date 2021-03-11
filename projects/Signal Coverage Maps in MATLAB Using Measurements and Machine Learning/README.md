@@ -2,7 +2,7 @@
 
 <table>
 <td><img src="/images/wireless.jpg"  width=400 /></td>
-<td><p><h1>Signal Coverage Maps in MATLAB Using Measurements and Machine Learning</h1></p>
+<td><p><h1>Signal Coverage Maps Using Measurements and Machine Learning</h1></p>
 <p>Reduce the cost of 5G and IoT network deployment by generating coverage maps from limited measurements.</p>
 </table>
 
