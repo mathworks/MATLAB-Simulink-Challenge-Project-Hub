@@ -2,7 +2,7 @@
 <table>
 <tbody>
 <td><img src="/images/uav.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Rotor-flying%20Manipulation%20Simulation%20Using%20MATLAB%20and%20Simulink">Rotor-flying Manipulation Simulation Using MATLAB and Simulink</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Rotor-flying%20Manipulator%20Simulation">Rotor-flying Manipulator Simulation</a></h2></p>
 <p>Rotor-flying manipulation will change the future of aerial transportation and manipulation in construction and hazardous environments. Take robotics manipulation to the next level with an autonomous UAV.</p>
 <p><strong>Impact</strong>: Transform the field of robot manipulation.</p>
 <p><strong>Expertise gained</strong>: Drones, Robotics, Manipulators, Modeling and Simulation, UAV</p></td>

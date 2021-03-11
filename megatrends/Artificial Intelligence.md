@@ -9,7 +9,7 @@
 </tbody>
 <tbody>
 <td><img src="/images/raspbpi.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot%20with%20Simulink">Voice Controlled Robot With Simulink</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot">Voice Controlled Robot</a></h2></p>
 <p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
 <p><strong>Impact</strong>: Open up the opportunities to create robots that can be an intuitive part of our world. </p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p></td>
@@ -23,7 +23,7 @@
 </tbody>
 <tbody>
 <td><img src="/images/wireless.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Coverage%20Maps%20in%20MATLAB%20Using%20Measurements%20and%20Machine%20Learning">Signal Coverage Maps in MATLAB Using Measurements and Machine Learning</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Coverage%20Maps%20Using%20Measurements%20and%20Machine%20Learning">Signal Coverage Maps Using Measurements and Machine Learning</a></h2></p>
 <p>Reduce the cost of 5G and IoT network deployment by generating coverage maps from limited measurements.</p>
 <p><strong>Impact</strong>: Contribute to the evolution and deployment of new wireless communications systems.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, 5G, Machine Learning, Wireless Communication</p></td>
