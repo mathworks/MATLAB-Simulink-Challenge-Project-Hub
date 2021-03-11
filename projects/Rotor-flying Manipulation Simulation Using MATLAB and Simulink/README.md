@@ -2,7 +2,7 @@
 
 <table>
 <td><img src="/images/uav.png"  width=400 /></td>
-<td><p><h1>Rotor-flying Manipulation Simulation Using MATLAB and Simulink</h1></p>
+<td><p><h1>Rotor-flying Manipulator Simulation</h1></p>
 <p>Rotor-flying manipulation will change the future of aerial transportation and manipulation in construction and hazardous environments. Take robotics manipulation to the next level with an autonomous UAV</p>
 </table>
 
