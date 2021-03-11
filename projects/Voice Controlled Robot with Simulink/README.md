@@ -2,7 +2,7 @@
 
 <table>
 <td><img src="/images/raspbpi.png"  width=400 /></td>
-<td><p><h1>Voice Controlled Robot with Simulink</h1></p>
+<td><p><h1>Voice Controlled Robot</h1></p>
 <p>Smart devices and robots are nowadays part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market.</p>
 </table>
 
