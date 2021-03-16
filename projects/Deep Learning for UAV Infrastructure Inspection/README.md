@@ -24,7 +24,7 @@ Work with [UAV Toolbox](https://www.mathworks.com/products/uav.html), [Deep Lear
 1. Use Deep Learning Toolbox and Computer Vision Toolbox to train a deep learning network to detect the infrastructure fault.
 1. Verify in simulated test scenarios that your trained network can detect faults. Calculate the precision and efficiency of your network. 
 
-**Optional Stretch Goals**:
+**Advanced project work**:
 * Go from simulated to real images. Use online data sets for infrastructure faults or collect data from a physical UAV. This dataset can be much smaller than the simulated dataset. Use [transfer learning](https://www.mathworks.com/help/deeplearning/gs/get-started-with-transfer-learning.html) to ensure your network works well on real-world data.
 * Deploy your trained network to a physical drone and run it during the UAV flight. For example, you can deploy the network to an NVIDIA Jetson with MathWorks tools. See the [GPU Coder™ Support Package for NVIDIA GPUs](https://www.mathworks.com/matlabcentral/fileexchange/68644-gpu-coder-support-package-for-nvidia-gpus?s_tid=srchtitle). 
 * Extend your network to also use data from other sensors, e.g., lidar, to increase the recognition performance. See the examples in [Lidar Toolbox™](https://www.mathworks.com/products/lidar.html).
