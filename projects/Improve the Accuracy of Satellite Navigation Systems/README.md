@@ -37,7 +37,8 @@ Suggested steps:
 -	Form the navigation message as shown in Fig 1 and pass it through 64-array LDPC encoder and perform BPSK modulation using BPSK modulator on the encoded data and pass through AWGN channel.  
 -	Run a bit error rate (BER) simulation to benchmark the performance with standard provided results by replacing LDPC encoder and decoder functions in the [Communications Toolbox example](https://www.mathworks.com/help/comm/gs/accelerating-ber-simulations-using-the-parallel-computing-toolbox.html) with 64-ary LDPC encoder and decoder. 
 
-Advanced project work: 
+Advanced project work:
+
 Profile the MATLAB code using MATLAB profiler to improve the speed of execution by comparing it with that of binary LDPC code from Communications Toolbox.
 Implement M-ary LDPC encoder and decoder to support other message lengths defined in Beidou standard.
 
