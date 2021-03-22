@@ -34,7 +34,7 @@ Suggested steps:
 -	Implement 64-ary LDPC encoder in MATLAB following the steps given in Annex [1] using GF arithmetic from Communications Toolbox.
 -	Test this encoder data using the reference values provided in [1].
 -	Implement a corresponding 64-ary LDPC decoder following the steps given in Annex [1].
--	Form the navigation message as shown in Fig 1 and pass it through 64-array LDPC encoder and perform BPSK modulation using BPSK modulator on the encoded data and pass through AWGN channel.  
+-	Form the navigation message as shown in Figure 1 and pass it through 64-array LDPC encoder and perform BPSK modulation using BPSK modulator on the encoded data and pass through AWGN channel.  
 -	Run a bit error rate (BER) simulation to benchmark the performance with standard provided results by replacing LDPC encoder and decoder functions in the [Communications Toolbox example](https://www.mathworks.com/help/comm/gs/accelerating-ber-simulations-using-the-parallel-computing-toolbox.html) with 64-ary LDPC encoder and decoder. 
 
 Advanced project work:
