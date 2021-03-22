@@ -20,24 +20,22 @@ The basic navigation frame used in Beidou is as shown in the figure below.
 
 | ![navigationMessage](navigationMessage.png) | 
 |:--:| 
-| *Figure1: Navigation Message* |
+| ***Figure1**: Navigation Message* |
 
-Each frame before error correction encoding has a length of 288 bits, containing PRN (6 bits), Message Type (Mestype, 6 bits), Seconds Of Week (SOW, 18 bits), message data (234 bits), and CRC check bits (24 bits).
-64-ary LDPC(96, 48) encoding is applied on the navigation message and the resultant encoded frame length becomes 576 bits or 96 codewords (6-bit). 
-The LDPC check matrix as described in [1], is a sparse matrix Ｈ<sub>48,96</sub> of 48 rows and 96 columns defined in GF(2<sup>6</sup>) domain with the primitive polynomial of p(x) = 1 + x + x<sup>6</sup>. The encoded data is BPSK modulated and 24 preamble symbols are prepended to form the transmitted frame.
+Each frame before error correction encoding has a length of 288 bits, containing PRN (6 bits), Message Type (Mestype, 6 bits), Seconds Of Week (SOW, 18 bits), message data (234 bits), and CRC check bits (24 bits). 64-ary LDPC(96, 48) encoding is applied on the navigation message and the resultant encoded frame length becomes 576 bits or 96 codewords (6-bit). The LDPC check matrix as described in [1], is a sparse matrix Ｈ<sub>48,96</sub> of 48 rows and 96 columns defined in GF(2<sup>6</sup>) domain with the primitive polynomial being p(x) = 1 + x + x<sup>6</sup>. The encoded data is BPSK modulated and 24 preamble symbols are prepended to form the transmitted frame.
 
 | ![transmittedMessage](transmittedMessage.png) | 
 |:--:| 
-| *Figure2: Transmitted message symbols* |
+| ***Figure2**: Transmitted message symbols* |
 
 At the receiver, assuming the perfect time and frequency synchronization, demodulated symbols are passed through 64-ary LDPC decoder using extended min-sum algorithm [1], implemented in GF(2<sup>6</sup>) domain to extract the 48 codewords (288 bits) of Navigation message. 
 
 Suggested steps:
-•	Implement 64-ary LDPC encoder in MATLAB following the steps given in Annex [1] using GF arithmetic from Communications Toolbox 
-•	Test this encoder data using the reference values provided in [1]
-•	Implement a corresponding 64-ary LDPC decoder following the steps given in Annex [1]
-•	Form the navigation message as shown in Fig 1 and pass it through 64-array LDPC encoder and perform BPSK modulation using BPSK modulator on the encoded data and pass through AWGN channel .  
-•	Run a bit error rate (BER) simulation to benchmark the performance with standard provided results by replacing LDPC encoder and decoder functions in the [Communications Toolbox example](https://www.mathworks.com/help/comm/gs/accelerating-ber-simulations-using-the-parallel-computing-toolbox.html) with 64-ary LDPC encoder and decoder. 
+-	Implement 64-ary LDPC encoder in MATLAB following the steps given in Annex [1] using GF arithmetic from Communications Toolbox.
+-	Test this encoder data using the reference values provided in [1].
+-	Implement a corresponding 64-ary LDPC decoder following the steps given in Annex [1].
+-	Form the navigation message as shown in Fig 1 and pass it through 64-array LDPC encoder and perform BPSK modulation using BPSK modulator on the encoded data and pass through AWGN channel.  
+-	Run a bit error rate (BER) simulation to benchmark the performance with standard provided results by replacing LDPC encoder and decoder functions in the [Communications Toolbox example](https://www.mathworks.com/help/comm/gs/accelerating-ber-simulations-using-the-parallel-computing-toolbox.html) with 64-ary LDPC encoder and decoder. 
 
 Advanced project work: 
 Profile the MATLAB code using MATLAB profiler to improve the speed of execution by comparing it with that of binary LDPC code from Communications Toolbox.
@@ -55,6 +53,7 @@ Implement M-ary LDPC encoder and decoder to support other message lengths define
 Suggested readings:
 
 [1] [BeiDou Navigation Satellite System Signal In Space Interface Control, Aug 2017 (Sections 6.2.2.2, 6.2.2.3, 6.2.2.4, and Annex)](http://en.beidou.gov.cn/SYSTEMS/ICD/201806/P020180608522414961797.pdf)
+
 [2] Lin, S., & Costello, D. J. (1983). Error control coding: Fundamentals and applications. Englewood Cliffs, N.J: Prentice-Hall. 
 
 
