@@ -27,7 +27,7 @@ Make the results of your work open and accessible to receive a certificate and e
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 
 ## All projects
-*Updated: March 11, 2021*
+*Updated: March 22, 2021*
 <table>
 <tbody>
 <td><img src="/images/auto.png"  width=500 /></td>
@@ -108,7 +108,7 @@ Make the results of your work open and accessible to receive a certificate and e
 </tbody>
 <tbody>
 <td><img src="/images/SDR.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20software%20defined%20radio">Build a Wireless Communications Link with Software-Defined Radio</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20MATLAB%20and%20software%20defined%20radio">Build a Wireless Communications Link with Software-Defined Radio</a></h2></p>
 <p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
 <p><strong>Impact</strong>: Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
 <p><strong>Expertise gained</strong>: 5G, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio, Wireless Communication</p></td>
@@ -133,4 +133,11 @@ Make the results of your work open and accessible to receive a certificate and e
 <p>Automate the process of infrastructure inspection using unmanned aerial vehicles and deep learning.</p>
 <p><strong>Impact</strong>: Enhance safety and speed of infrastructure inspection across a wide range of industries.</p>
 <p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, UAV, SLAM, Deep Learning</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/SatNav.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Improve%20the%20Accuracy%20of%20Satellite%20Navigation%20Systems">Improve the Accuracy of Satellite Navigation Systems</a></h2></p>
+<p>Improve the accuracy of satellite navigation systems by using non-binary LDPC codes</p>
+<p><strong>Impact</strong>: Accelerate the development of modern satellite navigation receivers </p>
+<p><strong>Expertise gained</strong>: 5G, GNSS, Wireless Communication</p></td>
 </tbody></table>
