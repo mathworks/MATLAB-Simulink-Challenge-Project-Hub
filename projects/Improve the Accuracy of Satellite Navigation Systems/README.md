@@ -64,7 +64,7 @@ Accelerate the development of modern satellite navigation receivers
 
 ## Expertise Gained 
 
-Satellite Communications and navigation systems, Wireless Communication, M-ary LDPC code
+5G, GNSS, Wireless Communication
 
 
 ## Project Difficulty
