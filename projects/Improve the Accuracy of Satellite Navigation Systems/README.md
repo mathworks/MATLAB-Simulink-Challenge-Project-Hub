@@ -8,7 +8,7 @@
 
 ## Motivation
 
-In order to improve the accuracy of satellite navigation messages received at low Signal to Noise Ratio (SNR), non-binary low density parity check (LDPC) codes have been proposed in global satellite navigation systems.
+In order to improve the accuracy of satellite navigation messages received at low Signal to Noise Ratio (SNR), non-binary low density parity check (LDPC) codes have been proposed in global navigation satellite systems.
 The LDPC codes are capacity approaching codes and now supersede Turbo codes. Satellite navigation systems use smaller navigational messages and regular LDPC codes used in a general wireless communication system,
 are not useful as they need longer message lengths. The navigation standards such as [Beidou](https://en.wikipedia.org/wiki/BeiDou) use smaller length non-binary or M-ary LDPC codes for forward error correction in navigation messages with M-bit code words. The structure of such LDPC codes is different from the regular LDPC codes that we use in other wireless standards and, encoder and decoding algorithms designed for them do not work. 
 
