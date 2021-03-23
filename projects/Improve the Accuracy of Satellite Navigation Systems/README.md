@@ -14,7 +14,7 @@ are not useful as they need longer message lengths. The navigation standards suc
 
 ## Project Description
 
-Use the [Communications Toolbox™](https://www.mathworks.com/help/comm/) to implement the non-binary LDPC encoder and decoder functions and benchmark the bit error rate (BER) performance in Additive White Gaussian Noise (AWGN) channel.
+Use [Communications Toolbox™](https://www.mathworks.com/help/comm/) to implement the non-binary LDPC encoder and decoder functions and benchmark the bit error rate (BER) performance in Additive White Gaussian Noise (AWGN) channel.
 Implement an LDPC decoder to process the soft Log Likelihood Ratios (LLR) values at the receiver using iterative algorithms. 
 The basic navigation frame used in Beidou is as shown in the figure below.
 
@@ -46,7 +46,7 @@ Implement M-ary LDPC encoder and decoder to support other message lengths define
 
 ## Background Material
 
-- Binary LDPC [encoder](https://www.mathworks.com/help/comm/ref/comm.ldpcencoder-system-object.html) and [decoder](https://www.mathworks.com/help/comm/ref/comm.ldpcdecoder-system-object.html) in the [Communications Toolbox](https://www.mathworks.com/help/comm/)
+- Binary LDPC [encoder](https://www.mathworks.com/help/comm/ref/comm.ldpcencoder-system-object.html) and [decoder](https://www.mathworks.com/help/comm/ref/comm.ldpcdecoder-system-object.html) in [Communications Toolbox](https://www.mathworks.com/help/comm/)
 - [Performance evaluation of binary LDPC coder in AWGN channel in Communications Toolbox](https://www.mathworks.com/help/comm/ref/comm.ldpcdecoder-system-object.html#mw_201f2d2d-1059-4774-8e70-4f1a9e0a7cdf)
 - [Accelerating BER Simulations Using the Parallel Computing Toolbox](https://www.mathworks.com/help/comm/gs/accelerating-ber-simulations-using-the-parallel-computing-toolbox.html)
 - [Profile Your Code to Improve Performance](https://www.mathworks.com/help/matlab/matlab_prog/profiling-for-improving-performance.html)
