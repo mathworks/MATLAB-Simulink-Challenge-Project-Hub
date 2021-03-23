@@ -60,7 +60,7 @@ Suggested readings:
 
 ## Impact
 
-Accelerate the development of modern satellite navigation receivers 
+Accelerate the development of modern satellite navigation receivers.
 
 ## Expertise Gained 
 
