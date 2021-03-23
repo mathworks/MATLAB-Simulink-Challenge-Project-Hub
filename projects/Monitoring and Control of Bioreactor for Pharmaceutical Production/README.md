@@ -55,7 +55,7 @@ Improve quality and consistency of pharmaceutical products and contribute to tra
 
 ## Expertise Gained 
 
-Big Data, Industry 4.0, Control, IoT, Modeling and Simulation, Optimization
+Big Data, Industry 4.0, Control, IoT, Modeling and Simulation, Optimization, Machine Learning
 
 
 ## Project Difficulty
