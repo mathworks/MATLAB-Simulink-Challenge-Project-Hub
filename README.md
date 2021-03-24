@@ -3,12 +3,12 @@
 **Contribute to the progress of engineering and science by solving key
 industry challenges!**
 
-Are you looking for a design project with real industry relevance? 
-MathWorks has compiled a list of inspiring projects for your capstone, 
+Are you looking for a design or research project with real industry relevance? 
+This is a list of inspiring projects based on industry trends for your capstone, 
 senior design project, or final year assignment.
 These projects help you learn about technology trends while becoming an
 important and valued contributor to the advancement of technical computing
-and Model-Based Design. Even more, you gain official recognition 
+and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition 
 for your problem-solving skills from technology leaders at MathWorks. 
 
 ## How to participate
