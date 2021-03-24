@@ -76,7 +76,7 @@ Suggested readings:
 
 <a name ="alamdari"></a>[7] N. Alamdari, A. Azarang, N. Kehtarnavaz, “Improving deep speech denoising by Noisy2Noisy signal mapping”, Applied Acoustics, Volume 172, 2021. (arXiv:1904.12069) 
 
-<a name="rethage"></a>[8] D. Rethage, J. Pons, X, Serra, “A Wavenet for Speech Denoising", ICASSP 2018. (arXiv:1706.07162) 
+<a id="rethage"></a>[8] D. Rethage, J. Pons, X, Serra, “A Wavenet for Speech Denoising", ICASSP 2018. (arXiv:1706.07162) 
 
 ## Impact
 
