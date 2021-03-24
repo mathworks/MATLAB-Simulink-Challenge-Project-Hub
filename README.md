@@ -13,6 +13,7 @@ for your problem-solving skills from technology leaders at MathWorks.
 
 ## How to participate
 Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to register your intent to complete one of these projects and learn about these rewards.
+
 If you are faculty and interested in further information, to provide feedback, or to nominate a new project, contact us [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UNU8xUzJQUU0xQ0FBQkNFSjkwTE5aQ0o1Ry4u).
 
 ## Projects by technology trends 
