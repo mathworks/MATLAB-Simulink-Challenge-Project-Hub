@@ -34,7 +34,7 @@ time-frequency transformation). In that case, you can use Audio Toolbox and [Sig
 
 Project variations: 
 
-1. Use an end-to-end noise suppression system. Many noise suppression techniques in the literature transform the audio time-series into a time-frequency representation (such as a magnitude spectrogram, or a short-time Fourier transform) before feeding it to the network ([[3]](#Xiang), [[4]](#Nils), [[5]](#Choi), [[6]](#Isik)). However, end-to-end noise suppression systems have also been proposed recently, where the audio signal is directly fed to the system ([[7]](#Alamdari), [[8]](#Rethage)). 
+1. Use an end-to-end noise suppression system. Many noise suppression techniques in the literature transform the audio time-series into a time-frequency representation (such as a magnitude spectrogram, or a short-time Fourier transform) before feeding it to the network ([[3]](#Xiang), [[4]](#nils), [[5]](#Choi), [[6]](#Isik)). However, end-to-end noise suppression systems have also been proposed recently, where the audio signal is directly fed to the system ([[7]](#Alamdari), [[8]](#Rethage)). 
 
 2. Use a self-supervised technique where you train only on noisy data (see [[7]](#Alamdari) for an example), instead of training your network using clean/noisy speech pairs.  
 
@@ -68,7 +68,7 @@ Suggested readings:
 
 <a name="Xiang"></a>[3] Hao Xiang, Su Xiangdong, Horaud Radu, Li Xiaofei, "FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement", ICASSP 2021. (arXiv:2010.15508) 
 
-<a name="Nils"></a>[4] Nils L. Westhausen, Bernd T. Meyer, "Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression", INTERSPEECH 2020. (arXiv:2005.07551) 
+<a name="nils"></a>[4] Nils L. Westhausen, Bernd T. Meyer, "Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression", INTERSPEECH 2020. (arXiv:2005.07551) 
 
 <a name="Choi"></a>[5] Hyeong-Seok Choi, Hoon Heo, Jie Hwan Lee, Kyogu Lee, "Phase-aware Single-stage Speech Denoising and Dereverberation with U-Net", INTERSPEECH 2020. (arXiv:2006.00687) 
 
