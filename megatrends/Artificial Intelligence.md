@@ -41,4 +41,11 @@
 <p>Automate the process of infrastructure inspection using unmanned aerial vehicles and deep learning.</p>
 <p><strong>Impact</strong>: Enhance safety and speed of infrastructure inspection across a wide range of industries.</p>
 <p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, UAV, SLAM, Deep Learning</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/HearingAid.PNG"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Speech%20Background%20Noise%20Suppression%20with%20Deep%20Learning">Speech Background Noise Suppression with Deep Learning</a></h2></p>
+<p>Develop a deep learning neural network for audio background noise suppression.</p>
+<p><strong>Impact</strong>: Advance hearing aid technology through research in speech enhancement and noise suppression and improve the quality of life of persons with a hearing impairment.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Neural Networks, Signal Processing</p></td>
 </tbody></table>

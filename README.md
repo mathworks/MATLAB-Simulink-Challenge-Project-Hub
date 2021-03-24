@@ -27,7 +27,7 @@ Make the results of your work open and accessible to receive a certificate and e
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 
 ## All projects
-*Updated: March 23, 2021*
+*Updated: March 24, 2021*
 <table>
 <tbody>
 <td><img src="/images/auto.png"  width=500 /></td>
@@ -147,4 +147,11 @@ Make the results of your work open and accessible to receive a certificate and e
 <p>Improve the accuracy of satellite navigation systems by using non-binary LDPC codes.</p>
 <p><strong>Impact</strong>: Accelerate the development of modern satellite navigation receivers. </p>
 <p><strong>Expertise gained</strong>: 5G, GNSS, Wireless Communication</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/HearingAid.PNG"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Speech%20Background%20Noise%20Suppression%20with%20Deep%20Learning">Speech Background Noise Suppression with Deep Learning</a></h2></p>
+<p>Develop a deep learning neural network for audio background noise suppression.</p>
+<p><strong>Impact</strong>: Advance hearing aid technology through research in speech enhancement and noise suppression and improve the quality of life of persons with a hearing impairment.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Neural Networks, Signal Processing</p></td>
 </tbody></table>
