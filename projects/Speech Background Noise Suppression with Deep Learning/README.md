@@ -55,9 +55,9 @@ Advanced project work:
 
 2. [Deep Learning with Time Series, Sequences, and Text](https://www.mathworks.com/help/deeplearning/examples.html?category=deep-learning-with-time-series-sequences-and-text&s_tid=CRUX_topnav) for examples of deep learning applied to time-series data, including audio and speech. 
 
-3. [Deep learning denoising example](https://www.mathworks.com/help/audio/ug/denoise-speech-using-deep-learning-networks.html) for illustration purposes. 
+3. [Denoise Speech Using Deep Learning Networks](https://www.mathworks.com/help/audio/ug/denoise-speech-using-deep-learning-networks.html) for illustration purposes. 
 
-4. [Speech Command Recognition Code Generation on Raspberry Pi example](https://www.mathworks.com/help/deeplearning/ug/speech-command-recognition-code-generation-on-raspberry-pi.html). 
+4. [Speech Command Recognition Code Generation on Raspberry Pi](https://www.mathworks.com/help/deeplearning/ug/speech-command-recognition-code-generation-on-raspberry-pi.html). 
 
 
 Suggested readings: 
