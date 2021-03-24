@@ -27,6 +27,7 @@ Suggested steps:
 6.	Train a predictive maintenance model using many runs of the simulation.
 
 Optional:
+
 7.	Find real data on failed turbines and determine if the model could have predicted it.
 
 ## Background Material
