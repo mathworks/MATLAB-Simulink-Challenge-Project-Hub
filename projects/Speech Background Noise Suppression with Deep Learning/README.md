@@ -74,7 +74,7 @@ Suggested readings:
 
 <a name="Isik"></a>[6] Umut Isik et Al, "PoCoNet: Better Speech Enhancement with Frequency-Positional Embeddings, Semi-Supervised Conversational Data, and Biased Loss", INTERSPEECH 2020. (arXiv:2008.04470)   
 
-<a name="Alamdari"></a>[7] N. Alamdari, A. Azarang, N. Kehtarnavaz, “Improving deep speech denoising by Noisy2Noisy signal mapping”, Applied Acoustics, Volume 172, 2021. (arXiv:1904.12069) 
+<a name ="Alamdari"></a>[7] N. Alamdari, A. Azarang, N. Kehtarnavaz, “Improving deep speech denoising by Noisy2Noisy signal mapping”, Applied Acoustics, Volume 172, 2021. (arXiv:1904.12069) 
 
 <a name="Rethage"></a>[8] D. Rethage, J. Pons, X, Serra, “A Wavenet for Speech Denoising", ICASSP 2018. (arXiv:1706.07162) 
 
