@@ -36,7 +36,7 @@ Project variations:
 
 1. Use an end-to-end noise suppression system. Many noise suppression techniques in the literature transform the audio time-series into a time-frequency representation (such as a magnitude spectrogram, or a short-time Fourier transform) before feeding it to the network ([[3]](#xiang), [[4]](#nils), [[5]](#choi), [[6]](#isik)). However, end-to-end noise suppression systems have also been proposed recently, where the audio signal is directly fed to the system ([[7]](#alamdari), [[8]](#rethage)). 
 
-2. Use a self-supervised technique where you train only on noisy data (see [[7]](#Alamdari) for an example), instead of training your network using clean/noisy speech pairs.  
+2. Use a self-supervised technique where you train only on noisy data (see [[7]](#alamdari) for an example), instead of training your network using clean/noisy speech pairs.  
 
 Advanced project work: 
 
@@ -74,9 +74,9 @@ Suggested readings:
 
 <a name="isik"></a>[6] Umut Isik et Al, "PoCoNet: Better Speech Enhancement with Frequency-Positional Embeddings, Semi-Supervised Conversational Data, and Biased Loss", INTERSPEECH 2020. (arXiv:2008.04470)   
 
-<a name ="alamdari"></a>[7] N. Alamdari, A. Azarang, N. Kehtarnavaz, “Improving deep speech denoising by Noisy2Noisy signal mapping”, Applied Acoustics, Volume 172, 2021. (arXiv:1904.12069) 
+<a name="alamdari"></a>[7] N. Alamdari, A. Azarang, N. Kehtarnavaz, “Improving deep speech denoising by Noisy2Noisy signal mapping”, Applied Acoustics, Volume 172, 2021. (arXiv:1904.12069) 
 
-<a id="rethage"></a>[8] D. Rethage, J. Pons, X, Serra, “A Wavenet for Speech Denoising", ICASSP 2018. (arXiv:1706.07162) 
+<a name="rethage"></a>[8] D. Rethage, J. Pons, X, Serra, “A Wavenet for Speech Denoising", ICASSP 2018. (arXiv:1706.07162) 
 
 ## Impact
 
