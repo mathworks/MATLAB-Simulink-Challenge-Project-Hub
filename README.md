@@ -3,18 +3,16 @@
 **Contribute to the progress of engineering and science by solving key
 industry challenges!**
 
-Are you looking for a design or research project with real industry relevance? 
-This is a list of inspiring projects based on industry trends for your capstone, 
+Are you looking for a design project with real industry relevance? 
+MathWorks has compiled a list of inspiring projects for your capstone, 
 senior design project, or final year assignment.
 These projects help you learn about technology trends while becoming an
 important and valued contributor to the advancement of technical computing
-and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition 
+and Model-Based Design. Even more, you gain official recognition 
 for your problem-solving skills from technology leaders at MathWorks. 
 
 ## How to participate
 Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to register your intent to complete one of these projects and learn about these rewards.
-
-If you are faculty and interested in further information, to provide feedback, or to nominate a new project, contact us [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UNU8xUzJQUU0xQ0FBQkNFSjkwTE5aQ0o1Ry4u).
 
 ## Projects by technology trends 
 - [5G](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/5G.md)
@@ -156,4 +154,25 @@ If you are faculty and interested in further information, to provide feedback, o
 <p>Develop a deep learning neural network for audio background noise suppression.</p>
 <p><strong>Impact</strong>: Advance hearing aid technology through research in speech enhancement and noise suppression and improve the quality of life of persons with a hearing impairment.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Neural Networks, Signal Processing</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/electricVehicle.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Predictive%20Electric%20Vehicle%20Cooling">Predictive Electric Vehicle Cooling</a></h2></p>
+<p>Improve range, performance, and battery life by designing a cooling algorithm that keep EV battery packs cool when they need it most.</p>
+<p><strong>Impact</strong>: Contribute to the electrification of transport worldwide. Increase the range, performance, and battery life of EVs.</p>
+<p><strong>Expertise gained</strong>: Renewable Energy, Autonomous Vehicles, Automotive, Control, Electrification, Modeling and Simulation, Optimization</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/data center.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimal%20Data%20Center%20Cooling">Optimal Data Center Cooling</a></h2></p>
+<p>Improve performance, stability, and cost effectiveness of data centers by designing a cooling algorithm that keeps the system running as efficiently as possible.</p>
+<p><strong>Impact</strong>: Contribute to the performance, reliability, and efficiency of data centers worldwide.</p>
+<p><strong>Expertise gained</strong>: Big Data, Cloud Computing, Control, Deep Learning, Modeling and Simulation, Parallel Computing, Predictive Maintenance</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/turbine.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Wind%20Turbine%20Predictive%20Maintenance%20Using%20Machine%20Learning">Wind Turbine Predictive Maintenance Using Machine Learning</a></h2></p>
+<p>Improve the reliability of wind turbines by using machine learning to inform a predictive maintenance model.</p>
+<p><strong>Impact</strong>: Contribute to providing the world with reliable green energy.</p>
+<p><strong>Expertise gained</strong>: Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines</p></td>
 </tbody></table>
