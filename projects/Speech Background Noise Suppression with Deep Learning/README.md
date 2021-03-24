@@ -24,7 +24,7 @@ Work with the [Audio Toolbox™](https://www.mathworks.com/products/audio.html) 
 
 2. Download the speech and noise dataset by following the instructions on the [Microsoft DNS challenge repository](https://github.com/microsoft/DNS-Challenge).  
 
-3. Design the deep learning network using Deep Learning Toolbox. There are many network architectures to choose from. The two most common ones are convolutional neural networks, or CNN, ([[5]](#Choi), [[6]](#Isik)), and recurrent neural networks, or RNN ([[2]](#Valin), [[3]](#Xiang), [[4]](#Nils)).
+3. Design the deep learning network using Deep Learning Toolbox. There are many network architectures to choose from. The two most common ones are convolutional neural networks, or CNN, ([[5]](#choi), [[6]](#isik)), and recurrent neural networks, or RNN ([[2]](#valin), [[3]](#xiang), [[4]](#nils)).
 Your solution may require applying signal processing at the input or output of your network (for example, for signal pre-processing, feature extraction, or 
 time-frequency transformation). In that case, you can use Audio Toolbox and [Signal Processing Toolbox™](https://www.mathworks.com/products/signal.html) functionalities. 
 
@@ -34,7 +34,7 @@ time-frequency transformation). In that case, you can use Audio Toolbox and [Sig
 
 Project variations: 
 
-1. Use an end-to-end noise suppression system. Many noise suppression techniques in the literature transform the audio time-series into a time-frequency representation (such as a magnitude spectrogram, or a short-time Fourier transform) before feeding it to the network ([[3]](#Xiang), [[4]](#nils), [[5]](#Choi), [[6]](#Isik)). However, end-to-end noise suppression systems have also been proposed recently, where the audio signal is directly fed to the system ([[7]](#Alamdari), [[8]](#Rethage)). 
+1. Use an end-to-end noise suppression system. Many noise suppression techniques in the literature transform the audio time-series into a time-frequency representation (such as a magnitude spectrogram, or a short-time Fourier transform) before feeding it to the network ([[3]](#xiang), [[4]](#nils), [[5]](#choi), [[6]](#isik)). However, end-to-end noise suppression systems have also been proposed recently, where the audio signal is directly fed to the system ([[7]](#alamdari), [[8]](#rethage)). 
 
 2. Use a self-supervised technique where you train only on noisy data (see [[7]](#Alamdari) for an example), instead of training your network using clean/noisy speech pairs.  
 
@@ -62,21 +62,21 @@ Advanced project work:
 
 Suggested readings: 
 
-<a name="Chandan"></a>[1] Chandan K.A.Reddy et al, “The INTERSPEECH 2020 Deep Noise Suppression Challenge: Datasets, Subjective Testing Framework, and Challenge Results”, INTERSPEECH 2020, October 2020, Shanghai, China. 
+<a name="chandan"></a>[1] Chandan K.A.Reddy et al, “The INTERSPEECH 2020 Deep Noise Suppression Challenge: Datasets, Subjective Testing Framework, and Challenge Results”, INTERSPEECH 2020, October 2020, Shanghai, China. 
 
-<a name="Valin"></a>[2] J.-M. Valin, "A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement", International Workshop on Multimedia Signal Processing, 2018. (arXiv:1709.08243) 
+<a name="valin"></a>[2] J.-M. Valin, "A Hybrid DSP/Deep Learning Approach to Real-Time Full-Band Speech Enhancement", International Workshop on Multimedia Signal Processing, 2018. (arXiv:1709.08243) 
 
-<a name="Xiang"></a>[3] Hao Xiang, Su Xiangdong, Horaud Radu, Li Xiaofei, "FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement", ICASSP 2021. (arXiv:2010.15508) 
+<a name="xiang"></a>[3] Hao Xiang, Su Xiangdong, Horaud Radu, Li Xiaofei, "FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement", ICASSP 2021. (arXiv:2010.15508) 
 
 <a name="nils"></a>[4] Nils L. Westhausen, Bernd T. Meyer, "Dual-Signal Transformation LSTM Network for Real-Time Noise Suppression", INTERSPEECH 2020. (arXiv:2005.07551) 
 
-<a name="Choi"></a>[5] Hyeong-Seok Choi, Hoon Heo, Jie Hwan Lee, Kyogu Lee, "Phase-aware Single-stage Speech Denoising and Dereverberation with U-Net", INTERSPEECH 2020. (arXiv:2006.00687) 
+<a name="choi"></a>[5] Hyeong-Seok Choi, Hoon Heo, Jie Hwan Lee, Kyogu Lee, "Phase-aware Single-stage Speech Denoising and Dereverberation with U-Net", INTERSPEECH 2020. (arXiv:2006.00687) 
 
-<a name="Isik"></a>[6] Umut Isik et Al, "PoCoNet: Better Speech Enhancement with Frequency-Positional Embeddings, Semi-Supervised Conversational Data, and Biased Loss", INTERSPEECH 2020. (arXiv:2008.04470)   
+<a name="isik"></a>[6] Umut Isik et Al, "PoCoNet: Better Speech Enhancement with Frequency-Positional Embeddings, Semi-Supervised Conversational Data, and Biased Loss", INTERSPEECH 2020. (arXiv:2008.04470)   
 
-<a name ="Alamdari"></a>[7] N. Alamdari, A. Azarang, N. Kehtarnavaz, “Improving deep speech denoising by Noisy2Noisy signal mapping”, Applied Acoustics, Volume 172, 2021. (arXiv:1904.12069) 
+<a name ="alamdari"></a>[7] N. Alamdari, A. Azarang, N. Kehtarnavaz, “Improving deep speech denoising by Noisy2Noisy signal mapping”, Applied Acoustics, Volume 172, 2021. (arXiv:1904.12069) 
 
-<a name="Rethage"></a>[8] D. Rethage, J. Pons, X, Serra, “A Wavenet for Speech Denoising", ICASSP 2018. (arXiv:1706.07162) 
+<a name="rethage"></a>[8] D. Rethage, J. Pons, X, Serra, “A Wavenet for Speech Denoising", ICASSP 2018. (arXiv:1706.07162) 
 
 ## Impact
 
