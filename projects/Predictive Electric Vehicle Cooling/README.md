@@ -14,19 +14,20 @@ Predictively cooling the pack based on expected thermal demands can help keep it
 
 ## Project Description
 
-Work with Simscape Fluids™(https://www.mathworks.com/products/simscape-fluids.html) to create a plant and predictive controller for EV cooling system with dynamic loads using MATLAB® and Simulink®. 
+Work with [Simscape Fluids™](https://www.mathworks.com/products/simscape-fluids.html) to create a plant and predictive controller for EV cooling system with dynamic loads using MATLAB® and Simulink®. 
 The model should be detailed enough to capture important dynamics. Dynamic loads include outside environmental conditions, fast charging, and rapid acceleration/deceleration. Demonstrate that the predictive control system can keep battery temperature in the desired range. Demonstrate whether the control can allow for a greater performance envelope for motor loads and fast charging. Compute the change in energy requirement from operating the cooling system predictively vs. reactively.
 
 Suggested steps:
 1.	Perform a literature search to understand EV cooling systems, battery management, and drive cycles.
-2.	Study a dynamic EV cooling model. https://www.mathworks.com/help/physmod/hydro/ug/sscfluids_ev_battery_cooling.html
+2.	Study a [dynamic EV cooling model](https://www.mathworks.com/help/physmod/hydro/ug/sscfluids_ev_battery_cooling.html)
 3.	Model different loads that the battery can experience such as fast charging and rapid acceleration.
 4.	Create a baseline by implementing a simple controller.
 5.	Create a predictive controller using information such as incoming charge, throttle position, and location.
 6.	Demonstrate the value of your controller in keeping the battery temperature controlled and compare the energy requirements of the cooling system with different controllers.
 
-Optional:
-7.	Extend the work to predict battery range and life expectancy improvement with the predictive controller.
+Advanced project work:
+
+1.	Extend the work to predict battery range and life expectancy improvement with the predictive controller.
 
 
 ## Background Material
