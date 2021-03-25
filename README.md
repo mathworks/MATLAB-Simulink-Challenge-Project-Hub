@@ -4,7 +4,7 @@
 industry challenges!**
 
 Are you looking for a design or research project with real industry relevance? 
-Tis is a list of inspiring projects based on industry trends for your capstone, 
+This is a list of inspiring projects based on industry trends for your capstone, 
 senior design project, or final year assignment.
 These projects help you learn about technology trends while becoming an
 important and valued contributor to the advancement of technical computing
