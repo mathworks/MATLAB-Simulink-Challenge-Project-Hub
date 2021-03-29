@@ -44,7 +44,7 @@ Contribute to providing the world with reliable green energy.
 
 ## Expertise Gained 
 
-Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines
+Industry 4.0, Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines
 
 
 ## Project Difficulty
