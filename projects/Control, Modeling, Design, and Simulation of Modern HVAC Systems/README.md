@@ -15,7 +15,7 @@ Society needs to create buildings and homes that are energy efficient and health
 The goal is to develop a model of a modern HVAC system which is quite complex. The overriding development philosophy is to start simple and add detail. 
 
 Suggested steps:
-1.	Get familiar with the two Simscape-based models of HVAC systems, provided in the background material, and explore results through simulation.
+1.	Get familiar with the two [Simscape™](https://www.mathworks.com/products/simscape.html)-based models of HVAC systems, provided in the background material, and explore results through simulation.
 2.	Search and learn various topics in HVAC systems. Some starting terms are heat pumps, energy recovery ventilators, forced hot water systems, air handlers, de-humidifiers, and humidifiers. This will give you an overview of some components of a HVAC system.
 3.	Build a simple model of a room, cold outside environment, and a heating device. Develop a simple controller in Simulink and Stateflow to control the temperature. 
 4.	Add complexity to your model to include a varying environment and a cooling system. 
@@ -28,7 +28,7 @@ There are various Simscape based models of HVAC systems. Learn how these work an
 1.	[House Heating System](https://www.mathworks.com/help/physmod/simscape/ug/house-heating-system.html)
 2.	[Vehicle HVAC System](https://www.mathworks.com/help/physmod/simscape/ug/vehicle-hvac-system.html)
 3.	[Building and HVAC Simulation in MATLAB/Simulink](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/de/2017/gebaude-und-anlagensimulation-mit-matlab-und-simulink-am-beispiel-des-ffg-projekts-saluh.pdf). Provides good background material. 
-4.	Simscape based paper – “Thermal Dynamic Modeling and Simulation of a Heating System for a Multi-Zone Office Building Equipped with Demand Controlled Ventilation Using MATLAB/Simulink”. [PDF](https://networked-embedded.de/es/index.php/staff-details/obermaisser.html?file=files%2Fpublications%2Fpapers%2Frp024_A223.pdf)
+4.	Simscape based paper – “Thermal Dynamic Modeling and Simulation of a Heating System for a Multi-Zone Office Building Equipped with Demand Controlled Ventilation Using MATLAB/Simulink” ([PDF](https://networked-embedded.de/es/index.php/staff-details/obermaisser.html?file=files%2Fpublications%2Fpapers%2Frp024_A223.pdf)).
 
 ## Impact
 
