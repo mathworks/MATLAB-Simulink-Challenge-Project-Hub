@@ -77,7 +77,7 @@ Bachelor, Master's, Doctoral
 
 ## Project Discussion
 
-[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/16) to ask/answer questions, comment, or share your ideas for solutions for this project.
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/17) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 
 ## Project Number
