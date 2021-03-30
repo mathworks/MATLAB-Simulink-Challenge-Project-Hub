@@ -26,9 +26,9 @@ Suggested steps:
 5.	Determine if you can predict faults before they occur by observing key simulation data.
 6.	Train a predictive maintenance model using many runs of the simulation.
 
-Optional:
+Advanced project work:
 
-7.	Find real data on failed turbines and determine if the model could have predicted it.
+Find real data on failed turbines and determine if the model could have predicted it.
 
 ## Background Material
 
@@ -50,6 +50,10 @@ Industry 4.0, Renewable Energy, Machine Learning, Electrification, Modeling and 
 ## Project Difficulty
 
 Master's
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/28) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
