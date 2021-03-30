@@ -19,7 +19,7 @@ Transient air-fuel ratio control is critical to the particulate matter problem.
 The ability to both estimate and control the airflow into the engine is at least half of the Air-Fuel Ratio (AFR) control problem that is so important to good engine performance, fuel economy, and emissions.
 Since multiple actuators , e.g. throttle, wastegate, cam-phasers, Gas Re-circulation (EGR), affect the airflow into the engine, multi-input/multi-output control (MIMO) of engine airflow is an attractive way to improve engine airflow control and estimation performance that has yet to be implemented fully in the marketplace.  General Motors is the first company known to implement a MIMO control approach in low-cost production ECU hardware using Model-Predictive Control (https://www.sae.org/publications/technical-papers/content/2018-01-0875).
 
-Below the list of required steps: 
+Suggested steps: 
 
 1.	Replace the existing schedule-based non-MIMO engine air system controls within the Powertrain Blockset Spark-Ignition (SI) and Compression-Ignition (CI)  Engine Controller subsystems in the MathWorks Powertrain Blockset Conventional Vehicle Reference Application with a MIMO control approach similar to but more generic than that implemented by GM.
 2.	Calculate and present ability to arrive at pre-determined EGR flow and boost setpoints better than with the existing open-loop table-based controls during significant engine transients on USFTP75 and all shipping drive-cycles, resulting in better open-loop AFR control on the drive-cycle.
@@ -52,6 +52,9 @@ Autonomous Driving, Control, Modeling and Simulation
 
 Master’s, Doctoral level
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/10) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
