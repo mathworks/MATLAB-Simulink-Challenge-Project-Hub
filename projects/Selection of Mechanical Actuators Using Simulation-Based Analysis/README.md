@@ -21,7 +21,7 @@ When comparing technologies, you will find that some properties require simulati
 The outcome of this project could be an analysis of two or more actuation technologies with results presented using the property charts proposed in [1]. The analysis should be presented as a short write-up with supporting Simulink/Simscape and associated MATLAB scripts used to produce the results. A good solution will be written in a way that enables others to build on your work by adding information for other actuation technologies.
 
 
-This project could take many different directions, but by way of example, here are some possible steps:
+This project could take many different directions, but by way of example, here are some suggested steps:
 
 1.	Read and familiarize yourself with the Huber, Fleck and Ashby paper.
 2.	Think about what other property charts a product designer might find useful – is the list in the Huber paper complete?
@@ -55,6 +55,10 @@ Drones, Robotics, Control, Cyber-physical Systems, Electrification, Humanoid, Ma
 ## Project Difficulty
 
 Master's, Doctoral level
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/14) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
