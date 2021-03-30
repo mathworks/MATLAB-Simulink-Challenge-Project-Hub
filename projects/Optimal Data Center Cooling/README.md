@@ -29,9 +29,9 @@ Suggested steps:
 5. Create a predictive controller using information such as expected load and external temperature.
 6. Demonstrate the value of your controller in keeping the data center temperature controlled and compare the carbon footprint of the cooling system with different controllers.
 
-Optional:
+Advanced project work:
 
-7. Extend the work to predict component failures with different controllers and optimal placement of critical loads within the data center.
+Extend the work to predict component failures with different controllers and optimal placement of critical loads within the data center.
 
 ## Background Material
 
@@ -52,6 +52,10 @@ Big Data, Cloud Computing, Control, Deep Learning, Modeling and Simulation, Para
 ## Project Difficulty
 
 Bachelor, Master's
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/27) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
