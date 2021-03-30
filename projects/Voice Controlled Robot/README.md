@@ -51,6 +51,9 @@ Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Human-rob
 
 Bachelor level
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/7) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
