@@ -27,7 +27,7 @@ Suggested steps:
 
 Advanced project work:
 
-1.	Extend the work to predict battery range and life expectancy improvement with the predictive controller.
+Extend the work to predict battery range and life expectancy improvement with the predictive controller.
 
 
 ## Background Material
@@ -49,6 +49,10 @@ Renewable Energy, Autonomous Vehicles, Automotive, Control, Electrification, Mod
 ## Project Difficulty
 
 Bachelor, Master's
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/25) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
