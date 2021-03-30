@@ -27,9 +27,9 @@ Suggested steps:
 5.	Develop a tool that will automatically assemble the Lithium Ion Cell block into modules and packs as part of a Simulink model.  The tool should take as an input desired pack voltage, power, energy, module size, thermal connectivity for conduction and convection.  Note, for thermal connectivity consider a cube module that has possible connections on all 6 sides.
 6.	Using the tool developed in 5, determine the optimal size of the battery pack that takes into account range, cost, volume, cooling, and mass constraints.  For example, one optimal problem statement would be to maximize range while reducing mass and cost.  Another optimal problem would be just to maximize range.  The Powertrain Blockset EV reference application can be used as a system model.  https://www.mathworks.com/help/autoblks/ug/explore-the-electric-vehicle-reference-application.html
 
-Optional:
+Advanced project work:
 
-7.	Extend this work to Solid State Batteries.
+Extend this work to Solid State Batteries.
 
 
 ## Background Material
@@ -58,6 +58,10 @@ Renewable Energy, Control, Electrification, Optimization, Parallel Computing
 ## Project Difficulty
 
 Master’s level
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/13) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
