@@ -62,6 +62,10 @@ Autonomous Vehicles, Automotive, Modeling and Simulation
 
 Bachelor
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/20) to ask/answer questions, comment, or share your ideas for solutions for this project.
+
 ## Project Number
 
 171
