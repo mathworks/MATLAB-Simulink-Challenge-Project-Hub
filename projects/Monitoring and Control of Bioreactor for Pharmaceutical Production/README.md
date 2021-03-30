@@ -62,6 +62,9 @@ Big Data, Industry 4.0, Control, IoT, Modeling and Simulation, Optimization, Mac
 
 Master's, Doctoral
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/22) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
