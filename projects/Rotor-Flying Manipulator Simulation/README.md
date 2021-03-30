@@ -35,9 +35,9 @@ Suggested steps:
 4.	Use the position of the objects and the target locations as waypoints to the flying manipulator (using a waypoint follower algorithm from the UAV Toolbox) to get close to the objects to pick.
 5.	Once the UAV is above the object, plan the manipulator motion using a path planner algorithm.
 
-Optional:
+Advanced project work:
 
-6.	Implement a visual-based pose estimation algorithm
+1. Implement a visual-based pose estimation algorithm
     -   Use Lidar scans to estimate the system’s pose (ego-motion) 
     -	Use Computer Vision and Deep Learning (for example the YOLOv2 neural network) to detect and locate the object to pick and place.
 
@@ -64,6 +64,9 @@ Drones, Robotics, Manipulators, Modeling and Simulation, UAV
 
 Master’s level
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/12) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
