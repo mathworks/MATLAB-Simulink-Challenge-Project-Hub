@@ -18,11 +18,11 @@ Work with [UAV Toolbox](https://www.mathworks.com/products/uav.html), [Deep Lear
 
 **Suggested Steps**:
 1. Pick an application area and what kind of fault you want to detect, e.g., cracks in bridges, leaks in oil pipelines, etc.
-1. Use Unreal Engine to construct a representative environment that you can use to simulate the chosen fault. You can check the [Unreal Marketplace](https://unrealengine.com/marketplace/en-US/store) to see if you can find relevant assets and scenes as a starting point.
-1. Use [UAV Toolbox](https://www.mathworks.com/products/uav.html) to capture a large set of camera images (color images) and annotated images (images with object labels) from the Unreal simulation. You can either fly the UAV along a fixed trajectory or manually change the pose of the UAV to capture images from many different orientations. See the background material below for good example starting points. 
-1. When you save images, capture both normal scenarios (no infrastructure faults) as well as scenarios with known problems. Automate this data collection as much as possible.
-1. Use Deep Learning Toolbox and Computer Vision Toolbox to train a deep learning network to detect the infrastructure fault.
-1. Verify in simulated test scenarios that your trained network can detect faults. Calculate the precision and efficiency of your network. 
+2. Use Unreal Engine to construct a representative environment that you can use to simulate the chosen fault. You can check the [Unreal Marketplace](https://unrealengine.com/marketplace/en-US/store) to see if you can find relevant assets and scenes as a starting point.
+3. Use [UAV Toolbox](https://www.mathworks.com/products/uav.html) to capture a large set of camera images (color images) and annotated images (images with object labels) from the Unreal simulation. You can either fly the UAV along a fixed trajectory or manually change the pose of the UAV to capture images from many different orientations. See the background material below for good example starting points. 
+4. When you save images, capture both normal scenarios (no infrastructure faults) as well as scenarios with known problems. Automate this data collection as much as possible.
+5. Use Deep Learning Toolbox and Computer Vision Toolbox to train a deep learning network to detect the infrastructure fault.
+6. Verify in simulated test scenarios that your trained network can detect faults. Calculate the precision and efficiency of your network. 
 
 **Advanced project work**:
 * Go from simulated to real images. Use online data sets for infrastructure faults or collect data from a physical UAV. This dataset can be much smaller than the simulated dataset. Use [transfer learning](https://www.mathworks.com/help/deeplearning/gs/get-started-with-transfer-learning.html) to ensure your network works well on real-world data.
@@ -52,6 +52,10 @@ Computer Vision, Drones, Artificial Intelligence, UAV, SLAM, Deep Learning
 ## Project Difficulty
 
 Master's, Doctoral
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/21) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
