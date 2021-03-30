@@ -22,9 +22,16 @@
 <p><strong>Expertise gained</strong>: Renewable Energy, Autonomous Vehicles, Automotive, Control, Electrification, Modeling and Simulation, Optimization</p></td>
 </tbody>
 <tbody>
+<td><img src="/images/HVAC.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Control%2C%20Modeling%2C%20Design%2C%20and%20Simulation%20of%20Modern%20HVAC%20Systems">Control, Modeling, Design, and Simulation of Modern HVAC Systems</a></h2></p>
+<p>Model a modern HVAC system and design a controller to improve heating, cooling, ventilation, air quality, pressure, humidity, and energy efficiency.</p>
+<p><strong>Impact</strong>: Contribute to the design and control of modern homes and buildings to preserve energy and healthy living environments.</p>
+<p><strong>Expertise gained</strong>: Renewable Energy, Modeling and Simulation, Electrification, Control</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/turbine.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Wind%20Turbine%20Predictive%20Maintenance%20Using%20Machine%20Learning">Wind Turbine Predictive Maintenance Using Machine Learning</a></h2></p>
 <p>Improve the reliability of wind turbines by using machine learning to inform a predictive maintenance model.</p>
 <p><strong>Impact</strong>: Contribute to providing the world with reliable green energy.</p>
-<p><strong>Expertise gained</strong>: Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines</p></td>
+<p><strong>Expertise gained</strong>: Industry 4.0, Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines</p></td>
 </tbody></table>

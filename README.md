@@ -4,12 +4,7 @@
 industry challenges!**
 
 Are you looking for a design or research project with real industry relevance? 
-This is a list of inspiring projects based on industry trends for your capstone, 
-senior design project, or final year assignment.
-These projects help you learn about technology trends while becoming an
-important and valued contributor to the advancement of technical computing
-and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition 
-for your problem-solving skills from technology leaders at MathWorks. 
+This is a list of inspiring projects based on industry trends for your capstone, senior design project, or final year assignment. These projects help you learn about technology trends while becoming an important and valued contributor to the advancement of technical computing and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks. 
 
 ## How to participate
 Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to register your intent to complete one of these projects and learn about these rewards.
@@ -29,7 +24,7 @@ If you are faculty and interested in further information, to provide feedback, o
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 
 ## All projects
-*Updated: March 24, 2021*
+*Updated: March 30, 2021*
 <table>
 <tbody>
 <td><img src="/images/auto.png"  width=500 /></td>
@@ -165,6 +160,13 @@ If you are faculty and interested in further information, to provide feedback, o
 <p><strong>Expertise gained</strong>: Renewable Energy, Autonomous Vehicles, Automotive, Control, Electrification, Modeling and Simulation, Optimization</p></td>
 </tbody>
 <tbody>
+<td><img src="/images/HVAC.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Control%2C%20Modeling%2C%20Design%2C%20and%20Simulation%20of%20Modern%20HVAC%20Systems">Control, Modeling, Design, and Simulation of Modern HVAC Systems</a></h2></p>
+<p>Model a modern HVAC system and design a controller to improve heating, cooling, ventilation, air quality, pressure, humidity, and energy efficiency.</p>
+<p><strong>Impact</strong>: Contribute to the design and control of modern homes and buildings to preserve energy and healthy living environments.</p>
+<p><strong>Expertise gained</strong>: Renewable Energy, Modeling and Simulation, Electrification, Control</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/data center.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimal%20Data%20Center%20Cooling">Optimal Data Center Cooling</a></h2></p>
 <p>Improve performance, stability, and cost effectiveness of data centers by designing a cooling algorithm that keeps the system running as efficiently as possible.</p>
@@ -176,5 +178,5 @@ If you are faculty and interested in further information, to provide feedback, o
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Wind%20Turbine%20Predictive%20Maintenance%20Using%20Machine%20Learning">Wind Turbine Predictive Maintenance Using Machine Learning</a></h2></p>
 <p>Improve the reliability of wind turbines by using machine learning to inform a predictive maintenance model.</p>
 <p><strong>Impact</strong>: Contribute to providing the world with reliable green energy.</p>
-<p><strong>Expertise gained</strong>: Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines</p></td>
+<p><strong>Expertise gained</strong>: Industry 4.0, Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines</p></td>
 </tbody></table>
