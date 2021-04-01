@@ -5,7 +5,7 @@
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Wind%20Turbine%20Predictive%20Maintenance%20Using%20Machine%20Learning">Wind Turbine Predictive Maintenance Using Machine Learning</a></h2></p>
 <p>Improve the reliability of wind turbines by using machine learning to inform a predictive maintenance model.</p>
 <p><strong>Impact</strong>: Contribute to providing the world with reliable green energy.</p>
-<p><strong>Expertise gained</strong>: Industry 4.0, Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines</p></td>
+<p><strong>Expertise gained</strong>: Industry 4.0, Sustainability and Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines</p></td>
 </tbody>
 <tbody>
 <td><img src="/images/bioreactor.jpg"  width=500 /></td>
