@@ -20,8 +20,8 @@ If you are faculty and interested in further information, to provide feedback, o
 - [Drones](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Drones.md)
 - [Industry 4.0](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Industry%204.0.md)
 - [Neuroscience](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Neuroscience.md)
-- [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Renewable%20Energy.md)
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
+- [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
 *Updated: April 01, 2021*
