@@ -91,6 +91,10 @@ Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulatio
 
 Master's, Doctoral
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/29) to ask/answer questions, comment, or share your ideas for solutions for this project.
+
 ## Project Number
 
 198
