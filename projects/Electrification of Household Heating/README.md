@@ -2,7 +2,7 @@
 
 <table>
 <td><img src="/images/ElectrificationHouse.jpg"  width=500 /></td>
-<td><p><h1>Electrification of household heating using MATLAB, Simulink, and Simscape</h1></p>
+<td><p><h1>Electrification of Household Heating</h1></p>
 <p> To help minimise human environmental impact and halt climate change, you will help guide a transition to green energy sources by evaluating electrical household heating technologies – to succeed it is essential that you provide clear, quantitative, data-driven conclusions underpinned by use of rigorous mathematical models and time-domain simulations. </p>
 </table>
 
@@ -31,6 +31,7 @@ Suggested steps:
 	1. Individuals – should that type be purchased and what are the benefits?
 	2. Industry – should that technology be further developed and why?
 	3. Government – shape government policy to direct investment and multiply the benefits
+
 Advanced project work:
 - Build models of more than one type of electrical domestic heating system.
 - For comparative purposes, add models of other domestic heating sources, for example:

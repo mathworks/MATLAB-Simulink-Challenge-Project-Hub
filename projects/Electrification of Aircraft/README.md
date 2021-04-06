@@ -2,7 +2,7 @@
 
 <table>
 <td><img src="/images/ElectrificationAircraft.jpg"  width=500 /></td>
-<td><p><h1>Electrification of aircraft using MATLAB, Simulink, and Simscape</h1></p>
+<td><p><h1>Electrification of Aircraft</h1></p>
 <p> To help minimise human environmental impact and halt climate change, you will help guide a transition to green energy sources by evaluating electric aircraft energy requirements, power distribution options, and other electrical technologies. </p>
 </table>
 
@@ -19,27 +19,28 @@ You will use an existing MATLAB®, Simulink®, and [Simscape™](https://www.mat
 Suggested steps:
 1. Become familiar with existing electric aircraft models (links below) and use these as the basis for your project.
 2. Project variations: Choose one of the following project ideas:
-- Build or integrate a model of an energy storage system. Consider weight, size, and efficiency of one of:
-	- Hydrogen
-	- Fuel Cell
-	- Battery
-	- Other novel sources?
-- Use the model to compare advantages of different distribution systems:
-	- AC
-	- DC
-	- Mixed AC/DC
-- Build or integrate a more detailed and representative model of one of these loads:
-	- Propulsion
-	- Sensors and electrical actuators
-	- HVAC
-	- Galley/Hotel
-	- Infotainment
-	- Other areas?
+	- Build or integrate a model of an energy storage system. Consider weight, size, and efficiency of one of:
+		- Hydrogen
+		- Fuel Cell
+		- Battery
+		- Other novel sources?
+	- Use the model to compare advantages of different distribution systems:
+		- AC
+		- DC
+		- Mixed AC/DC
+	- Build or integrate a more detailed and representative model of one of these loads:
+		- Propulsion
+		- Sensors and electrical actuators
+		- HVAC
+		- Galley/Hotel
+		- Infotainment
+		- Other areas?
 3. Calculate expected efficiency and power requirements for a variety of typical flights
 4. Write up data-drive recommendations to influence each of:
 	1. Individuals – should technologies you investigated influence flight purchasing decisions by passengers?
 	2. Industry – should the technology you investigated be further developed and why?
 	3. Government – shape government policy to direct investment and multiply the benefits
+
 Advanced project work:
 - Pick additional item/items from the project variations above.
 - Parameterize the aircraft for multiple configurations: a variety of passenger capacities and multiple geographic locations.
