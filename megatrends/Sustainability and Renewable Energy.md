@@ -1,11 +1,18 @@
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
+<td><img src="/images/ElectrificationHouse.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Electrification%20of%20Household%20Heating">Electrification of Household Heating</a></h2></p>
+<p>To help minimise human environmental impact and halt climate change, you will help guide a transition to green energy sources by evaluating electrical household heating technologies – to succeed it is essential that you provide clear, quantitative, data-driven conclusions underpinned by use of rigorous mathematical models and time-domain simulations. </p>
+<p><strong>Impact</strong>: Contribute to the global transition to zero-emission energy sources by electrification of household heating.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Digital Twins, Electrification, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/ElectrificationAircraft.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Electrification%20of%20Aircraft">Electrification of Aircraft</a></h2></p>
 <p>To help minimise human environmental impact and halt climate change, you will help guide a transition to green energy sources by evaluating electric aircraft energy requirements, power distribution options, and other electrical technologies. </p>
 <p><strong>Impact</strong>: Contribute to the global transition to zero-emission energy sources by electrification of flight. </p>
-<p><strong>Expertise gained</strong>: Renewable Energy, Digital Twins, Electrification, Modeling and Simulation, Zero-fuel Aircraft</p></td>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Digital Twins, Electrification, Modeling and Simulation, Zero-fuel Aircraft</p></td>
 </tbody>
 <tbody>
 <td><img src="/images/turbine.png"  width=500 /></td>
