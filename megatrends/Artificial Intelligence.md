@@ -1,6 +1,13 @@
 # Artificial Intelligence projects: 
 <table>
 <tbody>
+<td><img src="/images/backplane.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Integrity%20Channel%20Feature%20Extraction%20for%20Deep%20Learning">Signal Integrity Channel Feature Extraction for Deep Learning</a></h2></p>
+<p>Develop a deep learning approach for signal integrity applications. </p>
+<p><strong>Impact</strong>: Accelerate signal integrity design and analysis to enable society with more robust and connected internet communications. </p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks, RF and Mixed Signal</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/HearingAid.PNG"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Speech%20Background%20Noise%20Suppression%20with%20Deep%20Learning">Speech Background Noise Suppression with Deep Learning</a></h2></p>
 <p>Develop a deep learning neural network for audio background noise suppression.</p>
@@ -12,7 +19,7 @@
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection">Deep Learning for UAV Infrastructure Inspection</a></h2></p>
 <p>Automate the process of infrastructure inspection using unmanned aerial vehicles and deep learning.</p>
 <p><strong>Impact</strong>: Enhance safety and speed of infrastructure inspection across a wide range of industries.</p>
-<p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, UAV, SLAM, Deep Learning</p></td>
+<p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, Robotics, UAV, SLAM, Deep Learning</p></td>
 </tbody>
 <tbody>
 <td><img src="/images/humanoidRobot.png"  width=500 /></td>

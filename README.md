@@ -9,7 +9,7 @@ This is a list of inspiring projects based on industry trends for your capstone,
 ## How to participate
 Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to register your intent to complete one of these projects and learn about these rewards.
 
-If you are faculty and interested in further information, to provide feedback, or to nominate a new project, contact us [here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UNU8xUzJQUU0xQ0FBQkNFSjkwTE5aQ0o1Ry4u).
+If you are faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UNU8xUzJQUU0xQ0FBQkNFSjkwTE5aQ0o1Ry4u)</strong>.
 
 ## Projects by technology trends 
 - [5G](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/5G.md)
@@ -24,8 +24,22 @@ If you are faculty and interested in further information, to provide feedback, o
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: April 01, 2021*
+*Updated: April 06, 2021*
 <table>
+<tbody>
+<td><img src="/images/ElectrificationAircraft.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Electrification%20of%20Aircraft">Electrification of Aircraft</a></h2></p>
+<p>To help minimise human environmental impact and halt climate change, you will help guide a transition to green energy sources by evaluating electric aircraft energy requirements, power distribution options, and other electrical technologies. </p>
+<p><strong>Impact</strong>: Contribute to the global transition to zero-emission energy sources by electrification of flight. </p>
+<p><strong>Expertise gained</strong>: Renewable Energy, Digital Twins, Electrification, Modeling and Simulation, Zero-fuel Aircraft</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/backplane.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Integrity%20Channel%20Feature%20Extraction%20for%20Deep%20Learning">Signal Integrity Channel Feature Extraction for Deep Learning</a></h2></p>
+<p>Develop a deep learning approach for signal integrity applications. </p>
+<p><strong>Impact</strong>: Accelerate signal integrity design and analysis to enable society with more robust and connected internet communications. </p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks, RF and Mixed Signal</p></td>
+</tbody>
 <tbody>
 <td><img src="/images/turbine.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Wind%20Turbine%20Predictive%20Maintenance%20Using%20Machine%20Learning">Wind Turbine Predictive Maintenance Using Machine Learning</a></h2></p>
@@ -80,7 +94,7 @@ If you are faculty and interested in further information, to provide feedback, o
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection">Deep Learning for UAV Infrastructure Inspection</a></h2></p>
 <p>Automate the process of infrastructure inspection using unmanned aerial vehicles and deep learning.</p>
 <p><strong>Impact</strong>: Enhance safety and speed of infrastructure inspection across a wide range of industries.</p>
-<p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, UAV, SLAM, Deep Learning</p></td>
+<p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, Robotics, UAV, SLAM, Deep Learning</p></td>
 </tbody>
 <tbody>
 <td><img src="/images/virtualWorld.png"  width=500 /></td>

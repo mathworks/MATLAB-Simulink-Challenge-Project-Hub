@@ -1,6 +1,13 @@
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
+<td><img src="/images/ElectrificationAircraft.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Electrification%20of%20Aircraft">Electrification of Aircraft</a></h2></p>
+<p>To help minimise human environmental impact and halt climate change, you will help guide a transition to green energy sources by evaluating electric aircraft energy requirements, power distribution options, and other electrical technologies. </p>
+<p><strong>Impact</strong>: Contribute to the global transition to zero-emission energy sources by electrification of flight. </p>
+<p><strong>Expertise gained</strong>: Renewable Energy, Digital Twins, Electrification, Modeling and Simulation, Zero-fuel Aircraft</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/turbine.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Wind%20Turbine%20Predictive%20Maintenance%20Using%20Machine%20Learning">Wind Turbine Predictive Maintenance Using Machine Learning</a></h2></p>
 <p>Improve the reliability of wind turbines by using machine learning to inform a predictive maintenance model.</p>

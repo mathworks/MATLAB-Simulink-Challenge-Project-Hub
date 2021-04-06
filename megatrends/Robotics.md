@@ -1,6 +1,13 @@
 # Robotics projects: 
 <table>
 <tbody>
+<td><img src="/images/utilities-energy-image-processing-and-deep-le.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection">Deep Learning for UAV Infrastructure Inspection</a></h2></p>
+<p>Automate the process of infrastructure inspection using unmanned aerial vehicles and deep learning.</p>
+<p><strong>Impact</strong>: Enhance safety and speed of infrastructure inspection across a wide range of industries.</p>
+<p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, Robotics, UAV, SLAM, Deep Learning</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/humanoidRobot.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Simulation-Based%20Design%20of%20Humanoid%20Robots">Simulation-Based Design of Humanoid Robots</a></h2></p>
 <p>Develop and use models of humanoid robots to increase understanding of how best to control them and direct them to do useful tasks.</p>
