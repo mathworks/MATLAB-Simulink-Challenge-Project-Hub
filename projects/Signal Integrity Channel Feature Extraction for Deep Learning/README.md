@@ -25,7 +25,7 @@ Suggested steps:
 1. Perform literature research prior to starting the work. 
 2. Validate general approach, Can the features be used to predict system performance with a NN?:  
     1. Forward model creation with [SerDes Toolbox™](https://www.mathworks.com/products/serdes.html):
-        1. Transmission line creation [[3](#serdesfun),[4](#ctlm)]
+        1. Transmission line creation [[3](#serdesfun), [4](#ctlm)]
         2. Cascading of S-parameters [[5](#cascade)]
         3. Convert to time-domain [[3](#serdesfun)]
         4. Quantify system performance [[6](#optpulse)] 
