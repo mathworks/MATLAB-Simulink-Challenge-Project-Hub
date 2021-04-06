@@ -46,7 +46,7 @@ Enhance safety and speed of infrastructure inspection across a wide range of ind
 
 ## Expertise Gained 
 
-Computer Vision, Drones, Artificial Intelligence, UAV, SLAM, Deep Learning
+Computer Vision, Drones, Artificial Intelligence, Robotics, UAV, SLAM, Deep Learning
 
 
 ## Project Difficulty
