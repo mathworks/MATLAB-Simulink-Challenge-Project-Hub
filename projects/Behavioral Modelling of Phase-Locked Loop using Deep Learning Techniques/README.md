@@ -46,14 +46,17 @@ And following are the target metrics that a PLL system designer is interested in
 Suggested steps:
 1.	Perform literature research prior to starting the work. One needs to familiarize oneself with the basics of PLL design and various Deep learning techniques available.
 2.	Generate training data to be fed to the deep learning model. One will be required to setup a [PLL model](https://www.mathworks.com/help/msblks/phase-locked-loop.html) using [Mixed-Signal Blockset™](https://www.mathworks.com/help/msblks/index.html) and setup Simulation-In-Loop to gather training data.
+
 | ![simulationLoop](SimulationInTheLoop.png) | 
 |:--:| 
-| ***Figure2**: PLL simualtion in loop * |
+| ***Figure2**: PLL simualtion in loop* |
 
-3.	Once the training data has been collected the modeling of the selected deep learning model (CNN, RNN, GAN etc..) will be the next step using [Deep Learning Toolbox] (https://www.mathworks.com/help/deeplearning/index.html?searchHighlight=deep%20learning%20toolbox&amp;s_tid=srchtitle) 
-| ![NN](DeepLearningModel.png) | 
+3.	Once the training data has been collected the modeling of the selected deep learning model (CNN, RNN, GAN etc..) will be the next step using [Deep Learning Toolbox] (https://www.mathworks.com/help/deeplearning/index.html?searchHighlight=deep%20learning%20toolbox&amp;s_tid=srchtitle).
+
+| <img src=./DeepLearningModel.png width="500"  /> | 
 |:--:| 
-| ***Figure3**: Deep learning model * |
+| ***Figure3**: Deep learning model* |
+
 4.	Once the model has been trained the next step will be to test it using some test data that we can generate using our PLL model in Simulink.
 
 Project variations:
