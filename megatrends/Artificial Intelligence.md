@@ -1,6 +1,20 @@
 # Artificial Intelligence projects: 
 <table>
 <tbody>
+<td><img src="/images/Picture1.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Automatically%20Segment%20and%20Label%20Objects%20in%20Video">Automatically Segment and Label Objects in Video</a></h2></p>
+<p>Implement algorithms to automatically label data for deep learning model training</p>
+<p><strong>Impact</strong>: Accelerate the development of robust AI algorithms for self-driving vehicles.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Deep Learning, Machine Learning</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/PLL_using_DL.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Behavioral%20Modelling%20of%20Phase-Locked%20Loop%20using%20Deep%20Learning%20Techniques">Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques</a></h2></p>
+<p>Leverage a deep learning approach to extract behavioral models of mixed-signal systems from measurement data and circuit simulation.</p>
+<p><strong>Impact</strong>: Accelerate mixed-signal design and analysis thereby reducing Time-To-Market for semiconductor companies.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks, RF and Mixed Signal, Optimization, Signal Processing</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/backplane.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Integrity%20Channel%20Feature%20Extraction%20for%20Deep%20Learning">Signal Integrity Channel Feature Extraction for Deep Learning</a></h2></p>
 <p>Develop a deep learning approach for signal integrity applications. </p>

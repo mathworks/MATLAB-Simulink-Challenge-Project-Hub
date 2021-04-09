@@ -1,6 +1,13 @@
 # Computer Vision projects: 
 <table>
 <tbody>
+<td><img src="/images/Picture1.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Automatically%20Segment%20and%20Label%20Objects%20in%20Video">Automatically Segment and Label Objects in Video</a></h2></p>
+<p>Implement algorithms to automatically label data for deep learning model training</p>
+<p><strong>Impact</strong>: Accelerate the development of robust AI algorithms for self-driving vehicles.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Deep Learning, Machine Learning</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/utilities-energy-image-processing-and-deep-le.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection">Deep Learning for UAV Infrastructure Inspection</a></h2></p>
 <p>Automate the process of infrastructure inspection using unmanned aerial vehicles and deep learning.</p>
