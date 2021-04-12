@@ -55,6 +55,10 @@ Artificial Intelligence, Computer Vision, Deep Learning, Machine Learning
 
 Master's
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/33) to ask/answer questions, comment, or share your ideas for solutions for this project.
+
 ## Project Number
 
 203
