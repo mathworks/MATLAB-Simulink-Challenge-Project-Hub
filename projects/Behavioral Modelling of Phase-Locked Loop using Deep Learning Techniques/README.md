@@ -51,7 +51,7 @@ Suggested steps:
 |:--:| 
 | ***Figure2**: PLL simualtion in loop* |
 
-3.	Once the training data has been collected the modeling of the selected deep learning model (CNN, RNN, GAN etc..) will be the next step using [Deep Learning Toolbox] (https://www.mathworks.com/help/deeplearning/index.html?searchHighlight=deep%20learning%20toolbox&amp;s_tid=srchtitle).
+3.	Once the training data has been collected the modeling of the selected deep learning model (CNN, RNN, GAN etc..) will be the next step using [Deep Learning Toolbox](https://www.mathworks.com/help/deeplearning/index.html?searchHighlight=deep%20learning%20toolbox&amp;s_tid=srchtitle).
 
 | <img src=./DeepLearningModel.png width="500"  /> | 
 |:--:| 
@@ -94,6 +94,10 @@ Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulatio
 ## Project Difficulty
 
 Master's, Doctoral
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/32) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
