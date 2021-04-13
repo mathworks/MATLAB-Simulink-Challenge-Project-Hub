@@ -10,7 +10,7 @@
 
 In order to improve the accuracy of satellite navigation messages received at low Signal to Noise Ratio (SNR), non-binary low density parity check (LDPC) codes have been proposed in global navigation satellite systems.
 The LDPC codes are capacity approaching codes and now supersede Turbo codes. Satellite navigation systems use smaller navigational messages and regular LDPC codes used in a general wireless communication system,
-are not useful as they need longer message lengths. The navigation standards such as [Beidou](https://en.wikipedia.org/wiki/BeiDou) use smaller length non-binary or M-ary LDPC codes for forward error correction in navigation messages with M-bit code words. The structure of such LDPC codes is different from the regular LDPC codes that we use in other wireless standards and, encoder and decoding algorithms designed for them do not work. 
+are not useful as they need longer message lengths. The navigation standards such as [Beidou](https://en.wikipedia.org/wiki/BeiDou) use smaller length non-binary or M-ary LDPC codes for forward error correction in navigation messages with M-bit code words. The structure of such LDPC codes is different from the regular LDPC codes that we use in other wireless standards and, encoder and decoding algorithms designed for them do not work. Other proprietary navigation systems are also proposing the non-binary LDPC codes as the forward error correction schemes. The structure of such LDPC codes is different from the regular LDPC codes that we use in other wireless standards and, encoder and decoding algorithms designed for them do not work. There is a need to develop the efficient encoder and decoder algorithms for non-binary LDPC codes used in satellite navigation systems for improving the position estimation accuracy.
 
 ## Project Description
 
@@ -34,12 +34,12 @@ Suggested steps:
 -	Implement 64-ary LDPC encoder in MATLAB following the steps given in Annex [1] using GF arithmetic from Communications Toolbox.
 -	Test this encoder data using the reference values provided in [1].
 -	Implement a corresponding 64-ary LDPC decoder following the steps given in Annex [1].
--	Form the navigation message as shown in Figure 1 and pass it through 64-array LDPC encoder and perform BPSK modulation using BPSK modulator on the encoded data and pass through AWGN channel.  
+-	Form the navigation message as shown in Figure 1 and pass it through 64-array LDPC encoder and perform BPSK modulation using [BPSK modulator](https://in.mathworks.com/help/comm/ref/comm.bpskmodulator-system-object.html) on the encoded data and pass through AWGN channel.  
 -	Run a bit error rate (BER) simulation to benchmark the performance with standard provided results by replacing LDPC encoder and decoder functions in the [Communications Toolbox example](https://www.mathworks.com/help/comm/gs/accelerating-ber-simulations-using-the-parallel-computing-toolbox.html) with 64-ary LDPC encoder and decoder. 
 
 Advanced project work:
 
-Profile the MATLAB code using MATLAB profiler to improve the speed of execution by comparing it with that of binary LDPC code from Communications Toolbox.
+Profile the MATLAB code using [MATLAB profiler](https://in.mathworks.com/help/matlab/matlab_prog/profiling-for-improving-performance.html) to improve the speed of execution by comparing it with that of binary LDPC code from Communications Toolbox.
 Implement M-ary LDPC encoder and decoder to support other message lengths defined in Beidou standard.
 
 
