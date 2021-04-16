@@ -3,7 +3,7 @@
 <table>
 <td><img src="/images/ElectrificationAircraft.jpg"  width=500 /></td>
 <td><p><h1>Electrification of Aircraft</h1></p>
-<p> To help minimise human environmental impact and halt climate change, you will help guide a transition to green energy sources by evaluating electric aircraft energy requirements, power distribution options, and other electrical technologies. </p>
+<p>Evaluate electric aircraft energy requirements, power distribution options, and other electrical technologie. </p>
 </table>
 
 ## Motivation
