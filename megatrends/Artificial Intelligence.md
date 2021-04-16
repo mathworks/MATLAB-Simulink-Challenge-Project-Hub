@@ -8,7 +8,7 @@
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Deep Learning, Machine Learning</p></td>
 </tbody>
 <tbody>
-<td><img src="/images/PLL_using_DL.jpg"  width=500 /></td>
+<td><img src="/images/PLL_using_DL.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Behavioral%20Modelling%20of%20Phase-Locked%20Loop%20using%20Deep%20Learning%20Techniques">Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques</a></h2></p>
 <p>Leverage a deep learning approach to extract behavioral models of mixed-signal systems from measurement data and circuit simulation.</p>
 <p><strong>Impact</strong>: Accelerate mixed-signal design and analysis thereby reducing Time-To-Market for semiconductor companies.</p>

@@ -24,7 +24,7 @@ If you are faculty and interested in further information, to provide feedback, o
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: April 09, 2021*
+*Updated: April 16, 2021*
 <table>
 <tbody>
 <td><img src="/images/Picture1.png"  width=500 /></td>
@@ -34,7 +34,7 @@ If you are faculty and interested in further information, to provide feedback, o
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Deep Learning, Machine Learning</p></td>
 </tbody>
 <tbody>
-<td><img src="/images/PLL_using_DL.jpg"  width=500 /></td>
+<td><img src="/images/PLL_using_DL.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Behavioral%20Modelling%20of%20Phase-Locked%20Loop%20using%20Deep%20Learning%20Techniques">Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques</a></h2></p>
 <p>Leverage a deep learning approach to extract behavioral models of mixed-signal systems from measurement data and circuit simulation.</p>
 <p><strong>Impact</strong>: Accelerate mixed-signal design and analysis thereby reducing Time-To-Market for semiconductor companies.</p>
@@ -43,15 +43,16 @@ If you are faculty and interested in further information, to provide feedback, o
 <tbody>
 <td><img src="/images/ElectrificationHouse.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Electrification%20of%20Household%20Heating">Electrification of Household Heating</a></h2></p>
-<p>To help minimise human environmental impact and halt climate change, you will help guide a transition to green energy sources by evaluating electrical household heating technologies – to succeed it is essential that you provide clear, quantitative, data-driven conclusions underpinned by use of rigorous mathematical models and time-domain simulations. </p>
+<p>Build and evaluate an electrical household heating system to help minimize human environmental impact and halt climate change.</p>
 <p><strong>Impact</strong>: Contribute to the global transition to zero-emission energy sources by electrification of household heating.</p>
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Digital Twins, Electrification, Modeling and Simulation</p></td>
 </tbody>
 <tbody>
 <td><img src="/images/ElectrificationAircraft.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Electrification%20of%20Aircraft">Electrification of Aircraft</a></h2></p>
-<p>To help minimise human environmental impact and halt climate change, you will help guide a transition to green energy sources by evaluating electric aircraft energy requirements, power distribution options, and other electrical technologies. </p>
-<p><strong>Impact</strong>: Contribute to the global transition to zero-emission energy sources by electrification of flight. </p>
+<p>Evaluate electric aircraft energy requirements, power distribution options, and other electrical technologies. </p>
+<p><strong>Impact</strong>: Contribute to the global transition to zero-emission energy sources by electrification of flight. 
+</p>
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Digital Twins, Electrification, Modeling and Simulation, Zero-fuel Aircraft</p></td>
 </tbody>
 <tbody>
