@@ -3,7 +3,7 @@
 <table>
 <td><img src="/images/ElectrificationHouse.jpg"  width=500 /></td>
 <td><p><h1>Electrification of Household Heating</h1></p>
-<p> To help minimise human environmental impact and halt climate change, you will help guide a transition to green energy sources by evaluating electrical household heating technologies – to succeed it is essential that you provide clear, quantitative, data-driven conclusions underpinned by use of rigorous mathematical models and time-domain simulations. </p>
+<p> Build and evaluate an electrical household heating system to help minimize human environmental impact and halt climate change. </p>
 </table>
 
 ## Motivation
