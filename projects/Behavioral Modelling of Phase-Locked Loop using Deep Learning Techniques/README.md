@@ -51,13 +51,13 @@ Suggested steps:
 |:--:| 
 | ***Figure2**: PLL simualtion in loop* |
 
-3.	Once the training data has been collected the modeling of the selected deep learning model (CNN, RNN, GAN etc..) will be the next step using [Deep Learning Toolbox](https://www.mathworks.com/help/deeplearning/index.html?searchHighlight=deep%20learning%20toolbox&amp;s_tid=srchtitle).
+3.	Once the training data has been collected the modeling of the selected deep learning model (CNN, RNN, GAN etc..) will be the next step using [Deep Learning Toolbox™](https://www.mathworks.com/help/deeplearning/index.html?searchHighlight=deep%20learning%20toolbox&amp;s_tid=srchtitle).
 
 | <img src=./DeepLearningModel.png width="500"  /> | 
 |:--:| 
 | ***Figure3**: Deep learning model* |
 
-4.	Once the model has been trained the next step will be to test it using some test data that we can generate using our PLL model in Simulink.
+4.	Once the model has been trained the next step will be to test it using some test data that we can generate using our PLL model in Simulink®.
 
 Project variations:
 1.	Apply above steps for different mixed-signal systems like ADCs, DACs or CDRs.
