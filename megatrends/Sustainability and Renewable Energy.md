@@ -1,6 +1,13 @@
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
+<td><img src="/images/fuelCell.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Green%20Hydrogen%20Production">Green Hydrogen Production</a></h2></p>
+<p>Develop a model of a reversible fuel-cell integrated into a renewable-energy microgrid structure.</p>
+<p><strong>Impact</strong>: Contribute to the global transition to zero-emission energy sources through the production of hydrogen from clean sources.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Electrification, Digital Twins, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/ElectrificationHouse.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Electrification%20of%20Household%20Heating">Electrification of Household Heating</a></h2></p>
 <p>Build and evaluate an electrical household heating system to help minimize human environmental impact and halt climate change.</p>

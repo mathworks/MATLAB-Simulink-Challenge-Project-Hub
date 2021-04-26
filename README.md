@@ -24,8 +24,15 @@ If you are faculty and interested in further information, to provide feedback, o
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: April 16, 2021*
+*Updated: April 26, 2021*
 <table>
+<tbody>
+<td><img src="/images/fuelCell.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Green%20Hydrogen%20Production">Green Hydrogen Production</a></h2></p>
+<p>Develop a model of a reversible fuel-cell integrated into a renewable-energy microgrid structure.</p>
+<p><strong>Impact</strong>: Contribute to the global transition to zero-emission energy sources through the production of hydrogen from clean sources.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Electrification, Digital Twins, Modeling and Simulation</p></td>
+</tbody>
 <tbody>
 <td><img src="/images/Picture1.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Automatically%20Segment%20and%20Label%20Objects%20in%20Video">Automatically Segment and Label Objects in Video</a></h2></p>
