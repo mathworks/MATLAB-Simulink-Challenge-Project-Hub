@@ -15,23 +15,22 @@ In the U.S., the main sources of greenhouse gas emissions come from transportati
 You will develop a reversible fuel-cell model using [Simscape™]( https://www.mathworks.com/products/simscape.html), which has the ability to act as an electricity generator or electrolyzer. You will integrate this model into a renewable-energy microgrid structure and explore various operational profiles and system configurations that permit a thorough evaluation of energy and sizing requirements to meet certain hydrogen production goals. You will use the models to provide informed, data-driven comparisons and recommendations as to the most promising configurations and supporting technologies. 
 
 Suggested steps:
-1.	Become familiar with existing models (links below) and use these as the basis for your project – in particular, build the model out to be a three-phase representation and integrate solar power and energy storage. 
-2.	Create a reversible fuel-cell model using the Simscape Language and integrate into the model developed in 1. 
+1. Become familiar with existing models (links below) and use these as the basis for your project – in particular, build the model out to be a three-phase representation and integrate solar power and energy storage. 
+2. Create a reversible fuel-cell model using the Simscape Language and integrate into the model developed in 1. 
 
 Project variations: 
-1.	Build models of different fidelity levels, in order to evaluate scenarios ranging from longer-term system response over days or weeks to short-term behavior over micro-seconds to seconds to evaluate the impact of power electronic switching through to thermal response. 
-2.	Calculate expected efficiency and power requirements for a number of operational scenarios. 
-3.	Write-up data driven recommendations to influence each of: 
-        1.	Industry – should the technology you investigated be further developed and why? 
-        2.	Government – shape government policy to direct investment and leverage the benefits of clean technologies.  
-
+1. Build models of different fidelity levels, in order to evaluate scenarios ranging from longer-term system response over days or weeks to short-term behavior over micro-seconds to seconds to evaluate the impact of power electronic switching through to thermal response. 
+2. Calculate expected efficiency and power requirements for a number of operational scenarios. 
+3. Write up data-drive recommendations to influence each of:
+	1. Industry – should the technology you investigated be further developed and why?
+	2. Government – shape government policy to direct investment and leverage the benefits of clean technologies.
 
 ## Background Material
 
 -	[Solar Power Inverter](https://www.mathworks.com/help/physmod/sps/ug/solar-power-inverter.html?searchHighlight=solar%20power&s_tid=srchtitle)
 -	[Battery Pack Design Solution for Battery EVs in Simscape](https://www.mathworks.com/matlabcentral/fileexchange/82330-battery-pack-design-solution-for-battery-evs-in-simscape?s_tid=srchtitle)
--	[Single-Phase Grid-Connected Solar Photovoltaic System] https://www.mathworks.com/help/physmod/sps/ug/single-phase-grid-connected-in-pv-system.html;jsessionid=18bb3d060d6b3a4f0118599e9196
--	[PEM Fuel Cell System] https://www.mathworks.com/help/physmod/simscape/ug/pem-fuel-cell-system.html?searchHighlight=fuel%20cell&s_tid=srchtitle
+-	[Single-Phase Grid-Connected Solar Photovoltaic System](https://www.mathworks.com/help/physmod/sps/ug/single-phase-grid-connected-in-pv-system.html)
+-	[PEM Fuel Cell System](https://www.mathworks.com/help/physmod/simscape/ug/pem-fuel-cell-system.html?searchHighlight=fuel%20cell&s_tid=srchtitle)
 
 ## Impact
 
