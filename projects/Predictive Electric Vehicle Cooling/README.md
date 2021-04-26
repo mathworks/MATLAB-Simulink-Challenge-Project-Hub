@@ -14,7 +14,7 @@ Predictively cooling the pack based on expected thermal demands can help keep it
 
 ## Project Description
 
-Work with [Simscape Fluids™](https://www.mathworks.com/products/simscape-fluids.html) to create a plant and predictive controller for EV cooling system with dynamic loads using MATLAB® and Simulink®. 
+Work with [Simscape™ Fluids™](https://www.mathworks.com/products/simscape-fluids.html) to create a plant and predictive controller for EV cooling system with dynamic loads using MATLAB® and Simulink®. 
 The model should be detailed enough to capture important dynamics. Dynamic loads include outside environmental conditions, fast charging, and rapid acceleration/deceleration. Demonstrate that the predictive control system can keep battery temperature in the desired range. Demonstrate whether the control can allow for a greater performance envelope for motor loads and fast charging. Compute the change in energy requirement from operating the cooling system predictively vs. reactively.
 
 Suggested steps:
