@@ -13,7 +13,7 @@ Properly constructed models can help predict behavior in physical systems, espec
 
 ## Project Description
 
-Work with [Simscape Driveline™](https://www.mathworks.com/products/simscape-driveline.html) to create a plant and fault model for wind turbines using MATLAB® and Simulink®. 
+Work with [Simscape™ Driveline™](https://www.mathworks.com/products/simscape-driveline.html) to create a plant and fault model for wind turbines using MATLAB® and Simulink®. 
 The model should be detailed enough to capture important dynamics.
 Demonstrate that out of spec performance and component failure can be predicted by identifying data that varies but is still within spec.
 Determine the most useful set of sensors to ensure that predictive maintenance is possible without adding too much cost and complexity.
@@ -44,7 +44,7 @@ Contribute to providing the world with reliable green energy.
 
 ## Expertise Gained 
 
-Industry 4.0, Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines
+Industry 4.0, Sustainability and Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines
 
 
 ## Project Difficulty
