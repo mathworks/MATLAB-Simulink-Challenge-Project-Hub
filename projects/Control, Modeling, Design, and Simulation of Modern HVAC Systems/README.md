@@ -36,7 +36,7 @@ Contribute to the design and control of modern homes and buildings to preserve e
 
 ## Expertise Gained 
 
-Renewable Energy, Modeling and Simulation, Electrification, Control
+Sustainability and Renewable Energy, Modeling and Simulation, Electrification, Control
 
 
 ## Project Difficulty
