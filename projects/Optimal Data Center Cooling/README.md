@@ -13,7 +13,7 @@ Intelligently cooling data centers given an understanding of the heat loads and 
 
 ## Project Description
 
-Work with [Simscape Fluids™](https://www.mathworks.com/products/simscape-fluids.html) to create a plant and controller for a data center cooling system with dynamic loads using MATLAB® and Simulink®. The model should be detailed enough to capture important dynamics.
+Work with [Simscape™ Fluids™](https://www.mathworks.com/products/simscape-fluids.html) to create a plant and controller for a data center cooling system with dynamic loads using MATLAB® and Simulink®. The model should be detailed enough to capture important dynamics.
 Dynamic loads include outside environmental conditions and server loads. The heat generated should vary with load and temperature.
 The cooling system should have a level of fidelity that includes performance under various operating conditions. 
 A baseline thermostatic controller should be developed, and this should be improved with predictive or more intelligent control.
