@@ -69,7 +69,7 @@ Contribute to energy and carbon footprint reduction.
 
 ## Expertise Gained 
 
-Renewable Energy, Control, Modeling and Simulation, Optimization 
+Sustainability and Renewable Energy, Control, Modeling and Simulation, Optimization 
 
 ## Project Difficulty
 
