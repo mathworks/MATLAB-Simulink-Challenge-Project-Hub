@@ -53,7 +53,7 @@ Contribute to the global transition to zero-emission energy source.
 
 ## Expertise Gained
 
-Renewable Energy, Control, Electrification, Optimization, Parallel Computing
+Sustainability and Renewable Energy, Control, Electrification, Optimization, Parallel Computing
 
 ## Project Difficulty
 
