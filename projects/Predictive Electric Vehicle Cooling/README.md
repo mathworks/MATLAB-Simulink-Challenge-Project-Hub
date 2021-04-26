@@ -43,7 +43,7 @@ Contribute to the electrification of transport worldwide. Increase the range, pe
 
 ## Expertise Gained 
 
-Renewable Energy, Autonomous Vehicles, Automotive, Control, Electrification, Modeling and Simulation, Optimization
+Sustainability and Renewable Energy, Autonomous Vehicles, Automotive, Control, Electrification, Modeling and Simulation, Optimization
 
 
 ## Project Difficulty
