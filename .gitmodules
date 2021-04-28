@@ -7,3 +7,6 @@
 [submodule "projects/MIMO Engine Airpath Control\\project solutions"]
 	path = projects/MIMO Engine Airpath Control\\project solutions
 	url = https://github.com/YorkPatty/T513---SIEngineDynamometer
+[submodule "projects/MIMO Engine Airpath Control/solutions/T513---SIEngineDynamometer"]
+	path = projects/MIMO Engine Airpath Control/solutions/T513---SIEngineDynamometer
+	url = https://github.com/YorkPatty/T513---SIEngineDynamometer
