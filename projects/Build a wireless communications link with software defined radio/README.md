@@ -47,7 +47,7 @@ Project variations:
 
 4.  Once the timing loop is verified, use a modulation scheme that does require carrier synchronization, like PSK or QAM.
 
-5.  If you prefer to start with an OFDM system, consider using the Schmidl-Cox algorithm ([[1]](#schmidl) 
+5.  If you prefer to start with an OFDM system, consider using the Schmidl-Cox algorithm ([[1]](#schmidl)). 
 
 Advanced project work:
 
