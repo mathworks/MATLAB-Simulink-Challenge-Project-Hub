@@ -90,13 +90,13 @@ Artificial Intelligence, Deep Learning, Neural Networks, Signal Processing
 
 Bachelor, Master's, Doctoral 
 
-## Proposed By
-
-[jibrahim](https://github.com/jibrahim80)
-
 ## Project Discussion
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/24) to ask/answer questions, comment, or share your ideas for solutions for this project.
+
+## Proposed By
+
+[jibrahim](https://github.com/jibrahim80)
 
 ## Project Number
 
