@@ -37,6 +37,22 @@ Suggested steps:
 
 7.  Continue from there to optimize your design for selected criteria such as throughput, or reliability, or security, or your own design criterion.
 
+Project variations:
+
+1.  Start with a single-carrier modulation scheme that requires no carrier synchronization, like DPSK.
+
+2.  Heavily oversample the signal, so that timing synchronization is straightforward.
+
+3.  Once that link is built and verified, reduce the oversampling so that a timing sync loop is required.
+
+4.  Once the timing loop is verified, use a modulation scheme that does require carrier synchronization, like PSK or QAM.
+
+5.  If you prefer to start with an OFDM system, consider using the Schmidl-Cox algorithm ([[1]](#schmidl) 
+
+Advanced project work:
+
+Develop an ad hoc network with multiple transceiver nodes and OFDM as the underlying PHY.  See [Packetized Modem with Data Link Layer](https://www.mathworks.com/help/comm/ug/packetized-modem-with-data-link-layer.html) for reference.  
+
 ## Background Material
 
 - [Software-Defined Radio (SDR)](https://www.mathworks.com/discovery/sdr.html)
@@ -46,6 +62,9 @@ Suggested steps:
 - [QPSK Receiver with USRP Hardware - MATLAB](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-receiver-with-usrp-r-hardware.html)
 - [QPSK Transmitter with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-transmitter-with-usrp-r-hardware-1.html)
 - [QPSK Receiver with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-receiver-with-usrp-r-hardware-1.html)
+
+Suggested readings:
+<a name="schmidl"></a>[1] Timothy M. Schmidl and Donald C. Cox, "Robust Frequency and Timing Synchronization for OFDM", IEEE Transactions on Communications, Vol. 45, No. 12, December 1997.
 
 ## Impact
 
