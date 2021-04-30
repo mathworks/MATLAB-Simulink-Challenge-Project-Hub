@@ -92,7 +92,7 @@ Bachelor, Master's, Doctoral
 
 ## Proposed By
 
-[jibrahim](https://github.com/jibrahim80
+[jibrahim](https://github.com/jibrahim80)
 
 ## Project Discussion
 
