@@ -53,6 +53,10 @@ Advance long distance communication capabilities for astronomical applications
 
 Master's
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/36) to ask/answer questions, comment, or share your ideas for solutions for this project.
+
 ## Project Number
 
 205
