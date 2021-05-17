@@ -32,17 +32,17 @@ Advanced project work:
 
 ## Background Material
 
-[1] A. Cidronali, et. al., " Analysis and Performance of a Smart Antenna for 2.45-GHz Single-Anchor Indoor Positioning," IEEE Transactions on Microwave Theory and Techniques, 58 (1):2010. 
+- [Antenna Toolbox](https://www.mathworks.com/help/antenna/)
+- [Optimization Toolbox](https://www.mathworks.com/products/optimization.html)
+- [RF Propagation and Visualization](https://www.mathworks.com/help/antenna/gs/rf-propagation-and-visualization.html)
 
-[2] X. Wu, et.al., " 60-GHz Millimeter-Wave Channel Measurements and Modeling for Indoor Office Environments" IEEE Transactions on Antennas and Propagation, 65(4): 2017. 
+Suggested readings:
 
-[3] Z. Genc, et.al.,” Robust 60 GHz Indoor Connectivity: Is It Possible with Reflections?”, 2010 IEEE 71st Vehicular Technology Conference, 2010. 
+[1] A. Cidronali, et. al., "Analysis and Performance of a Smart Antenna for 2.45-GHz Single-Anchor Indoor Positioning", IEEE Transactions on Microwave Theory and Techniques, 58 (1):2010. 
 
-[4] Antenna Toolbox.(https://www.mathworks.com/help/antenna/)
+[2] X. Wu, et.al., "60-GHz Millimeter-Wave Channel Measurements and Modeling for Indoor Office Environments", IEEE Transactions on Antennas and Propagation, 65(4): 2017. 
 
-[5] Optimization Toolbox.(https://www.mathworks.com/products/optimization.html) 
-
-[6] RF Propagation and Visualization.(https://www.mathworks.com/help/antenna/gs/rf-propagation-and-visualization.html).  
+[3] Z. Genc, et.al.,"Robust 60 GHz Indoor Connectivity: Is It Possible with Reflections?”, 2010 IEEE 71st Vehicular Technology Conference, 2010. 
 
 ## Impact
 
