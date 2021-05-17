@@ -31,8 +31,8 @@ Advanced project work:
 
 ## Background Material
 
--	[Real-time Trajectory Optimization for Autonomous Vehicle Racing] (https://github.com/janismac/RacingTrajectoryOptimization)
--	[Solving Optimization Problems with MATLAB] (https://www.youtube.com/watch?v=4wgI3-RQqTY).
+-	[Real-time Trajectory Optimization for Autonomous Vehicle Racing](https://github.com/janismac/RacingTrajectoryOptimization)
+-	[Solving Optimization Problems with MATLAB](https://www.youtube.com/watch?v=4wgI3-RQqTY).
 -	[Optimization Toolbox](https://www.mathworks.com/products/global-optimization.html)  
 -	[Global Optimization Toolbox](https://www.mathworks.com/products/global-optimization.html)
 -	[Design, simulate, and deploy path planning algorithms](https://www.mathworks.com/discovery/path-planning.html)
