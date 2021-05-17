@@ -47,7 +47,7 @@ Advance long distance communication capabilities for astronomical applications
 
 ## Expertise Gained 
 
-Large Antenna Array, Smart Antennas, Wireless Communication, Optimization
+5G, Smart Antennas, Wireless Communication, Optimization
 
 ## Project Difficulty
 
