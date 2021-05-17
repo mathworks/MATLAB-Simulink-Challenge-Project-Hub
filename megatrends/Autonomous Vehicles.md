@@ -1,6 +1,13 @@
 # Autonomous Vehicles projects: 
 <table>
 <tbody>
+<td><img src="/images/ImagePathPlanning.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Path%20Planning%20for%20Autonomous%20Race%20Cars">Path Planning for Autonomous Race Cars</a></h2></p>
+<p>Develop an algorithm to compute an optimal path for racing tracks. </p>
+<p><strong>Impact</strong>: Push racing car competitions into fully autonomous mode </p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Optimization, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/electricVehicle.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Predictive%20Electric%20Vehicle%20Cooling">Predictive Electric Vehicle Cooling</a></h2></p>
 <p>Improve range, performance, and battery life by designing a cooling algorithm that keep EV battery packs cool when they need it most.</p>

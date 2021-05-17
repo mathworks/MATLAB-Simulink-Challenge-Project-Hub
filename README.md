@@ -11,8 +11,6 @@ Make the results of your work open and accessible to receive a certificate and e
 
 If you are faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UNU8xUzJQUU0xQ0FBQkNFSjkwTE5aQ0o1Ry4u)</strong>.
 
-If you are in industry and interested in nominating a new project, please fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UOFNSTTZIWk83M0g5RTlHMEhMNFUyR1EwQS4u)</strong>.
-
 ## Projects by technology trends 
 - [5G](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/5G.md)
 - [Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
@@ -26,8 +24,36 @@ If you are in industry and interested in nominating a new project, please fill o
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: April 26, 2021*
+*Updated: May 17, 2021*
 <table>
+<tbody>
+<td><img src="/images/ImagePathPlanning.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Path%20Planning%20for%20Autonomous%20Race%20Cars">Path Planning for Autonomous Race Cars</a></h2></p>
+<p>Develop an algorithm to compute an optimal path for racing tracks. </p>
+<p><strong>Impact</strong>: Push racing car competitions into fully autonomous mode </p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Optimization, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/treadmill.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Disturbance%20Rejection%20Control%20for%20PMSM%20Motors">Disturbance Rejection Control for PMSM Motors </a></h2></p>
+<p>Implement Active Disturbance Rejection Control (ADRC) algorithm for closed-loop speed control system for a Permanent Magnet Synchronous Motors (PMSM).</p>
+<p><strong>Impact</strong>: Improve the customer experience with advanced control strategies to handle the sudden changes in the load with better dynamic control performance.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Electrification, Control, Modeling and Simulation, Reinforcement Learning</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/indoor_propagation.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimizing%20Antenna%20Performance%20in%20an%20Indoor%20Propagation%20Environment">Optimizing Antenna Performance in an Indoor Propagation Environment</a></h2></p>
+<p>Design an antenna to optimize transmission and reception in indoor environment</p>
+<p><strong>Impact</strong>: Maximize indoor radio signal coverage and reduce energy consumption of signal booster devices.</p>
+<p><strong>Expertise gained</strong>: 5G, Optimization, Smart Antennas, Wireless Communication</p></td>
+</tbody>
+<tbody>
+<td><img src="/images/space-systems-communications.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimization%20of%20Large%20Antenna%20Arrays%20for%20Astronomical%20Applications">Optimization of Large Antenna Arrays for Astronomical Applications</a></h2></p>
+<p>Design a large antenna array and optimize its multiple design variables to achieve desired transmission/reception characteristics.  </p>
+<p><strong>Impact</strong>: Advance long distance communication capabilities for astronomical applications  </p>
+<p><strong>Expertise gained</strong>: 5G, Smart Antennas, Wireless Communication, Optimization</p></td>
+</tbody>
 <tbody>
 <td><img src="/images/fuelCell.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Green%20Hydrogen%20Production">Green Hydrogen Production</a></h2></p>

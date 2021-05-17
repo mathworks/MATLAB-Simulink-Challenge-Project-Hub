@@ -1,6 +1,13 @@
 # Artificial Intelligence projects: 
 <table>
 <tbody>
+<td><img src="/images/treadmill.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Disturbance%20Rejection%20Control%20for%20PMSM%20Motors">Disturbance Rejection Control for PMSM Motors </a></h2></p>
+<p>Implement Active Disturbance Rejection Control (ADRC) algorithm for closed-loop speed control system for a Permanent Magnet Synchronous Motors (PMSM).</p>
+<p><strong>Impact</strong>: Improve the customer experience with advanced control strategies to handle the sudden changes in the load with better dynamic control performance.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Electrification, Control, Modeling and Simulation, Reinforcement Learning</p></td>
+</tbody>
+<tbody>
 <td><img src="/images/Picture1.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Automatically%20Segment%20and%20Label%20Objects%20in%20Video">Automatically Segment and Label Objects in Video</a></h2></p>
 <p>Implement algorithms to automatically label data for deep learning model training</p>
