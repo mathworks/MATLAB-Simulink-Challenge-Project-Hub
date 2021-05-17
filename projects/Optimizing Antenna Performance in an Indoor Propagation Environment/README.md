@@ -57,6 +57,10 @@ Maximize indoor radio signal coverage and reduce energy consumption of signal bo
 
 Master's
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/37) to ask/answer questions, comment, or share your ideas for solutions for this project.
+
 ## Project Number
 
 206
