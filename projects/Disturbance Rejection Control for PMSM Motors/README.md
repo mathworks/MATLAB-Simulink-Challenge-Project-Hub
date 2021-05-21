@@ -1,7 +1,7 @@
 **Project 207:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="/images/treadmill.jpg"  width=500 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/treadmill.jpg"  width=500 /></td>
 <td><p><h1>Disturbance Rejection Control for PMSM Motors </h1></p>
 <p> Implement Active Disturbance Rejection Control (ADRC) algorithm for closed-loop speed control system for a Permanent Magnet Synchronous Motors (PMSM).</p>
 </table>
