@@ -1,7 +1,7 @@
 **Project 208:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="/images/ImagePathPlanning.png"  width=500 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/ImagePathPlanning.png"  width=500 /></td>
 <td><p><h1>Path Planning for Autonomous Race Cars</h1></p>
 <p> Develop an algorithm to compute an optimal path for racing tracks. </p>
 </table>
