@@ -1,7 +1,7 @@
 **Project 206:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="/images/indoor_propagation.jpg"  width=500 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/indoor_propagation.jpg"  width=500 /></td>
 <td><p><h1>Optimizing Antenna Performance in an Indoor Propagation Environment</h1></p>
 <p> Design an antenna to optimize transmission and reception in indoor environment</p>
 </table>
