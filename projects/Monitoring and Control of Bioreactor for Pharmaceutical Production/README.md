@@ -1,7 +1,7 @@
 **Project 188:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="/images/bioreactor.jpg"  width=500 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/bioreactor.jpg"  width=500 /></td>
 <td><p><h1>Monitoring and Control of Bioreactor for Pharmaceutical Production</h1></p>
 <p>Monitor and control an industrial scale bioreactor process for pharmaceutical production.</p>
 </table>
