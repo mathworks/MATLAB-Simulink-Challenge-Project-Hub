@@ -1,7 +1,7 @@
 **Project 162:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="/images/SDR.png"  width=500 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/SDR.png"  width=500 /></td>
 <td><p><h1>Build a Wireless Communications Link with Software-Defined Radio</h1></p>
 <p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
 </table>

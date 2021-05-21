@@ -1,7 +1,7 @@
 **Project 30:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the rewards
 
 <table>
-<td><img src="/images/raspbpi.png"  width=400 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/raspbpi.png"  width=400 /></td>
 <td><p><h1>Voice Controlled Robot</h1></p>
 <p>Smart devices and robots are nowadays part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market.</p>
 </table>

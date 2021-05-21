@@ -1,7 +1,7 @@
 **Project 171:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="/images/virtualWorld.png"  width=500 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/virtualWorld.png"  width=500 /></td>
 <td><p><h1>3D Virtual Test Track for Autonomous Driving</h1></p>
 <p> Design a 3D virtual environment to test the diverse conditions needed to develop an autonomous vehicle. </p>
 </table>

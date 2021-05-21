@@ -1,7 +1,7 @@
 **Project 170:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="/images/humanoidRobot.png"  width=500 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/humanoidRobot.png"  width=500 /></td>
 <td><p><h1>Simulation-Based Design of Humanoid Robots</h1></p>
 <p> Develop and use models of humanoid robots to increase understanding of how best to control them and direct them to do useful tasks.</p>
 </table>
