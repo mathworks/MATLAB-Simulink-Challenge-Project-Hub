@@ -1,7 +1,7 @@
 **Project 193:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="/images/HearingAid.PNG"  width=500 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/HearingAid.PNG"  width=500 /></td>
 <td><p><h1>Speech Background Noise Suppression with Deep Learning</h1></p>
 <p> Develop a deep learning neural network for audio background noise suppression.</p>
 </table>
