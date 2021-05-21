@@ -1,7 +1,7 @@
 **Project 205:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="/images/space-systems-communications.jpg"  width=500 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/space-systems-communications.jpg"  width=500 /></td>
 <td><p><h1>Optimization of Large Antenna Arrays for Astronomical Applications</h1></p>
 <p> Design a large antenna array and optimize its multiple design variables to achieve desired transmission/reception characteristics.  </p>
 </table>
