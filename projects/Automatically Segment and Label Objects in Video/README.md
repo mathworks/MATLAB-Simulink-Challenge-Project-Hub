@@ -1,7 +1,7 @@
 **Project 203:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="/images/Picture1.png"  width=500 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/Picture1.png"  width=500 /></td>
 <td><p><h1>Automatically Segment and Label Objects in Video</h1></p>
 <p> Implement algorithms to automatically label data for deep learning model training</p>
 </table>
