@@ -26,7 +26,7 @@ If you are in industry and interested in nominating a new project, please fill o
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: May 17, 2021*
+*Updated: May 24, 2021*
 <table>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/9d08368ee566e9c9d80087616e2710dd744502b6/ImagePathPlanning.png"  width=500 /></td>
@@ -184,7 +184,7 @@ If you are in industry and interested in nominating a new project, please fill o
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Control, Modeling and Simulation, Optimization</p></td>
 </tbody>
 <tbody>
-<td><img src="hhttps://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/9d08368ee566e9c9d80087616e2710dd744502b6/wireless.jpg"  width=500 /></td>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/9d08368ee566e9c9d80087616e2710dd744502b6/wireless.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Coverage%20Maps%20Using%20Measurements%20and%20Machine%20Learning">Signal Coverage Maps Using Measurements and Machine Learning</a></h2></p>
 <p>Reduce the cost of 5G and IoT network deployment by generating coverage maps from limited measurements.</p>
 <p><strong>Impact</strong>: Contribute to the evolution and deployment of new wireless communications systems.</p>

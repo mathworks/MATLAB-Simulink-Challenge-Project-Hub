@@ -1,7 +1,7 @@
 **Project 196:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/9d08368ee566e9c9d80087616e2710dd744502b6/data center.jpg"  width=500 /></td>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/data center.jpg"  width=500 /></td>
 <td><p><h1>Optimal Data Center Cooling</h1></p>
 <p> Improve performance, stability, and cost effectiveness of data centers by designing a cooling algorithm that keeps the system running as efficiently as possible.</p>
 </table>
