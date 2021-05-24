@@ -1,7 +1,7 @@
 **Project 142:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the rewards
 
 <table>
-<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/battery.jpg"  width=400 /></td>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/9d08368ee566e9c9d80087616e2710dd744502b6/battery.jpg"  width=400 /></td>
 <td><p><h1>Battery Pack Design Automation</h1></p>
 <p>Reduce the effort required to properly develop a battery pack and contribute to the global transition to zero-emission energy source.</p>
 </table>

@@ -1,7 +1,7 @@
 **Project 195:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/HVAC.jpg"  width=500 /></td>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/9d08368ee566e9c9d80087616e2710dd744502b6/HVAC.jpg"  width=500 /></td>
 <td><p><h1>Control, Modeling, Design, and Simulation of Modern HVAC Systems</h1></p>
 <p> Model a modern HVAC system and design a controller to improve heating, cooling, ventilation, air quality, pressure, humidity, and energy efficiency.</p>
 </table>
