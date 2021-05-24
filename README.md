@@ -29,7 +29,7 @@ If you are in industry and interested in nominating a new project, please fill o
 *Updated: May 17, 2021*
 <table>
 <tbody>
-<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/ImagePathPlanning.png"  width=500 /></td>
+<td><img src="https://github.com/robertogl/MathWorks-Excellence-in-Innovation-Images/blob/main/images/ImagePathPlanning.png?token=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"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Path%20Planning%20for%20Autonomous%20Race%20Cars">Path Planning for Autonomous Race Cars</a></h2></p>
 <p>Develop an algorithm to compute an optimal path for racing tracks. </p>
 <p><strong>Impact</strong>: Push racing car competitions into fully autonomous mode </p>
