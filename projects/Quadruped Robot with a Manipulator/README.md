@@ -1,6 +1,6 @@
 **Project 29:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the rewards
 <table>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/quadruped.png"  width=400 /></td>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/quadruped.png"  width=500 /></td>
 <td><p><h1>Quadruped Robot with a Manipulator</h1></p>
 <p>Legged robots with manipulators will be the ideal platforms to traverse rough terrains and interact with the environment. Are you ready to tackle the challenge of operating robots outdoor?</p>
 </table>
