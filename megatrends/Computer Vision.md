@@ -1,6 +1,13 @@
 # Computer Vision projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/rover.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain">Autonomous Navigation for Vehicles in Rough Terrain </a></h2></p>
+<p>Design and implement a motion planning algorithm for off-road vehicles on rough terrain.</p>
+<p><strong>Impact</strong>: Expand the frontiers of off-road exploration and navigation using mobile robots for precision agriculture, firefighting, search and rescue, and planetary exploration. </p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Robotics, Image Processing, Mobile Robots, SLAM, UGV, Optimization</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Picture1.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Automatically%20Segment%20and%20Label%20Objects%20in%20Video">Automatically Segment and Label Objects in Video</a></h2></p>
 <p>Implement algorithms to automatically label data for deep learning model training</p>
