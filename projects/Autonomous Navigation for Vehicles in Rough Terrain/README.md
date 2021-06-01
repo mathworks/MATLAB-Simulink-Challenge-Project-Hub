@@ -23,12 +23,12 @@ Suggested steps:
 5.	Pick/create an algorithm for motion planning which ensures stability of the vehicle.  i.e. takes care of roll, pitch, elevation constraints forced by the terrain 
 6.	Implement the chosen/created algorithm as a MATLAB function and replace A* or PRM in the above examples
 7.	Add sensor to the vehicle for sensing the environment, such as Lidar or Camera. Read sensor data from gazebo [Perform Co-Simulation between Simulink and Gazebo ](https://www.mathworks.com/help/robotics/ug/perform-co-simulation-between-simulink-and-gazebo.html)
-8.	Create map using sensor data (Easy: [Insert lidar pointcloud to 3D map] (https://www.mathworks.com/help/nav/ref/occupancymap3d.insertpointcloud.html). Advanced: see example section below)
+8.	Create map using sensor data (Easy: [Insert lidar pointcloud to 3D map](https://www.mathworks.com/help/nav/ref/occupancymap3d.insertpointcloud.html). Advanced: see example section below)
 9.	Integrate modules
 10.	Demo the vehicle using the pure pursuit algorithm to follow the path/trajectory from point A to point B using Simulink and Gazebo
 
 Project Variations:
-1.	Different domain (mining, construction, etc.) and different vehicles (front loaders, digging machines, combines (agriculture harvesters)) 
+1.	Different domain (mining, construction, etc.) and different vehicles (front loaders, digging machines, combines (agriculture harvesters) 
 2.	Different path following controllers such as model predictive controller (MPC)
 
 Advanced research work:
@@ -71,6 +71,9 @@ Autonomous Vehicles, Computer Vision, Robotics, Image Processing, Mobile Robots,
 ## Project Difficulty
 
 Bachelor, Master's, Doctoral
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/40) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
