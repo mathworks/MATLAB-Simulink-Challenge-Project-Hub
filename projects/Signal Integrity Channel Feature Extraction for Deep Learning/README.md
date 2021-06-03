@@ -95,6 +95,10 @@ Master's, Doctoral
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/29) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
+## Proposed By 
+
+[richardallredmathworks](https://github.com/richardallredmathworks)
+
 ## Project Number
 
 198
