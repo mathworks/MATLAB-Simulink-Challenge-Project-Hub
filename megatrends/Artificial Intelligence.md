@@ -1,6 +1,13 @@
 # Artificial Intelligence projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Recognition%20and%20Human%20Tracking%20Robot">Face Recognition and Human Tracking Robot</a></h2></p>
+<p>Design and implement a real time autonomous human tracking robot using low-cost hardware. Human-robot interaction is important in many computer vision applications, including activity recognition, automotive safety, smart home security applications and surveillance.</p>
+<p><strong>Impact</strong>: Leverage mobile technology and deep learning to advance face recognition algorithms for impacting human safety and security.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/treadmill.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Disturbance%20Rejection%20Control%20for%20PMSM%20Motors">Disturbance Rejection Control for PMSM Motors </a></h2></p>
 <p>Implement Active Disturbance Rejection Control (ADRC) algorithm for closed-loop speed control system for a Permanent Magnet Synchronous Motors (PMSM).</p>

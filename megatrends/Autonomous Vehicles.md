@@ -1,6 +1,27 @@
 # Autonomous Vehicles projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Robust%20Visual%20SLAM%20Using%20MATLAB%20Mobile%20Sensor%20Streaming">Robust Visual SLAM Using MATLAB Mobile Sensor Streaming</a></h2></p>
+<p>Perform robust visual SLAM using MATLAB Mobile sensor streaming</p>
+<p><strong>Impact</strong>: Enable visual SLAM from streaming sensors and extend the state-of-art in real-time visual SLAM algorithms.</p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Drones, Robotics, Automotive, AUV, Mobile Robots, Manipulators, Humanoid, UAV, UGV</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/warehouseRobotics.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Warehouse%20Robotics%20Simulation">Warehouse Robotics Simulation</a></h2></p>
+<p>Simulate multirobot interactions for efficient algorithm design and warehouse operations.</p>
+<p><strong>Impact</strong>: Advance the automation of warehouse applications and reduce associated time and energy consumption.  </p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Robotics, Human-Robot Interaction, Humanoid, Mobile Robots</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SARPicture.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Synthetic%20Aperture%20Radar%20(SAR)%20Simulator">Synthetic Aperture Radar (SAR) Simulator </a></h2></p>
+<p>Naivedya Mishra</p>
+<p><strong>Impact</strong>: Accelerate design of SAR imaging systems and reduce time and cost for their development for aerial and terrestrial applications</p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, AUV, Image Processing, Signal Processing, Radar Processing</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/rover.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain">Autonomous Navigation for Vehicles in Rough Terrain </a></h2></p>
 <p>Design and implement a motion planning algorithm for off-road vehicles on rough terrain.</p>

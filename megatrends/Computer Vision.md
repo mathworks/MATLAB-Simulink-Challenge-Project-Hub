@@ -1,6 +1,27 @@
 # Computer Vision projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Recognition%20and%20Human%20Tracking%20Robot">Face Recognition and Human Tracking Robot</a></h2></p>
+<p>Design and implement a real time autonomous human tracking robot using low-cost hardware. Human-robot interaction is important in many computer vision applications, including activity recognition, automotive safety, smart home security applications and surveillance.</p>
+<p><strong>Impact</strong>: Leverage mobile technology and deep learning to advance face recognition algorithms for impacting human safety and security.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Robust%20Visual%20SLAM%20Using%20MATLAB%20Mobile%20Sensor%20Streaming">Robust Visual SLAM Using MATLAB Mobile Sensor Streaming</a></h2></p>
+<p>Perform robust visual SLAM using MATLAB Mobile sensor streaming</p>
+<p><strong>Impact</strong>: Enable visual SLAM from streaming sensors and extend the state-of-art in real-time visual SLAM algorithms.</p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Drones, Robotics, Automotive, AUV, Mobile Robots, Manipulators, Humanoid, UAV, UGV</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/hyperspectralimage.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Change%20Detection%20in%20Hyperspectral%20Imagery">Change Detection in Hyperspectral Imagery</a></h2></p>
+<p>Develop an efficient method for detecting small changes on Earth surface using hyperspectral images. </p>
+<p><strong>Impact</strong>: Revolutionize the management of natural resources, monitoring, and preventing of disasters, going beyond what is visible to the naked eye.</p>
+<p><strong>Expertise gained</strong>: Computer Vision, Image Processing, Deep Learning</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/rover.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain">Autonomous Navigation for Vehicles in Rough Terrain </a></h2></p>
 <p>Design and implement a motion planning algorithm for off-road vehicles on rough terrain.</p>
