@@ -61,7 +61,7 @@ Accelerate design of SAR imaging systems and reduce time and cost for their deve
 
 ## Expertise Gained 
 
-Autonomous Vehicles, Automotive,AUV,Image Processing,Signal Processing,Radar Processin
+Autonomous Vehicles, Automotive, AUV, Image Processing, Signal Processing, Radar Processin
 
 
 ## Project Difficulty
