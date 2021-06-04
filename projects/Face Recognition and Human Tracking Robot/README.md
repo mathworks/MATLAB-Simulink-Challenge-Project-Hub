@@ -1,7 +1,7 @@
 **Project 214:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=400 /></td>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=800 /></td>
 <td><p><h1>Face Recognition and Human Tracking Robot</h1></p>
 <p> Design and implement a real time autonomous human tracking robot using low-cost hardware. Human-robot interaction is important in many computer vision applications, including activity recognition, automotive safety, smart home security applications and surveillance.</p>
 </table>
@@ -50,6 +50,10 @@ Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, 
 ## Project Difficulty
 
 Bachelor
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/45) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 

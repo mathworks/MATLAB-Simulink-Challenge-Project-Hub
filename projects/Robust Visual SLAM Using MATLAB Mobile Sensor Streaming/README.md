@@ -53,6 +53,10 @@ Autonomous Vehicles, Computer Vision, Drones, Robotics, Automotive, AUV, Mobile 
 
 Bachelor, Master's, Doctoral
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/44) to ask/answer questions, comment, or share your ideas for solutions for this project.
+
 ## Project Number
 
 213

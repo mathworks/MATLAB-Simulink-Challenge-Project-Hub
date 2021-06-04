@@ -2,7 +2,7 @@
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SARPicture.png"  width=500 /></td>
-<td><p><h1></h1></p>
+<td><p><h1>Synthetic Aperture Radar (SAR) Simulator</h1></p>
 <p> </p>
 </table>
 
@@ -61,12 +61,17 @@ Accelerate design of SAR imaging systems and reduce time and cost for their deve
 
 ## Expertise Gained 
 
-Autonomous Vehicles, Automotive,AUV,Image Processing,Signal Processing,Radar Processin
+Autonomous Vehicles, Automotive, AUV, Image Processing, Signal Processing, Radar Processing
 
 
 ## Project Difficulty
 
-Master's, Doctoral, Bachelo
+Master's, Doctoral, Bachelor
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/43) to ask/answer questions, comment, or share your ideas for solutions for this project.
+
 
 ## Project Number
 
