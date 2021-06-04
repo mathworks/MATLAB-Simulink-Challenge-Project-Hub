@@ -12,7 +12,7 @@ The dream of delivering self-driving vehicles is the most exciting technical cha
 
 ## Project Description
 
-Using MathWorks [Computer Vision Toolbox ™](https://www.mathworks.com/products/computer-vision.html) and [Deep Learning Toolbox ™](https://www.mathworks.com/products/deep-learning.html), design, implement, and test an algorithm to automatically segment and label object instances in a video with minimal human intervention. This process is often referred to as instance segmentation. Demonstrate the effectiveness of your algorithm compared to manual labeling by integrating the algorithm into the [Video Labeler app](https://www.mathworks.com/help/vision/ref/videolabeler-app.html) and evaluating the time savings gained using automation.
+Using MathWorks [Computer Vision Toolbox ™](https://www.mathworks.com/products/computer-vision.html) and [Deep Learning Toolbox ™](https://www.mathworks.com/products/deep-learning.html), design, implement, and test an algorithm to automatically segment and label the same object across multiple video frames with minimal human intervention. This process is often referred to as video object segmentation or video instance segmentation. Demonstrate the effectiveness of your algorithm compared to manual labeling by integrating the algorithm into the [Video Labeler app](https://www.mathworks.com/help/vision/ref/videolabeler-app.html) and evaluating the time savings gained using automation.
 
 Suggested steps:
 
