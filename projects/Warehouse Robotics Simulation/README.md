@@ -12,7 +12,7 @@ Online shopping and fast delivery have been the focus of ecommerce giants. Large
 
 ## Project Description
 
-This project focuses on the design and simulation of warehouse robotic operations. Using the functionality available in perception, navigation, fusion, and applications products listed here, [Computer Vision Toolbox™](https://www.mathworks.com/products/computer-vision.html), [Navigation Toolbox™](https://www.mathworks.com/products/navigation.html ), [Sensor Fusion and Tracking Toolbox™](https://www.mathworks.com/products/sensor-fusion-and-tracking.html ), [UAV Toolbox](https://www.mathworks.com/products/uav.html ), and [Robotics System Toolbox™] (https://www.mathworks.com/products/robotics.html), simulates the warehouse operations and ascertains their efficiency and suitability for the task at hand. The [Gazebo-Cosim](https://www.mathworks.com/help/robotics/ug/perform-co-simulation-between-simulink-and-gazebo.html) Co-simulation capability can be leveraged to ease the integration of Gazebo simulation into the rest of the processing workflow. Here are some suggested steps to get you started on the project.
+This project focuses on the design and simulation of warehouse robotic operations. Using the functionality available in perception, navigation, fusion, and applications products listed here, [Computer Vision Toolbox™](https://www.mathworks.com/products/computer-vision.html), [Navigation Toolbox™](https://www.mathworks.com/products/navigation.html), [Sensor Fusion and Tracking Toolbox™](https://www.mathworks.com/products/sensor-fusion-and-tracking.html ), [UAV Toolbox](https://www.mathworks.com/products/uav.html), and [Robotics System Toolbox™](https://www.mathworks.com/products/robotics.html), simulates the warehouse operations and ascertains their efficiency and suitability for the task at hand. The [Gazebo-Cosim](https://www.mathworks.com/help/robotics/ug/perform-co-simulation-between-simulink-and-gazebo.html) Co-simulation capability can be leveraged to ease the integration of Gazebo simulation into the rest of the processing workflow. Here are some suggested steps to get you started on the project.
 
 Suggested Steps:
 1.	Start with the existing MATLAB example [A* Path Planning and Obstacle Avoidance in a Warehouse](https://www.mathworks.com/help/robotics/ug/a-star-path-planning-and-obstacle-avoidance.html) where a single robot is used to move around the warehouse avoiding obstacles. 
@@ -51,6 +51,9 @@ Autonomous Vehicles, Robotics, Human-Robot Interaction, Humanoid, Mobile Robots
 
 Bachelor, Master's, Doctoral
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/41) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 

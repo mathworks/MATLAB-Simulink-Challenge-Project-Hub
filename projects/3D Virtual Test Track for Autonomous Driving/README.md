@@ -66,6 +66,9 @@ Bachelor
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/20) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
+## Proposed By
+[pfryscak](https://github.com/pfryscak)
+
 ## Project Number
 
 171

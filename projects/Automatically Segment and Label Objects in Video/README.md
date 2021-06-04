@@ -12,7 +12,7 @@ The dream of delivering self-driving vehicles is the most exciting technical cha
 
 ## Project Description
 
-Using MathWorks [Computer Vision Toolbox ™](https://www.mathworks.com/products/computer-vision.html) and [Deep Learning Toolbox ™](https://www.mathworks.com/products/deep-learning.html), design, implement, and test an algorithm to automatically segment and label object instances in a video with minimal human intervention. This process is often referred to as instance segmentation. Demonstrate the effectiveness of your algorithm compared to manual labeling by integrating the algorithm into the [Video Labeler app](https://www.mathworks.com/help/vision/ref/videolabeler-app.html) and evaluating the time savings gained using automation.
+Using MathWorks [Computer Vision Toolbox ™](https://www.mathworks.com/products/computer-vision.html) and [Deep Learning Toolbox ™](https://www.mathworks.com/products/deep-learning.html), design, implement, and test an algorithm to automatically segment and label the same object across a sequence of video frames with minimal human intervention. This process is often referred to as video object segmentation or video instance segmentation. Demonstrate the effectiveness of your algorithm compared to manual labeling by integrating the algorithm into the [Video Labeler app](https://www.mathworks.com/help/vision/ref/videolabeler-app.html) and evaluating the time savings gained using automation.
 
 Suggested steps:
 
@@ -32,6 +32,8 @@ Initial set of objects for segmentation: vehicles, pedestrians, cyclists, lane m
 - [Video instance segmentation](https://paperswithcode.com/task/video-instance-segmentation)
 - [Getting started with the Video Labeler](https://au.mathworks.com/help/vision/ug/get-started-with-the-video-labeler.html)
 - [Create an automation Algorithm for labeling](https://au.mathworks.com/help/vision/ug/create-automation-algorithm-for-labeling.html)
+- [How to Use Custom Automation Algorithms for Data Labeling](https://www.youtube.com/watch?v=Y36D1fJZkT0)
+- [Using Ground Truth for Object Detection](https://www.mathworks.com/matlabcentral/fileexchange/69180-using-ground-truth-for-object-detection?s_eid=PSM_15028)
 
 Suggested readings:
 
@@ -58,6 +60,9 @@ Master's
 ## Project Discussion
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/33) to ask/answer questions, comment, or share your ideas for solutions for this project.
+
+## Proposed By
+[mwbpatel](https://github.com/mwbpatel)
 
 ## Project Number
 
