@@ -66,7 +66,12 @@ Autonomous Vehicles, Automotive, AUV, Image Processing, Signal Processing, Radar
 
 ## Project Difficulty
 
-Master's, Doctoral, Bachelo
+Master's, Doctoral, Bachelor
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/43) to ask/answer questions, comment, or share your ideas for solutions for this project.
+
 
 ## Project Number
 
