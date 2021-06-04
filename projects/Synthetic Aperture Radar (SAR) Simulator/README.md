@@ -2,7 +2,7 @@
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SARPicture.png"  width=500 /></td>
-<td><p><h1></h1></p>
+<td><p><h1>Synthetic Aperture Radar (SAR) Simulator</h1></p>
 <p> </p>
 </table>
 
