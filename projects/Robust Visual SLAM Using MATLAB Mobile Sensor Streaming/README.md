@@ -3,7 +3,7 @@
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png"  width=500 /></td>
 <td><p><h1>Robust Visual SLAM Using Mobile Sensor Streaming</h1></p>
-<p>Perform robust visual SLAM using MATLAB Mobile sensor streaming</p>
+<p>Perform robust visual SLAM using MATLAB Mobile sensor streaming.</p>
 </table>
 
 ## Motivation

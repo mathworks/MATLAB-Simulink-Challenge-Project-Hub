@@ -3,7 +3,7 @@
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Robust%20Visual%20SLAM%20Using%20MATLAB%20Mobile%20Sensor%20Streaming">Robust Visual SLAM Using MATLAB Mobile Sensor Streaming</a></h2></p>
-<p>Perform robust visual SLAM using MATLAB Mobile sensor streaming</p>
+<p>Perform robust visual SLAM using MATLAB Mobile sensor streaming.</p>
 <p><strong>Impact</strong>: Enable visual SLAM from streaming sensors and extend the state-of-art in real-time visual SLAM algorithms.</p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Drones, Robotics, Automotive, AUV, Mobile Robots, Manipulators, Humanoid, UAV, UGV</p></td>
 </tbody>
