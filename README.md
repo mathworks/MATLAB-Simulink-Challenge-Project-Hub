@@ -52,7 +52,7 @@ If you are in industry and interested in nominating a new project, please fill o
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SARPicture.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Synthetic%20Aperture%20Radar%20(SAR)%20Simulator">Synthetic Aperture Radar (SAR) Simulator </a></h2></p>
-<p>Naivedya Mishra</p>
+<p>Develop a lightweight Synthetic Aperture Radar (SAR) raw data simulator.</p>
 <p><strong>Impact</strong>: Accelerate design of SAR imaging systems and reduce time and cost for their development for aerial and terrestrial applications</p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, AUV, Image Processing, Signal Processing, Radar Processing</p></td>
 </tbody>
