@@ -57,6 +57,10 @@ Master's, Doctoral
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/21) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
+## Proposed By
+
+[mw-rpillat](https://github.com/mw-rpillat)
+
 ## Project Number
 
 187
