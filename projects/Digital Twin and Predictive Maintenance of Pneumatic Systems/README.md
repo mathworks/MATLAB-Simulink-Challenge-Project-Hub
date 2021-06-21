@@ -2,8 +2,8 @@
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pneumaticSys.jpg"  width=500 /></td>
-<td><p><h1></h1></p>
-<p>Predict faults in pneumatic systems using simulation and AI/machine learning</p>
+<td><p><h1>Digital Twin and Predictive Maintenance of Pneumatic Systems</h1></p>
+<p>Predict faults in pneumatic systems using simulation and AI/machine learning.</p>
 </table>
 
 ## Motivation
@@ -72,6 +72,10 @@ Artificial Intelligence, Industry 4.0, Cyber-Physical Systems, Digital Twins, Em
 ## Project Difficulty
 
 Master's
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/46) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 

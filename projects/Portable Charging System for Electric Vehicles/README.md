@@ -1,8 +1,8 @@
 **Project 216:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Picture1.jpg"  width=500 /></td>
-<td><p><h1></h1></p>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/portableEvCharger.jpg"  width=400 /></td>
+<td><p><h1>Portable Charging System for Electric Vehicles</h1></p>
 <p>Design a portable charger for Electric Vehicles</p>
 </table>
 
@@ -61,6 +61,9 @@ Sustainability and Renewable Energy, Control, Electrification, Modeling and Simu
 
 Bachelor, Master's
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/47) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
