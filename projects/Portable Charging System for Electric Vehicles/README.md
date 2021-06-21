@@ -2,7 +2,7 @@
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/portableEvCharger.jpg"  width=400 /></td>
-<td><p><h1>Portable Charging System for Electric Vehicles.</h1></p>
+<td><p><h1>Portable Charging System for Electric Vehicles</h1></p>
 <p>Design a portable charger for Electric Vehicles</p>
 </table>
 
@@ -61,6 +61,9 @@ Sustainability and Renewable Energy, Control, Electrification, Modeling and Simu
 
 Bachelor, Master's
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/47) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
