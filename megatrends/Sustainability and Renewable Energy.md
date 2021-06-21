@@ -1,6 +1,13 @@
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/portableEvCharger.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles">Portable Charging System for Electric Vehicles </a></h2></p>
+<p>Design a portable charger for Electric Vehicles.</p>
+<p><strong>Impact</strong>: Help make Electric Vehicles more reliable for general use.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Control, Electrification, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fuelCell.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Green%20Hydrogen%20Production">Green Hydrogen Production</a></h2></p>
 <p>Develop a model of a reversible fuel-cell integrated into a renewable-energy microgrid structure.</p>

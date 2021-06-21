@@ -1,9 +1,16 @@
 # Artificial Intelligence projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pneumaticSys.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Digital%20Twin%20and%20Predictive%20Maintenance%20of%20Pneumatic%20Systems">Digital Twin and Predictive Maintenance of Pneumatic Systems</a></h2></p>
+<p>Predict faults in pneumatic systems using simulation and AI/machine learning.</p>
+<p><strong>Impact</strong>: Improve efficiency and reliability of industrial processes.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Industry 4.0, Cyber-Physical Systems, Digital Twins, Embedded AI, Health Monitoring, IoT, Machine Learning, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Recognition%20and%20Human%20Tracking%20Robot">Face Recognition and Human Tracking Robot</a></h2></p>
-<p>Design and implement a real time autonomous human tracking robot using low-cost hardware. Human-robot interaction is important in many computer vision applications, including activity recognition, automotive safety, smart home security applications and surveillance.</p>
+<p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>
 <p><strong>Impact</strong>: Leverage mobile technology and deep learning to advance face recognition algorithms for impacting human safety and security.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p></td>
 </tbody>

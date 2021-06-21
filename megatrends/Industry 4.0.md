@@ -1,6 +1,13 @@
 # Industry 4.0 projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pneumaticSys.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Digital%20Twin%20and%20Predictive%20Maintenance%20of%20Pneumatic%20Systems">Digital Twin and Predictive Maintenance of Pneumatic Systems</a></h2></p>
+<p>Predict faults in pneumatic systems using simulation and AI/machine learning.</p>
+<p><strong>Impact</strong>: Improve efficiency and reliability of industrial processes.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Industry 4.0, Cyber-Physical Systems, Digital Twins, Embedded AI, Health Monitoring, IoT, Machine Learning, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/turbine.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Wind%20Turbine%20Predictive%20Maintenance%20Using%20Machine%20Learning">Wind Turbine Predictive Maintenance Using Machine Learning</a></h2></p>
 <p>Improve the reliability of wind turbines by using machine learning to inform a predictive maintenance model.</p>
