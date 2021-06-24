@@ -60,6 +60,9 @@ Master's, Doctoral level
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/14) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
+## Proposed By
+[rhyde005](https://github.com/rhyde005)
+
 ## Project Number
 
 148
