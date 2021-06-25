@@ -61,6 +61,10 @@ Master's
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/37) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
+## Proposed By
+
+[sghosalcem](https://github.com/sghosalcem)
+
 ## Project Number
 
 206
