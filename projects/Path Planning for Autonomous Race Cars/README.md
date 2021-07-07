@@ -27,6 +27,7 @@ Suggested steps:
 
 Advanced project work:
 1.	Add static obstacles on racetracks and compute the optimal racing line. Use the generated optimal racing line and velocity profile as reference for a high-fidelity vehicle dynamics models provided by the [Vehicle Dynamics Blockset™](https://www.mathworks.com/products/vehicle-dynamics.html). Extend the model to track the reference path using autonomous driving techniques. 
+2.	Incorporate electrical and 3D mechanical behavior into the model using a Simscape model for the vehicle. Extend optimization examples in the [Simscape Vehicle Templates](https://www.mathworks.com/matlabcentral/fileexchange/79484-simscape-vehicle-templates) to tune the suspension design and include battery usage into the optimization problem. 
 
 
 ## Background Material
