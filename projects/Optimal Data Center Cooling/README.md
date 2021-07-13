@@ -46,7 +46,7 @@ Contribute to the performance, reliability, and efficiency of data centers world
 
 ## Expertise Gained 
 
-Big Data, Cloud Computing, Control, Deep Learning, Modeling and Simulation, Parallel Computing, Predictive Maintenance
+Big Data, Sustainability and Renewable Energy, Cloud Computing, Control, Deep Learning, Modeling and Simulation, Parallel Computing, Predictive Maintenance
 
 
 ## Project Difficulty
