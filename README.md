@@ -33,13 +33,13 @@ If you are in industry and interested in nominating a new project, please fill o
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Machine%20Learning%20for%20Motor%20Control">Machine Learning for Motor Control</a></h2></p>
 <p>Enhance the performance and product quality required to develop a motor control application.</p>
 <p><strong>Impact</strong>: Contribute to the global transition to smart manufacturing and electrification.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Power Electronics, Control, Machine Learning, Reinforcement Learning, Automotive</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Control, Machine Learning, Reinforcement Learning, Automotive</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/drone.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Flight%20Controller%20Design%20and%20Hardware%20Deployment">Flight Controller Design and Hardware Deployment</a></h2></p>
 <p>Build a mini drone and use the PX4 Hardware Support package to design the flight controller using Simulink.</p>
-<p><strong>Impact</strong>: Expedite UAV design and assembly with model-based design</p>
+<p><strong>Impact</strong>: Expedite UAV design and assembly with model-based design.</p>
 <p><strong>Expertise gained</strong>: Drones, Autonomous Vehicles, Control, Low-cost Hardware, UAV</p></td>
 </tbody>
 <tbody>
@@ -181,7 +181,7 @@ If you are in industry and interested in nominating a new project, please fill o
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimal%20Data%20Center%20Cooling">Optimal Data Center Cooling</a></h2></p>
 <p>Improve performance, stability, and cost effectiveness of data centers by designing a cooling algorithm that keeps the system running as efficiently as possible.</p>
 <p><strong>Impact</strong>: Contribute to the performance, reliability, and efficiency of data centers worldwide.</p>
-<p><strong>Expertise gained</strong>: Big Data, Cloud Computing, Control, Deep Learning, Modeling and Simulation, Parallel Computing, Predictive Maintenance</p></td>
+<p><strong>Expertise gained</strong>: Big Data, Sustainability and Renewable Energy, Cloud Computing, Control, Deep Learning, Modeling and Simulation, Parallel Computing, Predictive Maintenance</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HVAC.jpg"  width=500 /></td>

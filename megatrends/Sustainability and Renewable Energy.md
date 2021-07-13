@@ -1,13 +1,6 @@
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pmsm.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Machine%20Learning%20for%20Motor%20Control">Machine Learning for Motor Control</a></h2></p>
-<p>Enhance the performance and product quality required to develop a motor control application</p>
-<p><strong>Impact</strong>: Contribute to the global transition to smart manufacturing and electrification.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Power Electronics, Control, Machine Learning, Reinforcement Learning, Automotive</p></td>
-</tbody>
-<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/portableEvCharger.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles">Portable Charging System for Electric Vehicles </a></h2></p>
 <p>Design a portable charger for Electric Vehicles.</p>
@@ -42,6 +35,13 @@
 <p>Improve the reliability of wind turbines by using machine learning to inform a predictive maintenance model.</p>
 <p><strong>Impact</strong>: Contribute to providing the world with reliable green energy.</p>
 <p><strong>Expertise gained</strong>: Industry 4.0, Sustainability and Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/data center.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimal%20Data%20Center%20Cooling">Optimal Data Center Cooling</a></h2></p>
+<p>Improve performance, stability, and cost effectiveness of data centers by designing a cooling algorithm that keeps the system running as efficiently as possible.</p>
+<p><strong>Impact</strong>: Contribute to the performance, reliability, and efficiency of data centers worldwide.</p>
+<p><strong>Expertise gained</strong>: Big Data, Sustainability and Renewable Energy, Cloud Computing, Control, Deep Learning, Modeling and Simulation, Parallel Computing, Predictive Maintenance</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HVAC.jpg"  width=500 /></td>

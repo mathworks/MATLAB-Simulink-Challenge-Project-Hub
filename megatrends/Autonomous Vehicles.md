@@ -4,7 +4,7 @@
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/drone.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Flight%20Controller%20Design%20and%20Hardware%20Deployment">Flight Controller Design and Hardware Deployment</a></h2></p>
 <p>Build a mini drone and use the PX4 Hardware Support package to design the flight controller using Simulink.</p>
-<p><strong>Impact</strong>: Expedite UAV design and assembly with model-based design</p>
+<p><strong>Impact</strong>: Expedite UAV design and assembly with model-based design.</p>
 <p><strong>Expertise gained</strong>: Drones, Autonomous Vehicles, Control, Low-cost Hardware, UAV</p></td>
 </tbody>
 <tbody>
