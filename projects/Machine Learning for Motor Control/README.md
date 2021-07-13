@@ -36,7 +36,7 @@ Advanced project work:
 ## Background Material
 
 Examples:
--       [PMSM Control Examples](https://www.mathworks.com/help/mcb/pmsm.html)
+- [PMSM Control Examples](https://www.mathworks.com/help/mcb/pmsm.html)
 -	[Train TD3 Agent for PMSM Control](https://www.mathworks.com/help/reinforcement-learning/ug/train-td3-agent-for-pmsm-control.html)
 -	[PMSM Field Oriented Control Reinforcement Learning Example](https://www.mathworks.com/help/reinforcement-learning/ug/train-td3-agent-for-pmsm-control.html)
 
@@ -61,6 +61,10 @@ Artificial Intelligence, Power Electronics, Control, Machine Learning, Reinforce
 ## Project Difficulty
 
 Bachelor, Master's
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/49) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
