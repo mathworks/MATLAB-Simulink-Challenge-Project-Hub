@@ -1,6 +1,13 @@
 # Artificial Intelligence projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pmsm.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Machine%20Learning%20for%20Motor%20Control">Machine Learning for Motor Control</a></h2></p>
+<p>Enhance the performance and product quality required to develop a motor control application.</p>
+<p><strong>Impact</strong>: Contribute to the global transition to smart manufacturing and electrification.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Power Electronics, Control, Machine Learning, Reinforcement Learning, Automotive</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pneumaticSys.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Digital%20Twin%20and%20Predictive%20Maintenance%20of%20Pneumatic%20Systems">Digital Twin and Predictive Maintenance of Pneumatic Systems</a></h2></p>
 <p>Predict faults in pneumatic systems using simulation and AI/machine learning.</p>

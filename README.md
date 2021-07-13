@@ -26,8 +26,22 @@ If you are in industry and interested in nominating a new project, please fill o
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: June 21, 2021*
+*Updated: July 13, 2021*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pmsm.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Machine%20Learning%20for%20Motor%20Control">Machine Learning for Motor Control</a></h2></p>
+<p>Enhance the performance and product quality required to develop a motor control application.</p>
+<p><strong>Impact</strong>: Contribute to the global transition to smart manufacturing and electrification.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Power Electronics, Control, Machine Learning, Reinforcement Learning, Automotive</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/drone.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Flight%20Controller%20Design%20and%20Hardware%20Deployment">Flight Controller Design and Hardware Deployment</a></h2></p>
+<p>Build a mini drone and use the PX4 Hardware Support package to design the flight controller using Simulink.</p>
+<p><strong>Impact</strong>: Expedite UAV design and assembly with model-based design</p>
+<p><strong>Expertise gained</strong>: Drones, Autonomous Vehicles, Control, Low-cost Hardware, UAV</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/portableEvCharger.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles">Portable Charging System for Electric Vehicles </a></h2></p>

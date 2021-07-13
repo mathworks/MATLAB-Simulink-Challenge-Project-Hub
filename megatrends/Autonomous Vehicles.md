@@ -1,8 +1,15 @@
 # Autonomous Vehicles projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/drone.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Flight%20Controller%20Design%20and%20Hardware%20Deployment">Flight Controller Design and Hardware Deployment</a></h2></p>
+<p>Build a mini drone and use the PX4 Hardware Support package to design the flight controller using Simulink.</p>
+<p><strong>Impact</strong>: Expedite UAV design and assembly with model-based design</p>
+<p><strong>Expertise gained</strong>: Drones, Autonomous Vehicles, Control, Low-cost Hardware, UAV</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Robust%20Visual%20SLAM%20Using%20MATLAB%20Mobile%20Sensor%20Streaming">Robust Visual SLAM Using MATLAB Mobile Sensor Streaming.</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Robust%20Visual%20SLAM%20Using%20MATLAB%20Mobile%20Sensor%20Streaming">Robust Visual SLAM Using MATLAB Mobile Sensor Streaming</a></h2></p>
 <p>Perform robust visual SLAM using MATLAB Mobile sensor streaming</p>
 <p><strong>Impact</strong>: Enable visual SLAM from streaming sensors and extend the state-of-art in real-time visual SLAM algorithms.</p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Drones, Robotics, Automotive, AUV, Mobile Robots, Manipulators, Humanoid, UAV, UGV</p></td>
