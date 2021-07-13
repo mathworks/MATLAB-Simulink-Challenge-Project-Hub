@@ -14,7 +14,7 @@ One promising solution to this problem is to generate synthetic training data fr
 
 ## Project Description
 
-Work with Simscape™ to develop a simulation model of a pneumatic system by parameterizing it for normal and faulty behaviors. Generate synthetic sensor data by running simulations under different conditions. The synthetic data should then be used to train predictive models using Predictive Maintenance Toolbox™ and Statistics and Machine Learning Toolbox™ for finding anomalous behavior, classifying fault type, and estimating remaining useful life. Finally, test the accuracy of predictive maintenance models on real data or unseen synthetic data. 
+Work with [Simscape™](https://www.mathworks.com/products/simscape.html) to develop a simulation model of a pneumatic system by parameterizing it for normal and faulty behaviors. Generate synthetic sensor data by running simulations under different conditions. The synthetic data should then be used to train predictive models using [Predictive Maintenance Toolbox™](https://www.mathworks.com/products/predictive-maintenance.html) and [Statistics and Machine Learning Toolbox™](https://www.mathworks.com/products/statistics.html) for finding anomalous behavior, classifying fault type, and estimating remaining useful life. Finally, test the accuracy of predictive maintenance models on real data or unseen synthetic data. 
 Suggested Steps: 
 1. Do a literature survey of pneumatic systems being used for different applications, including the study of commonly occurring faults, component degradation, environmental conditions, and installed sensors that can help identify potential faults and anomalies.  
 2. Develop a [Multiphysics model of a commonly used pneumatic system in any application setting, using Simscape™](https://www.mathworks.com/help/predmaint/ug/generate-and-use-simulated-data-ensemble.html)   including different mechanical, thermal, and electrical components. The model should be detailed enough to be able to incorporate commonly occurring faulty behaviors under different environmental conditions. 
@@ -27,6 +27,7 @@ Suggested Steps:
 5. Reflect upon the effectiveness and limitations of the proposed methodology. Also, comment on the utility of Simulation Methods and Digital Twins in Predictive Maintenance Applications.  
 
 Project variations:
+
 Create a Digital Twin by tuning the simulation model parameters based on real data using Simulink Design Optimization™. The simulated asset will now act as Digital Twin of the real system in operation, allowing for machine-specific predictions and various what-if scenarios.
 
 

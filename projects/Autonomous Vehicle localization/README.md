@@ -62,6 +62,10 @@ Master’s level
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/3) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
+## Proposed By
+
+[thewitek](https://github.com/thewitek)
+
 ## Project Number
 
 20
