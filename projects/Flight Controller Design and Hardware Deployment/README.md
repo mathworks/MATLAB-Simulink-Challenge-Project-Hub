@@ -15,23 +15,18 @@ MATLAB® and Simulink® are playing an important role by making it easy for cust
 
 Work with [UAV Toolbox Support package for PX4® Autopilots](https://www.mathworks.com/help/supportpkg/px4/index.html) that enables you to leverage algorithms and peripherals from the PX4 middleware and deploy Simulink models to the PX4 Autopilot. Design a flight controller in Simulink and deploy it to a PX4 Autopilot based UAV and fly the UAV.
 
-Suggested steps
+Suggested steps:
 
 1.	Use the [QAV250](https://shop.holybro.com/pixhawk-4-mini-qav250-kit_p1125.html) kit with the popular QAV250 frame to build a mini-UAV
-
 2.	Use the [Pixhawk 4 mini]( https://docs.px4.io/master/en/flight_controller/pixhawk4_mini.html) as the Autopilot for the UAV
-
 3.	Establish External mode communication via [radio](https://shop.holybro.com/transceiver-telemetry-radio-v3_p1103.html) between the Autopilot and PC. 
-
 4.	Use the [PX4 Simulink blocks]( https://www.mathworks.com/help/supportpkg/px4/referencelist.html?type=block&amp;listtype=cat&amp;category=index&amp;blocktype=all&amp;capability=&amp;s_tid=CRUX_topnav) to use the flight estimator from the PX4 middleware
-
 5.	Design the flight controller using Simulink and deploy it to PX4 Autopilot. Use External mode to tune parameters and monitor signals
 
 Project variations: 
 
 Build a UAV plant model in Gazebo and use PX4 host target feature to design the flight controller in Simulink and deploy it as executable on the host and perform a Software in the loop simulation with Gazebo plant.
 
-Suggested steps:
 1.	Establish a connection between Gazebo and Simulink PX4 host target 
 2.	Use PX4 host target for deployment
 3.	Use the PX4 Simulink blocks to use the flight estimator from the PX4 middleware
@@ -42,7 +37,6 @@ Advanced project work:
 Setup AirSim that provides physical and virtual simulations, design flight controller in Simulink and run Software in loop using PX4 host target
 Reuse a UAV plant model from [Airsim](https://docs.px4.io/master/en/simulation/airsim.html) and use [PX4 host targetPX4 host target](https://www.mathworks.com/help/supportpkg/px4/ug/deployment-using-px4hosttarget-jmavsim.html) feature to design the flight controller in Simulink and deploy it as executable on the host and perform a Software in the loop simulation with Airsim.
 
-Suggested steps:
 1.	Establish a connection between Airsim and Simulink PX4 host target 
 2.	Use PX4 host target for deployment
 3.	Use the PX4 Simulink blocks to use the flight estimator from the PX4 middleware
@@ -81,6 +75,9 @@ Drones, Autonomous Vehicles, Control, Low-cost Hardware, UAV
 
 Bachelor, Master's
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/48) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
