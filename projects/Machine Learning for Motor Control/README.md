@@ -3,7 +3,7 @@
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pmsm.jpg"  width=500 /></td>
 <td><p><h1>Machine Learning for Motor Control</h1></p>
-<p>Enhance the performance and product quality required to develop a motor control application</p>
+<p>Enhance the performance and product quality required to develop a motor control application.</p>
 </table>
 
 ## Motivation
