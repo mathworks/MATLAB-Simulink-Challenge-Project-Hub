@@ -95,6 +95,10 @@ Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulatio
 
 Master's, Doctoral
 
+## Proposed By
+
+[pragatikt](https://github.com/pragatikt)
+
 ## Project Discussion
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/32) to ask/answer questions, comment, or share your ideas for solutions for this project.
