@@ -55,6 +55,10 @@ Master's
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/28) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
+## Proposed By
+
+[MUdengaard](https://github.com/MUdengaard)
+
 ## Project Number
 
 197
