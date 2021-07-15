@@ -74,6 +74,8 @@ Master's
 ## Project Discussion
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/23) to ask/answer questions, comment, or share your ideas for solutions for this project.
+## Proposed By
+[nkchavali](https://github.com/nkchavali)
 
 ## Project Number
 
