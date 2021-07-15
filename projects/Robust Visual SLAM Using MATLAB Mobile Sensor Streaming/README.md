@@ -57,6 +57,10 @@ Bachelor, Master's, Doctoral
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/44) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
+## Proposed By
+
+[dryouwu](https://github.com/dryouwu)
+
 ## Project Number
 
 213
