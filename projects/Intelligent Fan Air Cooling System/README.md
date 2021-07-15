@@ -81,7 +81,7 @@ Bachelor, Master's, Doctoral
 
 ## Proposed By
 
-[mw-agrace](https://github.com/my-agrace)
+[mw-agrace](https://github.com/mw-agrace)
 
 ## Project Number
 
