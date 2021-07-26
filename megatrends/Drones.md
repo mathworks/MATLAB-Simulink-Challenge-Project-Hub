@@ -1,6 +1,13 @@
 # Drones projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/objectBehavior.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles">Classify Object Behavior to Enhance the Safety of Autonomous Vehicles</a></h2></p>
+<p>Automatically classify behavior of tracked objects to enhance the safety of autonomous systems.</p>
+<p><strong>Impact</strong>: Make autonomous vehicles safer by classifying behaviors of objects around them.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Autonomous Vehicles, Robotics, Drones, Deep Learning, Explainable AI, Machine Learning, Mobile Robots, Neural Networks, Reinforcement Learning, Sensor Fusion and Tracking, UAV, UGV, Automotive</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/drone.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Flight%20Controller%20Design%20and%20Hardware%20Deployment">Flight Controller Design and Hardware Deployment</a></h2></p>
 <p>Build a mini drone and use the PX4 Hardware Support package to design the flight controller using Simulink.</p>

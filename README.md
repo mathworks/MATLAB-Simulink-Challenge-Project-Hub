@@ -26,8 +26,29 @@ If you are in industry and interested in nominating a new project, please fill o
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: July 13, 2021*
+*Updated: July 26, 2021*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/objectBehavior.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles">Classify Object Behavior to Enhance the Safety of Autonomous Vehicles</a></h2></p>
+<p>Automatically classify behavior of tracked objects to enhance the safety of autonomous systems.</p>
+<p><strong>Impact</strong>: Make autonomous vehicles safer by classifying behaviors of objects around them.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Autonomous Vehicles, Robotics, Drones, Deep Learning, Explainable AI, Machine Learning, Mobile Robots, Neural Networks, Reinforcement Learning, Sensor Fusion and Tracking, UAV, UGV, Automotive</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ros.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Testing%20Realtime%20Robustness%20of%20ROS%20in%20Autonomous%20Driving">Testing Realtime Robustness of ROS in Autonomous Driving</a></h2></p>
+<p>Develop a realtime collision avoidance system using ROS2 that will execute a safe vehicle response.</p>
+<p><strong>Impact</strong>: Contribute to improving access and safety of transportation through robust automated driving systems.</p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Robotics, Automotive, Image Processing, Modeling and Simulation, Sensor Fusion and Tracking, Low-Cost Hardware</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Smart%20Watering%20System%20with%20Internet%20of%20Things">Smart Watering System with Internet of Things</a></h2></p>
+<p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware </p>
+<p><strong>Impact</strong>: Minimize the negative effects of the overuse of water in farming and preserve water resources. </p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Artificial Intelligence, IoT, Low-Cost Hardware, Deep Learning, Cloud Computing</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pmsm.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Machine%20Learning%20for%20Motor%20Control">Machine Learning for Motor Control</a></h2></p>

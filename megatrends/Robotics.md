@@ -1,6 +1,20 @@
 # Robotics projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/objectBehavior.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles">Classify Object Behavior to Enhance the Safety of Autonomous Vehicles</a></h2></p>
+<p>Automatically classify behavior of tracked objects to enhance the safety of autonomous systems.</p>
+<p><strong>Impact</strong>: Make autonomous vehicles safer by classifying behaviors of objects around them.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Autonomous Vehicles, Robotics, Drones, Deep Learning, Explainable AI, Machine Learning, Mobile Robots, Neural Networks, Reinforcement Learning, Sensor Fusion and Tracking, UAV, UGV, Automotive</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ros.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Testing%20Realtime%20Robustness%20of%20ROS%20in%20Autonomous%20Driving">Testing Realtime Robustness of ROS in Autonomous Driving</a></h2></p>
+<p>Develop a realtime collision avoidance system using ROS2 that will execute a safe vehicle response.</p>
+<p><strong>Impact</strong>: Contribute to improving access and safety of transportation through robust automated driving systems.</p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Robotics, Automotive, Image Processing, Modeling and Simulation, Sensor Fusion and Tracking, Low-Cost Hardware</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Recognition%20and%20Human%20Tracking%20Robot">Face Recognition and Human Tracking Robot</a></h2></p>
 <p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>

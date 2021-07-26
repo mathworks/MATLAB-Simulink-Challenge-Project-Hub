@@ -1,6 +1,13 @@
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Smart%20Watering%20System%20with%20Internet%20of%20Things">Smart Watering System with Internet of Things</a></h2></p>
+<p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware </p>
+<p><strong>Impact</strong>: Minimize the negative effects of the overuse of water in farming and preserve water resources. </p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Artificial Intelligence, IoT, Low-Cost Hardware, Deep Learning, Cloud Computing</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/portableEvCharger.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles">Portable Charging System for Electric Vehicles </a></h2></p>
 <p>Design a portable charger for Electric Vehicles.</p>
