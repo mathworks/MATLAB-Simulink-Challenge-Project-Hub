@@ -1,7 +1,7 @@
 **Project 219:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
 
 <table>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/using-thingspeak-for-iot-in-agriculture_Ramnarayan Krishnamu.jpg"  width=500 /></td>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
 <td><p><h1>Smart Watering System with Internet of Things</h1></p>
 <p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware </p>
 </table>
@@ -25,7 +25,8 @@ Suggested steps:
 3.	Access and Analyze this data using ThingSpeak, see some [Examples](https://www.mathworks.com/help/thingspeak/examples.html). E.g., Estimate [Evapotranspiration](http://www.fao.org/3/X0490E/x0490e0a.htm) of the field based on the input data
 4.	Gather other relevant information like weather forecast data or crop parameters
 5.	Determine a watering strategy based on the crop type and the data you have gathered. For example, identify how your measurements and data could help develop a predictive model in MATLAB® to determine when the crop needs to be watered
-6.	Send an action based on the analysis. This action could be as simple as a notification (tweet, e-mail) to water the plants or actuate a watering system at the plant
+6.	Send an action based on the analysis. This action could be as simple as a notification (tweet, e-mail) to water the plants or actuate a watering system at the plant.
+
 Here are the various phases of the project:
 -	Develop the requirements
 -	Design the architecture and specifications of the system
@@ -47,7 +48,7 @@ Advanced project work:
 -	[Arduino Based Smart Watering of Plants](https://www.mathworks.com/help/supportpkg/arduino/examples/arduino-based-smart-watering-of-plants.html)
 -	[Forecast Tidal Depths Using ThingSpeak Data](https:/www.mathworks.com/help/thingspeak/forecast-tidal-wave-depths.html)
 -	[How to gather data from weather forecast?](https://www.mathworks.com/matlabcentral/answers/417426-how-to-gather-data-from-weather-forecast#answer_335736)
--	[Analyzing weather data from an Arduino-based weather station](Analyzing weather data from an Arduino-based weather station)
+-	[Analyzing weather data from an Arduino-based weather station](https://www.mathworks.com/matlabcentral/fileexchange/47049-analyzing-weather-data-from-an-arduino-based-weather-station)
 
 Videos:
 -	[Using ThingSpeak for IoT in Agriculture](https://www.mathworks.com/videos/using-thingspeak-for-iot-in-agriculture-1594044754903.html)
