@@ -43,9 +43,9 @@ Project variations:
 
 ## Background Material
 
-- [Examples on how to generate scenarios using Driving Scenario Designer and Unreal Engine] (https://www.mathworks.com/help/driving/examples.html?category=scenario-simulation)
-- [Driving Scenario Designer] (https://www.mathworks.com/help/driving/ref/drivingscenariodesigner-app.html)
-- [Unreal Engine Scenario Simulation] (https://www.mathworks.com/help/driving/unreal-engine-scenario-simulation.html)
+- [Examples on how to generate scenarios using Driving Scenario Designer and Unreal Engine](https://www.mathworks.com/help/driving/examples.html?category=scenario-simulation)
+- [Driving Scenario Designer](https://www.mathworks.com/help/driving/ref/drivingscenariodesigner-app.html)
+- [Unreal Engine Scenario Simulation](https://www.mathworks.com/help/driving/unreal-engine-scenario-simulation.html)
 - [RoadRunner](https://www.mathworks.com/products/roadrunner.html)
 
 Suggested readings
