@@ -56,6 +56,9 @@ Master’s, Doctoral level
 
 [Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/10) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
+## Proposed By
+[pmaloney](https://github.com/pmaloney)
+
 ## Project Number
 
 45
