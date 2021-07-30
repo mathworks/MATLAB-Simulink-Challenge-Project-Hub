@@ -1,3 +1,6 @@
+
+<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/logo.png" width="120">
+
 # MathWorks Excellence in Innovation Projects
 
 **Contribute to the progress of engineering and science by solving key
