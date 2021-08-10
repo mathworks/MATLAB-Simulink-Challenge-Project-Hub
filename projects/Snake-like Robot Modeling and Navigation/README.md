@@ -29,7 +29,7 @@ Model your snake-like robot, using CAD software of your choice
  
 Advanced project work:
 -	Pick and build the scenario in which the robot will navigate, e.g. pipeline, aircraft engine, reaction vessel.  
--	Create a model of the environment using occupancy grids([2D](https://www.mathworks.com/help/robotics/ug/occupancy-grids.html),[3D](https://www.mathworks.com/help/nav/ref/occupancymap3d.html).  
+-	Create a model of the environment using occupancy grids ([2D](https://www.mathworks.com/help/robotics/ug/occupancy-grids.html),[3D](https://www.mathworks.com/help/nav/ref/occupancymap3d.html)).  
 -	Add sensors to model distance and inertial sensors, e.g. LiDAR, cameras, and IMUs.   
 -	Integrate approaches for [planning](https://www.mathworks.com/discovery/path-planning.html) and obstacle avoidance.  
 -	Develop searching and mapping algorithms. 
