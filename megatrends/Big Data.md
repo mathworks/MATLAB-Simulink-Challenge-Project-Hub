@@ -1,6 +1,13 @@
 # Big Data projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/trafficanalysis.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Data%20Analysis%20for%20Modelling%20and%20Prediction%20of%20Traffic%20Scenarios">Traffic Data Analysis for Modeling and Prediction of Traffic Scenarios </a></h2></p>
+<p>Analyze real-world traffic data to understand, model, and predict human driving trajectories. </p>
+<p><strong>Impact</strong>: Contribute to autonomous driving technologies and intelligent transportation research. </p>
+<p><strong>Expertise gained</strong>: Big Data, Autonomous Vehicles, Support Vector Machines, Machine Learning, Deep Learning, Automotive</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/data center.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimal%20Data%20Center%20Cooling">Optimal Data Center Cooling</a></h2></p>
 <p>Improve performance, stability, and cost effectiveness of data centers by designing a cooling algorithm that keeps the system running as efficiently as possible.</p>

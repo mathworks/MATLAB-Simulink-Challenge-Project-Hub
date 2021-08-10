@@ -1,4 +1,3 @@
-
 <img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/logo.png" width="120">
 
 # MathWorks Excellence in Innovation Projects
@@ -29,8 +28,29 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: July 26, 2021*
+*Updated: August 10, 2021*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/snakeRobot.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Snake-like%20Robot%20Modeling%20and%20Navigation">Snake-like Robot Modeling and Navigation</a></h2></p>
+<p>Model and control an autonomous snake-like robot to navigate an unknown environment.  </p>
+<p><strong>Impact</strong>: Advance robotics design for hazardous environments inspection and operation in constricted spaces. </p>
+<p><strong>Expertise gained</strong>: Robotics, Manipulators, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/intersection.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Light%20Negotiation%20and%20Perception-Based%20Detection">Traffic Light Negotiation and Perception-Based Detection  </a></h2></p>
+<p>Detect traffic lights and perform traffic light negotiation at an intersection in Unreal environment. </p>
+<p><strong>Impact</strong>: Contribute to the advancement of autonomous vehicles traffic coordination in intersections through simulation. </p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Automotive, Control, Deep Learning, Image Processing, Modeling and Simulation, Sensor Fusion and Tracking</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/trafficanalysis.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Data%20Analysis%20for%20Modelling%20and%20Prediction%20of%20Traffic%20Scenarios">Traffic Data Analysis for Modeling and Prediction of Traffic Scenarios </a></h2></p>
+<p>Analyze real-world traffic data to understand, model, and predict human driving trajectories. </p>
+<p><strong>Impact</strong>: Contribute to autonomous driving technologies and intelligent transportation research. </p>
+<p><strong>Expertise gained</strong>: Big Data, Autonomous Vehicles, Support Vector Machines, Machine Learning, Deep Learning, Automotive</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/objectBehavior.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles">Classify Object Behavior to Enhance the Safety of Autonomous Vehicles</a></h2></p>

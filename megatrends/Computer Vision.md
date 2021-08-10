@@ -1,6 +1,13 @@
 # Computer Vision projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/intersection.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Light%20Negotiation%20and%20Perception-Based%20Detection">Traffic Light Negotiation and Perception-Based Detection  </a></h2></p>
+<p>Detect traffic lights and perform traffic light negotiation at an intersection in Unreal environment. </p>
+<p><strong>Impact</strong>: Contribute to the advancement of autonomous vehicles traffic coordination in intersections through simulation. </p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Automotive, Control, Deep Learning, Image Processing, Modeling and Simulation, Sensor Fusion and Tracking</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Recognition%20and%20Human%20Tracking%20Robot">Face Recognition and Human Tracking Robot</a></h2></p>
 <p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>

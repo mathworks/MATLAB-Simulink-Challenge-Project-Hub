@@ -1,6 +1,13 @@
 # Robotics projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/snakeRobot.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Snake-like%20Robot%20Modeling%20and%20Navigation">Snake-like Robot Modeling and Navigation</a></h2></p>
+<p>Model and control an autonomous snake-like robot to navigate an unknown environment.  </p>
+<p><strong>Impact</strong>: Advance robotics design for hazardous environments inspection and operation in constricted spaces. </p>
+<p><strong>Expertise gained</strong>: Robotics, Manipulators, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/objectBehavior.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles">Classify Object Behavior to Enhance the Safety of Autonomous Vehicles</a></h2></p>
 <p>Automatically classify behavior of tracked objects to enhance the safety of autonomous systems.</p>
