@@ -28,7 +28,7 @@ Suggested steps:
 3.	Download the vehicle trajectories datasets. Some options are:
 	- [Next Generation Simulation (NGSIM) Vehicle Trajectories](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj) provided by the U.S. Department of Transportation
 	- [Dataset of Annotated Car Trajectories (DACT)](https://figshare.com/articles/dataset/DACT_Dataset_of_Annotated_Car_Trajectories/5005289)
-4.	Preprocess and visualize the data using MATLAB. The live script preprocess_visualize_NGSIM_US101data.mlx provided in the supporting material preprocesses the NGSIM data captured on US101 highway and visualizes them using Mapping Toolbox. You are encouraged to use this script as a starting point for other datasets. 
+4.	Preprocess and visualize the data using MATLAB. The live script [preprocess_visualize_NGSIM_US101data.mlx](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Traffic%20Data%20Analysis%20for%20Modelling%20and%20Prediction%20of%20Traffic%20Scenarios/preprocess_visualize_NGSIM_US101data.mlx) provided in the supporting material preprocesses the NGSIM data captured on US101 highway and visualizes them using Mapping Toolbox. You are encouraged to use this script as a starting point for other datasets. 
 5.	[Optional] Visualize and replay the recorded trajectories in the Unreal Engine using [RoadRunner](https://www.mathworks.com/products/roadrunner.html) and Simulink. 
 6.	Select the algorithmic solution that best suits your analysis objective, e.g., Bayesian Networks, Long Short-term Memory (LSTM) networks, Clustering (K-means, Hierarchical, etc.), Gaussian mixture models, Support Vector Machines (SVM), etc. 
 7.	Separate the data in testing and training datasets.  
