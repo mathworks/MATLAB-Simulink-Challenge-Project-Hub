@@ -10,3 +10,6 @@
 [submodule "projects/MIMO Engine Airpath Control/students submissions/T513---SIEngineDynamometer"]
 	path = projects/MIMO Engine Airpath Control/students submissions/T513---SIEngineDynamometer
 	url = https://github.com/YorkPatty/T513---SIEngineDynamometer
+[submodule "projects/Path Planning for Autonomous Race Cars/students submissions/MW208_AUTON_RACECARS"]
+	path = projects/Path Planning for Autonomous Race Cars/students submissions/MW208_AUTON_RACECARS
+	url = https://github.com/borealis31/MW208_AUTON_RACECARS
