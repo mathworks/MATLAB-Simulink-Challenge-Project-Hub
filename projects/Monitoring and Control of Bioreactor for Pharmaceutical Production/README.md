@@ -27,7 +27,7 @@ Project variations:
 
 1.	Create a digital twin of the process by calibrating the process model with the plant data. Estimate the parameters of the model using measured data in the parameter estimator using [Simulink® Design Optimization™](https://www.mathworks.com/help/sldo/).
 2.	Improve the estimation of a CPP using a state-based filter (e.g. Kalman Filter, Extended Kalman Filter, Moving Horizon Estimator, etc.) this is helpful for process monitoring and control.
-3.	Adopt an learning-based approach (machine/deep learning) to develop soft sensors.
+3.	Adopt a learning-based approach (machine/deep learning) to develop soft sensors.
 
 Advanced project work:
 
