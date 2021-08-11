@@ -58,10 +58,11 @@ Advance robotics design for hazardous environments inspection and operation in c
 
 Robotics, Manipulators, Modeling and Simulation
 
-
 ## Project Difficulty
 
 Bachelor, Master's, Doctoral
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/56) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
