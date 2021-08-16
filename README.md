@@ -69,7 +69,7 @@ If you are in industry and interested in nominating a new project contact us <st
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Smart%20Watering%20System%20with%20Internet%20of%20Things">Smart Watering System with Internet of Things</a></h2></p>
-<p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware </p>
+<p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware.</p>
 <p><strong>Impact</strong>: Minimize the negative effects of the overuse of water in farming and preserve water resources. </p>
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Artificial Intelligence, IoT, Low-Cost Hardware, Deep Learning, Cloud Computing</p></td>
 </tbody>
@@ -111,7 +111,7 @@ If you are in industry and interested in nominating a new project contact us <st
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Robust%20Visual%20SLAM%20Using%20MATLAB%20Mobile%20Sensor%20Streaming">Robust Visual SLAM Using MATLAB Mobile Sensor Streaming</a></h2></p>
-<p>Perform robust visual SLAM using MATLAB Mobile sensor streaming</p>
+<p>Perform robust visual SLAM using MATLAB Mobile sensor streaming.</p>
 <p><strong>Impact</strong>: Enable visual SLAM from streaming sensors and extend the state-of-art in real-time visual SLAM algorithms.</p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Drones, Robotics, Automotive, AUV, Mobile Robots, Manipulators, Humanoid, UAV, UGV</p></td>
 </tbody>
@@ -161,7 +161,7 @@ If you are in industry and interested in nominating a new project contact us <st
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/indoor_propagation.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimizing%20Antenna%20Performance%20in%20an%20Indoor%20Propagation%20Environment">Optimizing Antenna Performance in an Indoor Propagation Environment</a></h2></p>
-<p>Design an antenna to optimize transmission and reception in indoor environment</p>
+<p>Design an antenna to optimize transmission and reception in indoor environment.</p>
 <p><strong>Impact</strong>: Maximize indoor radio signal coverage and reduce energy consumption of signal booster devices.</p>
 <p><strong>Expertise gained</strong>: 5G, Optimization, Smart Antennas, Wireless Communication</p></td>
 </tbody>
@@ -182,7 +182,7 @@ If you are in industry and interested in nominating a new project contact us <st
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Picture1.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Automatically%20Segment%20and%20Label%20Objects%20in%20Video">Automatically Segment and Label Objects in Video</a></h2></p>
-<p>Implement algorithms to automatically label data for deep learning model training</p>
+<p>Implement algorithms to automatically label data for deep learning model training.</p>
 <p><strong>Impact</strong>: Accelerate the development of robust AI algorithms for self-driving vehicles.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Deep Learning, Machine Learning</p></td>
 </tbody>
