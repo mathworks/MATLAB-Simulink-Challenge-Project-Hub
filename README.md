@@ -35,7 +35,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Snake-like%20Robot%20Modeling%20and%20Navigation">Snake-like Robot Modeling and Navigation</a></h2></p>
 <p>Model and control an autonomous snake-like robot to navigate an unknown environment.  </p>
 <p><strong>Impact</strong>: Advance robotics design for hazardous environments inspection and operation in constricted spaces. </p>
-<p><strong>Expertise gained</strong>: Robotics, Manipulators, Modeling and Simulation</p></td>
+<p><strong>Expertise gained</strong>: Robotics, Manipulators, Modeling and Simulation</p>
+</td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/intersection.jpg"  width=500 /></td>
@@ -147,7 +148,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Path%20Planning%20for%20Autonomous%20Race%20Cars">Path Planning for Autonomous Race Cars</a></h2></p>
 <p>Develop an algorithm to compute an optimal path for racing tracks. </p>
 <p><strong>Impact</strong>: Push racing car competitions into fully autonomous mode </p>
-<p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Optimization, Modeling and Simulation</p></td>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Optimization, Modeling and Simulation</p>
+ <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Path%20Planning%20for%20Autonomous%20Race%20Cars/students%20submissions">Current submissions</a></p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/treadmill.jpg"  width=500 /></td>
@@ -337,7 +339,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/MIMO%20Engine%20Airpath%20Control">MIMO Engine Airpath Control</a></h2></p>
 <p>Internal combustion engines will continue to be used in the automotive marketplace well into the future. Build a MIMO airflow control to improve engine performances, fuel economy, and emissions, and start your career in the automotive industry!</p>
 <p><strong>Impact</strong>: Improve environmental friendliness of engine control by tier 1 automotive supplier.</p>
-<p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Control, Modeling and Simulation</p></td>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Control, Modeling and Simulation</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/MIMO%20Engine%20Airpath%20Control/students%20submissions">Current submissions</a></p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/raspbpi.png"  width=500 /></td>
