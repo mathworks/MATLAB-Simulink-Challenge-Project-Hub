@@ -3,7 +3,7 @@
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ElectrificationHouse.jpg"  width=500 /></td>
 <td><p><h1>Electrification of Household Heating</h1></p>
-<p> Build and evaluate an electrical household heating system to help minimize human environmental impact and halt climate change. </p>
+<p> Build and evaluate an electrical household heating system to help minimize human environmental impact and help to reduce climate change. </p>
 </table>
 
 ## Motivation
