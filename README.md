@@ -5,7 +5,7 @@
 **Contribute to the progress of engineering and science by solving key
 industry challenges!**
 
-Are you looking for a design or research project with real industry relevance? 
+Are you looking for a design or research project idea with real industry relevance? 
 This is a list of inspiring projects based on industry trends for your capstone, senior design project, or final year assignment. These projects help you learn about technology trends while becoming an important and valued contributor to the advancement of technical computing and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks. 
 
 ## How to participate
@@ -33,7 +33,7 @@ If you are in industry and interested in nominating a new project contact us <st
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/snakeRobot.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Snake-like%20Robot%20Modeling%20and%20Navigation">Snake-like Robot Modeling and Navigation</a></h2></p>
-<p>Model and control an autonomous snake-like robot to navigate an unknown environment.  </p>
+<p>Model and control an autonomous snake-like robot to navigate an unknown environment.</p>
 <p><strong>Impact</strong>: Advance robotics design for hazardous environments inspection and operation in constricted spaces. </p>
 <p><strong>Expertise gained</strong>: Robotics, Manipulators, Modeling and Simulation</p>
 </td>
@@ -213,7 +213,11 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Integrity%20Channel%20Feature%20Extraction%20for%20Deep%20Learning">Signal Integrity Channel Feature Extraction for Deep Learning</a></h2></p>
 <p>Develop a deep learning approach for signal integrity applications. </p>
 <p><strong>Impact</strong>: Accelerate signal integrity design and analysis to enable society with more robust and connected internet communications. </p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks, RF and Mixed Signal</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks, RF and Mixed Signal</p>
+<p align="right"; style="margin-top:1px;">
+<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/86fc1b776d9952d9402cb3cbcd9ade5bf95d1e82/t-shirt.jpg" width="50"></p>
+<p align="right"; style="margin-top:1px;"><i>Be the first to sign up for this project <br> and receive a MathWorks T-shirt!</i></p>
+</td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/turbine.png"  width=500 /></td>
@@ -227,7 +231,11 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimal%20Data%20Center%20Cooling">Optimal Data Center Cooling</a></h2></p>
 <p>Improve performance, stability, and cost effectiveness of data centers by designing a cooling algorithm that keeps the system running as efficiently as possible.</p>
 <p><strong>Impact</strong>: Contribute to the performance, reliability, and efficiency of data centers worldwide.</p>
-<p><strong>Expertise gained</strong>: Big Data, Sustainability and Renewable Energy, Cloud Computing, Control, Deep Learning, Modeling and Simulation, Parallel Computing, Predictive Maintenance</p></td>
+<p><strong>Expertise gained</strong>: Big Data, Sustainability and Renewable Energy, Cloud Computing, Control, Deep Learning, Modeling and Simulation, Parallel Computing, Predictive Maintenance</p>
+<p align="right"; style="margin-top:1px;">
+<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/86fc1b776d9952d9402cb3cbcd9ade5bf95d1e82/t-shirt.jpg" width="50"></p>
+<p align="right"; style="margin-top:1px;"><i>Be the first to sign up for this project <br> and receive a MathWorks T-shirt!</i></p>
+</td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HVAC.jpg"  width=500 /></td>
@@ -290,7 +298,11 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20software%20defined%20radio">Build a Wireless Communications Link with Software-Defined Radio</a></h2></p>
 <p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
 <p><strong>Impact</strong>: Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
-<p><strong>Expertise gained</strong>: 5G, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio, Wireless Communication</p></td>
+<p><strong>Expertise gained</strong>: 5G, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio, Wireless Communication</p>
+<p align="right"; style="margin-top:1px;">
+<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/86fc1b776d9952d9402cb3cbcd9ade5bf95d1e82/t-shirt.jpg" width="50"></p>
+<p align="right"; style="margin-top:1px;"><i>Be the first to sign up for this project <br> and receive a MathWorks T-shirt!</i></p>
+</td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fan.jpg"  width=500 /></td>
@@ -318,7 +330,11 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Selection%20of%20Mechanical%20Actuators%20Using%20Simulation-Based%20Analysis">Selection of Mechanical Actuators Using Simulation-Based Analysis</a></h2></p>
 <p>Help accelerate the design and development of autonomous systems by providing a framework for mechanical actuators analysis and selection.</p>
 <p><strong>Impact</strong>: Help evaluate and select actuation systems across multiple industries (robotic, automotive, manufacturing, aerospace) and help designers come up with novel actuation solutions.</p>
-<p><strong>Expertise gained</strong>: Drones, Robotics, Control, Cyber-physical Systems, Electrification, Humanoid, Manipulators, Modeling and Simulation</p></td>
+<p><strong>Expertise gained</strong>: Drones, Robotics, Control, Cyber-physical Systems, Electrification, Humanoid, Manipulators, Modeling and Simulation</p>
+<p align="right"; style="margin-top:1px;">
+<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/86fc1b776d9952d9402cb3cbcd9ade5bf95d1e82/t-shirt.jpg" width="50"></p>
+<p align="right"; style="margin-top:1px;"><i>Be the first to sign up for this project <br> and receive a MathWorks T-shirt!</i></p>
+</td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/battery.jpg"  width=500 /></td>
