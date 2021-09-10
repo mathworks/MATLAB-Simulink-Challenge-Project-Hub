@@ -13,3 +13,6 @@
 [submodule "projects/Path Planning for Autonomous Race Cars/students submissions/MW208_AUTON_RACECARS"]
 	path = projects/Path Planning for Autonomous Race Cars/students submissions/MW208_AUTON_RACECARS
 	url = https://github.com/borealis31/MW208_AUTON_RACECARS
+[submodule "projects/Path Planning for Autonomous Race Cars/students submissions/MW_EiI_208_Trajectory_Planning_and_Tracking"]
+	path = projects/Path Planning for Autonomous Race Cars/students submissions/MW_EiI_208_Trajectory_Planning_and_Tracking
+	url = https://github.com/Arttrm/MW_EiI_208_Trajectory_Planning_and_Tracking
