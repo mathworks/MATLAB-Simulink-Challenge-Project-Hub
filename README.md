@@ -28,8 +28,15 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: August 10, 2021*
+*Updated: September 20, 2021*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/satellite.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Satellite%20Collision%20Avoidance">Satellite Collision Avoidance</a></h2></p>
+<p>Model satellites in Low Earth Orbit (LEO) to identify conjunctions and prevent collisions with space debris, while maintaining orbital requirements.</p>
+<p><strong>Impact</strong>: Contribute to the success of satellite mega-constellations and improve the safety of the Low Earth Orbit (LEO) environment.</p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Control, Satellite, Modeling and Simulation</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/snakeRobot.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Snake-like%20Robot%20Modeling%20and%20Navigation">Snake-like Robot Modeling and Navigation</a></h2></p>

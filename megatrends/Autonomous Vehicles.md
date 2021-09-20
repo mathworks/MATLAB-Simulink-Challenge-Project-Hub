@@ -1,6 +1,13 @@
 # Autonomous Vehicles projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/satellite.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Satellite%20Collision%20Avoidance">Satellite Collision Avoidance</a></h2></p>
+<p>Model satellites in Low Earth Orbit (LEO) to identify conjunctions and prevent collisions with space debris, while maintaining orbital requirements.</p>
+<p><strong>Impact</strong>: Contribute to the success of satellite mega-constellations and improve the safety of the Low Earth Orbit (LEO) environment.</p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Control, Satellite, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/intersection.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Light%20Negotiation%20and%20Perception-Based%20Detection">Traffic Light Negotiation and Perception-Based Detection  </a></h2></p>
 <p>Detect traffic lights and perform traffic light negotiation at an intersection in Unreal environment. </p>
@@ -19,7 +26,7 @@
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles">Classify Object Behavior to Enhance the Safety of Autonomous Vehicles</a></h2></p>
 <p>Automatically classify behavior of tracked objects to enhance the safety of autonomous systems.</p>
 <p><strong>Impact</strong>: Make autonomous vehicles safer by classifying behaviors of objects around them.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Autonomous Vehicles, Robotics, Drones, Deep Learning, Explainable AI, Machine Learning, Mobile Robots, Neural Networks, Reinforcement Learning, Sensor Fusion and Tracking, UAV, UGV, Automotive</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Autonomous Vehicles, Deep Learning, Machine Learning, Neural Networks, Reinforcement Learning, Sensor Fusion and Tracking</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ros.png"  width=500 /></td>
