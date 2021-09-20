@@ -27,28 +27,28 @@ Work with the [Aerospace Toolbox](https://www.mathworks.com/products/aerospace-t
 Suggested steps:
 1.	Review [Comparison of Orbit Propagators](https://www.mathworks.com/help/aerotbx/ug/comparison-of-orbit-propagators.html) and Constellation Modeling with the [Orbit Propagator Block](https://www.mathworks.com/help/aeroblks/constellation-modeling-with-the-orbit-propagator-block.html) examples to learn how to propagate orbital trajectories using Two-Body-Keplerian, SGP4 and SDP4 propagators in Aerospace Toolbox and Aerospace Blockset.  
 2.	Run additional examples listed in the Background Material section below.
-3.	Download space debris states from [Space-track.org](https://www.space-track.org/)
-4.	Propagate the debris trajectories using SGP4 propagation algorithm
-5.	Define a satellite mission with specific orbit definition and requirements. e.g.: earth imaging or broadband communications 
-6.	Propagate the satellite’s states over time, along with the space debris
-7.	Identify potential conjunctions during the analysis window [5,6]
-	-	Determine close contacts by distance criteria
+3.	Download space debris states from [Space-track.org](https://www.space-track.org/).
+4.	Propagate the debris trajectories using SGP4 propagation algorithm.
+5.	Define a satellite mission with specific orbit definition and requirements. e.g.: earth imaging or broadband communications.
+6.	Propagate the satellite’s states over time, along with the space debris.
+7.	Identify potential conjunctions during the analysis window [5,6].
+	-	Determine close contacts by distance criteria.
 
 Extended project work:
-1.	Plan avoidance maneuver for upcoming conjunction with debris
-	1.	Maintain orbit requirements when possible
-2.	Simulate avoidance maneuver
-3.	Design and execute a test and validation method for your algorithm.  Consider using [Verification and Validation products](https://www.mathworks.com/solutions/verification-validation.html)
+1.	Plan avoidance maneuver for upcoming conjunction with debris.
+	-	Maintain orbit requirements when possible.
+2.	Simulate avoidance maneuver.
+3.	Design and execute a test and validation method for your algorithm.  Consider using [Verification and Validation products](https://www.mathworks.com/solutions/verification-validation.html).
 
 Advanced project work:
-1.	Develop probability of collision analysis to enhance conjunction detection in step 7 by determining close contacts by both distance criteria and probability of collision. [5]
+1.	Develop probability of collision analysis to enhance conjunction detection in step 7 by determining close contacts by both distance criteria and probability of collision [5].
 2.	Expand the analysis to cover a constellation of satellites.  Size of the constellation can be defined from your chosen satellite mission. 
 3.	Improve the avoidance maneuver algorithm by optimizing fuel consumption during the maneuver including optimizations for the orbit experiencing changes due to predictable Earth perturbations and the impact of flying in a variable drag environment ([1]).  Fuel consumption is a main constraint during the satellite mission determining the satellite operational lifetime.  Determine a fuel consumption estimate to establish a maneuver propulsion budget and lifetime analysis ([1], [2]).  Fuel consumption may be assumed to be in terms of ΔV.
 4.	Automate the avoidance maneuver to continue indefinitely.  This will be an iterative process to continue avoiding debris as orbit changes.
 5.	Design conceptual architecture of satellite including propulsion system and Attitude and Orbit Control System (AOCS).  Consider using [System Composer](https://www.mathworks.com/products/system-composer.html) and [CubeSat Vehicle Model](https://www.mathworks.com/help/aeroblks/model-and-simulate-cubesats.html).
-	-	Number and type of actuators
-	-	Number and type of sensors
-6.	Design and implement AOCS and propulsion system control system in MATLAB and Simulink
+	-	Number and type of actuators.
+	-	Number and type of sensors.
+6.	Design and implement AOCS and propulsion system control system in MATLAB and Simulink.
 
 ## Background Material
 
@@ -57,10 +57,10 @@ Advanced project work:
 -	[Space Applications](https://www.mathworks.com/help/aerotbx/satellite-scenario.html) has an overview of objects and functions for modeling, analyzing, and visualizing satellites with Aerospace Toolbox and Aerospace Blockset.
 -	[Space Applications — Examples](https://www.mathworks.com/help/aerotbx/examples.html?category=satellite-scenario) provides a set of examples satellite scenario modeling within the MATLAB environment.
 -	[Spacecraft](https://www.mathworks.com/help/aeroblks/spacecraft.html) has an overview of available blocks and examples for modeling, simulating and visualizing spacecraft with Aerospace Blockset.
--	[Comparison of Orbit Propagators](https://www.mathworks.com/help/aerotbx/ug/comparison-of-orbit-propagators.html)
+-	[Comparison of Orbit Propagators](https://www.mathworks.com/help/aerotbx/ug/comparison-of-orbit-propagators.html).
 -	[Constellation Modeling with the Orbit Propagator Block](https://www.mathworks.com/help/aeroblks/constellation-modeling-with-the-orbit-propagator-block.html) provides an example of how to propagate the orbits of a constellation of satellites in a Simulink model.
 -	[Mission Analysis with the Orbit Propagator Block](https://www.mathworks.com/help/aeroblks/mission-analysis-with-the-orbit-propagator-block.html) is an example showing how to perform line-of-sight access analysis from Simulink simulations.
--	[Aerospace Blockset CubeSat Simulation Library](https://www.mathworks.com/matlabcentral/fileexchange/70030-aerospace-blockset-cubesat-simulation-library?s_tid=srchtitle_cubesat%20library_1)
+-	[Aerospace Blockset CubeSat Simulation Library](https://www.mathworks.com/matlabcentral/fileexchange/70030-aerospace-blockset-cubesat-simulation-library?s_tid=srchtitle_cubesat%20library_1).
 
 Suggested readings:
 
@@ -68,13 +68,13 @@ Suggested readings:
 
 [2] Matko, D., Rodič, T., Oštir, K.,  Marsetič, A., and Peljhan, M., “Optimization of Fuel Consumption with Respect to Orbital Requirements for High Resolution Remote Sensing Satellite Constellations”, V: 25th AIAA/USU Conference on Small Satellites, Aug 8-11, 2011, Logan, UT, USA.
 
-[3] Office of the Chief Engineer, NASA, “Collision Avoidance for Space Environment Protection”, November 19, 2020, NID 7120.132
+[3] Office of the Chief Engineer, NASA, “Collision Avoidance for Space Environment Protection”, November 19, 2020, NID 7120.132.
 
-[4] Office of Safety and Mission Assurance, NASA, “NASA Procedural Requirements for Limiting Orbital Debris and Evaluating the Meteoroid and Orbital Debris Environments”, February 16, 2017, NPR 8715.6B
+[4] Office of Safety and Mission Assurance, NASA, “NASA Procedural Requirements for Limiting Orbital Debris and Evaluating the Meteoroid and Orbital Debris Environments”, February 16, 2017, NPR 8715.6B.
 
-[5] Aida, Saika, “Conjunction Risk Assessment and Avoidance Maneuver Planning Tools”, DLR German Space Operations Center (GSOC), Oberpfaffenhofen, Weßling, Germany
+[5] Aida, Saika, “Conjunction Risk Assessment and Avoidance Maneuver Planning Tools”, DLR German Space Operations Center (GSOC), Oberpfaffenhofen, Weßling, Germany.
 
-[6] NASA, “NASA Spacecraft Conjunction Assessment and Collision Avoidance Best Practices Handbook”, NASA/SP-20205011318, Dec 2020
+[6] NASA, “NASA Spacecraft Conjunction Assessment and Collision Avoidance Best Practices Handbook”, NASA/SP-20205011318, Dec 2020.
 
 ## Impact
 
