@@ -18,10 +18,10 @@ Use MATLAB® and toolboxes to implement, explore, and compare different techniqu
 
 Suggested steps:
 
-1.	Locate signal measurement datasets such as those provided by mobile data analytics companies
-2.	Research data-driven techniques using machine learning for defining propagation models from measurements
-3.	Design and implement propagation models in MATLAB using the measurements data 
-4.	Generate coverage maps using your propagation models and compare your results against theoretical propagation models
+1.	Locate signal strength measurement data sets. One portal of wireless data which may help is [CRAWDAD](https://crawdad.org/keyword-signal-strength.html). An example data set is available from [mySignals](http://www.mysignals.gr/research.php).
+2.	Research data-driven techniques used to predict coverage maps from signal strength measurements. In particular, study [City-Wide Signal Strength Maps: Prediction with Random Forests](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313726).
+3.	Design and implement data-driven propagation models in MATLAB using the measurements data. Using the paper mentioned above as a guide, implement one model as a baseline using geospatial interpolation techniques, and implement another model using machine learning techniques such as random forests.
+4.	Generate coverage maps using your propagation models and compare your results against theoretical propagation models which are available in Communications Toolbox.
 
 ## Background Material
 
