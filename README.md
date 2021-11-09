@@ -307,8 +307,6 @@ If you are in industry and interested in nominating a new project contact us <st
 <p><strong>Impact</strong>: Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
 <p><strong>Expertise gained</strong>: 5G, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio, Wireless Communication</p>
 <p align="right"; style="margin-top:1px;">
-<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/86fc1b776d9952d9402cb3cbcd9ade5bf95d1e82/t-shirt.jpg" width="50"></p>
-<p align="right"; style="margin-top:1px;"><i>Be the first to sign up for this project <br> and receive a MathWorks T-shirt!</i></p>
 </td>
 </tbody>
 <tbody>
