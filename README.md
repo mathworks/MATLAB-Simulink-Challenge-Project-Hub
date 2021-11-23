@@ -11,6 +11,7 @@ This is a list of inspiring projects based on industry trends for your capstone,
 ## How to participate
 Make the results of your work <strong>[open and accessible](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/submission%20instructions.md)</strong> to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects and learn about these rewards <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong>.
 
+## How to contact us
 If you are faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UNU8xUzJQUU0xQ0FBQkNFSjkwTE5aQ0o1Ry4u)</strong>.
 
 If you are in industry and interested in nominating a new project contact us <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UOFNSTTZIWk83M0g5RTlHMEhMNFUyR1EwQS4u)</strong>.
