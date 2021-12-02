@@ -22,14 +22,15 @@ Eventually deploy the designed system to the robot.
 
 Suggested steps:
 
-1.	Use Simulink to establish a framework of the vision-guided robot, and make sure if you hand code a target, the robot will search for the target visually, and go there.
-2.	Add voice input, pass it through voice categorizer to the robot planner (you can either do it by defining specific features in the sound signal, or do it the deep learning way)
+1.	Use MATLAB or Simulink to establish a framework of the vision-guided robot, and make sure if you hand code a target, the robot will search for the target visually, and go there.
+2.	Add voice input, pass it through voice categorizer to the robot planner (you can either do it by defining specific features in the sound signal, or do it the deep learning way, find an example [here](https://www.mathworks.com/help/audio/ug/Speech-Command-Recognition-Using-Deep-Learning.html#d123e9007))
 3.	At minimum, you should have “return”, “turn left”, “turn right”, “red target”, “blue target”; as voice commands
 4.	Connect the whole system and play with it.
 
 
 ## Background Material
 
+-	[Speech Command Recognition Using Deep Learning](https://www.mathworks.com/help/audio/ug/Speech-Command-Recognition-Using-Deep-Learning.html#responsive_offcanvas)
 -	[Raspberry Pi Support from Simulink - Hardware Support - MATLAB & Simulink (mathworks.com)](https://www.mathworks.com/hardware-support/raspberry-pi-simulink.html#:~:text=Supported%20Hardware%20%20%20%20Raspberry%20Pi%20Model,R2016a%20-%20Current%20%203%20more%20rows)
 -	[Simulink Support Package for Arduino Hardware Documentation (mathworks.com)](https://www.mathworks.com/help/supportpkg/arduino/index.html#:~:text=The%20support%20package%20includes%20a%20library%20of%20Simulink,by%20entering%20it%20in%20the%20MATLAB%20Command%20Window)
 -	[Control a Raspberry Pi powered robot with MATLAB and Simulink](https://www.mathworks.com/matlabcentral/fileexchange/47376-control-a-raspberry-pi-powered-robot-with-matlab-and-simulink) 
