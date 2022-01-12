@@ -16,3 +16,9 @@
 [submodule "projects/Path Planning for Autonomous Race Cars/students submissions/MW_EiI_208_Trajectory_Planning_and_Tracking"]
 	path = projects/Path Planning for Autonomous Race Cars/students submissions/MW_EiI_208_Trajectory_Planning_and_Tracking
 	url = https://github.com/Arttrm/MW_EiI_208_Trajectory_Planning_and_Tracking
+[submodule "projects/Deep Learning for UAV Infrastructure Inspection/student submissions/-f"]
+	path = projects/Deep Learning for UAV Infrastructure Inspection/student submissions/-f
+	url = https://github.com/karthickai/Deep_Learning_for_UAV_Infrastructure_Inspection
+[submodule "projects/Deep Learning for UAV Infrastructure Inspection/student submissions/DL_for_UAV_Infrastructure_Inspection"]
+	path = projects/Deep Learning for UAV Infrastructure Inspection/student submissions/DL_for_UAV_Infrastructure_Inspection
+	url = https://github.com/karthickai/Deep_Learning_for_UAV_Infrastructure_Inspection
