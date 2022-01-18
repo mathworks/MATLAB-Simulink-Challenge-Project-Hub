@@ -100,7 +100,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles">Portable Charging System for Electric Vehicles </a></h2></p>
 <p>Design a portable charger for Electric Vehicles.</p>
 <p><strong>Impact</strong>: Help make Electric Vehicles more reliable for general use.</p>
-<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Control, Electrification, Modeling and Simulation</p></td>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Control, Electrification, Modeling and Simulation</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles/student%20submissions">Current submissions</a></p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pneumaticSys.jpg"  width=500 /></td>
