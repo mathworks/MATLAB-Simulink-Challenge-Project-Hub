@@ -19,3 +19,6 @@
 [submodule "projects/Deep Learning for UAV Infrastructure Inspection/student submissions/DL_for_UAV_Infrastructure_Inspection"]
 	path = projects/Deep Learning for UAV Infrastructure Inspection/student submissions/DL_for_UAV_Infrastructure_Inspection
 	url = https://github.com/karthickai/Deep_Learning_for_UAV_Infrastructure_Inspection
+[submodule "projects/Path Planning for Autonomous Race Cars/students submissions/MW208_Raceline_Optimization"]
+	path = projects/Path Planning for Autonomous Race Cars/students submissions/MW208_Raceline_Optimization
+	url = https://github.com/putta54/MW208_Raceline_Optimization
