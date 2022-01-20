@@ -265,7 +265,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Speech%20Background%20Noise%20Suppression%20with%20Deep%20Learning">Speech Background Noise Suppression with Deep Learning</a></h2></p>
 <p>Develop a deep learning neural network for audio background noise suppression.</p>
 <p><strong>Impact</strong>: Advance hearing aid technology through research in speech enhancement and noise suppression and improve the quality of life of persons with a hearing impairment.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Neural Networks, Signal Processing</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Neural Networks, Signal Processing</p>
+https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Speech%20Background%20Noise%20Suppression%20with%20Deep%20Learning/student%20submissions">Current submissions</a></p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SatNav.jpg"  width=500 /></td>
