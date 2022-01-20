@@ -286,7 +286,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection">Deep Learning for UAV Infrastructure Inspection</a></h2></p>
 <p>Automate the process of infrastructure inspection using unmanned aerial vehicles and deep learning.</p>
 <p><strong>Impact</strong>: Enhance safety and speed of infrastructure inspection across a wide range of industries.</p>
-<p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, Robotics, UAV, SLAM, Deep Learning</p></td>
+<p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, Robotics, UAV, SLAM, Deep Learning</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection/student%20submissions">Current submissions</a></p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/virtualWorld.png"  width=500 /></td>
