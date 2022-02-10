@@ -92,14 +92,14 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/drone.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Flight%20Controller%20Design%20and%20Hardware%20Deployment">Flight Controller Design and Hardware Deployment</a></h2></p>
 <p>Build a mini drone and use the PX4 Hardware Support package to design the flight controller using Simulink.</p>
-<p><strong>Impact</strong>: Expedite UAV design and assembly with model-based design.</p>
+<p><strong>Impact</strong>: Expedite UAV design and assembly with Model-Based Design.</p>
 <p><strong>Expertise gained</strong>: Drones, Autonomous Vehicles, Control, Low-cost Hardware, UAV</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/portableEvCharger.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles">Portable Charging System for Electric Vehicles </a></h2></p>
 <p>Design a portable charger for Electric Vehicles.</p>
-<p><strong>Impact</strong>: Help make Electric Vehicles more reliable for general use.</p>
+<p><strong>Impact</strong>: Help make electric vehicles more reliable for general use.</p>
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Control, Electrification, Modeling and Simulation</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles/student%20submissions">Current submissions</a></p></td>
 </tbody>
@@ -285,7 +285,7 @@ If you are in industry and interested in nominating a new project contact us <st
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/utilities-energy-image-processing-and-deep-le.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection">Deep Learning for UAV Infrastructure Inspection</a></h2></p>
-<p>Automate the process of infrastructure inspection using unmanned aerial vehicles and deep learning.</p>
+<p>Automate the process of infrastructure inspection using \ aerial vehicles and deep learning.</p>
 <p><strong>Impact</strong>: Enhance safety and speed of infrastructure inspection across a wide range of industries.</p>
 <p><strong>Expertise gained</strong>: Computer Vision, Drones, Artificial Intelligence, Robotics, UAV, SLAM, Deep Learning</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection/student%20submissions">Current submissions</a></p></td>
@@ -307,7 +307,7 @@ If you are in industry and interested in nominating a new project contact us <st
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SDR.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20software%20defined%20radio">Build a Wireless Communications Link with Software-Defined Radio</a></h2></p>
-<p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
+<p>Gain practical experience in wireless communication by designing inexpensive software-defined radios.</p>
 <p><strong>Impact</strong>: Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
 <p><strong>Expertise gained</strong>: 5G, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio, Wireless Communication</p>
 <p align="right"; style="margin-top:1px;">
