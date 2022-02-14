@@ -29,3 +29,6 @@
 	path = projects/Speech Background Noise Suppression with Deep Learning/student submissions/MATLAB-denoise
 	url = https://github.com/BanmaS/MATLAB-denoise
 
+[submodule "projects/Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques/student submissions/PLL-modeling"]
+	path = projects/Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques/student submissions/PLL-modeling
+	url = https://github.com/lulf0020/Behavior-modeling-of-PLL
