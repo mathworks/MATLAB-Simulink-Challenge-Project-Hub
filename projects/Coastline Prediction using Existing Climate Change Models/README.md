@@ -44,7 +44,7 @@ Assess and plan for the potential impact of climate change.
 
 ## Expertise Gained 
 
-Sustainability and Renewable Energy, Climate change
+Sustainability and Renewable Energy, Modeling and Simulation
 
 
 ## Project Difficulty
