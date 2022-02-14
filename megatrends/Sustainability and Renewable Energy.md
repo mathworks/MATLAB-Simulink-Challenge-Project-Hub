@@ -1,6 +1,13 @@
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coastline.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Coastline%20Prediction%20using%20Existing%20Climate%20Change%20Models">Coastline Prediction using Existing Climate Change Models</a></h2></p>
+<p>Develop an example that predicts and visualizes coastline impact due to rising sea levels. </p>
+<p><strong>Impact</strong>: Assess and plan for the potential impact of climate change.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Smart%20Watering%20System%20with%20Internet%20of%20Things">Smart Watering System with Internet of Things</a></h2></p>
 <p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware </p>

@@ -29,8 +29,15 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: September 20, 2021*
+*Updated: February 14, 2022*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coastline.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Coastline%20Prediction%20using%20Existing%20Climate%20Change%20Models">Coastline Prediction using Existing Climate Change Models</a></h2></p>
+<p>Develop an example that predicts and visualizes coastline impact due to rising sea levels.</p>
+<p><strong>Impact</strong>: Assess and plan for the potential impact of climate change.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Modeling and Simulation</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/satellite.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Satellite%20Collision%20Avoidance">Satellite Collision Avoidance</a></h2></p>
