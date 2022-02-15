@@ -207,7 +207,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Behavioral%20Modelling%20of%20Phase-Locked%20Loop%20using%20Deep%20Learning%20Techniques">Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques</a></h2></p>
 <p>Leverage a deep learning approach to extract behavioral models of mixed-signal systems from measurement data and circuit simulation.</p>
 <p><strong>Impact</strong>: Accelerate mixed-signal design and analysis thereby reducing Time-To-Market for semiconductor companies.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks, RF and Mixed Signal, Optimization, Signal Processing</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks, RF and Mixed Signal, Optimization, Signal Processing</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Behavioral%20Modelling%20of%20Phase-Locked%20Loop%20using%20Deep%20Learning%20Techniques/student%20submissions">Current submissions</a></p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ElectrificationHouse.jpg"  width=500 /></td>
@@ -248,9 +249,11 @@ If you are in industry and interested in nominating a new project contact us <st
 <p>Improve performance, stability, and cost effectiveness of data centers by designing a cooling algorithm that keeps the system running as efficiently as possible.</p>
 <p><strong>Impact</strong>: Contribute to the performance, reliability, and efficiency of data centers worldwide.</p>
 <p><strong>Expertise gained</strong>: Big Data, Sustainability and Renewable Energy, Cloud Computing, Control, Deep Learning, Modeling and Simulation, Parallel Computing, Predictive Maintenance</p>
+<!--
 <p align="right"; style="margin-top:1px;">
 <img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/86fc1b776d9952d9402cb3cbcd9ade5bf95d1e82/t-shirt.jpg" width="50"></p>
 <p align="right"; style="margin-top:1px;"><i>Be the first to sign up for this project <br> and receive a MathWorks T-shirt!</i></p>
+-->
 </td>
 </tbody>
 <tbody>
@@ -347,9 +350,11 @@ If you are in industry and interested in nominating a new project contact us <st
 <p>Help accelerate the design and development of autonomous systems by providing a framework for mechanical actuators analysis and selection.</p>
 <p><strong>Impact</strong>: Help evaluate and select actuation systems across multiple industries (robotic, automotive, manufacturing, aerospace) and help designers come up with novel actuation solutions.</p>
 <p><strong>Expertise gained</strong>: Drones, Robotics, Control, Cyber-physical Systems, Electrification, Humanoid, Manipulators, Modeling and Simulation</p>
+<!--
 <p align="right"; style="margin-top:1px;">
 <img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/86fc1b776d9952d9402cb3cbcd9ade5bf95d1e82/t-shirt.jpg" width="50"></p>
 <p align="right"; style="margin-top:1px;"><i>Be the first to sign up for this project <br> and receive a MathWorks T-shirt!</i></p>
+-->
 </td>
 </tbody>
 <tbody>
