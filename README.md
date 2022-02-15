@@ -335,7 +335,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Coverage%20Maps%20Using%20Measurements%20and%20Machine%20Learning">Signal Coverage Maps Using Measurements and Machine Learning</a></h2></p>
 <p>Reduce the cost of 5G and IoT network deployment by generating coverage maps from limited measurements.</p>
 <p><strong>Impact</strong>: Contribute to the evolution and deployment of new wireless communications systems.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, 5G, Machine Learning, Wireless Communication</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, 5G, Machine Learning, Wireless Communication</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Coverage%20Maps%20Using%20Measurements%20and%20Machine%20Learning/student%20submissions">Current submissions</a></p>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/adas-perception.jpg"  width=500 /></td>
