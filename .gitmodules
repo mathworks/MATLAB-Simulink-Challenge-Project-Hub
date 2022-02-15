@@ -32,3 +32,6 @@
 [submodule "projects/Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques/student submissions/PLL-modeling"]
 	path = projects/Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques/student submissions/PLL-modeling
 	url = https://github.com/lulf0020/Behavior-modeling-of-PLL
+[submodule "projects/Signal Coverage Maps Using Measurements and Machine Learning/student submissions/coverageMap"]
+	path = projects/Signal Coverage Maps Using Measurements and Machine Learning/student submissions/coverageMap
+	url = https://github.com/OxygenFunction/coverageMap
