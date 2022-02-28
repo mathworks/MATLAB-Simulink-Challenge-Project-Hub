@@ -47,7 +47,7 @@ Depending on how much time you have for your project, you might want to pick a s
 - [Simscape](https://www.mathworks.com/products/simscape.html#ssfam)
 - [Simscape Electrical](https://www.mathworks.com/help/physmod/sps/index.html?s_tid=CRUX_lftnav)
 - [Simscape Fluids](https://www.mathworks.com/help/physmod/sps/index.html?s_tid=CRUX_lftnav)
-- [Hybrid Linear Actuator](https:\www.mathworks.com\help\physmod\sps\ug\hybrid-linear-actuator.html) 
+- [Hybrid Linear Actuator](https://www.mathworks.com/help/physmod/sps/ug/hybrid-linear-actuator.html) 
 
 ## Impact
 
