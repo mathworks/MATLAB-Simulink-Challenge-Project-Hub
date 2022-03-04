@@ -8,14 +8,11 @@
 
 ## Motivation
 
-The United States Geological Survey (USGS) reports that the worldwide death toll due to landslides is in the thousands with most fatalities due to rock falls, debris flows, or volcanic debris flows.  
-A Landslide Susceptibility Map (LSM) is an effective visualization for identifying the relative likelihood of future landslides in low and high-risk landslide regions.  
-These maps can aid with understanding the potential for future landslides that can have devastating impacts on cites, power grids, transportation, and most importantly people.
+The [United States Geological Survey (USGS)](https://www.usgs.gov/) reports that the worldwide death toll due to landslides is in the thousands with most fatalities due to rock falls, debris flows, or volcanic debris flows. A Landslide Susceptibility Map (LSM) is an effective visualization for identifying the relative likelihood of future landslides in low and high-risk landslide regions. These maps can aid with understanding the potential for future landslides that can have devastating impacts on cites, power grids, transportation, and most importantly people.
 
-## Project Descriptionlandslide
+## Project Description
 
-Develop a complete MATLAB-based example that generates a Landslide Susceptibility Map as seen in [1]. The example would obtain the historical landslide data e.g., distance from roads, 
-distance from geological faults, distance from water streams, land use type, etc. and apply the three-stage methodology (outlined in Figure 2 of [1]) to generate and visualize a geographic map,
+Develop a complete MATLAB-based example that generates a Landslide Susceptibility Map as seen in [1]. The example would obtain the historical landslide data e.g., distance from roads, distance from geological faults, distance from water streams, land use type, etc. and apply the three-stage methodology (outlined in Figure 2 of [1]) to generate and visualize a geographic map,
 color-coded with high and low landslide risk regions (as see in Figures 5 and 6  of [1]).
 
 Suggested steps:
@@ -33,7 +30,7 @@ References:
 - [2] [Vakhshoori, Vali, Hamid R. Pourghasemi, Mohammad Zare, and Thomas Blaschke. 2019. "Landslide Susceptibility Mapping Using GIS-Based Data Mining Algorithms" Water 11, no. 11: 2292. https://doi.org/10.3390/w11112292](https://www.mdpi.com/2073-4441/11/11/2292/pdf)
 
 Examples and tutorials:
-- ArcGIS Geomorphometry and Gradient Metrics toolbox ([Documentation](https://evansmurphy.wixsite.com/evansspatial/arcgis-gradient-metrics-toolbox),[GitHub repository](https://github.com/jeffreyevans/GradientMetrics)) 
+- ArcGIS Geomorphometry and Gradient Metrics toolbox ([Documentation](https://evansmurphy.wixsite.com/evansspatial/arcgis-gradient-metrics-toolbox), [GitHub repository](https://github.com/jeffreyevans/GradientMetrics)) 
 - [What is a Convolutional Neural Network?](https://www.mathworks.com/discovery/convolutional-neural-network-matlab.html)
 
 
