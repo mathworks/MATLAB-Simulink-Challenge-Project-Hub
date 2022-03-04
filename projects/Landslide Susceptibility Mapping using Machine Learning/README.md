@@ -17,11 +17,11 @@ color-coded with high and low landslide risk regions (as see in Figures 5 and 6 
 
 Suggested steps:
 1.	Identify the regions for which required landslide data exists e.g., Muş, Turkey, Bandar Torkaman, Iran, etc.
-2.	Fetch the required training data.  Reference [1] used [ArcGIS Geomorphometry and Gradient Metrics Toolbox](https://github.com/jeffreyevans/GradientMetrics).
+2.	Fetch the required training data. You can adopt the tool [here](https://github.com/jeffreyevans/GradientMetrics) as per Reference [1].
 3.	Implement the three-stage methodology as seen in Figure 2 of [1].
-	1.	Pre-process spatial data
-	2.	Develop a cascade neural network model is developed (cascadeforwardnet using trainlm training)
-	3.	Generate the risk map using a total of 24 variables
+	1.	Pre-process spatial data using MATLAB®
+	2.	Develop a cascade neural network model (cascadeforwardnet using trainlm training) using the [Deep Learning Toolbox™](https://www.mathworks.com/products/deep-learning.html)
+	3.	Use the [Mapping Toolbox™](https://www.mathworks.com/products/mapping.html) to generate the risk map using a total of 24 variables 
 
 ## Background Material
 
@@ -30,9 +30,8 @@ References:
 - [2] [Vakhshoori, Vali, Hamid R. Pourghasemi, Mohammad Zare, and Thomas Blaschke. 2019. "Landslide Susceptibility Mapping Using GIS-Based Data Mining Algorithms" Water 11, no. 11: 2292. https://doi.org/10.3390/w11112292](https://www.mdpi.com/2073-4441/11/11/2292/pdf)
 
 Examples and tutorials:
-- ArcGIS Geomorphometry and Gradient Metrics toolbox ([Documentation](https://evansmurphy.wixsite.com/evansspatial/arcgis-gradient-metrics-toolbox), [GitHub repository](https://github.com/jeffreyevans/GradientMetrics)) 
+- ArcGIS Geomorphometry and Gradient Metrics ([Documentation](https://evansmurphy.wixsite.com/evansspatial/arcgis-gradient-metrics-toolbox), [GitHub repository](https://github.com/jeffreyevans/GradientMetrics)) 
 - [What is a Convolutional Neural Network?](https://www.mathworks.com/discovery/convolutional-neural-network-matlab.html)
-
 
 ## Impact
 
@@ -45,7 +44,7 @@ Sustainability and Renewable Energy, Machine Learning
 
 ## Project Difficulty
 
-Bachelor, Master's 
+Bachelor
 
 ## Project Number
 
