@@ -38,6 +38,7 @@ If you are in industry and interested in nominating a new project contact us <st
 <p><strong>Impact</strong>: Assess and plan for the potential impact of climate change.</p>
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Modeling and Simulation</p></td>
 </tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/landslide.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Landslide%20Susceptibility%20Mapping%20using%20Machine%20Learning">Landslide Susceptibility Mapping using Machine Learning</a></h2></p>
 <p>Develop a tool to identify and visualize geographical areas susceptible to landslides.</p>
