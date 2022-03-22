@@ -8,6 +8,13 @@
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Modeling and Simulation</p></td>
 </tbody>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/landslide.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Landslide%20Susceptibility%20Mapping%20using%20Machine%20Learning">Landslide Susceptibility Mapping using Machine Learning</a></h2></p>
+<p>Develop a tool to identify and visualize geographical areas susceptible to landslides.</p>
+<p><strong>Impact</strong>: Identify areas that are at risk for landslides to help mitigate devastating impacts on people and infrastructure.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Machine Learning</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Smart%20Watering%20System%20with%20Internet%20of%20Things">Smart Watering System with Internet of Things</a></h2></p>
 <p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware </p>
