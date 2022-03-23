@@ -55,6 +55,10 @@ Autonomous Vehicles, Drones, Robotics, Aerospace, Low-cost Hardware, Modeling an
 
 Bachelor, Master's, Doctoral
 
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/63) to ask/answer questions, comment, or share your ideas for solutions for this project.
+
 ## Project Number
 
 230
