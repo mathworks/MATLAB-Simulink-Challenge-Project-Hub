@@ -29,8 +29,15 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: March 4, 2022*
+*Updated: March 23, 2022*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agressivemanuvre3.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Aggressive%20Maneuver%20Stabilization%20for%20a%20Minidrone">Aggressive Maneuver Stabilization for a Minidrone</a></h2></p>
+<p>Design a controller to enable a micro aerial vehicle to stabilize in the scenario of an external aggressive disturbance.</p>
+<p><strong>Impact</strong>: Contribute to advancements in aerial vehicle control in contracted spaces with unforeseen environment conditions.</p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Drones, Robotics, Aerospace, Low-cost Hardware, Modeling and Simulation, State Estimation, UAV, Control</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coastline.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Coastline%20Prediction%20using%20Existing%20Climate%20Change%20Models">Coastline Prediction using Existing Climate Change Models</a></h2></p>
