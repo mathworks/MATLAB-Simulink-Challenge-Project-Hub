@@ -41,6 +41,13 @@ Project variations:
 -	Deploy to hardware using [Simulink Support Package for Parrot Minidrones](https://www.mathworks.com/help/supportpkg/parrot/)
 -	Video series on [Drone Simulation and Control](https://www.mathworks.com/videos/series/drone-simulation-and-control.html) that explains the workflow for developing a control system for the Parrot Mambo Minidrone and explains how to deploy the algorithms on the hardware
 
+Suggested readings: 
+
+[1] Taeyoung Lee, Melvin Leok, and N. Harris McClamroch, " Geometric Tracking Control of a Quadrotor UAV on SE(3) ", 49th IEEE Conference on Decision and Control December 15-17, 2010 Hilton Atlanta Hotel, Atlanta, GA, USA 
+
+[2] Emil Fresk and George Nikolakopoulos, “Full Quaternion Based Attitude Control for a Quadrotor”, 2013 European Control Conference (ECC) July 17-19, 2013, Zürich, Switzerland. 
+
+[3] C. G. Mayhew, R. G. Sanfelice, and A. R. Teel, “Quaternion-based hybrid control for robust global attitude tracking,” IEEE Transactions on Automatic control, vol. 56, no. 11, pp. 2555–2566, 2011. 
 
 ## Impact
 
