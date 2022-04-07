@@ -19,7 +19,7 @@ Suggested steps:
 Part 1:
 
 1.	Become familiar with the MATLAB IMU simulation model [imuSensor](https://www.mathworks.com/help/nav/ref/imusensor-system-object.html). Simulate IMU signals for a stationary device and for one in motion using [waypointTrajectory](https://www.mathworks.com/help/fusion/ref/waypointtrajectory-system-object.html) (available in the the Navigation Toolbox and Sensor Fusion and Tracking Toolbox, respectively).
-2.	Become familiar with what IMU signals look like when the device is subject to vibration. You can see a simulation of this in [2] or look at actual IMU datasets in [3] and [4].
+2.	Become familiar with what IMU signals look like when the device is subject to vibration. You can see a simulation of this in [2] or look at actual IMU datasets in [ds1] and [ds2].
 3.	Develop a Vibration Model to be used with the imuSensor as in the diagram below. The Vibration Model should cause the output of the imuSensor to mimic the output of an IMU under vibration. Your Vibration Model can be created with classical signal processing techniques or using a generative AI technique. Can you use this model in conjunction with the waypointTrajectory to simulate a moving device which is subject to vibration?
 
 | ![vibrationModel ](vibrationModel.png) | 
@@ -46,9 +46,9 @@ The [MATLAB Support Package for Arduino](https://www.mathworks.com/matlabcentral
 
 Datasets:
 
-- [dt1] [Kaggle Accelerometer Data Set for “Prediction of Motor Failure Time”](https://data.mendeley.com/datasets/v43hmbwxpm/2)
+- [ds1] [Kaggle Accelerometer Data Set for “Prediction of Motor Failure Time”](https://data.mendeley.com/datasets/v43hmbwxpm/2)
 
-- [dt2] [Bearing Vibration Data under Time-varying Rotational Speed Conditions](https://data.mendeley.com/datasets/v43hmbwxpm/2)
+- [ds2] [Bearing Vibration Data under Time-varying Rotational Speed Conditions](https://data.mendeley.com/datasets/v43hmbwxpm/2)
 
 Suggested readings:
 
