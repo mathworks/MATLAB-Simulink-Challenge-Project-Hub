@@ -22,9 +22,9 @@ Part 1:
 2.	Become familiar with what IMU signals look like when the device is subject to vibration. You can see a simulation of this in [2] or look at actual IMU datasets in [3] and [4].
 3.	Develop a Vibration Model to be used with the imuSensor as in the diagram below. The Vibration Model should cause the output of the imuSensor to mimic the output of an IMU under vibration. Your Vibration Model can be created with classical signal processing techniques or using a generative AI technique. Can you use this model in conjunction with the waypointTrajectory to simulate a moving device which is subject to vibration?
 
-| ![vibrationModel](vibrationModel.png) | 
+| ![vibrationModel ](vibrationModel.png) | 
 |:--:| 
-| ***Figure1**: IMU + Vibration model* |
+| ***Figure 1**: IMU + vibration model* |
 
 Part 2:
 
@@ -32,7 +32,7 @@ Part 2:
 
 | ![vibrationCompensation](VibrationCompensation.png) | 
 |:--:| 
-| ***Figure1**: Vibration compensation* |
+| ***Figure 2**: Vibration compensation* |
 
 Advanced project work:
  
