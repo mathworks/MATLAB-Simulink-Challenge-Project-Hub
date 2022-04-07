@@ -22,9 +22,17 @@ Part 1:
 2.	Become familiar with what IMU signals look like when the device is subject to vibration. You can see a simulation of this in [2] or look at actual IMU datasets in [3] and [4].
 3.	Develop a Vibration Model to be used with the imuSensor as in the diagram below. The Vibration Model should cause the output of the imuSensor to mimic the output of an IMU under vibration. Your Vibration Model can be created with classical signal processing techniques or using a generative AI technique. Can you use this model in conjunction with the waypointTrajectory to simulate a moving device which is subject to vibration?
 
+| ![vibrationModel](vibrationModel.png) | 
+|:--:| 
+| ***Figure1**: IMU + Vibration model* |
+
 Part 2:
 
 4.	Develop a Vibration Compensation algorithm for use after the imuSensor as in the diagram below. The Vibration Compensation can be as simple as detecting if vibration is present and setting a Boolean flag, or more a sophisticated algorithm that attempts to filter or remove the vibration signal from the IMU output. You can do this with classical filtering techniques available in Signal Processing Toolbox, Wavelet Toolbox, or with ML/DL approaches.
+
+| ![vibrationCompensation](VibrationCompensation.png) | 
+|:--:| 
+| ***Figure1**: Vibration compensation* |
 
 Advanced project work:
  
@@ -63,6 +71,10 @@ Drones, Autonomous Vehicles, Robotics, Modeling and Simulation, Sensor Fusion an
 ## Project Difficulty
 
 Doctoral, Bachelor, Master's
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/65) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
