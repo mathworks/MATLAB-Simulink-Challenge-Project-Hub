@@ -46,7 +46,7 @@ The [MATLAB Support Package for Arduino](https://www.mathworks.com/matlabcentral
 
 Datasets:
 
-- [ds1] [Kaggle Accelerometer Data Set for “Prediction of Motor Failure Time”](https://data.mendeley.com/datasets/v43hmbwxpm/2)
+- [ds1] [Kaggle Accelerometer Data Set for “Prediction of Motor Failure Time”](https://www.kaggle.com/datasets/dhinaharp/accelerometer-data-set)
 
 - [ds2] [Bearing Vibration Data under Time-varying Rotational Speed Conditions](https://data.mendeley.com/datasets/v43hmbwxpm/2)
 
