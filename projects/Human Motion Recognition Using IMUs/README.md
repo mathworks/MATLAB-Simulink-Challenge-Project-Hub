@@ -19,7 +19,7 @@ Motion recognition has obvious applications to consumer electronics in wearables
 This project focuses on simulating and detecting different categories of human motion using an IMU data along with Machine Learning and Deep Learning techniques. 
 
 Suggested steps:
-1.	Record signals from an IMU strapped to the body. You can do this using the [Arduino Support Package for MATLAB](https://www.mathworks.com/hardware-support/arduino-matlab.html) or with the MATLAB Mobile App ([IoS] (https://apps.apple.com/us/app/matlab-mobile/id370976661), [Android](https://play.google.com/store/apps/details?id=com.mathworks.matlabmobile&amp;hl=en_US&amp;gl=US)) on your phone. Be sure to follow all safety precautions if attaching electronics to the body.
+1.	Record signals from an IMU strapped to the body. You can do this using the [Arduino Support Package for MATLAB](https://www.mathworks.com/hardware-support/arduino-matlab.html) or with the MATLAB Mobile App ([IoS](https://apps.apple.com/us/app/matlab-mobile/id370976661), [Android](https://play.google.com/store/apps/details?id=com.mathworks.matlabmobile&amp;hl=en_US&amp;gl=US)) on your phone. Be sure to follow all safety precautions if attaching electronics to the body.
 2.	Alternatively, use an open-source dataset  for body worn IMUs. There are several public datasets for Human Activity Recognition (HAR) including
 a.	[HARTH Dataset](https://github.com/ntnu-ai-lab/harth-ml-experiments)
 b.	[Human Activity Recognition Using Smartphones Data Set](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
@@ -30,7 +30,7 @@ Project Variations:
 
 Advanced project work:
 1.	Use the imuSensor (in the Navigation Toolbox and Sensor Fusion and Tracking Toolbox) to recreate your recorded signals. Build a Human Motion Model (as in the diagram below) to drive the imuSensor object to mimic the IMU signals you used to train your classification algorithm in the first part of the project. To build the Human Motion Model, consider using the [OpenSim](https://simtk.org/projects/opensim/)  modeling framework, or alternatively train an AI network to produce the desired imuSensor input . 
-2.	Run your AI classification algorithms from the first part of the project on real hardware. Use this hardware to control MATLAB using the activities you’re AI algorithm can recognize. For example, [in this video](&lt; https://www.youtube.com/watch?v=RlomRYsP7Rg&gt;) gestures are used to control MATLAB. 
+2.	Run your AI classification algorithms from the first part of the project on real hardware. Use this hardware to control MATLAB using the activities you’re AI algorithm can recognize. For example, [in this video](https://www.youtube.com/watch?v=RlomRYsP7Rg&gt;) gestures are used to control MATLAB. 
 
 ## Background Material
 
@@ -47,10 +47,13 @@ Enable the next generation of wearable electronic devices with motion recognitio
 
 Artificial Intelligence, Deep Learning, Embedded AI, Neural Networks, Signal Processing
 
-
 ## Project Difficulty
 
 Bachelor, Master's, Doctoral
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/66) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
