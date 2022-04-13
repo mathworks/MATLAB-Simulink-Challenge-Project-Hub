@@ -38,3 +38,6 @@
 [submodule "projects/Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques/student submissions/PLL-modelling"]
 	path = projects/Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques/student submissions/PLL-modelling
 	url = https://github.com/lulf0020/Behavior-modeling-of-PLL/
+[submodule "projects/Portable Charging System for Electric Vehicles/student submissions/Portable-Charging-System"]
+	path = projects/Portable Charging System for Electric Vehicles/student submissions/Portable-Charging-System
+	url = https://github.com/lipun7naik/Portable-Charging-System
