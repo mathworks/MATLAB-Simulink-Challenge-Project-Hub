@@ -1,6 +1,13 @@
 # Autonomous Vehicles projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/sensorFusion.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sensor%20Fusion%20for%20Autonomous%20Systems">Sensor Fusion for Autonomous Systems</a></h2></p>
+<p>Develop a sensor fusion algorithm for vehicle pose estimation using classical filtering or AI-based techniques.</p>
+<p><strong>Impact</strong>: Enhance navigation accuracy of autonomous vehicles. </p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Sensor Fusion and Tracking, State Estimation</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/vibration.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Vibration%20Detection%20and%20Rejection%20from%20IMU%20Data">Vibration Detection and Rejection from IMU Data</a></h2></p>
 <p>Remove vibration signals from inertial measurement units.</p>

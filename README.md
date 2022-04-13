@@ -29,8 +29,22 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: April 07, 2022*
+*Updated: April 12, 2022*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/sensorFusion.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sensor%20Fusion%20for%20Autonomous%20Systems">Sensor Fusion for Autonomous Systems</a></h2></p>
+<p>Develop a sensor fusion algorithm for vehicle pose estimation using classical filtering or AI-based techniques.</p>
+<p><strong>Impact</strong>: Enhance navigation accuracy of autonomous vehicles. </p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Sensor Fusion and Tracking, State Estimation</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/motionRecognition.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Human%20Motion%20Recognition%20Using%20IMUs">Human Motion Recognition Using IMUs </a></h2></p>
+<p>Use Deep Learning and Inertial Measurement Units (IMU) data to recognize human activities and gestures.</p>
+<p><strong>Impact</strong>: Enable the next generation of wearable electronic devices with motion recognition. </p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Embedded AI, Neural Networks, Signal Processing</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/vibration.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Vibration%20Detection%20and%20Rejection%20from%20IMU%20Data">Vibration Detection and Rejection from IMU Data</a></h2></p>

@@ -1,6 +1,13 @@
 # Artificial Intelligence projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/motionRecognition.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Human%20Motion%20Recognition%20Using%20IMUs">Human Motion Recognition Using IMUs </a></h2></p>
+<p>Use Deep Learning and Inertial Measurement Units (IMU) data to recognize human activities and gestures.</p>
+<p><strong>Impact</strong>: Enable the next generation of wearable electronic devices with motion recognition. </p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Embedded AI, Neural Networks, Signal Processing</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/objectBehavior.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles">Classify Object Behavior to Enhance the Safety of Autonomous Vehicles</a></h2></p>
 <p>Automatically classify behavior of tracked objects to enhance the safety of autonomous systems.</p>
