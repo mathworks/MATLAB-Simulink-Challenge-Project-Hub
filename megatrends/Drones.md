@@ -1,6 +1,13 @@
 # Drones projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/vibration.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Vibration%20Detection%20and%20Rejection%20from%20IMU%20Data">Vibration Detection and Rejection from IMU Data</a></h2></p>
+<p>Remove vibration signals from inertial measurement units.</p>
+<p><strong>Impact</strong>:  Improve navigation systems by making them robust against vibrations.</p>
+<p><strong>Expertise gained</strong>: Drones, Autonomous Vehicles, Robotics, Modeling and Simulation, Sensor Fusion and Tracking, State Estimation, Signal Processing</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agressivemanuvre3.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Aggressive%20Maneuver%20Stabilization%20for%20a%20Minidrone">Aggressive Maneuver Stabilization for a Minidrone</a></h2></p>
 <p>Design a controller to enable a micro aerial vehicle to stabilize in the scenario of an external aggressive disturbance.</p>
