@@ -100,7 +100,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Data%20Analysis%20for%20Modelling%20and%20Prediction%20of%20Traffic%20Scenarios">Traffic Data Analysis for Modeling and Prediction of Traffic Scenarios </a></h2></p>
 <p>Analyze real-world traffic data to understand, model, and predict human driving trajectories. </p>
 <p><strong>Impact</strong>: Contribute to autonomous driving technologies and intelligent transportation research. </p>
-<p><strong>Expertise gained</strong>: Big Data, Autonomous Vehicles, Support Vector Machines, Machine Learning, Deep Learning, Automotive</p></td>
+<p><strong>Expertise gained</strong>: Big Data, Autonomous Vehicles, Support Vector Machines, Machine Learning, Deep Learning, Automotive</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Data%20Analysis%20for%20Modelling%20and%20Prediction%20of%20Traffic%20Scenarios/student%20submissions">Current submissions</a></p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/objectBehavior.jpg"  width=500 /></td>
