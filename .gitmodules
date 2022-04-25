@@ -1,12 +1,3 @@
-[submodule "projects\\MIMO"]
-	path = projects\\MIMO
-	url = https://github.com/YorkPatty/T513---SIEngineDynamometer
-[submodule "projects/projects\\'MIMO"]
-	path = projects/projects\\'MIMO
-	url = https://github.com/YorkPatty/T513---SIEngineDynamometer
-[submodule "projects/MIMO Engine Airpath Control\\project solutions"]
-	path = projects/MIMO Engine Airpath Control\\project solutions
-	url = https://github.com/YorkPatty/T513---SIEngineDynamometer
 [submodule "projects/MIMO Engine Airpath Control/students submissions/T513---SIEngineDynamometer"]
 	path = projects/MIMO Engine Airpath Control/students submissions/T513---SIEngineDynamometer
 	url = https://github.com/YorkPatty/T513---SIEngineDynamometer
@@ -28,16 +19,12 @@
 [submodule "projects/Speech Background Noise Suppression with Deep Learning/student submissions/MATLAB-denoise"]
 	path = projects/Speech Background Noise Suppression with Deep Learning/student submissions/MATLAB-denoise
 	url = https://github.com/BanmaS/MATLAB-denoise
-
-[submodule "projects/Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques/student submissions/PLL-modeling"]
-	path = projects/Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques/student submissions/PLL-modeling
-	url = https://github.com/lulf0020/Behavior-modeling-of-PLL
 [submodule "projects/Signal Coverage Maps Using Measurements and Machine Learning/student submissions/coverageMap"]
 	path = projects/Signal Coverage Maps Using Measurements and Machine Learning/student submissions/coverageMap
 	url = https://github.com/OxygenFunction/coverageMap
 [submodule "projects/Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques/student submissions/PLL-modelling"]
 	path = projects/Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques/student submissions/PLL-modelling
-	url = https://github.com/lulf0020/Behavior-modeling-of-PLL/
+	url = https://github.com/lulf0020/Behavior-modeling-of-PLL
 [submodule "projects/Portable Charging System for Electric Vehicles/student submissions/Portable-Charging-System"]
 	path = projects/Portable Charging System for Electric Vehicles/student submissions/Portable-Charging-System
 	url = https://github.com/lipun7naik/Portable-Charging-System
