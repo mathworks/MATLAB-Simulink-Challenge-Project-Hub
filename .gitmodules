@@ -31,3 +31,6 @@
 [submodule "projects/Traffic Data Analysis for Modelling and Prediction of Traffic Scenarios/student submissions/Project222"]
 	path = projects/Traffic Data Analysis for Modelling and Prediction of Traffic Scenarios/student submissions/Project222
 	url = https://github.com/GirolamoOddo/Project222
+[submodule "projects/Portable Charging System for Electric Vehicles/student submissions/Portable-Buck-Converter-EV-charger"]
+	path = projects/Portable Charging System for Electric Vehicles/student submissions/Portable-Buck-Converter-EV-charger
+	url = https://github.com/amrmarey15/Portable-Buck-Converter-Battery-Electric-Vehicle-Charger
