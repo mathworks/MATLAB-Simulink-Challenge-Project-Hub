@@ -8,13 +8,7 @@
 
 ## Motivation
 
-Autonomous vehicles are revolutionizing the way the current transportation
-system works and many companies are investing on this mega trend technology
-to secure a share in this market. Researchers and engineers are combining 
-efforts to achieve a full driving automation (Level 5) system that is safe 
-and comfortable for the passengers.
-Localization is a key component of an autonomous vehicle to enable autonomous
-driving by processing sensors data combined with high definition maps for accurate results.
+Autonomous vehicles are revolutionizing the way the current transportation system works and many companies are investing on this mega trend technology to secure a share in this market. Researchers and engineers are combining efforts to achieve a full driving automation (Level 5) system that is safe and comfortable for the passengers. Localization is a key component of an autonomous vehicle to enable autonomous driving by processing sensors data combined with high definition maps for accurate results.
 
 ## Project Description
 
