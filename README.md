@@ -29,8 +29,15 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: April 12, 2022*
+*Updated: May 20, 2022*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualIntertialOdometry.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone">Visual - Inertial Odometry for a Minidrone </a></h2></p>
+<p>Design and implement a visual/visual-inertial odometry system using onboard camera for a Minidrone.</p>
+<p><strong>Impact</strong>:  Advance aerial vehicle control in contracted spaces with unforeseen environment conditions.</p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Drones, Robotics, Aerospace, Control, Image Processing, Low-cost Hardware, Modeling and Simulation, Signal Processing, State Estimation, UAV</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/sensorFusion.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sensor%20Fusion%20for%20Autonomous%20Systems">Sensor Fusion for Autonomous Systems</a></h2></p>
