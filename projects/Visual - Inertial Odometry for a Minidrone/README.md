@@ -54,7 +54,6 @@ Suggested readings:
 Vijay Kumar, and Jakob Engel, “TLIO: Tight Learned Inertial Odometry,” IEEE ROBOTICS AND AUTOMATION LETTERS, VOL. 5, NO. 4, OCTOBER 2020
 
 
-
 ## Impact
 
  Advance aerial vehicle control in contracted spaces with unforeseen environment conditions.
@@ -67,6 +66,10 @@ Autonomous Vehicles, Computer Vision, Drones, Robotics, Aerospace, Control, Imag
 ## Project Difficulty
 
 Bachelor, Master's, Doctoral
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/68) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
