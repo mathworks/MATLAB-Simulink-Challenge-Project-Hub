@@ -43,3 +43,6 @@
 [submodule "projects/Autonomous Navigation for Vehicles in Rough Terrain/student submissions/core.longpaths=true"]
 	path = projects/Autonomous Navigation for Vehicles in Rough Terrain/student submissions/core.longpaths=true
 	url = https://github.com/Autonomousanz/Autonomous-Navigation-in-Rough-Terrain
+[submodule "Autonomous-Navigation-in-Rough-Terrain"]
+	path = Autonomous-Navigation-in-Rough-Terrain
+	url = https://github.com/Autonomousanz/Autonomous-Navigation-in-Rough-Terrain
