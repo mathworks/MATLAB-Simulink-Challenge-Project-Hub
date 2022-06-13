@@ -165,7 +165,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Detection%20and%20Human%20Tracking%20Robot">Face Detection and Human Tracking Robot</a></h2></p>
 <p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>
 <p><strong>Impact</strong>: Leverage mobile technology and deep learning to advance human detection algorithms for impacting human safety and security.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Detection%20and%20Human%20Tracking%20Robot/student%20submissions">Current submissions</a></p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png"  width=500 /></td>
