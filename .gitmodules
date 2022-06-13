@@ -34,3 +34,6 @@
 [submodule "projects/Portable Charging System for Electric Vehicles/student submissions/Portable-Buck-Converter-EV-charger"]
 	path = projects/Portable Charging System for Electric Vehicles/student submissions/Portable-Buck-Converter-EV-charger
 	url = https://github.com/amrmarey15/Portable-Buck-Converter-Battery-Electric-Vehicle-Charger
+[submodule "projects/Face Detection and Human Tracking Robot/student submissions/Face-Detection-and-Human-Tracking-Robot"]
+	path = projects/Face Detection and Human Tracking Robot/student submissions/Face-Detection-and-Human-Tracking-Robot
+	url = https://github.com/lancg/Face-Detection-and-Human-Tracking-Robot
