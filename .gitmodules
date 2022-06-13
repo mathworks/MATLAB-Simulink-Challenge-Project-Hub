@@ -43,3 +43,6 @@
 [submodule "projects/Autonomous Navigation for Vehicles in Rough Terrain/student submissions/Autonomous-Nav-Rough-Terrain"]
 	path = projects/Autonomous Navigation for Vehicles in Rough Terrain/student submissions/Autonomous-Nav-Rough-Terrain
 	url = https://github.com/Autonomousanz/Autonomous-Navigation-in-Rough-Terrain
+[submodule "projects/Voice Controlled Robot/student submissions/voice-controlled-robot"]
+	path = projects/Voice Controlled Robot/student submissions/voice-controlled-robot
+	url = https://github.com/young-xx/voice-controlled-robot
