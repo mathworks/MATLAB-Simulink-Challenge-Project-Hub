@@ -37,3 +37,6 @@
 [submodule "projects/Face Detection and Human Tracking Robot/student submissions/Face-Detection-and-Human-Tracking-Robot"]
 	path = projects/Face Detection and Human Tracking Robot/student submissions/Face-Detection-and-Human-Tracking-Robot
 	url = https://github.com/lancg/Face-Detection-and-Human-Tracking-Robot
+[submodule "projects/Face Detection and Human Tracking Robot/student submissions/Face-Detection-Car"]
+	path = projects/Face Detection and Human Tracking Robot/student submissions/Face-Detection-Car
+	url = https://github.com/VoidXia/Face-Detection-Car
