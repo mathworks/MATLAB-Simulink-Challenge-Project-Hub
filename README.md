@@ -24,7 +24,6 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Computer Vision](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Computer%20Vision.md)
 - [Drones](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Drones.md)
 - [Industry 4.0](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Industry%204.0.md)
-- [Neuroscience](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Neuroscience.md)
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
