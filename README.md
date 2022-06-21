@@ -63,7 +63,9 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Aggressive%20Maneuver%20Stabilization%20for%20a%20Minidrone">Aggressive Maneuver Stabilization for a Minidrone</a></h2></p>
 <p>Design a controller to enable a micro aerial vehicle to stabilize in the scenario of an external aggressive disturbance.</p>
 <p><strong>Impact</strong>: Contribute to advancements in aerial vehicle control in contracted spaces with unforeseen environment conditions.</p>
-<p><strong>Expertise gained</strong>: Autonomous Vehicles, Drones, Robotics, Aerospace, Low-cost Hardware, Modeling and Simulation, State Estimation, UAV, Control</p></td>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Drones, Robotics, Aerospace, Low-cost Hardware, Modeling and Simulation, State Estimation, UAV, Control</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects//Aggressive%20Maneuver%20Stabilization%20for%20a%20Minidrone/student%20submissions">Current submissions</a></p>
+</td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coastline.jpg"  width=500 /></td>
@@ -275,9 +277,9 @@ If you are in industry and interested in nominating a new project contact us <st
 <p>Develop a deep learning approach for signal integrity applications. </p>
 <p><strong>Impact</strong>: Accelerate signal integrity design and analysis to enable society with more robust and connected internet communications. </p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks, RF and Mixed Signal</p>
-<p align="right"; style="margin-top:1px;">
-<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/86fc1b776d9952d9402cb3cbcd9ade5bf95d1e82/t-shirt.jpg" width="50"></p>
-<p align="right"; style="margin-top:1px;"><i>Be the first to sign up for this project <br> and receive a MathWorks T-shirt!</i></p>
+<p align="right"; style="margin-top:1px;"></p>
+<!---<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/86fc1b776d9952d9402cb3cbcd9ade5bf95d1e82/t-shirt.jpg" width="50"></p>
+<p align="right"; style="margin-top:1px;"><i>Be the first to sign up for this project <br> and receive a MathWorks T-shirt!</i></p>-->
 </td>
 </tbody>
 <tbody>
