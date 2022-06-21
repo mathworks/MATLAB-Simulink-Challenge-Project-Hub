@@ -46,3 +46,6 @@
 [submodule "projects/Voice Controlled Robot/student submissions/voice-controlled-robot"]
 	path = projects/Voice Controlled Robot/student submissions/voice-controlled-robot
 	url = https://github.com/young-xx/voice-controlled-robot
+[submodule "projects/Aggressive Maneuver Stabilization for a Minidrone/student submissions/project-230"]
+	path = projects/Aggressive Maneuver Stabilization for a Minidrone/student submissions/project-230
+	url = https://github.com/ouafi98/project-230
