@@ -49,3 +49,6 @@
 [submodule "projects/Aggressive Maneuver Stabilization for a Minidrone/student submissions/project-230"]
 	path = projects/Aggressive Maneuver Stabilization for a Minidrone/student submissions/project-230
 	url = https://github.com/ouafi98/project-230
+[submodule "projects/Machine Learning for Motor Control/student submissions/Machine-Learning-for-Motor-Control-"]
+	path = projects/Machine Learning for Motor Control/student submissions/Machine-Learning-for-Motor-Control-
+	url = https://github.com/lipun7naik/Machine-Learning-for-Motor-Control-
