@@ -71,7 +71,9 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Coastline%20Prediction%20using%20Existing%20Climate%20Change%20Models">Coastline Prediction using Existing Climate Change Models</a></h2></p>
 <p>Develop an example that predicts and visualizes coastline impact due to rising sea levels.</p>
 <p><strong>Impact</strong>: Assess and plan for the potential impact of climate change.</p>
-<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Modeling and Simulation</p></td>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Modeling and Simulation</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Coastline%20Prediction%20using%20Existing%20Climate%20Change%20Models/student%20submissions">Current submissions</a></p>
+</td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/landslide.jpg"  width=500 /></td>
