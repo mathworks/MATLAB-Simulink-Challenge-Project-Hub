@@ -52,3 +52,6 @@
 [submodule "projects/Machine Learning for Motor Control/student submissions/Machine-Learning-for-Motor-Control-"]
 	path = projects/Machine Learning for Motor Control/student submissions/Machine-Learning-for-Motor-Control-
 	url = https://github.com/lipun7naik/Machine-Learning-for-Motor-Control-
+[submodule "projects/Coastline Prediction using Existing Climate Change Models/student submissions/Climate-Change-Map"]
+	path = projects/Coastline Prediction using Existing Climate Change Models/student submissions/Climate-Change-Map
+	url = https://github.com/LukeY23/Climate-Change-Map
