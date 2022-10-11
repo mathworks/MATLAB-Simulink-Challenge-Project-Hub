@@ -38,7 +38,7 @@ Advanced Project work:
 - [Simulink Drone Reference Application](https://www.mathworks.com/matlabcentral/fileexchange/67625-simulink-drone-reference-application)
 - [UAV Package Delivery](https://www.mathworks.com/help/uav/ug/uav-package-delivery.html)
 
-Suggested reading:
+Suggested readings:
 - [1] Blanke, M., Kinnaert, M., Lunze, J., Staroswiecki, M., and Schröder, J., Diagnosis and fault-tolerant control, Vol. 2, Springer, 2006.
 - [2] Bhan, L., Quinones-Grueiro, M., and Biswas, G., “Fault Tolerant Control combining Reinforcement Learning and Model-based Control,” 2021 5th International Conference on Control and Fault-Tolerant Systems (SysTol), pp. 31–36, 2021.
 - [3] Matthew Daigle, Bhaskar Saha, and Kai Goebel. A comparison of filter-based approaches for model based prognostics. In 2012 IEEE Aerospace Conference, pages 1–10, 2012.
@@ -55,6 +55,10 @@ Drones, Artificial Intelligence, Robotics, Control, Reinforcement Learning, UAV
 ## Project Difficulty
 
 Master's, Doctoral
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/71) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
