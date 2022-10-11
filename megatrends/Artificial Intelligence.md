@@ -1,6 +1,13 @@
 # Artificial Intelligence projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAM.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Reinforcement%20Learning%20Based%20Fault%20Tolerant%20Control%20of%20a%20Quadrotor">Reinforcement Learning Based Fault Tolerant Control of a Quadrotor</a></h2></p>
+<p>Develop a fault-tolerant controller for a quadcopter using model-based reinforcement learning.</p>
+<p><strong>Impact</strong>: Improve safety of multi-rotor drones</p>
+<p><strong>Expertise gained</strong>: Drones, Artificial Intelligence, Robotics, Control, Reinforcement Learning, UAV</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/motionRecognition.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Human%20Motion%20Recognition%20Using%20IMUs">Human Motion Recognition Using IMUs </a></h2></p>
 <p>Use Deep Learning and Inertial Measurement Units (IMU) data to recognize human activities and gestures.</p>

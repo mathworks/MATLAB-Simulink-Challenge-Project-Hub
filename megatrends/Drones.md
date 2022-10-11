@@ -1,6 +1,13 @@
 # Drones projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAM.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Reinforcement%20Learning%20Based%20Fault%20Tolerant%20Control%20of%20a%20Quadrotor">Reinforcement Learning Based Fault Tolerant Control of a Quadrotor</a></h2></p>
+<p>Develop a fault-tolerant controller for a quadcopter using model-based reinforcement learning.</p>
+<p><strong>Impact</strong>: Improve safety of multi-rotor drones</p>
+<p><strong>Expertise gained</strong>: Drones, Artificial Intelligence, Robotics, Control, Reinforcement Learning, UAV</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualIntertialOdometry.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone">Visual - Inertial Odometry for a Minidrone </a></h2></p>
 <p>Design and implement a visual/visual-inertial odometry system using onboard camera for a Minidrone.</p>
