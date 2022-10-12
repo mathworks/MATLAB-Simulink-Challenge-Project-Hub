@@ -2,7 +2,7 @@
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualIntertialOdometry.png"  width=500 /></td>
-<td><p><h1>Visual - Inertial Odometry for a Minidrone </h1></p>
+<td><p><h1>Visual-Inertial Odometry for a Minidrone </h1></p>
 <p>Design and implement a visual/visual-inertial odometry system using onboard camera for a Minidrone.</p>
 </table>
 
