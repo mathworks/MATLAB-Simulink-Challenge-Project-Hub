@@ -32,7 +32,7 @@ Project variations:
 
 ## Background Material
 
--	[Model included in this repository](add link)
+-	[Model included in this repository](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Techno-Economic%20Assessment%20of%20Green%20Hydrogen%20Production/techno_economic_green_hydrogen_model)
 -	Video:
 [Techno-Economic Analysis of a Solar-Powered Green Hydrogen Production System](https://www.youtube.com/watch?v=cpttz8Q7jww)
 -	Example
@@ -51,6 +51,10 @@ Sustainability and Renewable Energy, Modeling and Simulation, Electrification
 ## Project Difficulty
 
 Bachelor, Master's
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/72) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
