@@ -12,9 +12,8 @@ The main sources of global greenhouse gas emissions come from transportation, el
 
 ## Project Description
 
-Project Description
-
 Develop a framework to perform techno-economic assessment of a green hydrogen production system. 
+
 Suggested steps:
 1.	Become familiar with the included green hydrogen production model and use this Simscape model as the basis of your project.
 2.	Add economic signals to the Simscape model, including capital cost, operational cost, and cost of grid electricity.
