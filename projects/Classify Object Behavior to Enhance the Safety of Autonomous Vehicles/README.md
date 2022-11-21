@@ -29,6 +29,7 @@ Suggested steps:
 2. Train learning algorithms to classify between safe and risky object behaviors in a scenario.
 
 Advanced project work: 
+
 Use the scenario to simulate sensor data coming from the autonomous vehicle sensors. Use the [Sensor Fusion and Tracking Toolbox™](https://www.mathworks.com/products/sensor-fusion-and-tracking.html) to track the vehicles and pedestrians in the scene. Use the learned behaviors to classify safe and risky objects to test the ability of your trained algorithm to classify the behavior of tracked objects. Use the following steps:
 1.	Simulate autonomous vehicle sensors to collect sensor data.
 2.	Configure a tracking system to estimate the motion of the actors in the scenario.
