@@ -23,35 +23,39 @@ Work with the [Deep Learning Toolbox™](https://www.mathworks.com/products/deep
  
 Suggested steps: 
 
-1.	Become familiar with the MATLAB based deep learning examples listed in Background Material section below. 
-2.	Download Live Script on: [Deep Learning for Real-Time Top Quark Jet Tagging] (https://www.mathworks.com/matlabcentral/fileexchange/105635-deep-learning-for-real-time-top-quark-jet-tagging?s_tid=srchtitle)
+1.	Become familiar with the MATLAB based deep learning examples listed in the Background Material section below. 
+2.	Download Live Script on: [Deep Learning for Real-Time Top Quark Jet Tagging](https://www.mathworks.com/matlabcentral/fileexchange/105635-deep-learning-for-real-time-top-quark-jet-tagging?s_tid=srchtitle)
 3.	Download particle jets open datasets from: Kasieczka, Gregor, Plehn, Tilman, Thompson, Jennifer, &amp; Russel, Michael. (2019). Top Quark Tagging Reference Dataset (v0 (2018_03_27)) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.2603256
 4.	Import datasets as pandas dataframes and save as parquet files.
 Run Python directly from MATLAB with the following commands:
-•	pyrun(&quot;import pandas as pd&quot;) 
-•	pyrun(&quot;df=pd.read_hdf('train.h5','table')&quot;)
-•	pyrun(&quot;df.to_parquet('jets.parquet.gzip', compression='gzip')&quot;)
+```
+pyrun("import pandas as pd") 
+pyrun("df=pd.read_hdf('train.h5','table')")
+pyrun("df.to_parquet('jets.parquet.gzip', compression='gzip')")
+```
 5.	Use [parquet datastore]( https://www.mathworks.com/help/matlab/ref/matlab.io.datastore.parquetdatastore.html) and [Tall Array](https://www.mathworks.com/help/matlab/tall-arrays.html), to manage and preprocess the particle jets data and arrange it into 2D grayscale images. 
-6.	Build a deep convolutional neural network, analogous to the one in: [Deep Learning for real-Time Top Quark Jet Tagging](https://www.mathworks.com/matlabcentral/fileexchange/105635-deep-learning-for-real-time-top-quark-jet-tagging?s_tid=srchtitle)  using [Deep Network designer app](https://www.mathworks.com/help/deeplearning/ref/deepnetworkdesigner-app.html) and train network using training datasets.
+6.	Build a deep convolutional neural network, analogous to the one in: [Deep Learning for real-Time Top Quark Jet Tagging](https://www.mathworks.com/matlabcentral/fileexchange/105635-deep-learning-for-real-time-top-quark-jet-tagging?s_tid=srchtitle) using [Deep Network designer app](https://www.mathworks.com/help/deeplearning/ref/deepnetworkdesigner-app.html) and train network using training datasets.
 7.	Check accuracy of the network on test datasets. Use [imageDatastores](https://www.mathworks.com/help/matlab/ref/matlab.io.datastore.imagedatastore.html), where label sources come from folder names.
 
-
 Project variations: 
+
 1.	Instead of a simple 3-layer CNN, Adopt more complex deep learning networks such as resnet18. Call blank architecture of resnet18 and train its weights. GPU can be handy when training more complicated deep networks, especially when dealing with  big data. 
 2.	Instead of gray-scale images use additional variables of the jets and encode them into the color of the image. In practice researchers use up to 7 or 8 colors.
  
 Advanced project work: 
-Run your model in real time. Using [Deep Learning HDL Toolbox™](https://www.mathworks.com/products/deep-learning-hdl.html) generate HDL code for deploying model on FPGA, following steps described in: Deep Learning for Real-Time Top Quark Jet Tagging (https://www.mathworks.com/matlabcentral/fileexchange/105635-deep-learning-for-real-time-top-quark-jet-tagging?s_tid=srchtitle)
+
+Run your model in real time. Using [Deep Learning HDL Toolbox™](https://www.mathworks.com/products/deep-learning-hdl.html) generate HDL code for deploying model on FPGA, following steps described in: [Deep Learning for Real-Time Top Quark Jet Tagging](https://www.mathworks.com/matlabcentral/fileexchange/105635-deep-learning-for-real-time-top-quark-jet-tagging?s_tid=srchtitle)
 
 
 ## Background Material
 
 For Deep Learning:
-•	[Get started with Deep Learning Toolbox](https://www.mathworks.com/help/deeplearning/examples.html?category=getting-started-with-deep-learning-toolbox&exampleproduct=all&s_tid=CRUX_lftnav) for simple examples of designing and training deep learning networks. 
-•	[Deep Learning for Top Quark Jet Tagging, without using Big Data](https://www.mathworks.com/matlabcentral/fileexchange/105635-deep-learning-for-real-time-top-quark-jet-tagging?s_tid=srchtitle) 
+-	[Get started with Deep Learning Toolbox](https://www.mathworks.com/help/deeplearning/examples.html?category=getting-started-with-deep-learning-toolbox&exampleproduct=all&s_tid=CRUX_lftnav) for simple examples of designing and training deep learning networks. 
+-	[Deep Learning for Top Quark Jet Tagging, without using Big Data](https://www.mathworks.com/matlabcentral/fileexchange/105635-deep-learning-for-real-time-top-quark-jet-tagging?s_tid=srchtitle) 
+
 For Big Data:
-•	[Datastore for Parquet files](https://www.mathworks.com/help/matlab/ref/matlab.io.datastore.parquetdatastore.html) 
-[Tall Array for working with Big Data](https://www.mathworks.com/help/matlab/ref/tall.tall.html) 
+-	[Datastore for Parquet files](https://www.mathworks.com/help/matlab/ref/matlab.io.datastore.parquetdatastore.html) 
+- [Tall Array for working with Big Data](https://www.mathworks.com/help/matlab/ref/tall.tall.html) 
 
 
 ## Impact
@@ -66,6 +70,10 @@ Artificial Intelligence, Big Data, Deep Learning, Physics
 ## Project Difficulty
 
 Bachelor, Master's, Doctoral
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/74) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
