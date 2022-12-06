@@ -32,7 +32,7 @@ Advanced project work
 -	[Four Bar Linkage Optimization in Simscape](https://www.mathworks.com/matlabcentral/fileexchange/62371-four-bar-linkage-optimization-in-simscape?s_tid=srchtitle)
 -	[Simscape Battery™](https://www.mathworks.com/products/simscape-battery.html)
 
-Suggested Reading 
+Suggested Reading:
 
 [1] Schacht-Rodríguez, R., Ponsart, J. C., García-Beltrán, C. D., Astorga-Zaragoza, C. M., Theilliol, D., & Zhang, Y. (2018). Path planning generation algorithm for a class of uav multirotor based on state of health of lithium polymer battery. Journal of Intelligent & Robotic Systems, 91(1), 115-131.
 
@@ -49,6 +49,10 @@ Drones, Robotics, Autonomous Vehicles, Electrification, Modeling and Simulation,
 ## Project Difficulty
 
 Master's, Doctoral
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/73) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 
