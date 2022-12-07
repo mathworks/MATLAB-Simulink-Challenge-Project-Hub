@@ -1,6 +1,13 @@
 # Drones projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAV_plan.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Energy-Optimal%20Trajectory%20Planning%20for%20Multirotor%20Drones">Energy-Optimal Trajectory Planning for Multirotor Drones</a></h2></p>
+<p>Develop a trajectory planning for multirotor drones that minimizes energy consumption.</p>
+<p><strong>Impact</strong>: Increase mission time of multirotor drones.</p>
+<p><strong>Expertise gained</strong>: Drones, Robotics, Autonomous Vehicles, Electrification, Modeling and Simulation, Optimization, UAV</p></td>
+</tbody>    
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAM.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Reinforcement%20Learning%20Based%20Fault%20Tolerant%20Control%20of%20a%20Quadrotor">Reinforcement Learning Based Fault Tolerant Control of a Quadrotor</a></h2></p>
 <p>Develop a fault-tolerant controller for a quadcopter using model-based reinforcement learning.</p>
