@@ -1,6 +1,20 @@
 # Artificial Intelligence projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cripto.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sentiment%20Analysis%20in%20Cryptocurrency%20Trading">Sentiment Analysis in Cryptocurrency Trading</a></h2></p>
+<p>Build your own cryptocurrency trading strategies based on sentiment analysis.</p>
+<p><strong>Impact</strong>: Have a foundation on the potential opportunities on Environmental, Social, and Governance (ESG) portfolio analysis.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Text Analytics</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/topQuark.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Top%20Quark%20Detection%20with%20Deep%20Learning%20and%20Big%20Data">Top Quark Detection with Deep Learning and Big Data</a></h2></p>
+<p>Develop a predictive classifier model able to discriminate jets produced by top quark decays from the background jets</p>
+<p><strong>Impact</strong>: Reduce the interference of background jets and help the discovery of new fundamental physics</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Big Data, Deep Learning, Physics </p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAM.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Reinforcement%20Learning%20Based%20Fault%20Tolerant%20Control%20of%20a%20Quadrotor">Reinforcement Learning Based Fault Tolerant Control of a Quadrotor</a></h2></p>
 <p>Develop a fault-tolerant controller for a quadcopter using model-based reinforcement learning.</p>
