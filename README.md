@@ -27,8 +27,22 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: October 12, 2022*
+*Updated: December 06, 2022*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/topQuark.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Top%20Quark%20Detection%20with%20Deep%20Learning%20and%20Big%20Data">Top Quark Detection with Deep Learning and Big Data</a></h2></p>
+<p>Develop a predictive classifier model able to discriminate jets produced by top quark decays from the background jets</p>
+<p><strong>Impact</strong>: Reduce the interference of background jets and help the discovery of new fundamental physics</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Big Data, Deep Learning, Physics </p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAV_plan.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Energy-Optimal%20Trajectory%20Planning%20for%20Multirotor%20Drones">Energy-Optimal Trajectory Planning for Multirotor Drones</a></h2></p>
+<p>Develop a trajectory planning for multirotor drones that minimizes energy consumption.</p>
+<p><strong>Impact</strong>: Increase mission time of multirotor drones.</p>
+<p><strong>Expertise gained</strong>: Drones, Robotics, Autonomous Vehicles, Electrification, Modeling and Simulation, Optimization, UAV</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/clean-energy.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Techno-Economic%20Assessment%20of%20Green%20Hydrogen%20Production">Techno-Economic Assessment of Green Hydrogen Production</a></h2></p>
@@ -102,6 +116,13 @@ If you are in industry and interested in nominating a new project contact us <st
 <p>Model satellites in Low Earth Orbit (LEO) to identify conjunctions and prevent collisions with space debris, while maintaining orbital requirements.</p>
 <p><strong>Impact</strong>: Contribute to the success of satellite mega-constellations and improve the safety of the Low Earth Orbit (LEO) environment.</p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Control, Satellite, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cripto.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sentiment%20Analysis%20in%20Cryptocurrency%20Trading">Sentiment Analysis in Cryptocurrency Trading</a></h2></p>
+<p>Build your own cryptocurrency trading strategies based on sentiment analysis.</p>
+<p><strong>Impact</strong>: Have a foundation on the potential opportunities on Environmental, Social, and Governance (ESG) portfolio analysis.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Text Analytics</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/snakeRobot.jpg"  width=500 /></td>
