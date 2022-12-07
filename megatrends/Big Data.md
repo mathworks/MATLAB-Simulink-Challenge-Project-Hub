@@ -1,6 +1,13 @@
 # Big Data projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/topQuark.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Top%20Quark%20Detection%20with%20Deep%20Learning%20and%20Big%20Data">Top Quark Detection with Deep Learning and Big Data</a></h2></p>
+<p>Develop a predictive classifier model able to discriminate jets produced by top quark decays from the background jets</p>
+<p><strong>Impact</strong>: Reduce the interference of background jets and help the discovery of new fundamental physics</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Big Data, Deep Learning, Physics </p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/trafficanalysis.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Data%20Analysis%20for%20Modelling%20and%20Prediction%20of%20Traffic%20Scenarios">Traffic Data Analysis for Modeling and Prediction of Traffic Scenarios </a></h2></p>
 <p>Analyze real-world traffic data to understand, model, and predict human driving trajectories. </p>
