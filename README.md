@@ -27,8 +27,15 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: December 06, 2022*
+*Updated: December 22, 2022*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ar_image.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Augmented%20Reality%20for%20Architecture">Augmented Reality for Architecture</a></h2></p>
+<p>Develop an augmented reality system to enhance a photo or video of a 2D architectural floor plan printed on paper with a virtual 3D representation of the structure. </p>
+<p><strong>Impact</strong>: Develop a proof-of-concept augmented reality system to aid in architectural design. </p>
+<p><strong>Expertise gained</strong>: Computer Vision, Image Processing, Sensor Fusion and Tracking</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/topQuark.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Top%20Quark%20Detection%20with%20Deep%20Learning%20and%20Big%20Data">Top Quark Detection with Deep Learning and Big Data</a></h2></p>

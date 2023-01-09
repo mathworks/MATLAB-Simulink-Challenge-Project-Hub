@@ -1,6 +1,13 @@
 # Computer Vision projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ar_image.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Augmented%20Reality%20for%20Architecture">Augmented Reality for Architecture</a></h2></p>
+<p>Develop an augmented reality system to enhance a photo or video of a 2D architectural floor plan printed on paper with a virtual 3D representation of the structure. </p>
+<p><strong>Impact</strong>: Develop a proof-of-concept augmented reality system to aid in architectural design. </p>
+<p><strong>Expertise gained</strong>: Computer Vision, Image Processing, Sensor Fusion and Tracking</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualIntertialOdometry.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone">Visual - Inertial Odometry for a Minidrone </a></h2></p>
 <p>Design and implement a visual/visual-inertial odometry system using onboard camera for a Minidrone.</p>
