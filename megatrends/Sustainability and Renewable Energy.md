@@ -1,6 +1,13 @@
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/carbonNeutral.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Carbon%20Neutrality"></a>Carbon Neutrality</h2></p>
+<p>Build a CO2 emission model from historical data and create a plan to achieve carbon neutrality in the future.</p>
+<p><strong>Impact</strong>: Set up a strategy for carbon neutrality and consolidate the international collaboration.</p>
+<p><strong>Expertise gained</strong>: Computational Finance, Sustainability and Renewable Energy, Modeling and Simulation, Machine Learning</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/clean-energy.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Techno-Economic%20Assessment%20of%20Green%20Hydrogen%20Production">Techno-Economic Assessment of Green Hydrogen Production</a></h2></p>
 <p>Perform early-stage economic feasibility of an energy project to determine project viability.</p>
