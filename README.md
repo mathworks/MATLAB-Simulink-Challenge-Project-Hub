@@ -21,6 +21,7 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Autonomous Vehicles](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Autonomous%20Vehicles.md)
 - [Big Data](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Big%20Data.md)
 - [Computer Vision](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Computer%20Vision.md)
+- [Computational Finance](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Computational%20Finance.md)
 - [Drones](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Drones.md)
 - [Industry 4.0](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Industry%204.0.md)
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
