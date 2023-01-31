@@ -38,7 +38,7 @@ Advanced extensions:
 
 ## Background Material
 
-[Long Short-Term Memory Networks in MATLAB}](https://www.mathworks.com/help/deeplearning/ug/long-short-term-memory-networks.html) 
+[Long Short-Term Memory Networks in MATLAB](https://www.mathworks.com/help/deeplearning/ug/long-short-term-memory-networks.html) 
 
 [Example Project](https://www.mathworks.com/matlabcentral/fileexchange/50791-diffusion-music?s_tid=srchtitle) Includes tools useful for reading and writing MIDI files. 
 
