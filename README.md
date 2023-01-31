@@ -28,8 +28,15 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: January 30, 2023*
+*Updated: January 31, 2023*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/audio_image.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Music%20Composition%20with%20Deep%20Learning">Music Composition with Deep Learning</a></h2></p>
+<p>Design and train a deep learning model to compose music.</p>
+<p><strong>Impact</strong>: Generative music models can be used to create new assets on demand.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Neural Networks, Audio</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/carbonNeutral.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Carbon%20Neutrality"></a>Carbon Neutrality</h2></p>
