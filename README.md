@@ -32,10 +32,10 @@ If you are in industry and interested in nominating a new project contact us <st
 <table>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/hearingAid.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Simulink%20Hearing%20Aid%20">Simulink Hearing Aid </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Simulink%20Hearing%20Aid">Simulink Hearing Aid </a></h2></p>
 <p>Develop a hearing aid simulation in Simulink.</p>
 <p><strong>Impact</strong>: Improve hearing aid simulation and create a testbed for new audio processing algorithm prototyping. </p>
-<p><strong>Expertise gained</strong>: , Signal Processing, Audio, Modeling and Simulation</p></td>
+<p><strong>Expertise gained</strong>: Signal Processing, Audio, Modeling and Simulation</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/audio_image.png"  width=500 /></td>
