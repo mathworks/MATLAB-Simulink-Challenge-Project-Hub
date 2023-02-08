@@ -76,12 +76,15 @@ Improve hearing aid simulation and create a testbed for new audio processing alg
 
 ## Expertise Gained 
 
-Audio, Signal Processing, Audio
-
+, Signal Processing, Audio, Modeling and Simulation
 
 ## Project Difficulty
 
 Bachelor, Master's, Doctoral
+
+## Project Discussion
+
+[Dedicated discussion forum](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/discussions/79) to ask/answer questions, comment, or share your ideas for solutions for this project.
 
 ## Project Number
 

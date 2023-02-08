@@ -28,8 +28,15 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: January 31, 2023*
+*Updated: February 08, 2023*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/hearingAid.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Simulink%20Hearing%20Aid%20">Simulink Hearing Aid </a></h2></p>
+<p>Develop a hearing aid simulation in Simulink.</p>
+<p><strong>Impact</strong>: Improve hearing aid simulation and create a testbed for new audio processing algorithm prototyping. </p>
+<p><strong>Expertise gained</strong>: , Signal Processing, Audio, Modeling and Simulation</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/audio_image.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Music%20Composition%20with%20Deep%20Learning">Music Composition with Deep Learning</a></h2></p>
