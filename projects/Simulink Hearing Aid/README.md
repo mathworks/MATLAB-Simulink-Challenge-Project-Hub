@@ -76,7 +76,7 @@ Improve hearing aid simulation and create a testbed for new audio processing alg
 
 ## Expertise Gained 
 
-, Signal Processing, Audio, Modeling and Simulation
+Signal Processing, Audio, Modeling and Simulation
 
 ## Project Difficulty
 
