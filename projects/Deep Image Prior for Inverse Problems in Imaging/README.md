@@ -38,13 +38,13 @@ Advanced extensions:
 
 - Consider inverse problems involving a more complex or worse-posed forward model, for example: 
 
-- X-Ray tomography -&gt; forward operator is the [Radon transform](https://www.mathworks.com/help/images/ref/radon.html) of the input image. 
+  - X-Ray tomography -&gt; forward operator is the [Radon transform](https://www.mathworks.com/help/images/ref/radon.html) of the input image. 
 
-- Compressed sensing -&gt; forward operator is a random matrix with fewer rows than columns. 
+  - Compressed sensing -&gt; forward operator is a random matrix with fewer rows than columns. 
 
-- Some combination of any of the suggest items above, or others (e.g., deblurring + denoising). 
+  - Some combination of any of the suggest items above, or others (e.g., deblurring + denoising). 
 
-- Test out different network architectures, different inputs, etc. 
+  - Test out different network architectures, different inputs, etc. 
 
 ## Background Material
 
