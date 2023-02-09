@@ -22,13 +22,13 @@ The suggested steps are as follows:
 
 - Choose one or more inverse problems to solve and implement the forward operator, e.g.: 
 
--- Denoising -&gt; forward operator adds noise to the input. 
+  - Denoising -&gt; forward operator adds noise to the input. 
 
--- Deblurring -&gt; forward operator blurs (convolves) the input. 
+  - Deblurring -&gt; forward operator blurs (convolves) the input. 
 
--- Super-resolution -&gt; forward operator downsizes the input image. 
+  - Super-resolution -&gt; forward operator downsizes the input image. 
 
--- In-painting -&gt; forward operator zeroes some areas in the input image. 
+  - In-painting -&gt; forward operator zeroes some areas in the input image. 
 
 - Select a network architecture (e.g., [U-Net](https://www.mathworks.com/help/vision/ref/unetlayers.html)) or implement the exact network defined in the Deep Image Prior paper. 
 
