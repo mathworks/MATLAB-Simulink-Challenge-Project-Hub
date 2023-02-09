@@ -44,7 +44,7 @@ Advanced extensions:
 
   - Some combination of any of the suggest items above, or others (e.g., deblurring + denoising). 
 
-  - Test out different network architectures, different inputs, etc. 
+- Test out different network architectures, different inputs, etc. 
 
 ## Background Material
 
