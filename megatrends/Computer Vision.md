@@ -1,6 +1,13 @@
 # Computer Vision projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/dip.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Deep%20Image%20Prior%20for%20Inverse%20Problems%20in%20Imaging">Deep Image Prior for Inverse Problems in Imaging</a></h2></p>
+<p>Use the Deep Image Prior to solve inverse problems in imaging.</p>
+<p><strong>Impact</strong>: Implement the Deep Image Prior to provide high-quality solutions to inverse problems in imaging that are ubiquitous in industry.  </p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Deep Learning, Image Processing, Machine Learning, Neural Networks, Optimization, Signal Processing</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ar_image.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Augmented%20Reality%20for%20Architecture">Augmented Reality for Architecture</a></h2></p>
 <p>Develop an augmented reality system to enhance a photo or video of a 2D architectural floor plan printed on paper with a virtual 3D representation of the structure. </p>
