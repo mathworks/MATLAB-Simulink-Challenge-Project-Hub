@@ -22,17 +22,19 @@ Using the [Spectrum Sensing with Deep Learning to Identify 5G and LTE Signals]( 
 - Try your own!
 
 Suggested steps:
-- Use MATLAB’s [Wireless Waveform Generator App](https://www.mathworks.com/help/comm/ref/wirelesswaveformgenerator-app.html) to generate two of the signals above.
-- Frequency translate one or both signals so that they do not overlap in frequency.  Use MATLAB’s [Multiband Combiner](https://www.mathworks.com/help/comm/ref/comm.multibandcombiner-system-object.html) for this.
-- Follow the steps taken in the [Spectrum Sensing with Deep Learning to Identify 5G and LTE Signals](https://www.mathworks.com/help/comm/ug/spectrum-sensing-with-deep-learning-to-identify-5g-and-lte-signals.html) example:
-  - Create a data set to be used for training and validation.  Create signals with a variety of impairments.
-  - Train your AI network on that generated data set.  Use the existing network in the example and perform transfer learning.  Learn more about transfer learning with these links:
-    -[Get Started with Transfer Learning](https://www.mathworks.com/help/deeplearning/gs/get-started-with-transfer-learning.html)
-    - [Transfer Learning with Deep Network Designer](https://www.mathworks.com/help/deeplearning/ug/transfer-learning-with-deep-network-designer.html)
-  - Validate your AI network with a small percentage of your generated data.
-  - Test using over-the-air signals, captured with an SDR.  You can also use an SDR to transmit the waveform, or capture existing signals from nearby cell towers, WiFi routers, etc.  The following radios could serve well for this purpose:
-   [USRP B2xx, N2xx, or N3xx](https://www.mathworks.com/hardware-support/usrp.html)
-    [ADALM-PLUTO](https://www.mathworks.com/hardware-support/adalm-pluto-radio.html)
+
+1. Use MATLAB’s [Wireless Waveform Generator App](https://www.mathworks.com/help/comm/ref/wirelesswaveformgenerator-app.html) to generate two of the signals above.
+2. Frequency translate one or both signals so that they do not overlap in frequency.  Use MATLAB’s [Multiband Combiner](https://www.mathworks.com/help/comm/ref/comm.multibandcombiner-system-object.html) for this.
+3. Follow the steps taken in the [Spectrum Sensing with Deep Learning to Identify 5G and LTE Signals](https://www.mathworks.com/help/comm/ug/spectrum-sensing-with-deep-learning-to-identify-5g-and-lte-signals.html) example:
+    1. Create a data set to be used for training and validation.  Create signals with a variety of impairments.
+    2. Train your AI network on that generated data set.  Use the existing network in the example and perform transfer learning.  Learn more about transfer learning with these links:
+        1. [Get Started with Transfer Learning](https://www.mathworks.com/help/deeplearning/gs/get-started-with-transfer-learning.html)
+        2. [Transfer Learning with Deep Network Designer](https://www.mathworks.com/help/deeplearning/ug/transfer-learning-with-deep-network-designer.html)
+    3. Validate your AI network with a small percentage of your generated data.
+    4. Test using over-the-air signals, captured with an SDR.  You can also use an SDR to transmit the waveform, or capture existing signals from nearby cell towers, WiFi routers, etc.  The following radios could serve well for this purpose:
+    
+        1. [USRP B2xx, N2xx, or N3xx](https://www.mathworks.com/hardware-support/usrp.html)
+        2. [ADALM-PLUTO](https://www.mathworks.com/hardware-support/adalm-pluto-radio.html)
 
 Consider the following possibilities for advanced project work.  Or perhaps even better, imagine some of your own possibilities and try them out!
 - Train and test with signals that overlap in frequency.  
