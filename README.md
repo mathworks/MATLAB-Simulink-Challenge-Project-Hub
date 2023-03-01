@@ -9,7 +9,9 @@ Are you looking for a design or research project idea with real industry relevan
 This is a list of inspiring projects based on industry trends for your capstone, senior design project, or final year assignment. These projects help you learn about technology trends while becoming an important and valued contributor to the advancement of technical computing and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks. 
 
 ## How to participate
-Make the results of your work <strong>[open and accessible](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/submission%20instructions.md)</strong> to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> and we will send you more information about the project and recognition awards.
+Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> and we will send you more information about the project and recognition awards.
+
+<strong>For more information about the program and how to submit your solution, please visit our [wiki page](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/wiki)</strong>. 
 
 If you are faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UNU8xUzJQUU0xQ0FBQkNFSjkwTE5aQ0o1Ry4u)</strong>.
 
