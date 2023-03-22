@@ -1,6 +1,13 @@
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BEV.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Energy%20Management%20for%20a%202-Motor%20BEV%20using%20Model-Predictive%20Control">Energy Management for a 2-Motor BEV using Model-Predictive Control</a></h2></p>
+<p>Develop a Model-Predictive Control algorithm to optimally distribute torque in a 2-motor Battery Electric Vehicle (BEV) powertrain.</p>
+<p><strong>Impact</strong>: Reduce energy consumption while maintaining best motor performance.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Automotive, Control, Electrification, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/carbonNeutral.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Carbon%20Neutrality">Carbon Neutrality</a></h2></p>
 <p>Build a CO2 emission model from historical data and create a plan to achieve carbon neutrality in the future.</p>
