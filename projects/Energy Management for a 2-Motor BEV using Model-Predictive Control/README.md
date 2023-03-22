@@ -16,17 +16,22 @@ Current energy management supervisory control strategies may not be incorporatin
 ## Project Description
 
 For this project the following 2-motor Electric Vehicle architecture is proposed:
- 
+
+<img align="center" src="pics/EVmodel.png" width="600">
+
 Work with the [Powertrain Blockset™](https://www.mathworks.com/products/powertrain.html) and [Model-Predictive Control Toolbox™](https://www.mathworks.com/products/model-predictive-control.html) products to develop a vehicle model and Model-Predictive Control algorithm using MATLAB® and Simulink®.  Test and simulate your model over various drive cycles to quantify any improvements over the baseline controller.
 
 Suggested steps:
 1.	Become familiar with the Powertrain Blockset examples listed in Background Material section below.
-2.	Download the Powertrain Blockset 2-motor BEV model .  You will need MATLAB version R2023a or later and license to the Powertrain Blockset. . Below the Steps to generate the model:
-a.	Open MATLAb and go to the Apps tab.  Under Automotive, open the Virtual Vehicle Composer (VVC) App
-b.	In the VVC app, select ‘New’.  Then select ‘Electric Vehicle 2EM’ for the powertrain architecture 
-c.	Select Simulink for the model template and longitudinal vehicle dynamics as shown.  Then press the Configure button.  
-d.	In the Data and Calibration tab of the VVC app, the user has the option to parameterize the vehicle or use the default values.
-e.	Pressing the ‘Virtual Vehicle’ button in the VVC app menu will generate the 2 motor BEV model
+2.	Download the Powertrain Blockset 2-motor BEV model. You will need MATLAB version R2023a or later and license to the Powertrain Blockset. Below the Steps to generate the model:
+    1. Open MATLAb and go to the Apps tab.  Under Automotive, open the Virtual Vehicle Composer (VVC) App
+    2. In the VVC app, select ‘New’.  Then select ‘Electric Vehicle 2EM’ for the powertrain architecture 
+    
+       <img align="center" src="pics/VVCapp_model.png" width="600">
+    
+    3. Select Simulink for the model template and longitudinal vehicle dynamics as shown.  Then press the Configure button.  
+    4. In the Data and Calibration tab of the VVC app, the user has the option to parameterize the vehicle or use the default values.
+    5. Press the ‘Virtual Vehicle’ button in the VVC app menu to generate the 2 motor BEV model
 3.	Run the model and review the output in the scope contained in the Visualization subsystem.  Become familiar with the dynamic outputs of this closed-loop model as it simulates over a drive cycle.  
 4.	Design a linear or non-linear MPC algorithm using the Model-Predictive Control Toolbox.  
 a.	For example, the MPC controller could be designed to optimally distribute torque and reduce energy consumption while maximizing driving range
@@ -39,8 +44,8 @@ Project variations:
 Advanced project work:
 1.	Investigate if your MPC algorithm will run in real time, using a Hardware-In-Loop simulator such as Speedgoat, dSPACE, or National Instruments.  MPC algorithms can be more computationally expensive and must be able to execute in a real time to control a physical vehicle.  Try to deploy your MPC to an embedded processor.  
 2.	Try different powertrain architectures.  Here are 2 suggestions: 
-a.	2 electric motors are on a single axle (one for each wheel).  Investigate ways to perform lateral vehicle control called torque vectoring, where the motors can be controlled to induce a yaw moment of the vehicle while in a turn.  Develop an MPC controller for this use case.  
-b.	Implement a 2-speed transmission on the rear motor.  The gear control variable would come from the MPC controller and this problem becomes a mixed integer problem.  
+    1.	Two electric motors are on a single axle (one for each wheel). Investigate ways to perform lateral vehicle control called torque vectoring, where the motors can be controlled to induce a yaw moment of the vehicle while in a turn. Develop an MPC controller for this use case.  
+    2.	Implement a 2-speed transmission on the rear motor. The gear control variable would come from the MPC controller and this problem becomes a mixed integer problem.  
 
 
 ## Background Material
