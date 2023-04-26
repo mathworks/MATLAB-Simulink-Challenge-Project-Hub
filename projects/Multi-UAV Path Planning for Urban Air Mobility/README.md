@@ -8,17 +8,19 @@
 
 ## Motivation
 
-Path planning for Urban Air Mobility (UAM), including air taxis and drone deliveries, is a critical challenge in the transportation industry. With the growth of UAM, the demand for efficient and optimized path-planning algorithms is set to rise. As per the (Grand View Research Report)[https&#58;//www.grandviewresearch.com/industry-analysis/global-commercial-drones-market],  the market for drone deliveries is estimated to reach $583.51 billion by 2023 and the air taxi market is projected to reach $1.5 trillion by 2040, by [Morgan Stanley] (https&#58;//www.morganstanley.com/ideas/autonomous-aircraft). Developing an efficient path planning system for UAM has the potential to revolutionize transportation in cities and make them more livable and sustainable. An efficient path-planning algorithm will involve the collision-free path planning of multiple drones flying in same the environment with minimum time and cost. This project offers a unique opportunity to make a significant impact on the future of transportation and logistics by leveraging the latest technology to develop innovative solutions for the challenges of path planning in UAM.
+Path planning for Urban Air Mobility (UAM), including air taxis and drone deliveries, is a critical challenge in the transportation industry. With the growth of UAM, the demand for efficient and optimized path-planning algorithms is set to rise. As per the [Grand View Research Report](https://www.grandviewresearch.com/industry-analysis/global-commercial-drones-market),  the market for drone deliveries is estimated to reach $583.51 billion by 2023 and the air taxi market is projected to reach $1.5 trillion by 2040, by [Morgan Stanley](https&#58;//www.morganstanley.com/ideas/autonomous-aircraft). Developing an efficient path planning system for UAM has the potential to revolutionize transportation in cities and make them more livable and sustainable. An efficient path-planning algorithm will involve the collision-free path planning of multiple drones flying in same the environment with minimum time and cost. This project offers a unique opportunity to make a significant impact on the future of transportation and logistics by leveraging the latest technology to develop innovative solutions for the challenges of path planning in UAM.
 
 ## Project Description
 
 Suggested Steps:
 1.	Become familiar with MATLAB ®, Simulink®, UAV Toolbox, Sensor Fusion and Tracking Toolbox™ and Optimization Toolbox™ using resources listed in the background material section below.
-2.	Set up a [cuboid scenario simulation](https://www.mathworks.com/help/driving/cuboid-scenario-simulation.html) that includes multiple static obstacles, like an urban environment, using [UAV Toolbox] (https://www.mathworks.com/products/uav.html) . 
+2.	Set up a [cuboid scenario simulation](https://www.mathworks.com/help/driving/cuboid-scenario-simulation.html) that includes multiple static obstacles, like an urban environment, using [UAV Toolbox](https://www.mathworks.com/products/uav.html). 
 3.	Develop 3D path planning algorithm using UAV Toolbox for collision-free drone flight.  Take advantage of path planning resources for single drone.
 4.	Extend the path-planning algorithm to multiple drones. It will require the centralized tracking of all the drones with information about their positions and velocities, to continuously provide collision free guidance. Leverage Sensor Fusion and Tracking Toolbox™. Learn about centralized tracking from examples mentioned in the Background Material Section.
 5.	Test the algorithm in a cuboid scenario environment with multiple drone flights.
+
 Advance Work:
+
 1.	Develop a task planning algorithm that considers planning pickups, and delivery tasks, and allotting them to appropriate drones. Further, optimize this process using the Optimization toolbox.
 2.	Complement the 3D path planning algorithm with the task planning algorithm and test them in a photorealistic simulation of an urban environment. 
 3.	Develop a decentralized obstacle avoidance algorithm to avoid obstacles (dynamic/static) if they come in a nearby range. Integrate it with the rest of the system.
@@ -31,13 +33,13 @@ Advance Work:
 -	Video series on [Motion Planning Hands-on Using RRT Algorithm](https://www.mathworks.com/videos/series/motion-planning-hands-on-using-rrt-algorithm.html) and [Autonomous Navigation](https://www.mathworks.com/videos/series/autonomous-navigation.html)
 -	[UAV Toolbox examples](https://in.mathworks.com/help/uav/examples.html?category=getstarted&s_tid=CRUX_topnav) 
 -	Path Planning examples 
--	[Path Planning - MATLAB & Simulink](https://www.mathworks.com/discovery/path-planning.html)
--	[Path Following with Obstacle Avoidance in Simulink](https://www.mathworks.com/help/nav/ug/path-following-with-obstacle-avoidance-in-simulink.html)
+    -	[Path Planning - MATLAB & Simulink](https://www.mathworks.com/discovery/path-planning.html)
+    -	[Path Following with Obstacle Avoidance in Simulink](https://www.mathworks.com/help/nav/ug/path-following-with-obstacle-avoidance-in-simulink.html)
 -	Centralized tracking examples:  
--	[Grid-Based Tracking in Urban Environments Using Multiple Lidars](https://www.mathworks.com/help/driving/ug/grid-based-tracking-in-urban-environments-using-multiple-lidars.html)
--	[Motion Planning in Urban Environments Using Dynamic Occupancy Grid Map](https://www.mathworks.com/help/nav/ug/motion-planning-in-urban-environments-using-dynamics-occupancy-grid-map.html)
--	[Object Tracking and Motion Planning Using Frenet Reference Path](https://www.mathworks.com/help/driving/ug/object-tracking-and-motion-planning-using-frenet-reference-paths.html)
--	[Lidar and Radar Fusion in Urban Air Mobility Scenario](https://www.mathworks.com/help/fusion/ug/lidar-and-radar-fusion-in-an-urban-air-mobility-scenario.html) 
+    -	[Grid-Based Tracking in Urban Environments Using Multiple Lidars](https://www.mathworks.com/help/driving/ug/grid-based-tracking-in-urban-environments-using-multiple-lidars.html)
+    -	[Motion Planning in Urban Environments Using Dynamic Occupancy Grid Map](https://www.mathworks.com/help/nav/ug/motion-planning-in-urban-environments-using-dynamics-occupancy-grid-map.html)
+    -	[Object Tracking and Motion Planning Using Frenet Reference Path](https://www.mathworks.com/help/driving/ug/object-tracking-and-motion-planning-using-frenet-reference-paths.html)
+    -	[Lidar and Radar Fusion in Urban Air Mobility Scenario](https://www.mathworks.com/help/fusion/ug/lidar-and-radar-fusion-in-an-urban-air-mobility-scenario.html) 
 
 
 Suggested readings:
