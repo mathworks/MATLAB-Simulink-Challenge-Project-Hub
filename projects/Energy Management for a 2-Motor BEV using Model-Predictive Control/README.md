@@ -54,7 +54,7 @@ Advanced project work:
 -	[MathWorks Hybrid Electric Vehicles video series]( https://www.mathworks.com/videos/series/hybrid-electric-vehicles.html) 
 -	[Full Vehicle Simulation for Electrified Powertrain Selection]( https://www.mathworks.com/videos/full-vehicle-simulation-for-electrified-powertrain-selection--1558699980124.html)
 -	[Model Predictive Control Tech Talks](https://www.mathworks.com/videos/series/understanding-model-predictive-control.html)
--	Model Predictive Control Toolbox documentation (https://www.mathworks.com/help/mpc/)
+-	[Model Predictive Control Toolbox documentation](https://www.mathworks.com/help/mpc/)
 
 Suggested readings:
 
