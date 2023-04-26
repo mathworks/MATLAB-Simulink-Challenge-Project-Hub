@@ -30,8 +30,15 @@ If you are in industry and interested in nominating a new project contact us <st
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
 ## All projects
-*Updated: March 22, 2023*
+*Updated: April 26, 2023*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/uamPathPlanning.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Multi-UAV%20Path%20Planning%20for%20Urban%20Air%20Mobility">Multi-UAV Path Planning for Urban Air Mobility</a></h2></p>
+<p>Develop a path planning algorithm for multiple drones flying in an urban environment.</p>
+<p><strong>Impact</strong>: Contribute to advancing drone applications in UAM and revolutionizing the logistic industry.</p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Drones, Robotics, Multi-agent System, Optimization, Sensor Fusion and Tracking, UAV, Modeling and Simulation</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BEV.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Energy%20Management%20for%20a%202-Motor%20BEV%20using%20Model-Predictive%20Control">Energy Management for a 2-Motor BEV using Model-Predictive Control</a></h2></p>

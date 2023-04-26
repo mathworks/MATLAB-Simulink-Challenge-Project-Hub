@@ -1,6 +1,13 @@
 # Drones projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/uamPathPlanning.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Multi-UAV%20Path%20Planning%20for%20Urban%20Air%20Mobility">Multi-UAV Path Planning for Urban Air Mobility</a></h2></p>
+<p>Develop a path planning algorithm for multiple drones flying in an urban environment.</p>
+<p><strong>Impact</strong>: Contribute to advancing drone applications in UAM and revolutionizing the logistic industry.</p>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Drones, Robotics, Multi-agent System, Optimization, Sensor Fusion and Tracking, UAV, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAV_plan.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Energy-Optimal%20Trajectory%20Planning%20for%20Multirotor%20Drones">Energy-Optimal Trajectory Planning for Multirotor Drones</a></h2></p>
 <p>Develop a trajectory planning for multirotor drones that minimizes energy consumption.</p>
