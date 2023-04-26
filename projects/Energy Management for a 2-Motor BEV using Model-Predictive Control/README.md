@@ -24,7 +24,7 @@ Work with the [Powertrain Blockset™](https://www.mathworks.com/products/powert
 Suggested steps:
 1.	Become familiar with the Powertrain Blockset examples listed in Background Material section below.
 2.	Download the Powertrain Blockset 2-motor BEV model. You will need MATLAB version R2023a or later and license to the Powertrain Blockset. Below the Steps to generate the model:
-    1. Open MATLAb and go to the Apps tab.  Under Automotive, open the Virtual Vehicle Composer (VVC) App
+    1. Open MATLAB and go to the Apps tab.  Under Automotive, open the Virtual Vehicle Composer (VVC) App
     2. In the VVC app, select ‘New’.  Then select ‘Electric Vehicle 2EM’ for the powertrain architecture 
     
        <img align="center" src="pics/VVCapp_model.png" width="600">
@@ -54,7 +54,7 @@ Advanced project work:
 -	[MathWorks Hybrid Electric Vehicles video series]( https://www.mathworks.com/videos/series/hybrid-electric-vehicles.html) 
 -	[Full Vehicle Simulation for Electrified Powertrain Selection]( https://www.mathworks.com/videos/full-vehicle-simulation-for-electrified-powertrain-selection--1558699980124.html)
 -	[Model Predictive Control Tech Talks](https://www.mathworks.com/videos/series/understanding-model-predictive-control.html)
--	Model Predictive Control Toolbox documentation (https://www.mathworks.com/help/mpc/)
+-	[Model Predictive Control Toolbox documentation](https://www.mathworks.com/help/mpc/)
 
 Suggested readings:
 
