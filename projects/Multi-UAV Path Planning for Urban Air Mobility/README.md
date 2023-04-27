@@ -19,7 +19,7 @@ Suggested Steps:
 4.	Extend the path-planning algorithm to multiple drones. It will require the centralized tracking of all the drones with information about their positions and velocities, to continuously provide collision free guidance. Leverage Sensor Fusion and Tracking Toolbox™. Learn about centralized tracking from examples mentioned in the Background Material Section.
 5.	Test the algorithm in a cuboid scenario environment with multiple drone flights.
 
-Advance Work:
+Advanced Work:
 
 1.	Develop a task planning algorithm that considers planning pickups, and delivery tasks, and allotting them to appropriate drones. Further, optimize this process using the Optimization toolbox.
 2.	Complement the 3D path planning algorithm with the task planning algorithm and test them in a photorealistic simulation of an urban environment. 
