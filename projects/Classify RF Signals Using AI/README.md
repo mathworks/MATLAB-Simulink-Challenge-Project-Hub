@@ -33,8 +33,10 @@ Suggested steps:
     3. Validate your AI network with a small percentage of your generated data.
     4. Test using over-the-air signals, captured with an SDR.  You can also use an SDR to transmit the waveform, or capture existing signals from nearby cell towers, WiFi routers, etc.  The following radios could serve well for this purpose:
     
-        1. [USRP B2xx, N2xx, or N3xx](https://www.mathworks.com/hardware-support/usrp.html)
-        2. [ADALM-PLUTO](https://www.mathworks.com/hardware-support/adalm-pluto-radio.html)
+        1.  [USRP B2xx, N2xx, or N3xx](https://www.mathworks.com/hardware-support/usrp.html)
+        2.	[USRP X3xx or X4xx](https://www.mathworks.com/products/wireless-testbench.html)
+        3.	[ADALM-PLUTO](https://www.mathworks.com/hardware-support/adalm-pluto-radio.html)
+
 
 Consider the following possibilities for advanced project work.  Or perhaps even better, imagine some of your own possibilities and try them out!
 - Train and test with signals that overlap in frequency.  
