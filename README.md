@@ -189,6 +189,7 @@ If you are in industry and interested in nominating a new project contact us <st
 <p>Model and control an autonomous snake-like robot to navigate an unknown environment.</p>
 <p><strong>Impact</strong>: Advance robotics design for hazardous environments inspection and operation in constricted spaces. </p>
 <p><strong>Expertise gained</strong>: Robotics, Manipulators, Modeling and Simulation</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects//Snake-like%20Robot%20Modeling%20and%20Navigation/student%20submissions">Current submissions</a></p>
 </td>
 </tbody>
 <tbody>
