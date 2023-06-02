@@ -58,3 +58,6 @@
 [submodule "projects/Coastline Prediction using Existing Climate Change Models/student submissions/SeaLevelPredictor"]
 	path = projects/Coastline Prediction using Existing Climate Change Models/student submissions/SeaLevelPredictor
 	url = https://github.com/skolodz/SeaLevelPredictor
+[submodule "projects/Snake-like Robot Modeling and Navigation/student submissions/Snake-Robot"]
+	path = projects/Snake-like Robot Modeling and Navigation/student submissions/Snake-Robot
+	url = https://github.com/Antoine-ms/Snake-Robot
