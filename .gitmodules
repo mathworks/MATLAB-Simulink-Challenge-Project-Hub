@@ -55,3 +55,6 @@
 [submodule "projects/Coastline Prediction using Existing Climate Change Models/student submissions/Climate-Change-Map"]
 	path = projects/Coastline Prediction using Existing Climate Change Models/student submissions/Climate-Change-Map
 	url = https://github.com/LukeY23/Climate-Change-Map
+[submodule "projects/Coastline Prediction using Existing Climate Change Models/student submissions/SeaLevelPredictor"]
+	path = projects/Coastline Prediction using Existing Climate Change Models/student submissions/SeaLevelPredictor
+	url = https://github.com/skolodz/SeaLevelPredictor
