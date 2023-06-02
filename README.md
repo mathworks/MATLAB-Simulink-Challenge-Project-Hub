@@ -1,4 +1,4 @@
-<img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/MathWorksLogo.png" width="130">
+<img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/MathWorksLogo.png" width="120">
 
 # MathWorks Excellence in Innovation Projects
 
