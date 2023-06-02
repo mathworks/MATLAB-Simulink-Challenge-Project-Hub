@@ -5,8 +5,9 @@
 **Contribute to the progress of engineering and science by solving key
 industry challenges!**
 
-Are you looking for a design or research project idea with real industry relevance?<br>
 <img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/logo.png" width="120">
+
+Are you looking for a design or research project idea with real industry relevance?<br>
 This is a list of inspiring projects based on industry trends for your capstone, senior design project, or final year assignment. These projects help you learn about 
 technology trends while becoming an important and valued contributor to the advancement of technical computing and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks. 
 
