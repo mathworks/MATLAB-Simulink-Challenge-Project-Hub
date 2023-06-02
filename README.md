@@ -1,5 +1,5 @@
-<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/logo.png" width="140">
-<img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/MathWorksLogo.png" width="120">
+<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/logo.png" width="120">
+<img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/MathWorksLogo.png" width="100">
 
 # MathWorks Excellence in Innovation Projects
 
