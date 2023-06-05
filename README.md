@@ -1,12 +1,15 @@
-<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/logo.png" width="120">
+<img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/MathWorksLogo.png" width="120">
 
 # MathWorks Excellence in Innovation Projects
 
 **Contribute to the progress of engineering and science by solving key
 industry challenges!**
 
-Are you looking for a design or research project idea with real industry relevance? 
-This is a list of inspiring projects based on industry trends for your capstone, senior design project, or final year assignment. These projects help you learn about technology trends while becoming an important and valued contributor to the advancement of technical computing and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks. 
+<img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/logo.png" width="120">
+
+Are you looking for a design or research project idea with real industry relevance?<br>
+This is a list of inspiring projects based on industry trends for your capstone, senior design project, or final year assignment. These projects help you learn about 
+technology trends while becoming an important and valued contributor to the advancement of technical computing and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks. 
 
 ## How to participate
 Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> and we will send you more information about the project and recognition awards.
@@ -189,6 +192,7 @@ If you are in industry and interested in nominating a new project contact us <st
 <p>Model and control an autonomous snake-like robot to navigate an unknown environment.</p>
 <p><strong>Impact</strong>: Advance robotics design for hazardous environments inspection and operation in constricted spaces. </p>
 <p><strong>Expertise gained</strong>: Robotics, Manipulators, Modeling and Simulation</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects//Snake-like%20Robot%20Modeling%20and%20Navigation/student%20submissions">Current submissions</a></p>
 </td>
 </tbody>
 <tbody>
