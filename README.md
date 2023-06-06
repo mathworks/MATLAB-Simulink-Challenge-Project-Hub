@@ -131,7 +131,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sensor%20Fusion%20for%20Autonomous%20Systems">Sensor Fusion for Autonomous Systems</a></h2></p>
 <p>Develop a sensor fusion algorithm for vehicle pose estimation using classical filtering or AI-based techniques.</p>
 <p><strong>Impact</strong>: Enhance navigation accuracy of autonomous vehicles. </p>
-<p><strong>Expertise gained</strong>: Autonomous Vehicles, Sensor Fusion and Tracking, State Estimation</p></td>
+<p><strong>Expertise gained</strong>: Autonomous Vehicles, Sensor Fusion and Tracking, State Estimation</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects//Sensor%20Fusion%20for%20Autonomous%20Systems/student%20submissions">Current submissions</a></p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/motionRecognition.png"  width=500 /></td>
