@@ -16,6 +16,14 @@ Make the results of your work open and accessible to receive a certificate and e
 
 For more information about the program and <strong>how to submit your solution, please visit our [wiki page](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/wiki)</strong>. 
 
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u">
+    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="130">
+</a>
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UOFVCUTM4UTFYT0wwMDZPTjAzVFVMR1RXRy4u">
+    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="130">
+</a>
+
 If you are faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UNU8xUzJQUU0xQ0FBQkNFSjkwTE5aQ0o1Ry4u)</strong>.
 
 If you are in industry and interested in nominating a new project contact us <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UOFNSTTZIWk83M0g5RTlHMEhMNFUyR1EwQS4u)</strong>.
