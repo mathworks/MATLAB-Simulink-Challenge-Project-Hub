@@ -61,3 +61,6 @@
 [submodule "projects/Snake-like Robot Modeling and Navigation/student submissions/Snake-Robot"]
 	path = projects/Snake-like Robot Modeling and Navigation/student submissions/Snake-Robot
 	url = https://github.com/Antoine-ms/Snake-Robot
+[submodule "projects/Sensor Fusion for Autonomous Systems/student submissions/EKF-Bike-Multibody-Sensor-Fusion-"]
+	path = projects/Sensor Fusion for Autonomous Systems/student submissions/EKF-Bike-Multibody-Sensor-Fusion-
+	url = https://github.com/matteo-liguori/EKF-Bike-Multibody-Sensor-Fusion-
