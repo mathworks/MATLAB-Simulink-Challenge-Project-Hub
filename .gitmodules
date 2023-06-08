@@ -64,3 +64,6 @@
 [submodule "projects/Sensor Fusion for Autonomous Systems/student submissions/EKF-Bike-Multibody-Sensor-Fusion-"]
 	path = projects/Sensor Fusion for Autonomous Systems/student submissions/EKF-Bike-Multibody-Sensor-Fusion-
 	url = https://github.com/matteo-liguori/EKF-Bike-Multibody-Sensor-Fusion-
+[submodule "projects/Quadruped Robot with a Manipulator/student submissions/Quadruped-with-Manipulator-and-Path-Planning"]
+	path = projects/Quadruped Robot with a Manipulator/student submissions/Quadruped-with-Manipulator-and-Path-Planning
+	url = https://github.com/serenanatalija/Quadruped-with-Manipulator-and-Path-Planning
