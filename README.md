@@ -548,7 +548,8 @@ If you are in industry and interested in nominating a new project contact us <st
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Quadruped%20Robot%20with%20a%20Manipulator">Quadruped Robot with a Manipulator</a></h2></p>
 <p>Legged robots with manipulators will be the ideal platforms to traverse rough terrains and interact with the environment. Are you ready to tackle the challenge of operating robots outdoor?</p>
 <p><strong>Impact</strong>: Contribute to state-of-the-art technologies for exploration and search and rescue transformation.</p>
-<p><strong>Expertise gained</strong>: Robotics, Control, Image Processing, Manipulators, Mobile Robots, Modeling and Simulation</p></td>
+<p><strong>Expertise gained</strong>: Robotics, Control, Image Processing, Manipulators, Mobile Robots, Modeling and Simulation</p>
+<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Quadruped%20Robot%20with%20a%20Manipulator/students%20submissions">Current submissions</a></p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/AUV.png"  width=500 /></td>
