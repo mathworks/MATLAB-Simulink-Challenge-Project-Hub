@@ -7,9 +7,10 @@ industry challenges!**
 
 <img align="right" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/logo.png" width="120">
 
-Are you looking for a design or research project idea with real industry relevance?<br>
-This is a list of inspiring projects based on industry trends for your capstone, senior design project, or final year assignment. These projects help you learn about 
-technology trends while becoming an important and valued contributor to the advancement of technical computing and Model-Based Design with MATLAB and Simulink. Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks. 
+Are you looking for a design or research project idea with real industry relevance and societal impact?  
+
+Explore this list of challenge projects to learn about technology trends, gain practical skills with MATLAB and Simulink, and make a contribution to science and engineering. 
+Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks and rewards upon project completion! 
 
 ## How to participate
 Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> and we will send you more information about the project and recognition awards.
