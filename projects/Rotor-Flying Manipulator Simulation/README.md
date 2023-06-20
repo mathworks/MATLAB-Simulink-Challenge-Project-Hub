@@ -1,4 +1,6 @@
-**Project 47:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the rewards
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Rotor-Flying%20Manipulator%20Simulation&tfa_2=47)</strong> to **register** your intent to complete this project.s
+
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Rotor-Flying%20Manipulator%20Simulation&tfa_2=47)</strong> to **submit** your solution to this project and qualify for the rewards.
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/uav.png"  width=400 /></td>

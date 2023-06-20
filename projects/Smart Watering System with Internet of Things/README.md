@@ -1,4 +1,6 @@
-**Project 219:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Smart%20Watering%20System%20with%20Internet%20of%20Things&tfa_2=219)</strong> to **register** your intent to complete this project.
+
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Smart%20Watering%20System%20with%20Internet%20of%20Things&tfa_2=219)</strong> to **submit** your solution to this project and qualify for the rewards.
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>

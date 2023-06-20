@@ -1,4 +1,6 @@
-**Project 196:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the reward
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Optimal%20Data%20Center%20Cooling&tfa_2=196)</strong> to **register** your intent to complete this project.
+
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Optimal%20Data%20Center%20Cooling&tfa_2=196)</strong> to **submit** your solution to this project and qualify for the rewards.
 
 
 <table>
