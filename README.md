@@ -13,21 +13,20 @@ Explore this list of challenge projects to learn about technology trends, gain p
 Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks and rewards upon project completion! 
 
 ## How to participate
-Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> and we will send you more information about the project and recognition awards.
+Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects by completing the project sign-up form accessible from the project’s description page and we will send you more information about the project and recognition awards.
 
 For more information about the program and <strong>how to submit your solution, please visit our [wiki page](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/wiki)</strong>. 
 
-
+<!-- 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u">
     <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="180">
 </a>
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UOFVCUTM4UTFYT0wwMDZPTjAzVFVMR1RXRy4u">
     <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="180">
 </a>
+-->
 
-If you are faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UNU8xUzJQUU0xQ0FBQkNFSjkwTE5aQ0o1Ry4u)</strong>.
-
-If you are in industry and interested in nominating a new project contact us <strong>[here](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UOFNSTTZIWk83M0g5RTlHMEhMNFUyR1EwQS4u)</strong>.
+If you are industry or faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html)</strong>.
 
 ## Projects by technology trends 
 - [5G](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/5G.md)
