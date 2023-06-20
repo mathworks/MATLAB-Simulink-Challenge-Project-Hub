@@ -1,6 +1,4 @@
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathWorks-excellence-in-innovation-signup.html?tfa_1=Quadruped Robot with a Manipulator&tfa_2=29)</strong> to **register** your intent to complete this project.s
-
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Quadruped Robot with a Manipulator&tfa_2=29)</strong> to **submit** your solution to this project and qualify for the rewards.
+**Project 29:** Fill out this <strong>[form](https://forms.office.com/Pages/ResponsePage.aspx?id=ETrdmUhDaESb3eUHKx3B5lOTzSa_A6lPqq2LJKzvpM5UMTBZRkc4UTRETjFERVRDWllQRE40OUFSQS4u)</strong> to  register your intent to complete this project and learn about the rewards
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/quadruped.png"  width=500 /></td>
 <td><p><h1>Quadruped Robot with a Manipulator</h1></p>
