@@ -1,3 +1,25 @@
+# Sustainability and Renewable Energy Challenge
+
+We are excited to announce the MathWorks Sustainability and Renewable Energy Challenge! We invite you to submit innovative solutions to environmental challenges related to sustainability and renewable energy. Select a project from the list below and submit a solution to be eligible to win up to $1000. Showcase your creativity and contribute to a more sustainable future!
+
+## How to Participate
+
+Choose a project from the list below and use the sign-up form provided on the project's description page. If you have already signed up for one of the projects below, you can still participate by providing a solution within the submission deadline. Upload your solution into a GitHub repository and share the link to the repository via the project submission form, which is also accessible from the project description page. Check the box indicating you agree with our Terms and Conditions.
+
+### Important Dates
+-	Now to January 5th: Register for a project from below
+-	January 5th, 2024: Submission deadline
+-	January 30th, 2024: Winners announced
+
+### Prizes 
+-	1st place: $1,000
+-	2nd place: $500
+-	3rd place: $300
+- Merit-based awards (multiple): $200 Gift card payment
+
+To access additional details and review the terms and conditions, please visit this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)**. 
+
+
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
