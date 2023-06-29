@@ -86,7 +86,7 @@
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/auto.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Vehicle%20localization">Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Vehicle%20Localization%20Using%20Onboard%20Sensors%20and%20HD%20Geolocated%20Maps">Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps</a></h2></p>
 <p>Revolutionize the current transportation system by improving autonomous vehicles localization for level 5 automation.</p>
 <p><strong>Impact</strong>: Contribute to the change of automobile industry, and transportation system.</p>
 <p><strong>Expertise gained</strong>: Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p></td>
