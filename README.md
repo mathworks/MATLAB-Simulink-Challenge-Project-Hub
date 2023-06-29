@@ -134,8 +134,8 @@ By participating, you have the opportunity to **win up to $1000**. To learn more
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualIntertialOdometry.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone">Visual-Inertial Odometry for a Minidrone </a></h2></p>
-<p>Design and implement a visual/visual - inertial odometry system using onboard camera for a Minidrone.</p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone">Visual - Inertial Odometry for a Minidrone </a></h2></p>
+<p>Design and implement a visual/visual-inertial odometry system using onboard camera for a Minidrone.</p>
 <p><strong>Impact</strong>:  Advance aerial vehicle control in contracted spaces with unforeseen environment conditions.</p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Drones, Robotics, Aerospace, Control, Image Processing, Low-cost Hardware, Modeling and Simulation, Signal Processing, State Estimation, UAV</p></td>
 </tbody>
