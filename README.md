@@ -49,6 +49,13 @@ By participating, you have the opportunity to **win up to $1000**. To learn more
 *Updated: April 26, 2023*
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coneDetection.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Cone%20Detection%20for%20Formula%20Student%20Driverless%20Competition">Cone Detection for Formula Student Driverless Competition</a></h2></p>
+<p>Develop a cone detection algorithm for Formula Student Driverless competition.</p>
+<p>Impact: Enable accurate detection for autonomous racing cars.</p>
+<p>Expertise gained: Autonomous Vehicles, Computer Vision, Deep Learning, Modeling and Simulation</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Cone%20Detection%20for%20Formula%20Student%20Driverless%20Competition&tfa_2=248"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150">&nbsp;&nbsp;</a><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Cone%20Detection%20for%20Formula%20Student%20Driverless%20Competition&tfa_2=248"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/uamPathPlanning.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Multi-UAV%20Path%20Planning%20for%20Urban%20Air%20Mobility">Multi-UAV Path Planning for Urban Air Mobility</a></h2></p>
 <p>Develop a path planning algorithm for multiple drones flying in an urban environment.</p>
