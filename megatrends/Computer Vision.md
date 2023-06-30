@@ -1,13 +1,6 @@
 # Computer Vision projects: 
 <table>
 <tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coneDetection.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Cone%20Detection%20for%20Formula%20Student%20Driverless%20Competition">Cone Detection for Formula Student Driverless Competition</a></h2></p>
-<p>Develop a cone detection algorithm for Formula Student Driverless competition. </p>
-<p><strong>Impact</strong>: Enable accurate detection for autonomous racing cars.</p>
-<p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Deep Learning, Modeling and Simulation</p></td>
-</tbody>
-<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/dip.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Deep%20Image%20Prior%20for%20Inverse%20Problems%20in%20Imaging">Deep Image Prior for Inverse Problems in Imaging</a></h2></p>
 <p>Use the Deep Image Prior to solve inverse problems in imaging.</p>
