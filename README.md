@@ -31,7 +31,7 @@ If you are industry or faculty and interested in further information, to provide
 **_NEW_  Sustainability and Renewable Energy Challenge!** 
 
 _We are excited to announce the MathWorks Sustainability and Renewable Energy Challenge! We invite you to submit innovative solutions to environmental challenges related to sustainability and renewable energy. 
-By participating, you have the opportunity to **win up to $1000**. To learn more about the challenge and how to participate, please visit this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)**. 
+By participating, you have the opportunity to **win up to $1000**. To learn more about the challenge and how to participate, please visit this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)**._ 
 
 ## Projects by technology trends 
 - [5G](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/5G.md)
