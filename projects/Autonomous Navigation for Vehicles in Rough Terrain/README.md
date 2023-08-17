@@ -1,6 +1,6 @@
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain&tfa_2=230)</strong> to **register** your intent to complete this project.
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain&tfa_2=209)</strong> to **register** your intent to complete this project.
 
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain&tfa_2=230)</strong> to **submit** your solution to this project and qualify for the rewards.
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain&tfa_2=209)</strong> to **submit** your solution to this project and qualify for the rewards.
 
 
 <table>
