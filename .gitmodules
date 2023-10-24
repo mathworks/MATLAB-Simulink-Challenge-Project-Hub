@@ -67,3 +67,6 @@
 [submodule "projects/Quadruped Robot with a Manipulator/student submissions/Quadruped-with-Manipulator-and-Path-Planning"]
 	path = projects/Quadruped Robot with a Manipulator/student submissions/Quadruped-with-Manipulator-and-Path-Planning
 	url = https://github.com/serenanatalija/Quadruped-with-Manipulator-and-Path-Planning
+[submodule "projects/Snake-like Robot Modeling and Navigation/student submissions/Snake-robot-MATLAB"]
+	path = projects/Snake-like Robot Modeling and Navigation/student submissions/Snake-robot-MATLAB
+	url = https://github.com/bhavikpatel2/Snake-robot-MATLAB
