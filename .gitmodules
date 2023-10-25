@@ -70,6 +70,3 @@
 [submodule "projects/Snake-like Robot Modeling and Navigation/student submissions/Snake-robot-MATLAB"]
 	path = projects/Snake-like Robot Modeling and Navigation/student submissions/Snake-robot-MATLAB
 	url = https://github.com/bhavikpatel2/Snake-robot-MATLAB
-[submodule "Recognizing-and-Tracking-Person-of-Interest"]
-	path = Recognizing-and-Tracking-Person-of-Interest
-	url = https://github.com/batuhanaavci/Recognizing-and-Tracking-Person-of-Interest
