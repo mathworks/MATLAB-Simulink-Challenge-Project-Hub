@@ -15,7 +15,7 @@ Even more, you gain official recognition for your problem-solving skills from te
 If you are new to MATLAB and Simulink or want to learn more, discover [this comprehensive repository of resources for students](https://github.com/mathworks/awesome-matlab-students) 📚
 
 
-## How to participate
+## How to participate :point_down:
 Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects by completing the project sign-up form accessible from the project’s description page and we will send you more information about the project and recognition awards.
 
 For more information about the program and <strong>how to submit your solution, please visit our [wiki page](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/wiki)</strong>. 
@@ -31,13 +31,13 @@ For more information about the program and <strong>how to submit your solution, 
 
 If you are industry or faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html)</strong>.
 
-### **_NEW_  [Sustainability and Renewable Energy Challenge](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)!** 
+### **_NEW_  [Sustainability and Renewable Energy Challenge](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)!** :sun_with_face:
 
 _We are excited to announce the MathWorks Sustainability and Renewable Energy Challenge! We invite you to submit innovative solutions to environmental challenges related to sustainability and renewable energy. 
 By participating, you have the opportunity to **win up to $1000**. Visit this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)**_ to learn more about the challenge and how to participate
 
 
-## Projects by technology trends 
+## Projects by technology trends :file_cabinet:
 - [5G](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/5G.md)
 - [Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
 - [Autonomous Vehicles](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Autonomous%20Vehicles.md)
@@ -49,7 +49,7 @@ By participating, you have the opportunity to **win up to $1000**. Visit this **
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 
-## All projects
+## All projects :file_folder:
 *Updated: April 26, 2023*
 <table>
 <tbody>
