@@ -38,7 +38,6 @@ By participating, you have the opportunity to **win up to $1000**. Visit this **
 
 
 ## Projects by technology trends :file_cabinet:
-- [5G](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/5G.md)
 - [Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
 - [Autonomous Vehicles](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Autonomous%20Vehicles.md)
 - [Big Data](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Big%20Data.md)
@@ -48,6 +47,7 @@ By participating, you have the opportunity to **win up to $1000**. Visit this **
 - [Industry 4.0](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Industry%204.0.md)
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
+- [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20communication.md)
 
 ## All projects :file_folder:
 *Updated: April 26, 2023*
@@ -78,7 +78,7 @@ By participating, you have the opportunity to **win up to $1000**. Visit this **
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Classify%20RF%20Signals%20Using%20AI">Classify RF Signals Using AI</a></h2></p>
 <p>Use deep learning to classify wireless signals and perform real-world testing with software defined radios.</p>
 <p><strong>Impact:</strong> Help to mitigate the ever-increasing RF interference problem in the developed world.</p>
-<p><strong>Expertise gained:</strong> 5G, Artificial Intelligence, Deep Learning, Image Processing, Machine Learning, Neural Networks, Software-defined Radio, Wireless Communication</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Classify RF Signals Using AI&tfa_2=245"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Classify RF Signals Using AI&tfa_2=245"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
+<p><strong>Expertise gained:</strong> Wireless Communication, Artificial Intelligence, Deep Learning, Image Processing, Machine Learning, Neural Networks, Software-defined Radio</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Classify RF Signals Using AI&tfa_2=245"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Classify RF Signals Using AI&tfa_2=245"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/dip.png"  width=500 /></td>
@@ -350,14 +350,14 @@ By participating, you have the opportunity to **win up to $1000**. Visit this **
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimizing%20Antenna%20Performance%20in%20an%20Indoor%20Propagation%20Environment">Optimizing Antenna Performance in an Indoor Propagation Environment</a></h2></p>
 <p>Design an antenna to optimize transmission and reception in indoor environment.</p>
 <p><strong>Impact:</strong> Maximize indoor radio signal coverage and reduce energy consumption of signal booster devices.</p>
-<p><strong>Expertise gained:</strong> 5G, Optimization, Smart Antennas, Wireless Communication</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Optimizing Antenna Performance in an Indoor Propagation Environment&tfa_2=206"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Optimizing Antenna Performance in an Indoor Propagation Environment&tfa_2=206"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
+<p><strong>Expertise gained:</strong> Wireless Communication, Optimization, Smart Antennas</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Optimizing Antenna Performance in an Indoor Propagation Environment&tfa_2=206"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Optimizing Antenna Performance in an Indoor Propagation Environment&tfa_2=206"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/space-systems-communications.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimization%20of%20Large%20Antenna%20Arrays%20for%20Astronomical%20Applications">Optimization of Large Antenna Arrays for Astronomical Applications</a></h2></p>
 <p>Design a large antenna array and optimize its multiple design variables to achieve desired transmission/reception characteristics.  </p>
 <p><strong>Impact:</strong> Advance long distance communication capabilities for astronomical applications  </p>
-<p><strong>Expertise gained:</strong> 5G, Smart Antennas, Wireless Communication, Optimization</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Optimization of Large Antenna Arrays for Astronomical Applications&tfa_2=205"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Optimization of Large Antenna Arrays for Astronomical Applications&tfa_2=205"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
+<p><strong>Expertise gained:</strong> Wireless Communication, Smart Antennas, Optimization</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Optimization of Large Antenna Arrays for Astronomical Applications&tfa_2=205"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Optimization of Large Antenna Arrays for Astronomical Applications&tfa_2=205"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fuelCell.jpg"  width=500 /></td>
@@ -454,7 +454,7 @@ By participating, you have the opportunity to **win up to $1000**. Visit this **
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Improve%20the%20Accuracy%20of%20Satellite%20Navigation%20Systems">Improve the Accuracy of Satellite Navigation Systems</a></h2></p>
 <p>Improve the accuracy of satellite navigation systems by using non-binary LDPC codes.</p>
 <p><strong>Impact:</strong> Accelerate the development of modern satellite navigation receivers. </p>
-<p><strong>Expertise gained:</strong> 5G, GNSS, Wireless Communication</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Improve the Accuracy of Satellite Navigation Systems&tfa_2=192"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Improve the Accuracy of Satellite Navigation Systems&tfa_2=192"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
+<p><strong>Expertise gained:</strong> Wireless Communication, GNSS</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Improve the Accuracy of Satellite Navigation Systems&tfa_2=192"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Improve the Accuracy of Satellite Navigation Systems&tfa_2=192"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/bioreactor.jpg"  width=500 /></td>
@@ -490,7 +490,7 @@ By participating, you have the opportunity to **win up to $1000**. Visit this **
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20software%20defined%20radio">Build a Wireless Communications Link with Software-Defined Radio</a></h2></p>
 <p>Gain practical experience in wireless communication by designing inexpensive software-defined radios.</p>
 <p><strong>Impact:</strong> Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
-<p><strong>Expertise gained:</strong> 5G, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio, Wireless Communication</p>
+<p><strong>Expertise gained:</strong> Wireless Communication, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio</p>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Build a wireless communications link with software defined radio&tfa_2=162"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Build a wireless communications link with software defined radio&tfa_2=162"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
@@ -503,9 +503,9 @@ By participating, you have the opportunity to **win up to $1000**. Visit this **
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/wireless.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Coverage%20Maps%20Using%20Measurements%20and%20Machine%20Learning">Signal Coverage Maps Using Measurements and Machine Learning</a></h2></p>
-<p>Reduce the cost of 5G and IoT network deployment by generating coverage maps from limited measurements.</p>
+<p>Reduce the cost of Wireless Communication and IoT network deployment by generating coverage maps from limited measurements.</p>
 <p><strong>Impact:</strong> Contribute to the evolution and deployment of new wireless communications systems.</p>
-<p><strong>Expertise gained:</strong> Artificial Intelligence, 5G, Machine Learning, Wireless Communication</p>
+<p><strong>Expertise gained:</strong> Artificial Intelligence, Wireless Communication, Machine Learning</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Coverage%20Maps%20Using%20Measurements%20and%20Machine%20Learning/student%20submissions">Current submissions</a></p>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Signal Coverage Maps Using Measurements and Machine Learning&tfa_2=151"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Signal Coverage Maps Using Measurements and Machine Learning&tfa_2=151"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
