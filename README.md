@@ -47,7 +47,7 @@ By participating, you have the opportunity to **win up to $1000**. Visit this **
 - [Industry 4.0](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Industry%204.0.md)
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
 - [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
-- [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20communication.md)
+- [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20Communication.md)
 
 ## All projects :file_folder:
 *Updated: April 26, 2023*
