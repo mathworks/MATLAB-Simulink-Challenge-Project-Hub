@@ -8,6 +8,12 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 <p>Use deep learning to classify wireless signals and perform real-world testing with software defined radios.</p>
 </table>
 
+**_Project endorserd by_:**<br>
+<a href="https://www.ni.com/en-us/shop/category/software-defined-radios.html" target="_blank">
+<img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/NI_Logo.png"  width=150>
+<br><br><br><br><br><br>
+</a>
+
 ## Motivation
 
 AI is now becoming a mainstream technology, and is being used to develop new drugs, combat human trafficking, and help diagnose cancer.  Some of these same techniques can be used to classify RF signals propagating through the air.  Classifying RF signals is an important problem, because our spectrum is getting more crowded every year.  Cellular, WiFi, Bluetooth, ZigBee, UWB, SatCom, radar, GPS, IoT – interference scenarios are cropping up all the time, and we need to know who is interfering with whom.  AI can help.
