@@ -8,6 +8,10 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 <p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
 </table>
 
+**_Project endorserd by_:**<br>
+<img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/NI_Logo.png"  width=150>
+<br><br><br><br><br><br>
+
 ## Motivation
 
 The world has gone wireless! So many bits flying through the air :-). We all communicate primarily wirelessly now, from our smartphones, to our cars and robots, even our appliances and smoke alarms.
