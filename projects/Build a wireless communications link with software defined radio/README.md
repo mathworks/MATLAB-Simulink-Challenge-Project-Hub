@@ -9,8 +9,10 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 </table>
 
 **_Project endorserd by_:**<br>
+<a href="https://www.ni.com/en-us/shop/category/software-defined-radios.html" target="_blank">
 <img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/NI_Logo.png"  width=150>
 <br><br><br><br><br><br>
+</a>
 
 ## Motivation
 
@@ -64,10 +66,10 @@ Develop an ad hoc network with multiple transceiver nodes and OFDM as the underl
 - [Software-Defined Radio (SDR)](https://www.mathworks.com/discovery/sdr.html)
 - [QPSK Transmitter and Receiver - MATLAB](https://www.mathworks.com/help/comm/ug/qpsk-transmitter-and-receiver.html)
 - [QPSK Transmitter and Receiver - Simulink](https://www.mathworks.com/help/comm/ug/qpsk-transmitter-and-receiver-in-simulink.html)
-- [QPSK Transmitter with USRP Hardware - MATLAB](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-transmitter-with-usrp-r-hardware.html)
-- [QPSK Receiver with USRP Hardware - MATLAB](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-receiver-with-usrp-r-hardware.html)
-- [QPSK Transmitter with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-transmitter-with-usrp-r-hardware-1.html)
-- [QPSK Receiver with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-receiver-with-usrp-r-hardware-1.html)
+- [QPSK Transmitter with USRP Hardware - MATLAB](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-transmitter-with-usrp-tm-hardware.html)
+- [QPSK Receiver with USRP Hardware - MATLAB](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-receiver-with-usrp-tm-hardware.html)
+- [QPSK Transmitter with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-transmitter-with-usrp-hardware-in-simulink.html)
+- [QPSK Receiver with USRP Hardware - Simulink](https://www.mathworks.com/help/supportpkg/usrpradio/ug/qpsk-receiver-with-usrp-hardware-in-simulink.html)
 
 Suggested readings:
 <a name="schmidl"></a>[1] Timothy M. Schmidl and Donald C. Cox, "Robust Frequency and Timing Synchronization for OFDM", IEEE Transactions on Communications, Vol. 45, No. 12, December 1997.
