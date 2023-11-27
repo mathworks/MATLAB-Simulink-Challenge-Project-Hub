@@ -8,7 +8,7 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 <p>Gain practical experience in wireless communication by designing inexpensive software-designed radios.</p>
 </table>
 
-**_Project endorserd by_:**<br>
+**_Project endorsed by_:**<br>
 <a href="https://www.ni.com/en-us/shop/category/software-defined-radios.html" target="_blank">
 <img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/NI_Logo.png"  width=150>
 <br><br><br><br><br><br>
