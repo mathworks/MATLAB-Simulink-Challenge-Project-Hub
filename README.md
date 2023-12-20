@@ -79,7 +79,7 @@ By participating, you have the opportunity to **win up to $1000**. Visit this **
 <p>Use deep learning to classify wireless signals and perform real-world testing with software defined radios.</p>
 <p><strong>Impact:</strong> Help to mitigate the ever-increasing RF interference problem in the developed world.</p>
 <p><strong>Expertise gained:</strong> Wireless Communication, Artificial Intelligence, Deep Learning, Image Processing, Machine Learning, Neural Networks, Software-defined Radio</p>
-<span><strong>Endorsed by:</strong></span><br>
+<span><strong>Industry partner:</strong></span><br>
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/NI_Logo.png"  width=70><br>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Classify RF Signals Using AI&tfa_2=245"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Classify RF Signals Using AI&tfa_2=245"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
