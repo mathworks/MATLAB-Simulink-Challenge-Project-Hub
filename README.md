@@ -31,10 +31,11 @@ For more information about the program and <strong>how to submit your solution, 
 
 If you are industry or faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html)</strong>.
 
-### **_NEW_  [Sustainability and Renewable Energy Challenge](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)!** :sun_with_face:
+### **_Challenge Concluded_: [Sustainability and Renewable Energy Challenge](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)!** :sun_with_face:
 
-_We are excited to announce the MathWorks Sustainability and Renewable Energy Challenge! We invite you to submit innovative solutions to environmental challenges related to sustainability and renewable energy. 
-By participating, you have the opportunity to **win up to $1000**. Visit this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)**_ to learn more about the challenge and how to participate
+_Our Sustainability and Renewable Energy Challenge has ended, and we are now reviewing the fantastic submissions we received. The enthusiasm and innovation have been remarkable. 
+Stay tuned! We are excited to soon announce the winners and award the prizes to the most outstanding solutions. Keep an eye on this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)**_ for the upcoming announcement and to celebrate the achievements of our talented participants."
+
 
 
 ## Projects by technology trends :file_cabinet:
