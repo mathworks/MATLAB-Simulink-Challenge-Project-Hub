@@ -15,7 +15,8 @@ Sensor fusion and control for an autonomus self-balancing bicycle<br>
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=matteo-liguori/EKF-Bike-Multibody-Sensor-Fusion-)
 
-**Author:** Matteo Liguori, King's College London
+**Author:** Matteo Liguori</br>
+**Affiliation:** King's College London
 </td>
 </tr>
 </table>
