@@ -15,7 +15,8 @@ Predict sea level rise<br>
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=LukeY23/Climate-Change-Map)
 
-**Authors:** Eliseo Garze, Annalaine Whitson, and Luke Yocum, Texas A&M University
+**Authors:** Eliseo Garze, Annalaine Whitson, and Luke Yocum</br>
+**Affiliation:** Texas A&M University
 </td>
 </tr>
 
@@ -32,7 +33,8 @@ Visualize future sea rise levels for a desidered location<br>
   
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=skolodz/SeaLevelPredictor)
 
-**Authors:** Wenyu Hu and Stacia Kolodziejski, Boston University
+**Authors:** Wenyu Hu and Stacia Kolodziejski</br>
+**Affiliation:** Boston University
 </td>
 </tr>
 
@@ -47,7 +49,8 @@ Predict sea level rise for a predeterrmined location<br><br>
 
 [![File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/129014-intelligent-control-systems-coastline-prediction)
 
-**Authors:** Berke Miraç and Koray Muradoğlu, Yildiz Technical University 
+**Authors:** Berke Miraç and Koray Muradoğlu</br>
+**Affiliation:** Yildiz Technical University 
 </td>
 </tr>
 </table>
