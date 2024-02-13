@@ -14,7 +14,8 @@ Nonlinear-Autoregressive (NARX) model to predict the behaviour of a vehicle in t
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=GirolamoOddo/Project222/)
 
-**Author:** Girolamo Oddo, Università degli Studi di Modena e Reggio Emilia
+**Author:** Girolamo Oddo</br>
+**Affiliation:** Università degli Studi di Modena e Reggio Emilia
 </td>
 </tr>
 </table>
