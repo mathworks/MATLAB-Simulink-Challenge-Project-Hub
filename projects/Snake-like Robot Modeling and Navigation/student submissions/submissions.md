@@ -15,7 +15,8 @@ Modeling and control of a snake-like robot<br>
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Antoine-ms/Snake-Robot)
 
-**Author:** Antoine Masson, Institut National des Sciences Appliquées de Rennes
+**Author:** Antoine Masson</br>
+**Affiliation:** Institut National des Sciences Appliquées de Rennes
 </td>
 </tr>
 
@@ -33,7 +34,8 @@ Modeling and control of a snake-like robot<br>
   
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=bhavikpatel2/Snake-robot-MATLAB)
 
-**Authors:** Bhavik Maheshkumar Patel, Indian Institute of Technology Guwahati
+**Authors:** Bhavik Maheshkumar Patel</br>
+**Affiliation:** Indian Institute of Technology Guwahati
 </td>
 </tr>
 
