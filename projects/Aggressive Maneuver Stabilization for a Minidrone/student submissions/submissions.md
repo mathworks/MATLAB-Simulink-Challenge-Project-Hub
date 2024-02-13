@@ -15,7 +15,8 @@ Non-linear attitude control of a flipping minidrone<br>
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ouafi98/project-230)
 
-**Author:** Mandela Ouafo, University of Strasbourg
+**Author:** Mandela Ouafo</br>
+**Affiliation:** University of Strasbourg
 </td>
 </tr>
 </table>
