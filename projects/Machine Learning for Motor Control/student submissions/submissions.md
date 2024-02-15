@@ -3,7 +3,7 @@
 ## Accepted solutions to the project 'Machine Learning for Motor Control'
 <table>
 <tr class="odd">
-<td width ="450">
+<td width ="500">
 <b>Machine Learning for Motor Control</b><br>
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pmsmRL.png" alt="solution image" width="450"/>
 </td>
