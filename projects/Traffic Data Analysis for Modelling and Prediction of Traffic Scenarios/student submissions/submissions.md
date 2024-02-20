@@ -4,7 +4,6 @@
 <table>
 <tr class="odd">
 <td>
-<b>Traffic Data Analysis for Modelling and Prediction of Traffic Scenario</b><br>
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/trafficanalysis.jpg" alt="mlsimulink" width="450"/>
 </td>
 <td> 
