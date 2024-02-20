@@ -15,7 +15,8 @@ Face detection and tracking car using Android device<br>
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=VoidXia/Face-Detection-Car)
 
-**Authors:** Xiaoheng Xia, Jianglong Li, and Jialin Yang, Shanghai Jiao Tong University
+**Authors:** Xiaoheng Xia, Jianglong Li, and Jialin Yang<br>
+**Affiliation:** Shanghai Jiao Tong University
 </td>
 </tr>
 
@@ -32,7 +33,8 @@ Face detection and tracking robot using Raspberry Pi<br>
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=lancg/Face-Detection-and-Human-Tracking-Robot)
 
-**Authors:** Lancong Guo, Juanyu Zhou, and Jinfan Liu, Shanghai Jiao Tong University
+**Authors:** Lancong Guo, Juanyu Zhou, and Jinfan Liu<br>
+**Affiliation:** Shanghai Jiao Tong University
 </td>
 </tr>
 
@@ -50,7 +52,8 @@ Face recognition and tracking drone<br>
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=lancg/Face-Detection-and-Human-Tracking-Robot)
 
-**Authors:**  Batuhan Avci and Enes Can Güven, Istanbul Technical University
+**Authors:**  Batuhan Avci and Enes Can Güven<br>
+**Affiliation:** Istanbul Technical University
 </td>
 </tr>
 
