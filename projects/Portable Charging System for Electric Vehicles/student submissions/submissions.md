@@ -4,6 +4,7 @@
 <table>
 <tr class="odd">
 <td width ="500">
+<b>Portable Charging System for Electric Vehicles</b><br>
 <img src="https://user-images.githubusercontent.com/59986679/163715033-5a75aae8-a4da-4d4e-928b-eda6562f960e.jpg" alt="solution image" width="450"/>
 </td>
 <td width ="500">
@@ -20,6 +21,7 @@
 </tr>
 <tr class="odd">
 <td width ="500">
+<b>Portable Charging System for Electric Vehicles</b><br>
 <img src="https://camo.githubusercontent.com/a7f7d787d18d2538dd9eeb3038503c8f03aed45e0c7a2fe5e9d7750b7d7e7a02/68747470733a2f2f7777772e7468656167696c6974796566666563742e636f6d2f6170702f75706c6f6164732f323031372f30372f696e666f677261706869655f76655f656e2d312e676966" alt="solution image" width="450"/>
 </td>
 <td width ="500">
