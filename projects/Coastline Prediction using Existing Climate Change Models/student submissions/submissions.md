@@ -4,7 +4,6 @@
 <table>
 <tr class="odd">
 <td>
-<b>Climate Change Map</b><br>
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ClimateChangeMap.png" alt="mlsimulink" width="400"/>
 </td>
 <td> 
@@ -19,10 +18,8 @@ Predict sea level rise<br>
 **Affiliation:** Texas A&M University
 </td>
 </tr>
-
 <tr class="odd">
 <td>
-<b>Sea Level Predictor</b><br>
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SeaLevelPredictor.png" alt="mlsimulink" width="400"/>
 </td>
 <td> 
@@ -41,7 +38,6 @@ Visualize future sea rise levels for a desidered location<br>
 
 <tr class="odd">
 <td>
-<b>Coastline Level Prediction</b><br>
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/CoastlinePrediction.png" width="400"/>
 </td>
 <td> 
