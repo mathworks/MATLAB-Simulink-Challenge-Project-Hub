@@ -19,4 +19,21 @@
 **Affiliation** University of Alberta
 </td>
 </tr>
+<tr class="odd">
+<td width ="500">
+<b>Portable Charging System for Electric Vehicles</b><br>
+<img src="https://camo.githubusercontent.com/a7f7d787d18d2538dd9eeb3038503c8f03aed45e0c7a2fe5e9d7750b7d7e7a02/68747470733a2f2f7777772e7468656167696c6974796566666563742e636f6d2f6170702f75706c6f6164732f323031372f30372f696e666f677261706869655f76655f656e2d312e676966" alt="solution image" width="450"/>
+</td>
+<td width ="500">
+Simulation model of a bidirectional EV charger employing a bidirectional buck-boost converter to function as both G2V (grid to vehicle) and V2G (vehicle to grid) charger.<br>
+<ul>
+<li><a href="https://github.com/amoriyavageesh01/Portable-Charging-System-for-Electric-Vehicles-1//">GitHub repository</a></li>
+</ul>
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=amoriyavageesh01/Portable-Charging-System-for-Electric-Vehicles-1)
+
+**Author:** Vikas Panit and Vageesh Amoriya</br>
+**Affiliation** Dayalbagh Educational Institute
+</td>
+</tr>
 </table>
