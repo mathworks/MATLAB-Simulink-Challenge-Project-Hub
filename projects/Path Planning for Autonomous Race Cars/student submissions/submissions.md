@@ -81,4 +81,20 @@ Curvature-optimized velocity profiling with force constraints and mass considera
 **Affiliation** University of Waterloo
 </td>
 </tr>
+<tr class="odd">
+<td width ="500">
+<img src="https://user-images.githubusercontent.com/58664908/132527879-a54d3556-4485-4eea-b9a3-eb8375a99246.png" alt="solution image" width="450"/>
+</td>
+<td width ="500">
+Minimum curvature trajectory generation and velocity profile analysis, leveraging quadratic programming for trajectory optimization and rule-based velocity profiling.<br>
+<ul>
+<li><a href="https://github.com/putta54/MW208_Raceline_Optimization/">GitHub repository</a></li>
+</ul>
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=putta54/MW208_Raceline_Optimization)
+
+**Author:** Gautam Shetty</br>
+**Affiliation** Indian Institute of Technology Roorkee
+</td>
+</tr>
 </table>
