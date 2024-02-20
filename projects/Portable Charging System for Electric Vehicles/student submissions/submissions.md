@@ -36,4 +36,20 @@ Simulation model of a bidirectional EV charger employing a bidirectional buck-bo
 **Affiliation** Dayalbagh Educational Institute
 </td>
 </tr>
+<tr class="odd">
+<td width ="500">
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/portableEvCharger.jpg" alt="solution image" width="450"/>
+</td>
+<td width ="500">
+portable charger for electric vehicles with advanced power electronics and safety features for seamless on-the-go charging<br>
+<ul>
+<li><a href="https://github.com/Agr-sagar/Portable-Charging-System-for-Electric-Vehicles/">GitHub repository</a></li>
+</ul>
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Agr-sagar/Portable-Charging-System-for-Electric-Vehicles)
+
+**Author:** Sagar Agrawal</br>
+**Affiliation** National Institute of Technology, Kurukshetra
+</td>
+</tr>
 </table>
