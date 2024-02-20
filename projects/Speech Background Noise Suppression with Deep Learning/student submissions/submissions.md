@@ -60,4 +60,20 @@ Speech noise reduction using Recurrent Neural Network (RNN) trained with added G
 **Affiliation** Shanghai Jiao Tong University
 </td>
 </tr>
+<tr class="odd">
+<td width ="500">
+<img src="" alt="solution image" width="450"/>
+</td>
+<td width ="500">
+Speech noise reduction using Recurrent Neural Network (RNN) trained with real noise data<br>
+<ul>
+<li><a href="https://github.com/YilikaLoufoua/noise-suppression/">GitHub repository</a></li>
+</ul>
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=YilikaLoufoua/noise-suppression)
+
+**Author:** Samantha Zhan and Yilika Loufoua</br>
+**Affiliation** University of Waterloo, Texas Christian University
+</td>
+</tr>
 </table>
