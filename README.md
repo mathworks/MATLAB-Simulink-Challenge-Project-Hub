@@ -49,8 +49,15 @@ _Our Sustainability and Renewable Energy Challenge has concluded. Selecting winn
 - [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20Communication.md)
 
 ## All projects :file_folder:
-*Updated: April 26, 2023*
+*Updated: February 22, 2024*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/solarTracker.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Solar%20Tracker%20Control%20Simulation">Solar Tracker Control Simulation</a></h2></p>
+<p>Design a control system for a multi axis solar tracker.</p>
+<p><strong>Impact</strong>: Maximize solar irradiance to increase renewable energy production.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Control, Modeling and Simulation, Solar Panels</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coneDetection.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Cone%20Detection%20for%20Formula%20Student%20Driverless%20Competition">Cone Detection for Formula Student Driverless Competition</a></h2></p>

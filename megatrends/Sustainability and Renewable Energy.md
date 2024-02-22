@@ -18,6 +18,13 @@ To access additional details, please visit this **[page](https://www.mathworks.c
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/solarTracker.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Solar%20Tracker%20Control%20Simulation">Solar Tracker Control Simulation</a></h2></p>
+<p>Design a control system for a multi axis solar tracker.</p>
+<p><strong>Impact</strong>: Maximize solar irradiance to increase renewable energy production.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Control, Modeling and Simulation, Solar Panels</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BEV.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Energy%20Management%20for%20a%202-Motor%20BEV%20using%20Model-Predictive%20Control">Energy Management for a 2-Motor BEV using Model-Predictive Control</a></h2></p>
 <p>Develop a Model-Predictive Control algorithm to optimally distribute torque in a 2-motor Battery Electric Vehicle (BEV) powertrain.</p>
