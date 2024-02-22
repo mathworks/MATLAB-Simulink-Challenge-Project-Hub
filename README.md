@@ -56,7 +56,7 @@ _Our Sustainability and Renewable Energy Challenge has concluded. Selecting winn
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Solar%20Tracker%20Control%20Simulation">Solar Tracker Control Simulation</a></h2></p>
 <p>Design a control system for a multi axis solar tracker.</p>
 <p><strong>Impact</strong>: Maximize solar irradiance to increase renewable energy production.</p>
-<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Control, Modeling and Simulation, Solar Panels</p></td>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Control, Modeling and Simulation, Solar Panels</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Solar%20Tracker%20Control%20Simulation&tfa_2=249"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Solar%20Tracker%20Control%20Simulation&tfa_2=249"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coneDetection.png"  width=500 /></td>
