@@ -55,7 +55,7 @@ The decision on which axis to prioritize and implement first in a solar tracking
 -	NOAA [Solar Position Calculator](https://gml.noaa.gov/grad/solcalc/azel.html)
 
 **Suggested Readings**
--	National Renewable Energy Laboratory (NREL) - Rotation Angle for the Optimum Tracking of One-Axis Trackers
+-	National Renewable Energy Laboratory (NREL) - [Rotation Angle for the Optimum Tracking of One-Axis Trackers](https://www.nrel.gov/docs/fy13osti/58891.pdf)
 -	[Solar Position Algorithm for Solar Radiation Applications](https://www.nrel.gov/docs/fy08osti/34302.pdf)
 -	S. K. Jha, S. Roy, V. K. Singh and D. P. Mishra, "Sun's Position Tracking by Solar Angles Using MATLAB," 2020 International Conference on Renewable Energy Integration into Smart Grids – [link]( https://ieeexplore.ieee.org/document/9174533)
 -	[Design of PID controller for sun tracker system using QRAWCP approach](https://www.semanticscholar.org/paper/Design-of-an-automatic-solar-tracking-controller%3A-Sharma-Vaidya/7cc1277aec002d1d91313bc3056ffb5cae68e39c)
