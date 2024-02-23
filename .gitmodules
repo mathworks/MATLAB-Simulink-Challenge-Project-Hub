@@ -73,3 +73,6 @@
 [submodule "projects/Face Detection and Human Tracking Robot/student submissions/Recognizing-and-Tracking-Person-of-Interest"]
 	path = projects/Face Detection and Human Tracking Robot/student submissions/Recognizing-and-Tracking-Person-of-Interest
 	url = https://github.com/batuhanaavci/Recognizing-and-Tracking-Person-of-Interest
+[submodule "projects/Speech Background Noise Suppression with Deep Learning/student submissions/noise-suppression"]
+	path = projects/Speech Background Noise Suppression with Deep Learning/student submissions/noise-suppression
+	url = https://github.com/YilikaLoufoua/noise-suppression
