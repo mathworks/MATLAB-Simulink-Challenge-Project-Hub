@@ -20,7 +20,7 @@ Speech noise reduction using Recurrent Neural Network (RNN) trained with added G
 </tr>
 <tr class="odd">
 <td width ="500">
-<img src="" alt="solution image" width="450"/>
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/denoiseRNN.png" alt="solution image" width="450"/>
 </td>
 <td width ="500">
 Speech noise reduction using Recurrent Neural Network (RNN) trained with real noise data<br>
