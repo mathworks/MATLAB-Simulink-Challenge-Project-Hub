@@ -30,7 +30,7 @@ Outdoor robot navigation simulation with multiple sensors using ROS and Gazebo<b
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=NairAbhishek1403/Rough-Terrain-Navigation)
 
-**Author:** Abhishek Nair</br>
+**Author:** Abhishek Nair, Aditya Suwalka, and Tejal Uplenchwar</br>
 **Affiliation** Indian Institute of Technology Indore
 </td>
 </tr>
