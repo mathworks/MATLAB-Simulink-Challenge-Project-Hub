@@ -88,3 +88,6 @@
 [submodule "projects/Intelligent Fan Air Cooling System/student submissions/Intelligent-Fan-Air-Cooling-System"]
 	path = projects/Intelligent Fan Air Cooling System/student submissions/Intelligent-Fan-Air-Cooling-System
 	url = https://github.com/yuvieeee/Intelligent-Fan-Air-Cooling-System.git
+[submodule "projects/Green Hydrogen Production/student submissions/hydrogen-energy-storage"]
+	path = projects/Green Hydrogen Production/student submissions/hydrogen-energy-storage
+	url = https://github.com/michaelfsb/hydrogen-energy-storage
