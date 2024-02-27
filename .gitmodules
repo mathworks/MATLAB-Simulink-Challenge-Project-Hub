@@ -76,3 +76,6 @@
 [submodule "projects/Speech Background Noise Suppression with Deep Learning/student submissions/noise-suppression"]
 	path = projects/Speech Background Noise Suppression with Deep Learning/student submissions/noise-suppression
 	url = https://github.com/YilikaLoufoua/noise-suppression
+[submodule "projects/Autonomous Navigation for Vehicles in Rough Terrain/student submissions/Rough-Terrain-Navigation"]
+	path = projects/Autonomous Navigation for Vehicles in Rough Terrain/student submissions/Rough-Terrain-Navigation
+	url = https://github.com/NairAbhishek1403/Rough-Terrain-Navigation
