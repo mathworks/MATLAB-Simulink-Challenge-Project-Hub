@@ -85,3 +85,6 @@
 [submodule "projects/Predictive Electric Vehicle Cooling/student submissions/Predictive-battery-energy-requirements-"]
 	path = projects/Predictive Electric Vehicle Cooling/student submissions/Predictive-battery-energy-requirements-
 	url = https://github.com/jellyvisal/Predictive-battery-energy-requirements-.git
+[submodule "projects/Intelligent Fan Air Cooling System/student submissions/Intelligent-Fan-Air-Cooling-System"]
+	path = projects/Intelligent Fan Air Cooling System/student submissions/Intelligent-Fan-Air-Cooling-System
+	url = https://github.com/yuvieeee/Intelligent-Fan-Air-Cooling-System.git
