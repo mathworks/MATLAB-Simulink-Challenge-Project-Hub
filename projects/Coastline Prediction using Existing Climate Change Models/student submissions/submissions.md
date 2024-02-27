@@ -49,6 +49,22 @@ Predict sea level rise for a predeterrmined location<br><br>
 **Affiliation:** Yildiz Technical University 
 </td>
 </tr>
+<tr class="odd">
+<td width ="500">
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coastlineApp.png" alt="solution image" width="450"/>
+</td>
+<td width ="500">
+Coastline prediction visualization app<br>
+<ul>
+<li><a href="https://github.com/hpintoGH/CoastlinePrediction/">GitHub repository</a></li>
+<li><a href="https://youtu.be/-WUzInq5p_g">YouTube video demo</a></li></ul>
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=hpintoGH/CoastlinePrediction)
+
+**Author:** Hermes Pinto</br>
+**Affiliation** Universidad Nacional Abierta y a Distancia
+</td>
+</tr>
 </table>
 
 
