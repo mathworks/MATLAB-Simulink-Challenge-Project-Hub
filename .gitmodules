@@ -82,3 +82,6 @@
 [submodule "projects/Coastline Prediction using Existing Climate Change Models/student submissions/CoastlinePrediction"]
 	path = projects/Coastline Prediction using Existing Climate Change Models/student submissions/CoastlinePrediction
 	url = https://github.com/hpintoGH/CoastlinePrediction
+[submodule "projects/Predictive Electric Vehicle Cooling/student submissions/Predictive-battery-energy-requirements-"]
+	path = projects/Predictive Electric Vehicle Cooling/student submissions/Predictive-battery-energy-requirements-
+	url = https://github.com/jellyvisal/Predictive-battery-energy-requirements-.git
