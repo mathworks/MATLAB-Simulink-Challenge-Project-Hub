@@ -15,7 +15,7 @@ Energy-efficient battery pack design with thermal optimization for electric vehi
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=jellyvisal/Predictive-battery-energy-requirements-.git)
 
 **Author:** Vishal Selvamani</br>
-**Affiliation** Sri Sivasubramaniya Nadar College of Engineering
+**Affiliation:** Sri Sivasubramaniya Nadar College of Engineering
 </td>
 </tr>
 </table>
