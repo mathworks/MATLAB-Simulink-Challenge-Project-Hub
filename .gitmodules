@@ -94,3 +94,6 @@
 [submodule "projects/Carbon Neutrality/student submissions/carbon-neutrality-paper"]
 	path = projects/Carbon Neutrality/student submissions/carbon-neutrality-paper
 	url = https://github.com/hrcheung/carbon-neutrality-paper
+[submodule "projects/Wind Turbine Predictive Maintenance Using Machine Learning/student submissions/saranya-manikandan"]
+	path = projects/Wind Turbine Predictive Maintenance Using Machine Learning/student submissions/saranya-manikandan
+	url = https://github.com/saranya-manikandan-02/Wind-Turbine-Predictive-Maintenance-Using-Machine-Learning
