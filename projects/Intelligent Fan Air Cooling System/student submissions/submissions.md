@@ -4,7 +4,7 @@
 <table>
 <tr class="odd">
 <td width ="500">
-<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fuzzyFan" alt="solution image" width="450"/>
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fuzzyFan.png" alt="solution image" width="450"/>
 </td>
 <td width ="500">
 Fuzzy logic-based temperature selection for precision fan rpm control
