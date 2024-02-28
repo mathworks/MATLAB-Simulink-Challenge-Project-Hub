@@ -4,7 +4,7 @@
 <table>
 <tr class="odd">
 <td width ="500">
-<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fuzzyFan" alt="solution image" width="450"/>
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fuzzyFan.png" alt="solution image" width="450"/>
 </td>
 <td width ="500">
 Fuzzy logic-based temperature selection for precision fan rpm control
@@ -16,7 +16,7 @@ Fuzzy logic-based temperature selection for precision fan rpm control
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yuvieeee/Intelligent-Fan-Air-Cooling-System.git)
 
 **Author:** Yuvarajan V K, Sowmiya M, Sedhupathi R B, Vijayalaksmi B</br>
-**Affiliation** Dr. N.G.P. Institute of Technology
+**Affiliation:** Dr. N.G.P. Institute of Technology
 </td>
 </tr>
 </table>

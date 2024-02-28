@@ -15,7 +15,7 @@ Unitized Regenerative Fuel Cell (URFC) Evaluation for Microgrid Energy Storage a
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=michaelfsb/hydrogen-energy-storage)
 
 **Author:** Michael Feliphe da Silva Barbosa</br>
-**Affiliation** Federal University of Santa Catarina
+**Affiliation:** Federal University of Santa Catarina
 </td>
 </tr>
 </table>

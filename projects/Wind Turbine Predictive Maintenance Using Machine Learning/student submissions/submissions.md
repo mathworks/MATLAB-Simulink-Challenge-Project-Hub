@@ -16,7 +16,7 @@ CNN-based wind turbine geartrain fault detection for adaptive system maintenance
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=saranya-manikandan-02/Wind-Turbine-Predictive-Maintenance-Using-Machine-Learning)
 
 **Author:** Saranya M, Kavyasree U, Devansh S</br>
-**Affiliation** National institute of technology Puducherry
+**Affiliation:** National institute of technology Puducherry
 </td>
 </tr>
 </table>
