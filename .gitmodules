@@ -91,3 +91,9 @@
 [submodule "projects/Green Hydrogen Production/student submissions/hydrogen-energy-storage"]
 	path = projects/Green Hydrogen Production/student submissions/hydrogen-energy-storage
 	url = https://github.com/michaelfsb/hydrogen-energy-storage
+[submodule "projects/Carbon Neutrality/student submissions/--force"]
+	path = projects/Carbon Neutrality/student submissions/--force
+	url = https://github.com/hrcheung/carbon-neutrality-paper
+[submodule "projects/Carbon Neutrality/student submissions/carbon-neutrality-paper"]
+	path = projects/Carbon Neutrality/student submissions/carbon-neutrality-paper
+	url = https://github.com/hrcheung/carbon-neutrality-paper
