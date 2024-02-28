@@ -94,3 +94,6 @@
 [submodule "projects/Wind Turbine Predictive Maintenance Using Machine Learning/student submissions/saranya-manikandan"]
 	path = projects/Wind Turbine Predictive Maintenance Using Machine Learning/student submissions/saranya-manikandan
 	url = https://github.com/saranya-manikandan-02/Wind-Turbine-Predictive-Maintenance-Using-Machine-Learning
+[submodule "projects/Portable Charging System for Electric Vehicles/student submissions/PortableEVCharger"]
+	path = projects/Portable Charging System for Electric Vehicles/student submissions/PortableEVCharger
+	url = https://github.com/Agr-sagar/Portable-Charging-System-for-Electric-Vehicles
