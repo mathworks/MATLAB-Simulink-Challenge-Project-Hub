@@ -100,3 +100,6 @@
 [submodule "projects/Techno-Economic Assessment of Green Hydrogen Production/student submissions/Green-Hydrogen-Production"]
 	path = projects/Techno-Economic Assessment of Green Hydrogen Production/student submissions/Green-Hydrogen-Production
 	url = https://github.com/Ainshamsuniverity/Techno-Economic-Assessment-of-Green-Hydrogen-Production-Project-Soluation
+[submodule "projects/Landslide Susceptibility Mapping using Machine Learning/student submissions/Landslide"]
+	path = projects/Landslide Susceptibility Mapping using Machine Learning/student submissions/Landslide
+	url = https://github.com/JaidevSK/Landslide-Susceptibility-Mapping-using-Machine-Learning-MATLAB-Excellence-in-Innovation-Project
