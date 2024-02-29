@@ -97,3 +97,6 @@
 [submodule "projects/Portable Charging System for Electric Vehicles/student submissions/PortableEVCharger"]
 	path = projects/Portable Charging System for Electric Vehicles/student submissions/PortableEVCharger
 	url = https://github.com/Agr-sagar/Portable-Charging-System-for-Electric-Vehicles
+[submodule "projects/Techno-Economic Assessment of Green Hydrogen Production/student submissions/Green-Hydrogen-Production"]
+	path = projects/Techno-Economic Assessment of Green Hydrogen Production/student submissions/Green-Hydrogen-Production
+	url = https://github.com/Ainshamsuniverity/Techno-Economic-Assessment-of-Green-Hydrogen-Production-Project-Soluation
