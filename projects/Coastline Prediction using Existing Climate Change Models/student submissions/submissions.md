@@ -62,7 +62,7 @@ Coastline prediction visualization app<br>
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=hpintoGH/CoastlinePrediction)
 
 **Author:** Hermes Pinto</br>
-**Affiliation** Universidad Nacional Abierta y a Distancia
+**Affiliation:** Universidad Nacional Abierta y a Distancia
 </td>
 </tr>
 </table>
