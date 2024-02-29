@@ -103,3 +103,6 @@
 [submodule "projects/Landslide Susceptibility Mapping using Machine Learning/student submissions/Landslide"]
 	path = projects/Landslide Susceptibility Mapping using Machine Learning/student submissions/Landslide
 	url = https://github.com/JaidevSK/Landslide-Susceptibility-Mapping-using-Machine-Learning-MATLAB-Excellence-in-Innovation-Project
+[submodule "projects/Control, Modeling, Design, and Simulation of Modern HVAC Systems/student submissions/HVAC-Modeling"]
+	path = projects/Control, Modeling, Design, and Simulation of Modern HVAC Systems/student submissions/HVAC-Modeling
+	url = https://github.com/skaraogl/-Sustainability-and-Renewable-Energy-Challenge.git
