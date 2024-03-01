@@ -7,7 +7,7 @@
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/greenHydrogenSolution.png" alt="solution image" width="450"/>
 </td>
 <td width ="500">
-Unitized Regenerative Fuel Cell (URFC) Evaluation for Microgrid Energy Storage and Sustainable Power Solutions<br>
+Unitized regenerative fuel cell (URFC) evaluation for microgrid energy storage and sustainable power solutions<br>
 <ul>
 <li><a href="https://github.com/michaelfsb/hydrogen-energy-storage/">GitHub repository</a></li>
 </ul>
