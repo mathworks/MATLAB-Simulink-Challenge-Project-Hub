@@ -1,20 +1,3 @@
-# Sustainability and Renewable Energy Challenge
-
-_Our Sustainability and Renewable Energy Challenge has concluded. Selecting winners from the many excellent submissions was a challenging task. We are now excited to share the **list of winners [here](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023/winners.html)**. Join us in celebrating the achievements of our talented participants and the groundbreaking work they have presented in the realm of sustainability and renewable energy. Congratulations to all!_"
-
-### Important Dates
--	~~Now to January 5th: Register for a project from below~~
--	~~January 5th, 2024: Submission deadline~~
--	~~January 30th, 2024: Winners announced~~
-
-### Prizes 
--	1st place: $1,000
--	2nd place: $500
--	3rd place: $300
-- Merit-based awards (multiple): $200 Gift card payment
-
-To access additional details, please visit this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)**. 
-
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
