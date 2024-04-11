@@ -38,7 +38,7 @@ Suggested steps:
 4.	Design a linear or non-linear MPC algorithm using the Model-Predictive Control Toolbox.  
 a.	For example, the MPC controller could be designed to optimally distribute torque and reduce energy consumption while maximizing driving range
 5.	Integrate the MPC algorithm into a model reference that operates at a 10ms fixed-time step (use the existing vehicle controller as a reference).
-6.	Evaluate your MPC algorithm in the vehicle model using the WLTP Class 3 and HWFET drive cycles using the [Drive Cycle Source](https://www.mathworks.com/help/autoblks/ref/drivecyclesource.html) block in simulink (You may also need to install the Dive Cycle Source add-on to download the WLTP3 and HWFET cycles). Show your improvement in terms of energy or MPGe metrics versus the baseline controller.  Also show that the implemented constraints of the MPC algorithm were not violated.  As a validation step, run your controller on different drive cycles (i.e. FTP75, US06).  
+6.	Evaluate your MPC algorithm in the vehicle model using the WLTP Class 3 and HWFET drive cycles using the [Drive Cycle Source](https://www.mathworks.com/help/autoblks/ref/drivecyclesource.html) block in Simulink (You may also need to install the Dive Cycle Source add-on to download the WLTP3 and HWFET cycles). Show your improvement in terms of energy or MPGe metrics versus the baseline controller.  Also show that the implemented constraints of the MPC algorithm were not violated.  As a validation step, run your controller on different drive cycles (i.e. FTP75, US06).  
 
 Project variations:
 1.	Explore other ways to optimize the powertrain components, including the differential ratios, motor torque vs. speed curves, and battery sizing.  
