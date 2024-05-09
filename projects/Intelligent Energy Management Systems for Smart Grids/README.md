@@ -30,9 +30,9 @@ Advanced project work:
 
 ## Background Material
 
--	(MATLAB and Simulink for Microgrid, Smart Grid, and Charging Infrastructure)[https://www.mathworks.com/solutions/electrification/microgrid-smart-grid-charging-infrastructure.html]
--	[modeling-electrical-power-systems-in-simscape-electrical]https://www.mathworks.com/videos/modeling-electrical-power-systems-in-simscape-electrical-1675265945014.html
--	[power-to-gas-techno-economic-optimization]https://www.mathworks.com/videos/power-to-gas-techno-economic-optimization-1700168734751.html?s_tid=srchtitle_videos_main_1_power%20to%20gas
+-	[MATLAB and Simulink for Microgrid, Smart Grid, and Charging Infrastructure](https://www.mathworks.com/solutions/electrification/microgrid-smart-grid-charging-infrastructure.html)
+-	[modeling-electrical-power-systems-in-simscape-electrical](https://www.mathworks.com/videos/modeling-electrical-power-systems-in-simscape-electrical-1675265945014.html)
+-	[power-to-gas-techno-economic-optimization](https://www.mathworks.com/videos/power-to-gas-techno-economic-optimization-1700168734751.html?s_tid=srchtitle_videos_main_1_power%20to%20gas)
 -	[Microgrid System Development and Analysis video series](https://www.mathworks.com/videos/series/microgrid-system-development-and-analysis.html)
 -	[Microgrid Modeling on the Right Level of Detail for Short and Long-Term Simulations](https://www.mathworks.com/support/search.html/videos/microgrid-modeling-on-the-right-level-of-detail-for-short-and-long-term-simulations-1593454332839.html?fq%5B%5D=asset_type_name:video&fq%5B%5D=category:simulink/index&page=1)
 -	[Simplified Model of a Small Scale Micro-Grid](https://www.mathworks.com/help/sps/ug/simplified-model-of-a-small-scale-micro-grid.html)
