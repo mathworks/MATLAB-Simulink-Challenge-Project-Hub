@@ -2,7 +2,7 @@
 <table>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/grid.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Energy%20Management%20Systems%20for%20Smart%20Grids%20">Intelligent Energy Management Systems for Smart Grids </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Energy%20Management%20Systems%20for%20Smart%20Grids">Intelligent Energy Management Systems for Smart Grids </a></h2></p>
 <p>Design and Implement an Intelligent Energy Management System (IEMS) for Smart Grids to Optimize Energy Distribution and Consumption. </p>
 <p><strong>Impact</strong>: Elevate efficiency and forge a sustainable world through advanced energy management. </p>
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Electrification, Modeling and Simulation, Machine Learning</p></td>
