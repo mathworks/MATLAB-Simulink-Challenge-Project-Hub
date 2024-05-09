@@ -49,8 +49,15 @@ _Our Sustainability and Renewable Energy Challenge has concluded. Selecting winn
 - [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20Communication.md)
 
 ## All projects :file_folder:
-*Updated: February 22, 2024*
+*Updated: May 09, 2024*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/grid.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Energy%20Management%20Systems%20for%20Smart%20Grids%20">Intelligent Energy Management Systems for Smart Grids </a></h2></p>
+<p>Design and Implement an Intelligent Energy Management System (IEMS) for Smart Grids to Optimize Energy Distribution and Consumption. </p>
+<p><strong>Impact</strong>: Elevate efficiency and forge a sustainable world through advanced energy management. </p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Electrification, Modeling and Simulation, Machine Learning</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/solarTracker.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Solar%20Tracker%20Control%20Simulation">Solar Tracker Control Simulation</a></h2></p>
