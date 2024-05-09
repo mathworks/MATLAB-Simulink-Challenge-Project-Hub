@@ -15,7 +15,7 @@ Simulink simulation of a modern HVAC system for a 4-room apartment<br>
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=skaraogl/-Sustainability-and-Renewable-Energy-Challenge.git)
 
 **Author:** Selim Mustafa Karaoglu</br>
-**Affiliation** TH Köln
+**Affiliation:** TH Köln
 </td>
 </tr>
 </table>

@@ -15,7 +15,7 @@ Dynamic Carbon Emission Analysis Using Time Varying Parameter Vector Auto Regres
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=hrcheung/carbon-neutrality-paper)
 
 **Author:** Haoran (Leslie) Zhang</br>
-**Affiliation** Northeastern University
+**Affiliation:** Northeastern University
 </td>
 </tr>
 </table>
