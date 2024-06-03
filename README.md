@@ -31,9 +31,11 @@ For more information about the program and <strong>how to submit your solution, 
 
 If you are industry or faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html)</strong>.
 
-### **_Challenge Concluded_: [Sustainability and Renewable Energy Challenge](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023.html)!** :sun_with_face:
+## **[Sustainability and Renewable Energy Challenge 2024](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html)** :sun_with_face:
 
-_Our Sustainability and Renewable Energy Challenge has concluded. Selecting winners from the many excellent submissions was a challenging task. We are now excited to share the **list of winners [here](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2023/winners.html)**. Join us in celebrating the achievements of our talented participants and the groundbreaking work they have presented in the realm of sustainability and renewable energy. Congratulations to all!_
+_After the remarkable success of our inaugural edition, we are delighted to announce the launch of the second MathWorks Sustainability and Renewable Energy Challenge! We invite you to submit innovative solutions to environmental challenges related to sustainability and renewable energy.You are free to build upon previous submissions to enhance and expand them into even more impactful solutions. Just ensure you add enough personal contribution for your work to be considered novel, and clearly highlight your contributions in the documentation._
+
+_By participating, you have the opportunity to **win up to $1000**. Visit this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html)** to learn more about the challenge and how to participate._
 
 
 ## Projects by technology trends :file_cabinet:
