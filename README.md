@@ -51,8 +51,15 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 - [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20Communication.md)
 
 ## All projects :file_folder:
-*Updated: May 09, 2024*
+*Updated: August 08, 2024*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/CO2.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Detection%20and%20Visualization%20of%20CO2%20Concentration%20Using%20Hyperspectral%20Satellite%20Data">Detection and Visualization of CO2 Concentration Using Hyperspectral Satellite Data</a></h2></p>
+<p>Develop a CO2 detection algorithm using hyperspectral images and visualize the results geospatially.</p>
+<p><strong>Impact</strong>: Enable precise CO2 monitoring for effective climate action. </p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Image Processing, Machine Learning, Signal Processing</p></td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/grid.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Energy%20Management%20Systems%20for%20Smart%20Grids">Intelligent Energy Management Systems for Smart Grids </a></h2></p>
