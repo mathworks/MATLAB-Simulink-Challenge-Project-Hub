@@ -15,7 +15,7 @@ The detection and monitoring of greenhouse gases, particularly carbon dioxide (C
 
 ## Project Description
 
-Process satellite hyperspectral data to detect areas with high concentrations of CO2 and visualize this information on a world map using [Hyperspectral Imaging Library for Image Processing ToolboxTM](https://in.mathworks.com/help/images/hyperspectral-image-processing.html) and the [Mapping Toolbox™](https://www.mathworks.com/help/map/index.html?). Explore advanced techniques to detect CO2 concentration and/or different types of gases and visualize the results with geospatial information.
+Process satellite hyperspectral data to detect areas with high concentrations of CO2 and visualize this information on a world map using [Hyperspectral Imaging Library for Image Processing Toolbox™](https://in.mathworks.com/help/images/hyperspectral-image-processing.html) and the [Mapping Toolbox™](https://www.mathworks.com/help/map/index.html?). Explore advanced techniques to detect CO2 concentration and/or different types of gases and visualize the results with geospatial information.
 
 Suggested steps:
 1.	**Data Acquisition:** Download hyperspectral datasets from relevant sources such as Landsat (You can download Landsat 8 from our server as in this [example](https://www.mathworks.com/help/images/find-regions-multispectral-georeference.html)), or [AVIRIS](https://aviris.jpl.nasa.gov/data/get_aviris_data.html), or other of your choice
