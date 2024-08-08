@@ -18,26 +18,26 @@ The detection and monitoring of greenhouse gases, particularly carbon dioxide (C
 Process satellite hyperspectral data to detect areas with high concentrations of CO2 and visualize this information on a world map using [Hyperspectral Imaging Library for Image Processing Toolbox™](https://in.mathworks.com/help/images/hyperspectral-image-processing.html) and the [Mapping Toolbox™](https://www.mathworks.com/help/map/index.html?). Explore advanced techniques to detect CO2 concentration and/or different types of gases and visualize the results with geospatial information.
 
 Suggested steps:
-1.	**Data Acquisition:** Download hyperspectral datasets from relevant sources such as Landsat (You can download Landsat 8 from our server as in this [example](https://www.mathworks.com/help/images/find-regions-multispectral-georeference.html)), or [AVIRIS](https://aviris.jpl.nasa.gov/data/get_aviris_data.html), or other of your choice
+1.	**Data Acquisition:** Download hyperspectral datasets from relevant sources such as Landsat (You can download Landsat 8 from our server as in this [example](https://www.mathworks.com/help/images/find-regions-multispectral-georeference.html)), or [AVIRIS](https://aviris.jpl.nasa.gov/data/get_aviris_data.html), or any other source of your choice.
 2.	**Data Preprocessing:** Load the hyperspectral data into MATLAB using the [hypercube function]( https://www.mathworks.com/help/images/ref/hypercube.html). Perform any necessary preprocessing steps such as noise reduction and [Atmospheric Correction](https://www.mathworks.com/help/images/hyperspectral-data-correction.html) to convert radiance to reflectance.
 3.	**CO2 Detection:** Implement algorithms to detect CO2 concentration from hyperspectral data. Use spectral indices or other relevant methods to quantify CO2 levels. Techniques for estimating CO2 emission from hyperspectral images include:
     - **Cluster-Tuned Matched Filter (CTMF)**
-      1.	Clustering: Perform [k-means clustering](https://www.mathworks.com/help/stats/kmeans.html) on the hyperspectral data to group pixels with similar spectral properties.
-      2.	Matched Filter Design: For each cluster, design a [matched filter](https://www.mathworks.com/help/phased/ug/matched-filtering.html) tuned to the specific spectral signature of CO2.
-      3	Filter Application: Apply the matched filters to the hyperspectral data to detect CO2 anomalies.
+      1.    Clustering: Perform [k-means clustering](https://www.mathworks.com/help/stats/kmeans.html) on the hyperspectral data to group pixels with similar spectral properties.
+      2.    Matched Filter Design: For each cluster, design a [matched filter](https://www.mathworks.com/help/phased/ug/matched-filtering.html) tuned to the specific spectral signature of CO2.
+      3.    Filter Application: Apply the matched filters to the hyperspectral data to detect CO2 anomalies.
     - **Joint Reflectance and Gas Estimator (JRGE)** 
-      1.  Initial Estimation: Use a [smoothing spline estimator](https://www.mathworks.com/help/curvefit/smoothing-splines.html) to obtain an initial estimate of surface reflectance.
-      2.	Gas Density Estimation: Estimate gas densities based on the initial reflectance estimate
-      3.	Iterative Refinement: Iteratively refine the estimates of reflectance and gas densities until convergence.
-    -  **Spectral Fitting Algorithm**
-        1.	Radiative Transfer Model: Simulate spectra using a radiative transfer model that includes CO2 absorption features.
-        2.	Spectral Matching: Match the observed spectra from the real data to the simulated spectra using [spectral matching](https://in.mathworks.com/help/images/ref/spectralmatch.html) techniques.
-        3.	CO2 Quantification: Quantify CO2 levels based on the best match between observed and simulated spectra.
-      -	**Continuum Interpolated Band Ratio (CIBR)**
-        1.  Absorption Feature Identification: Identify the specific absorption bands of CO2 in the hyperspectral data.
-        2.  Continuum Interpolation: Perform [continuum](https://in.mathworks.com/help/images/ref/removecontinuum.html) interpolation to estimate the depth of the CO2 absorption features.
-        3.  Band Ratio Calculation: Calculate the band ratio for the CO2 absorption features.
-        4.  CO2 Concentration Estimation: Estimate CO2 concentration based on the calculated band ratios. 
+      1.    Initial Estimation: Use a [smoothing spline estimator](https://www.mathworks.com/help/curvefit/smoothing-splines.html) to obtain an initial estimate of surface reflectance.
+      2.    Gas Density Estimation: Estimate gas densities based on the initial reflectance estimate
+      3.    Iterative Refinement: Iteratively refine the estimates of reflectance and gas densities until convergence.
+    - **Spectral Fitting Algorithm**
+      1.	Radiative Transfer Model: Simulate spectra using a radiative transfer model that includes CO2 absorption features.
+      2.	Spectral Matching: Match the observed spectra from the real data to the simulated spectra using [spectral matching](https://in.mathworks.com/help/images/ref/spectralmatch.html) techniques.
+      3.	CO2 Quantification: Quantify CO2 levels based on the best match between observed and simulated spectra.
+    - **Continuum Interpolated Band Ratio (CIBR)**
+      1.   Absorption Feature Identification: Identify the specific absorption bands of CO2 in the hyperspectral data.
+      2.   Continuum Interpolation: Perform [continuum](https://in.mathworks.com/help/images/ref/removecontinuum.html) interpolation to estimate the depth of the CO2 absorption features.
+      3.   Band Ratio Calculation: Calculate the band ratio for the CO2 absorption features.
+      4.   CO2 Concentration Estimation: Estimate CO2 concentration based on the calculated band ratios. 
 4.	**Result Analysis:** Analyze the final estimates to quantify CO2 concentrations and identify regions with elevated CO2 levels
 5.	**Visualization:** Visualize the detected CO2 concentration, including geospatial information, on a world map using the Mapping Toolbox (See this [example](https://www.mathworks.com/help/images/find-regions-multispectral-georeference.html)) .
 
