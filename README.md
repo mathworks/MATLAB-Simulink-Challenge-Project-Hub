@@ -58,7 +58,7 @@ If you are industry or faculty and interested in further information, to provide
         </td>
         <td valign="top" width="33%">
             <h3><i>Industry Collaboration </i>🏭🤝</h3>
-            <i>We invite industry partners to collaborate by either endorsing existing projects or proposing new ones that align with their interests and expertise. These challenges enable students to tackle <strong>real-world problems</strong> using MathWorks tools, offering companies the opportunity to engage with <strong>innovative student solutions</strong> and gain fresh insights. Additionally, this collaboration serves as a valuable opportunity for <strong>talent discovery</strong> and potential hiring. If your company is interested, we welcome you to join us. Contact us <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html">here</a>.</i>
+            <i>We invite industry partners to collaborate by either endorsing existing projects or proposing new ones that align with their interests and expertise. These challenges enable students to tackle <strong>real-world problems</strong> using MathWorks tools, offering companies the opportunity to engage with <strong>innovative student solutions</strong> and gain fresh insights. This collaboration offers valuable opportunities for <strong>talent discovery</strong> and potential hiring. If your company is interested, we welcome you to join us. Contact us <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html">here</a>.</i>
         </td>
     </tr>
 </table>
