@@ -43,12 +43,33 @@ If you are industry or faculty and interested in further information, to provide
 - [Sustainability and Renewable Energy*](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 - [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20Communication.md)
 
+<table>
+    <tr>
+        <td colspan="3"><h2><i>Announcements </i> 📢</h2></td>
+    </tr>
+    <tr>
+        <td valign="top" width="33%">
+            <h3><i>*Sustainability and Renewable Energy Challenge 2024 </i> 🌞</h3>
+            <i>After the success of our first edition, we announce the launch of the second MathWorks Sustainability and Renewable Energy Challenge! Submit <strong>innovative solutions</strong> to sustainability and renewable energy challenges. You can expand on previous submissions to create more impactful solutions. Ensure your work is sufficiently novel and highlight your contributions in the documentation. Participate for a chance to <strong> win up to $1000. </strong> Visit this <a href="https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html">page</a> for more details.</i>
+        </td>
+        <td valign="top" width="33%">
+            <h3><i>Host Your Own Custom Challenge! </i> 🎓</h3>
+            <i>We are excited to offer educators the opportunity to host a custom school or class-based challenge using our comprehensive project descriptions. Select a project or trend from our curated lists and <strong>tailor the challenge</strong> to fit your educational goals. Encourage <strong>practical application</strong> of knowledge with the incentive of a <strong>monetary prize</strong> for the best solutions. Contact us <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html">here</a> to organize your challenge and create a rewarding experience for your students.</i>
+        </td>
+        <td valign="top" width="33%">
+            <h3><i>Industry Collaboration </i>🏭🤝</h3>
+            <i>We invite industry partners to collaborate by either endorsing existing projects or proposing new ones that align with their interests and expertise. These challenges enable students to tackle <strong>real-world problems</strong> using MathWorks tools, offering companies the opportunity to engage with <strong>innovative student solutions</strong> and gain fresh insights. Additionally, this collaboration serves as a valuable opportunity for <strong>talent discovery</strong> and potential hiring. If your company is interested in this collaboration, we welcome you to join us. Contact us <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html">here</a>.</i>
+        </td>
+    </tr>
+</table>
+
+<!-- 
 ## **[*Sustainability and Renewable Energy Challenge 2024](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html)** :sun_with_face:
 
 _After the remarkable success of our inaugural edition, we are delighted to announce the launch of the second MathWorks Sustainability and Renewable Energy Challenge! We invite you to submit innovative solutions to environmental challenges related to sustainability and renewable energy.You are free to build upon previous submissions to enhance and expand them into even more impactful solutions. Just ensure you add enough personal contribution for your work to be considered novel, and clearly highlight your contributions in the documentation._
 
 _By participating, you have the opportunity to **win up to $1000**. Visit this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html)** to learn more about the challenge and how to participate._
-
+-->
 ## All projects :file_folder:
 *Updated: August 08, 2024*
 <table>
