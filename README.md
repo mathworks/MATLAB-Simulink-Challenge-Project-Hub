@@ -30,26 +30,13 @@ For more information about the program and <strong>how to submit your solution, 
 -->
 
 If you are industry or faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html)</strong>.
-
-## Projects by technology trends :file_cabinet:
-- [Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
-- [Autonomous Vehicles](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Autonomous%20Vehicles.md)
-- [Big Data](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Big%20Data.md)
-- [Computer Vision](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Computer%20Vision.md)
-- [Computational Finance](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Computational%20Finance.md)
-- [Drones](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Drones.md)
-- [Industry 4.0](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Industry%204.0.md)
-- [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
-- [Sustainability and Renewable Energy*](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
-- [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20Communication.md)
-
 <table>
     <tr>
         <td colspan="3"><h2>Announcements 📢</h2></td>
     </tr>
     <tr>
         <td valign="top" width="33%">
-            <h3>*Sustainability and Renewable Energy Challenge 2024 🌞</h3>
+            <h3>Sustainability and Renewable Energy Challenge 2024* 🌞</h3>
             <i>After the success of our first edition, we announce the launch of the second MathWorks Sustainability and Renewable Energy Challenge! Submit <strong>innovative solutions</strong> to sustainability and renewable energy challenges. You can expand on previous submissions to create more impactful solutions. Ensure your work is sufficiently novel and highlight your contributions in the documentation. Participate for a chance to <strong> win up to $1000. </strong> Visit this <a href="https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html">page</a> for more details.</i>
         </td>
         <td valign="top" width="33%">
@@ -62,6 +49,19 @@ If you are industry or faculty and interested in further information, to provide
         </td>
     </tr>
 </table>
+
+## Projects by technology trends :file_cabinet:
+- [Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
+- [Autonomous Vehicles](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Autonomous%20Vehicles.md)
+- [Big Data](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Big%20Data.md)
+- [Computer Vision](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Computer%20Vision.md)
+- [Computational Finance](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Computational%20Finance.md)
+- [Drones](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Drones.md)
+- [Industry 4.0](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Industry%204.0.md)
+- [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
+- [*Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
+- [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20Communication.md)
+
 
 <!-- 
 ## **[*Sustainability and Renewable Energy Challenge 2024](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html)** :sun_with_face:
