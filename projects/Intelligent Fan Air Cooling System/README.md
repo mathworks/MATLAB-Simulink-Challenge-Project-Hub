@@ -58,7 +58,7 @@ Prototype
 
 ## Background Material
 
--   [1] IEA (2018), [The Future of Cooling](https://www.iea.org/reports/the-future-of-cooling.), IEA, Paris 
+-   [1] IEA (2018), [The Future of Cooling](https://www.iea.org/reports/the-future-of-cooling), IEA, Paris 
 -   [2] Department of Energy, [Air Conditioning Overview](https://www.energy.gov/energysaver/home-cooling-systems/air-conditioning#:~:text=Three%2Dquarters%20of%20all%20homes,into%20the%20air%20each%20year.conditioning)
 -   [3] [Simulink thermal model of a house](https://www.mathworks.com/help/simulink/slref/thermal-model-of-a-house.html), Simulink Reference Manual
 -   [4] [Simscape House Heating System](https://www.mathworks.com/help/physmod/simscape/ug/house-heating-system.html), Simscape Reference Manual
