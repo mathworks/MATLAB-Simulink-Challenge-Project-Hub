@@ -37,15 +37,15 @@ If you are industry or faculty and interested in further information, to provide
     <tr>
         <td valign="top" width="33%">
             <h3>Sustainability and Renewable Energy Challenge 2024* 🌞</h3>
-            <i>After the success of our first edition, we announce the launch of the second MathWorks Sustainability and Renewable Energy Challenge! Submit <strong>innovative solutions</strong> to sustainability and renewable energy challenges. You can expand on previous submissions to create more impactful solutions. Ensure your work is sufficiently novel and highlight your contributions in the documentation. Participate for a chance to <strong> win up to $1000. </strong> Visit this <a href="https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html">page</a> for more details.</i>
+            More details here <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#sustainability-and-renewable-energy-challenge-2024-">here</a>
         </td>
         <td valign="top" width="33%">
             <h3>Host Your Own Custom Challenge! 🎓</h3>
-            <i>We are excited to offer educators the opportunity to host a custom school or class-based challenge using our comprehensive project descriptions. Select a project or trend from our curated lists and <strong>tailor the challenge</strong> to fit your educational goals. Encourage <strong>practical application</strong> of knowledge with the incentive of a <strong>monetary prize</strong> for the best solutions. Contact us <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html">here</a> to organize your challenge and create a rewarding experience for your students.</i>
+            More details here <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#host-your-own-custom-challenge-">here</a>
         </td>
         <td valign="top" width="33%">
             <h3>Industry Collaboration 🏭🤝</h3>
-            <i>We invite industry partners to collaborate by supporting existing projects or proposing new ones that align with their interests and expertise. These challenges enable students to tackle <strong>real-world problems</strong> using MathWorks tools, offering the chance to engage with <strong>innovative student solutions</strong> and gain fresh insights. This collaboration provides valuable opportunities for <strong>talent discovery</strong> and potential hiring. If your company is interested, we welcome you to join us. Contact us <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html">here</a>.</i>
+            More details here <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a>
         </td>
     </tr>
 </table>
