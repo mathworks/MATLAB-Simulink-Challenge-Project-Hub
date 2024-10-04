@@ -37,15 +37,15 @@ If you are industry or faculty and interested in further information, to provide
     <tr>
         <td valign="top" width="33%">
             <h3>Sustainability and Renewable Energy Challenge 2024* 🌞</h3>
-            More details here <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#sustainability-and-renewable-energy-challenge-2024-">here</a>
+            More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#sustainability-and-renewable-energy-challenge-2024-">here</a>
         </td>
         <td valign="top" width="33%">
             <h3>Host Your Own Custom Challenge! 🎓</h3>
-            More details here <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#host-your-own-custom-challenge-">here</a>
+            More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#host-your-own-custom-challenge-">here</a>
         </td>
         <td valign="top" width="33%">
             <h3>Industry Collaboration 🏭🤝</h3>
-            More details here <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a>
+            More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a>
         </td>
     </tr>
 </table>
