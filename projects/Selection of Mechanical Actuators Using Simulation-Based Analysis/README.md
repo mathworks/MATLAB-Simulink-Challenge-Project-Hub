@@ -1,8 +1,8 @@
-<img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/86fc1b776d9952d9402cb3cbcd9ade5bf95d1e82/t-shirt.jpg" width="60">
+<!-- <img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/86fc1b776d9952d9402cb3cbcd9ade5bf95d1e82/t-shirt.jpg" width="60">
 
 ### Be the first to sign up for this project and receive a MathWorks T-shirt!
 <br>
-
+-->
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Selection%20of%20Mechanical%20Actuators%20Using%20Simulation-Based%20Analysis&tfa_2=148)</strong> to **register** your intent to complete this project.s
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Selection%20of%20Mechanical%20Actuators%20Using%20Simulation-Based%20Analysis&tfa_2=148)</strong> to **submit** your solution to this project and qualify for the rewards.
