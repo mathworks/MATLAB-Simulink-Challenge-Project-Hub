@@ -1,6 +1,6 @@
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks&tfa_2=252)</strong> to <strong>register</strong> your intent to complete this project.
 
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks&tfa_2=252)<strong/>to <strong>submit</strong> your solution to this project and qualify for the rewards.
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks&tfa_2=252)</strong> to <strong>submit</strong> your solution to this project and qualify for the rewards.
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cfd.jpg"  width=500 /></td>
@@ -17,20 +17,18 @@ Traditional computational fluid dynamics (CFD) methods, though accurate, often r
 
 Suggested Steps
 1.	Data Collection and Preprocessing:
-•	Gather data for training and validation. Consider using publicly available datasets, such as the ones from [Kaggle](https://www.kaggle.com/datasets/ryleymcconkey/ml-turbulence-dataset/versions/3), [Johns Hopkins Turbulence Databases](https://turbulence.pha.jhu.edu/), [Stanford](https://hai.stanford.edu/news/blastnet-first-large-machine-learning-dataset-fundamental-fluid-dynamics), [DeepCFD](https://github.com/mdribeiro/DeepCFD) etc.
-•	Identify the boundary conditions and parameters relevant to the scenario specified by the chosen dataset.
-•	Preprocess the data using MATLAB to ensure it is suitable for neural network training, utilizing functions for normalization and data cleaning.
+    - Gather data for training and validation. Consider using publicly available datasets, such as the ones from [Kaggle](https://www.kaggle.com/datasets/ryleymcconkey/ml-turbulence-dataset/versions/3), [Johns Hopkins Turbulence Databases](https://turbulence.pha.jhu.edu/), [Stanford](https://hai.stanford.edu/news/blastnet-first-large-machine-learning-dataset-fundamental-fluid-dynamics), [DeepCFD](https://github.com/mdribeiro/DeepCFD) etc.
+    -	Identify the boundary conditions and parameters relevant to the scenario specified by the chosen dataset.
+    -	Preprocess the data using MATLAB to ensure it is suitable for neural network training, utilizing functions for normalization and data cleaning.
 2.	Model Development:
-•	Design a neural network architecture suitable for integrating physical laws using Deep Learning ToolboxTM. Consider a Multilayer Perceptron (MLP)  architecture  with a custom loss function that includes the residuals of the Navier-Stokes equations.
-
-•	Embed the PDEs, such as the Navier-Stokes equations, into the loss function by calculating the residuals of the PDEs at collocation points (points in the domain where the equations are evaluated). The loss function typically includes terms that penalize deviations from the PDE residuals, as well as terms for boundary and initial conditions.
+    -	Design a neural network architecture suitable for integrating physical laws using Deep Learning ToolboxTM. Consider a Multilayer Perceptron (MLP)  architecture  with a custom loss function that includes the residuals of the Navier-Stokes equations.
+    -	Embed the PDEs, such as the Navier-Stokes equations, into the loss function by calculating the residuals of the PDEs at collocation points (points in the domain where the equations are evaluated). The loss function typically includes terms that penalize deviations from the PDE residuals, as well as terms for boundary and initial conditions.
 3.	Training and Validation:
-•	Train the PINN model using the (collected) data, optimizing for accuracy and computational efficiency. Use the Deep Learning Toolbox for training the neural network in a training loop utilizing functions like adamupdate or lbfgsupdate, and computing and visualizing validation errors.
-•	Validate the model's performance against known solutions or experimental data, using MATLAB to compare results and visualize errors.
+    - Train the PINN model using the (collected) data, optimizing for accuracy and computational efficiency. Use the Deep Learning Toolbox for training the neural network in a training loop utilizing functions like adamupdate or lbfgsupdate, and computing and visualizing validation errors.
+    - Validate the model's performance against known solutions or experimental data, using MATLAB to compare results and visualize errors.
 4.	Analysis and Interpretation:
-•	Analyze the results to assess the model's accuracy and reliability. Use MATLAB's plotting functions to visualize flow fields and compare them with traditional CFD results.
-•	Compare the performance of the PINN model with traditional CFD methods, discussing computational efficiency and accuracy.
-
+    -	Analyze the results to assess the model's accuracy and reliability. Use MATLAB's plotting functions to visualize flow fields and compare them with traditional CFD results.
+    -	Compare the performance of the PINN model with traditional CFD methods, discussing computational efficiency and accuracy.
 
 Advanced project work:
 - Extend this to an inverse problem with unknown parameter, e.g. viscosity (would require them to gather the data as well)
