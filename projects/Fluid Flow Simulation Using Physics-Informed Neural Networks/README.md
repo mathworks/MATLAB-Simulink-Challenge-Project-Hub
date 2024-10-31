@@ -45,6 +45,12 @@ Advanced project work:
 -	[Solve PDE Using Physics-Informed Neural Network](https://www.mathworks.com/help/deeplearning/ug/solve-partial-differential-equations-with-lbfgs-method-and-deep-learning.html)
 -	[Solve Poisson Equation on Unit Disk Using Physics-Informed Neural Networks](https://www.mathworks.com/help/pde/ug/solve-poisson-equation-on-unit-disk-using-pinn.html)
 
+Suggested readings:
+
+[1] Wang, Sifan et al. “An Expert's Guide to Training Physics-informed Neural Networks.” ArXiv abs/2308.08468 (2023). [[pdf]]( https://arxiv.org/pdf/2308.08468).
+
+[2] Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations." Journal of Computational Physics 378 (2019): 686-707.
+
 
 ## Impact
 
