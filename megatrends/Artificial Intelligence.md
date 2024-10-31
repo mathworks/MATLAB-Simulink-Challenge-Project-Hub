@@ -6,7 +6,6 @@
 <p>Develop a Physics Informed Neural Network (PINN) for fluid flow simulation. </p>
 <p><strong>Impact</strong>: Transform fluid dynamics with neural networks driving impactful innovations across industries.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Modeling and Simulation, Neural Networks</p></td>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks&tfa_2=252"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks&tfa_2=252"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
 </td>
 </tbody>
 <tbody>
