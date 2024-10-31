@@ -31,7 +31,7 @@ Suggested Steps
     -	Compare the performance of the PINN model with traditional CFD methods, discussing computational efficiency and accuracy.
 
 Advanced project work:
-- Extend this to an inverse problem with unknown parameter, e.g. viscosity (would require them to gather the data as well)
+- Extend this to an inverse problem with unknown parameter, e.g. viscosity.
 - Improve PINN training, using novel techniques such as the ones described in [1]. 
 
 
