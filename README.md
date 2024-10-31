@@ -31,15 +31,6 @@ For more information about the program and <strong>how to submit your solution, 
 
 If you are industry or faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html)</strong>.
 <table>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cfd.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks">Fluid Flow Simulation Using Physics-Informed Neural Networks</a></h2></p>
-<p>Develop a Physics Informed Neural Network (PINN) for fluid flow simulation. </p>
-<p><strong>Impact</strong>: Transform fluid dynamics with neural networks driving impactful innovations across industries.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Modeling and Simulation, Neural Networks</p></td>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks&tfa_2=252"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks&tfa_2=252"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
-</td>
-</tbody>
     <tr>
         <td colspan="3"><h2>Announcements 📢</h2></td>
     </tr>
@@ -87,7 +78,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks">Fluid Flow Simulation Using Physics-Informed Neural Networks</a></h2></p>
 <p>Develop a Physics Informed Neural Network (PINN) for fluid flow simulation. </p>
 <p><strong>Impact</strong>: Transform fluid dynamics with neural networks driving impactful innovations across industries.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Modeling and Simulation, Neural Networks</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Modeling and Simulation, Neural Networks</p>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks&tfa_2=252"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks&tfa_2=252"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
 </td>
 </tbody>
