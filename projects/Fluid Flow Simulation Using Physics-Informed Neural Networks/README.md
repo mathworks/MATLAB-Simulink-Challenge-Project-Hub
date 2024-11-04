@@ -19,12 +19,12 @@ Suggested Steps
 1.	Data Collection and Preprocessing:
     - Gather data for training and validation. Consider using publicly available datasets, such as the ones from [Kaggle](https://www.kaggle.com/datasets/ryleymcconkey/ml-turbulence-dataset/versions/3), [Johns Hopkins Turbulence Databases](https://turbulence.pha.jhu.edu/), [Stanford](https://hai.stanford.edu/news/blastnet-first-large-machine-learning-dataset-fundamental-fluid-dynamics), [DeepCFD](https://github.com/mdribeiro/DeepCFD) etc.
     -	Identify the boundary conditions and parameters relevant to the scenario specified by the chosen dataset.
-    -	Preprocess the data using MATLAB to ensure it is suitable for neural network training, utilizing functions for normalization and data cleaning.
+    -	Preprocess the data using MATLAB® to ensure it is suitable for neural network training, utilizing functions for normalization and data cleaning.
 2.	Model Development:
-    -	Design a neural network architecture suitable for integrating physical laws using Deep Learning Toolbox. Consider a Multilayer Perceptron (MLP)  architecture  with a custom loss function that includes the residuals of the Navier-Stokes equations.
+    -	Design a neural network architecture suitable for integrating physical laws using [Deep Learning Toolbox™](https://www.mathworks.com/products/deep-learning.html). Consider a Multilayer Perceptron (MLP)  architecture  with a custom loss function that includes the residuals of the Navier-Stokes equations.
     -	Embed the PDEs, such as the Navier-Stokes equations, into the loss function by calculating the residuals of the PDEs at collocation points (points in the domain where the equations are evaluated). The loss function typically includes terms that penalize deviations from the PDE residuals, as well as terms for boundary and initial conditions.
 3.	Training and Validation:
-    - Train the PINN model using the (collected) data, optimizing for accuracy and computational efficiency. Use the Deep Learning Toolbox for training the neural network in a training loop utilizing functions like adamupdate or lbfgsupdate, and computing and visualizing validation errors.
+    - Train the PINN model using the collected data, optimizing for accuracy and computational efficiency. Use the Deep Learning Toolbox for training the neural network in a training loop utilizing functions like [adamupdate](https://www.mathworks.com/help/deeplearning/ref/adamupdate.html) or [lbfgsupdate](https://www.mathworks.com/help/deeplearning/ref/lbfgsupdate.html), and computing and visualizing validation errors.
     - Validate the model's performance against known solutions or experimental data, using MATLAB to compare results and visualize errors.
 4.	Analysis and Interpretation:
     -	Analyze the results to assess the model's accuracy and reliability. Use MATLAB's plotting functions to visualize flow fields and compare them with traditional CFD results.
