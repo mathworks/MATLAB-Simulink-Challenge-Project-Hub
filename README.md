@@ -32,6 +32,15 @@ For more information about the program and <strong>how to submit your solution, 
 If you are industry or faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html)</strong>.
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/faultAnalysis.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis">Fault Detection for Electric Motors Using Vibration Analysis</a></h2></p>
+<p>Develop a Fault detection system for electric motors from vibration data using Model-Based design. </p>
+<p><strong>Impact</strong>: Enhance motor reliability and reduce downtime through advanced fault detection.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Big Data, Embedded AI, Machine Learning, Modeling and Simulation, Predictive Maintenance, Health Monitoring, Low-cost Hardware</p>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
+</td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cfd.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks">Fluid Flow Simulation Using Physics-Informed Neural Networks</a></h2></p>
 <p>Develop a Physics Informed Neural Network (PINN) for fluid flow simulation. </p>
@@ -82,6 +91,15 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 ## All projects :file_folder:
 *Updated: August 08, 2024*
 <table>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/faultAnalysis.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis">Fault Detection for Electric Motors Using Vibration Analysis</a></h2></p>
+<p>Develop a Fault detection system for electric motors from vibration data using Model-Based design. </p>
+<p><strong>Impact</strong>: Enhance motor reliability and reduce downtime through advanced fault detection.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Big Data, Embedded AI, Machine Learning, Modeling and Simulation, Predictive Maintenance, Health Monitoring, Low-cost Hardware</p>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
+</td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cfd.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks">Fluid Flow Simulation Using Physics-Informed Neural Networks</a></h2></p>
