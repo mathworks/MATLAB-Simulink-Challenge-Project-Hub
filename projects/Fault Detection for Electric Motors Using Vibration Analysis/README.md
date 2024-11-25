@@ -1,6 +1,6 @@
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253)</strong> to <strong>register</strong> your intent to complete this project.
 
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253)<strong/>to <strong>submit</strong> your solution to this project and qualify for the rewards.
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253)</strong> to <strong>submit</strong> your solution to this project and qualify for the rewards.
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/faultAnalysis.jpg"  width=500 /></td>
@@ -18,29 +18,34 @@ Motors are ubiquitous in industrial applications and are essential for various p
 
 Employ a model-based design approach to develop a robust fault detection system for electric motors. By focusing on vibration data, the project aims to identify early signs of motor faults, thereby enhancing maintenance strategies and minimizing unexpected downtime.
 
-Suggested Steps
-1.	Data Collection and Preprocessing:
--	Use a Simulink model of the electric motor to generate synthetic vibration data. This model allows for the simulation of various operating conditions and fault scenarios, providing a comprehensive dataset for analysis. Collect real-word vibration data from a sensor attached to an electric mode if available, to complement the synthetic dataset. 
+**Suggested Steps**
+
+1.	**Data Collection and Preprocessing:**
+    -  Use a Simulink model of the electric motor to generate synthetic vibration data. This model allows for the simulation of various operating conditions and fault scenarios, providing a comprehensive dataset for analysis. Collect real-word vibration data from a sensor attached to an electric mode if available, to complement the synthetic dataset. 
 Choose an electric motor that is readily available or commonly found in household appliances, such as [DC motors](https://www.mathworks.com/help/sps/ref/dcmotor.html), [BLDC motors](https://www.mathworks.com/help/sps/ref/bldc.html), [Universal motors](https://www.mathworks.com/help/sps/ref/universalmotor.html).
 Consider faults arising from external components or events, such as open or short circuits, and mechanical issues. Some fault scenarios to consider in your simulation model may include:
--	Bearing Faults: Simulate bearing defects by introducing variations in the bearing stiffness or adding artificial noise to the vibration signal corresponding to bearing frequencies. You can adopt the [Bearing](https://www.mathworks.com/help/sdl/ref/bearing.html) block, which has built-in fault options. A
+        -  Bearing Faults: Simulate bearing defects by introducing variations in the bearing stiffness or adding artificial noise to the vibration signal corresponding to bearing frequencies. You can adopt the [Bearing](https://www.mathworks.com/help/sdl/ref/bearing.html) block, which has built-in fault options. A
 [Variable Rotational Damper](https://www.mathworks.com/help/sdl/ref/variablerotationaldamper.html)  can also be adopted to simulate rotational friction degradation.
--	Rotor Imbalance: Model rotor imbalance by altering the mass distribution of the rotor, which can be simulated by adding an unbalanced mass or modifying the rotor inertia.
--	Shaft Misalignment: Introduce shaft misalignment by adjusting the angular displacement between the motor shaft and the load shaft within the Simulink model.
+        -  Rotor Imbalance: Model rotor imbalance by altering the mass distribution of the rotor, which can be simulated by adding an unbalanced mass or modifying the rotor inertia.
+        -  Shaft Misalignment: Introduce shaft misalignment by adjusting the angular displacement between the motor shaft and the load shaft within the Simulink model.
 For this and the fault above a [Flexible Shaft] block can be used. 
--	Electrical Faults: Simulate [electrical faults](https://www.mathworks.com/help/sps/ref/fault.html) such as open or short circuits.
--	Use an [accelerometer sensor block](https://www.mathworks.com/help/sps/ref/accelerometer.html) or other [mechanical sensors](https://www.mathworks.com/help/simscape/mechanical-sensors.html) to capture vibration data along the three axes.
--	Preprocess the data to ensure quality and consistency, including filtering noise, handling missing values, and normalizing the data if necessary.
-2.	Feature Extraction and Condition Monitoring:
--	Extract significant features, using the [Predictive Maintenance Toolbox](https://www.mathworks.com/help/predmaint/rotating-machinery.html)
-3.	Fault Detection Model Development:
--	Develop a fault detection model using the extracted features and the Statistics and Machine Learning Toolbox or the Deep Learning Toolbox. This model aims to classify the motor's condition as normal or faulty based on vibration patterns.
--	Train the model using the collected datasets, which include examples of both normal operation and various fault conditions. Validate the model to ensure high accuracy in detecting faults.
-4.	Simulation and Validation:
--	Utilize the Simulink model to test the fault detection model in a simulated environment. This allows for extensive testing under diverse operational scenarios and fault conditions before hardware deployment. Validate the model using a separate test dataset to confirm its robustness and reliability in identifying faults.
-5.	Deployment and Real-Time Monitoring:
--	Deploy the validated fault detection model on an STM32 NUCLEO-H743ZI2 microcontroller board using the (Simulink Coder Support Package for STMicroelectronics Nucleo Boards)[https://www.mathworks.com/help/rtw/nucleo-spkg.html]. This deployment enables the model to operate in real-time, continuously analyzing vibration data from the motor.
--	Consider using the [LIS3DH Accelerometer Se
+        -  Electrical Faults: Simulate [electrical faults](https://www.mathworks.com/help/sps/ref/fault.html) such as open or short circuits.
+    -  Use an [accelerometer sensor block](https://www.mathworks.com/help/sps/ref/accelerometer.html) or other [mechanical sensors](https://www.mathworks.com/help/simscape/mechanical-sensors.html) to capture vibration data along the three axes.
+    -  Preprocess the data to ensure quality and consistency, including filtering noise, handling missing values, and normalizing the data if necessary.
+2.	**Feature Extraction and Condition Monitoring:**
+    -	Extract significant features, using the [Predictive Maintenance Toolbox™](https://www.mathworks.com/help/predmaint/rotating-machinery.html)
+3.	**Fault Detection Model Development:**
+    -	Develop a fault detection model using the extracted features and the [Statistics and Machine Learning Toolbox™](https://www.mathworks.com/products/statistics.html) or the [Deep Learning Toolbox™](https://www.mathworks.com/products/deep-learning.html). This model aims to classify the motor's condition as normal or faulty based on vibration patterns.
+    -	Train the model using the collected datasets, which include examples of both normal operation and various fault conditions. Validate the model to ensure high accuracy in detecting faults.
+4.	**Simulation and Validation:**
+    -	Utilize the Simulink model to test the fault detection model in a simulated environment. This allows for extensive testing under diverse operational scenarios and fault conditions before hardware deployment. Validate the model using a separate test dataset to confirm its robustness and reliability in identifying faults.
+5.	**Deployment and Real-Time Monitoring:**
+    -	Deploy the validated fault detection model on an STM32 NUCLEO-H743ZI2 microcontroller board using the [Simulink Coder Support Package for STMicroelectronics Nucleo Boards](https://www.mathworks.com/help/rtw/nucleo-spkg.html). This deployment enables the model to operate in real-time, continuously analyzing vibration data from the motor.
+    -	Consider using the [LIS3DH Accelerometer Sensor](https://www.mathworks.com/help/rtw/nucleo/ref/lis3dhaccelerometersensor.html) for real time fault detection model testing before deployment and for easy integration with the STM board.
+    -	Implement a real-time monitoring system that uses the deployed model to detect faults as they occur. 
+      -	Carefully position the accelerometer sensor to capture vibration data that closely matches the patterns observed in the simulated data used for training. This involves placing the sensor in a location that accurately reflects the motor's operational vibrations and potential faults.
+    -	Connect the accelerometer sensor to the microcontroller to facilitate data reading. Ensure the communication protocol (I2C or SPI) is correctly configured, and the microcontroller can efficiently acquire and process the sensor data for the embedded detection mode.
+    - Create a notification system that alerts users when a fault is detected. This could involve visual indicators (LEDs), audible alarms (buzzers), or digital notifications (emails, SMS, or app alerts). Ensure the system is reliable and provides timely alerts to facilitate quick responses to detected faults.
 
 ## Background Material
 
