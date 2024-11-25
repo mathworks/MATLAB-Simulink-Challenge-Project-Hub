@@ -8,6 +8,12 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 <p>Develop a Fault detection system for electric motors from vibration data using Model-Based design. </p>
 </table>
 
+**_Industry Partner_:**<br>
+<a href="https://www.st.com/" target="_blank">
+<img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ST_logo_2024_blue.png"  width=150>
+<br><br><br><br>
+</a>
+
 ## Motivation
 
 In today's industrial landscape, predictive maintenance has become a critical component for enhancing operational efficiency and reducing costs. Traditional maintenance strategies, such as reactive and preventive maintenance, often lead to unplanned downtime and excessive maintenance costs. Predictive maintenance, on the other hand, leverages data-driven insights to anticipate equipment failures before they occur, allowing for timely interventions.
