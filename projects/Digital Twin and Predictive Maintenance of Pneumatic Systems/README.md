@@ -22,11 +22,10 @@ Suggested Steps:
 2. Develop a [Multiphysics model of a commonly used pneumatic system in any application setting, using Simscape™](https://www.mathworks.com/help/predmaint/ug/generate-and-use-simulated-data-ensemble.html)   including different mechanical, thermal, and electrical components. The model should be detailed enough to be able to incorporate commonly occurring faulty behaviors under different environmental conditions. 
 3. Generate synthetic sensor data from the model representing different system behaviors showing the normal operation, continuous degradation, and faulty operation, based on the literature survey. Parallelize the simulations using [Parallel Computing Toolbox™](https://www.mathworks.com/products/parallel-computing.html). 
 4. Develop predictive models using Statistics and Machine Learning Toolbox™ and Predictive Maintenance Toolbox™, from the synthetic data to:
-            a.	Find anomalous behavior by applying different unsupervised machine learning techniques and compare 
-                the results.  
-            b.	Classify faults with supervised machine learning techniques
-            c.	Estimate remaining useful life before failure occurs.  
-5. Reflect upon the effectiveness and limitations of the proposed methodology. Also, comment on the utility of Simulation Methods and Digital Twins in Predictive Maintenance Applications.  
+    - Find anomalous behavior by applying different unsupervised machine learning techniques and compare the results.
+    - Classify faults with supervised machine learning techniques.
+    - Estimate remaining useful life before failure occurs.  
+6. Reflect upon the effectiveness and limitations of the proposed methodology. Also, comment on the utility of Simulation Methods and Digital Twins in Predictive Maintenance Applications.  
 
 Project variations:
 
@@ -36,10 +35,9 @@ Create a Digital Twin by tuning the simulation model parameters based on real da
 Advanced project work: 
 1. Find or measure real data to apply the predictive models and evaluate the results. You may refer to the dataset on [Air pressure system failures in Scania trucks](https://www.kaggle.com/uciml/aps-failure-at-scania-trucks-data-set). 
 2. Prototype Operations Optimization in real time, by deploying the Predictive Maintenance algorithm and Simscape model on cyber-physical embedded devices and cloud services, using Industrial IoT workflow concepts. Use the following pointers for inspiration: 
-     a. Generation of raw sensor signals: Use a real machine or, run the Simscape Model in real time on Speedgoat computer or Raspberry Pi to generate sensor data and send it to Raspberry Pi ‘Edge device’ 
-     b. Feature Extraction on Edge device: Perform feature extraction from sensor data on the Raspberry Pi ‘Edge device’ and stream the feature data to Thingspeak Cloud based service
-      c. Predictive Models running on cloud: Run your predictive models on Thingspeak to make predictions in real- 
-         time about anomalous behavior, fault-type and remaining useful life.     
+     - Generation of raw sensor signals: Use a real machine or, run the Simscape Model in real time on Speedgoat computer or Raspberry Pi to generate sensor data and send it to Raspberry Pi ‘Edge device’ 
+     - Feature Extraction on Edge device: Perform feature extraction from sensor data on the Raspberry Pi ‘Edge device’ and stream the feature data to Thingspeak Cloud based service
+     - Predictive Models running on cloud: Run your predictive models on Thingspeak to make predictions in real-time about anomalous behavior, fault-type and remaining useful life.     
 
 
 ## Background Material
