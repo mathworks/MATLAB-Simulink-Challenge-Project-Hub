@@ -9,9 +9,9 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 </table>
 
 **_Industry Partner_:**<br>
-<a href="https://www.st.com/" target="_blank">
-<img align="left" src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ST_logo_2024_blue.png"  width=150>
-<br><br><br><br>
+<a href="https://www.st.com/" target="_blank" style="display: inline-block; text-align: center;">
+    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ST_logo_2024_blue.png" width="150" style="display: block; margin: 0 auto;"><br>
+    <span style="display: block; margin-top: 10px;">STMicroelectronics</span>
 </a>
 
 ## Motivation
