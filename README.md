@@ -12,8 +12,9 @@ Are you looking for a design or research project idea with real industry relevan
 Explore this list of challenge projects to learn about technology trends, gain practical skills with MATLAB and Simulink, and make a contribution to science and engineering. 
 Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks and rewards upon project completion! 
 
-If you are new to MATLAB and Simulink or want to learn more, discover [this comprehensive repository of resources for students](https://github.com/mathworks/awesome-matlab-students) 📚
+📚 If you are new to MATLAB and Simulink or want to learn more, discover [this comprehensive repository of resources for students](https://github.com/mathworks/awesome-matlab-students) 
 
+🏆 Explore exciting opportunities to test your skills and win prizes by participating in regular [contests](https://www.mathworks.com/matlabcentral/contests.html) hosted by the MATLAB Central community
 
 ## How to participate :point_down:
 Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects by completing the project sign-up form accessible from the project’s description page and we will send you more information about the project and recognition awards.
