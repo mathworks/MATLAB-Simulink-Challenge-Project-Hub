@@ -77,6 +77,7 @@ Reading materials:
 Improve hearing aid simulation and create a testbed for new audio processing algorithm prototyping. 
 
 ## Expertise Gained 
+xcvgergjrgkh
 
 Signal Processing, Audio, Modeling and Simulation
 
