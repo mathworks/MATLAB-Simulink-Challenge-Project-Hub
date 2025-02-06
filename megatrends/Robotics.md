@@ -61,7 +61,7 @@
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Detection%20and%20Human%20Tracking%20Robot">Face Detection and Human Tracking Robot</a></h2></p>
 <p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>
 <p><strong>Impact</strong>: Leverage mobile technology and deep learning to advance human detection algorithms for impacting human safety and security.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p></td>
+<p><strong>Expertise gained</strong>: Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png"  width=500 /></td>
@@ -117,7 +117,7 @@
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot">Voice Controlled Robot</a></h2></p>
 <p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
 <p><strong>Impact</strong>: Open up the opportunities to create robots that can be an intuitive part of our world. </p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p></td>
+<p><strong>Expertise gained</strong>: Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/quadruped.png"  width=500 /></td>
