@@ -74,13 +74,6 @@
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Autonomous Vehicles, Deep Learning, Machine Learning, Neural Networks, Reinforcement Learning, Sensor Fusion and Tracking</p></td>
 </tbody>
 <tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Smart%20Watering%20System%20with%20Internet%20of%20Things">Smart Watering System with Internet of Things</a></h2></p>
-<p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware </p>
-<p><strong>Impact</strong>: Minimize the negative effects of the overuse of water in farming and preserve water resources. </p>
-<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Artificial Intelligence, IoT, Low-Cost Hardware, Deep Learning, Cloud Computing</p></td>
-</tbody>
-<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pmsm.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Machine%20Learning%20for%20Motor%20Control">Machine Learning for Motor Control</a></h2></p>
 <p>Enhance the performance and product quality required to develop a motor control application.</p>
@@ -93,13 +86,6 @@
 <p>Predict faults in pneumatic systems using simulation and AI/machine learning.</p>
 <p><strong>Impact</strong>: Improve efficiency and reliability of industrial processes.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Industry 4.0, Cyber-Physical Systems, Digital Twins, Embedded AI, Health Monitoring, IoT, Machine Learning, Modeling and Simulation</p></td>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Detection%20and%20Human%20Tracking%20Robot">Face Detection and Human Tracking Robot</a></h2></p>
-<p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>
-<p><strong>Impact</strong>: Leverage mobile technology and deep learning to advance human detection algorithms for impacting human safety and security.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/treadmill.jpg"  width=500 /></td>
@@ -163,13 +149,6 @@
 <p>Realistic synthetic sensor data will soon eliminate the need of collecting tons of real data for machine learning based perception algorithms. Accelerate this transition by creating a real-time camera distortion model.</p>
 <p><strong>Impact</strong>: Reduce development efforts of autonomous vehicles and robots.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Autonomous Vehicles, Computer Vision, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks</p></td>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/raspbpi.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot">Voice Controlled Robot</a></h2></p>
-<p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
-<p><strong>Impact</strong>: Open up the opportunities to create robots that can be an intuitive part of our world. </p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/AUV.png"  width=500 /></td>
