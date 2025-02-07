@@ -6,7 +6,6 @@
 <p>Develop a Fault detection system for electric motors from vibration data using Model-Based design. </p>
 <p><strong>Impact</strong>: Enhance motor reliability and reduce downtime through advanced fault detection.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Big Data, Embedded AI, Machine Learning, Modeling and Simulation, Predictive Maintenance, Health Monitoring, Low-cost Hardware</p>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
 </td>
 </tbody>
 <tbody>
