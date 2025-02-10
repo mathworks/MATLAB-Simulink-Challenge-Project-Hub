@@ -21,7 +21,7 @@ The model should be detailed enough to capture important dynamics. Dynamic loads
 
 Suggested steps:
 1.	Perform a literature search to understand EV cooling systems, battery management, and drive cycles.
-2.	Study a [dynamic EV cooling model](https://www.mathworks.com/help/physmod/hydro/ug/sscfluids_ev_battery_cooling.html)
+2.	Study a [dynamic EV cooling model](https://www.mathworks.com/help/hydro/ug/ev-battery-cooling.html)
 3.	Model different loads that the battery can experience such as fast charging and rapid acceleration.
 4.	Create a baseline by implementing a simple controller.
 5.	Create a predictive controller using information such as incoming charge, throttle position, and location.
@@ -35,6 +35,7 @@ Extend the work to predict battery range and life expectancy improvement with th
 ## Background Material
 
 - [Simscape Fluids Documentation](https://www.mathworks.com/help/physmod/hydro/index.html).
+- [EV Battery Cooling System Design](https://www.mathworks.com/help/hydro/ug/EVBatteryCoolingSystemDesign.html)
 - T. Huria, M. Ceraolo, J. Gazzarri,R. Jackey. "High Fidelity Electrical Model with Thermal Dependence for Characterization and Simulation of High Power Lithium Battery Cells," IEEE International Electric Vehicle Conference, March 2012
 
 
