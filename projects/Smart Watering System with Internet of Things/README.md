@@ -27,7 +27,7 @@ Suggested steps:
 3.	Access and Analyze this data using ThingSpeak, see some [Examples](https://www.mathworks.com/help/thingspeak/examples.html). E.g., Estimate [Evapotranspiration](http://www.fao.org/3/X0490E/x0490e0a.htm) of the field based on the input data
 4.	Gather other relevant information like weather forecast data or crop parameters
 5.	Determine a watering strategy based on the crop type and the data you have gathered. For example, identify how your measurements and data could help develop a predictive model in MATLAB® to determine when the crop needs to be watered
-6.	Send an action based on the analysis. This action could be as simple as a notification (tweet, e-mail) to water the plants or actuate a watering system at the plant.
+6.	Send an action based on the analysis. This action could be as simple as an [e-mail notification](https://www.mathworks.com/help/thingspeak/act-on-your-data.html) to water the plants or actuate a watering system at the plant.
 
 Here are the various phases of the project:
 -	Develop the requirements
