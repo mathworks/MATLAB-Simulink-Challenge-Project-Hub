@@ -34,18 +34,22 @@ If you are industry or faculty and interested in further information, to provide
 
 <table>
     <tr>
-        <td colspan="3"><h2>Announcements 📢</h2></td>
+        <td colspan="4"><h2>Announcements 📢</h2></td>
     </tr>
     <tr>
-        <td valign="top" width="33%">
+        <td valign="top" width="25%">
             <h3>Sustainability and Renewable Energy Challenge 2024* 🌞</h3>
-            More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#sustainability-and-renewable-energy-challenge-2024-">here</a>
+            Winners announced <a href ="https://www.mathworks.com/academia/students/competitions/student-challenge/sustainability-and-renewable-energy-challenge/2024-winners.html">here</a>
         </td>
-        <td valign="top" width="33%">
+         <td valign="top" width="25%">
+            <h3>New - AI Challenge** 🌞</h3>
+            More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a>
+        </td>
+        <td valign="top" width="25%">
             <h3>Host Your Own Custom Challenge! 🎓</h3>
             More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#host-your-own-custom-challenge-">here</a>
         </td>
-        <td valign="top" width="33%">
+        <td valign="top" width="25%">
             <h3>Industry Collaboration 🏭🤝</h3>
             More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a>
         </td>
@@ -53,7 +57,7 @@ If you are industry or faculty and interested in further information, to provide
 </table>
 
 ## Projects by technology trends :file_cabinet:
-- [Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
+- [**Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
 - [Autonomous Vehicles](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Autonomous%20Vehicles.md)
 - [Big Data](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Big%20Data.md)
 - [Computer Vision](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Computer%20Vision.md)
