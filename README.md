@@ -42,7 +42,7 @@ If you are industry or faculty and interested in further information, to provide
             Winners announced <a href ="https://www.mathworks.com/academia/students/competitions/student-challenge/sustainability-and-renewable-energy-challenge/2024-winners.html">here</a>
         </td>
          <td valign="top" width="25%">
-            <h3>AI Challenge** 🌞</h3>
+            <h3>AI Challenge** 🧠</h3>
             More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a>
         </td>
         <td valign="top" width="25%">
