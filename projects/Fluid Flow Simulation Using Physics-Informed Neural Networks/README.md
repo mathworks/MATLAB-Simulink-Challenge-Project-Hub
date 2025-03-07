@@ -15,7 +15,8 @@ Traditional computational fluid dynamics (CFD) methods, though accurate, often r
 
 ## Project Description
 This project aims to develop a PINN model to simulate fluid flow in simple geometries, such as pipes or channels. The project will involve creating a neural network that incorporates the Navier-Stokes equations, which govern fluid flow. The model will be trained and validated using available data or simplified scenarios. 
-Suggested Steps
+
+Suggested Steps:
 1.	Data Collection and Preprocessing:
     - Gather data for training and validation. Consider using publicly available datasets, such as the ones from [Kaggle](https://www.kaggle.com/datasets/ryleymcconkey/ml-turbulence-dataset/versions/3), [Johns Hopkins Turbulence Databases](https://turbulence.pha.jhu.edu/), [Stanford](https://hai.stanford.edu/news/blastnet-first-large-machine-learning-dataset-fundamental-fluid-dynamics), [DeepCFD](https://github.com/mdribeiro/DeepCFD) etc.
     -	Identify the boundary conditions and parameters relevant to the scenario specified by the chosen dataset.
