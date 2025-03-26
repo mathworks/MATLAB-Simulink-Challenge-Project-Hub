@@ -20,12 +20,13 @@ Work with the [Datafeed Toolbox™](https://www.mathworks.com/products/datafeed.
 Suggested steps:
 1.	Become familiar with the MATLAB based deep learning, text analytics examples listed in Background Material section below.
 2.	Retrieve the tweets from Twitter on cryptocurrencies using the [Twitter connection object]( https://www.mathworks.com/help/datafeed/twitter.html) from the Datafeed Toolbox
-3.	Apply a [classification algorithm]( https://www.mathworks.com/help/stats/classification.html) from the Statistics Machine learning and Statistics Toolbox to determine the sentiment scores and compare the results against the existing [VADER](https://www.mathworks.com/help/textanalytics/ref/vadersentimentscores.html) and [ratio rule](https://www.mathworks.com/help/textanalytics/ref/ratiosentimentscores.html)  methods from the [Text Analytics toolbox](https://www.mathworks.com/help/stats/classification.html) 
-4.	Build the time series model of cryptocurrency, considering the sentiment scores as a factor in the model using the [Econometrics Toolbox](https://www.mathworks.com/products/econometrics.html).
-5.	Design algorithm trading strategies on cryptocurrency using [Financial Toolbox](https://www.mathworks.com/products/finance.html). Back test the portfolio performance.
+3.	Apply a [classification algorithm]( https://www.mathworks.com/help/stats/classification.html) from the Statistics and Machine learning Toolbox to determine the sentiment scores and compare the results against the existing [VADER](https://www.mathworks.com/help/textanalytics/ref/vadersentimentscores.html) and [ratio rule](https://www.mathworks.com/help/textanalytics/ref/ratiosentimentscores.html)  methods from the [Text Analytics toolbox](https://www.mathworks.com/help/stats/classification.html)
+4.	Use a Large Language Model via [MATLAB API](https://github.com/matlab-deep-learning/llms-with-matlab) to retrieve features to build the time series model 
+5.	Build the time series model of cryptocurrency, considering the sentiment scores as a factor in the model using the [Econometrics Toolbox](https://www.mathworks.com/products/econometrics.html).
+6.	Design algorithm trading strategies on cryptocurrency using [Financial Toolbox](https://www.mathworks.com/products/finance.html). Back test the portfolio performance.
 
 Project variations:
-1.	 Apply [python integration in MATLAB]( https://www.mathworks.com/help/matlab/call-python-libraries.html) to overcome the current limited data range retrieval functionality. 
+1.	Apply [python integration in MATLAB]( https://www.mathworks.com/help/matlab/call-python-libraries.html) to overcome the current limited data range retrieval functionality. 
 2.	Model selection: Select one or more of these models to test the performance of the trading strategy: cryptocurrency time series model,  factor model, deep learning or reinforcement learning model.
 
 Advanced project work:
