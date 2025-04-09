@@ -33,13 +33,6 @@ For more information about the program and <strong>how to submit your solution, 
 If you are industry or faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html)</strong>.
 
 <table>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/' '"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Adaptive%20Palletizing%20with%20Simulation%20Optimization">Adaptive Palletizing with Simulation Optimization</a></h2></p>
-<p>Create a flexible robotics palletizing system that adapts to varying box sizes and configurations.</p>
-<p><strong>Impact</strong>: Scale up solutions for automated manufacturing and logistics.</p>
-<p><strong>Expertise gained</strong>: Robotics, Manipulators, Modeling and Simulation, Optimization</p>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Adaptive%20Palletizing%20with%20Simulation%20Optimization&tfa_2=254"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Adaptive%20Palletizing%20with%20Simulation%20Optimization&tfa_2=254"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
 </td>
 </tbody>
     <tr>
