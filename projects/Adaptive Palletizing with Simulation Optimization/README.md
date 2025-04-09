@@ -1,12 +1,19 @@
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Adaptive%20Palletizing%20with%20Simulation%20Optimization&tfa_2=254)</strong> to <strong>register</strong> your intent to complete this project.
 
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Adaptive%20Palletizing%20with%20Simulation%20Optimization&tfa_2=254)<strong/>to <strong>submit</strong> your solution to this project and qualify for the rewards.
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Adaptive%20Palletizing%20with%20Simulation%20Optimization&tfa_2=254)</strong> to <strong>submit</strong> your solution to this project and qualify for the rewards.
 
 <table>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/' '"  width=500 /></td>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UR.png"  width=500 /></td>
 <td><p><h1>Adaptive Palletizing with Simulation Optimization</h1></p>
 <p>Create a flexible robotics palletizing system that adapts to varying box sizes and configurations.</p>
 </table>
+
+**_Industry Partner_:**<br>
+<br>
+<a href="https://www.universal-robots.com/industries/education-science/UR/" target="_blank" style="display: inline-block; text-align: center;">
+    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UR_Logo.png" width="450" style="display: block; margin: 0 auto;"><br>
+   
+</a>
 
 ## Motivation
 
