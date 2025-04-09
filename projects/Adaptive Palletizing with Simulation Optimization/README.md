@@ -24,9 +24,9 @@ Palletizing is an essential task in logistics and manufacturing, directly impact
 
 Develop an adaptive palletizing system that dynamically generates and adjusts pallet layouts in response to changing conditions. The system will use MATLAB and Simulink to optimize the pallet pattern based on input parameters such as box dimensions, order requirements, and pallet size. High-fidelity simulation using Sim3D will allow students to visualize and validate the adaptive optimization and robot trajectories before deploying the system on a UR3 e-series with minimal code changes. An optional conveyor belt scenario can be integrated into the simulation to model a continuous feed of boxes with unknown sizes.
 
-## Suggested Steps:
+### Suggested Steps:
 
-### 1. Adaptive Pallet Pattern Generation:
+#### 1. Adaptive Pallet Pattern Generation:
 - Integrate dynamic inputs—such as variable box sizes, real-time order updates, or sensor measurements—from data sources like Excel, a database, or live sensor measurements data (for example using the [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html)).
 - Implement a custom palletizing scenario where boxes information is unknown or known in advanced. For example:
   - The robot obtains box details as they arrive (e.g. from a conveyor belt) 
@@ -37,17 +37,32 @@ Develop an adaptive palletizing system that dynamically generates and adjusts pa
 - Adopt an algorithm from the MathWorks [Optimization Toolbox](https://www.mathworks.com/products/opt) or develop a custom solution to determine the optimal arrangement of boxes on a pallet. 
 - Visualize the computed layouts in Sim3D (via [Simulink 3D Animation](https://www.mathworks.com/help/sl3d/index.html)) to verify that the arrangement is collision-free and efficient. Use this [example](https://www.mathworks.com/help/robotics/ug/palletize-boxes-using-cobot-with-simulink-3d-animation.html) as your starting point.
 
-### 2. Adaptive Trajectory Planning and Simulation:
+#### 2. Adaptive Trajectory Planning and Simulation:
 - Utilize the [Robotics System Toolbox](https://www.mathworks.com/products/robotics.html) to generate robot trajectories corresponding to the adaptive pallet pattern.
 - Incorporate feedback loops in Simulink that allow the system to adjust trajectories in real time if box positions or pallet dimensions change unexpectedly.
 - Test various [planning algorithms](https://www.mathworks.com/help/robotics/manipulator-planning.html?s_tid=CRUX_lftnav) (such as RRT, CHOMP) in simulation, ensuring that the adaptive system can re-plan paths dynamically based on updated pallet patterns.
 - Visualize these trajectories using Sim3D to confirm that the robot's motion remains smooth and collision-free under different adaptive scenarios.
 
-### 3. Integration and Real-Time Adaptation:
+#### 3. Integration and Real-Time Adaptation:
 - Develop a complete control loop in Simulink that combines the adaptive pallet pattern generation with the trajectory planning module.
 - Integrate sensor feedback—such as real-time box dimensions from a vision system (via the Computer Vision Toolbox) or weight sensors—to update the optimization problem in real time.
-- Test the system in simulation using [URSim](https://www.universal-robots.com/download/software-e-series/simulator-non-linux/offline-simulator-e-series-ur-sim-for-non-linux-5126-lts/) via the [Real-Time Data Exchange (RTDE) interface] to mimic real-world variations and disturbances.
+- Test the system in simulation using [URSim](https://www.universal-robots.com/download/software-e-series/simulator-non-linux/offline-simulator-e-series-ur-sim-for-non-linux-5126-lts/) via the [Real-Time Data Exchange (RTDE) interface](https://www.mathworks.com/help/robotics/referencelist.html?type=function&listtype=cat&category=get-started-urseries-rtde&blocktype=all&capability=&startrelease=&endrelease=) to mimic real-world variations and disturbances.
 - If applicable, utilize the RTDE to transition the adaptive control loop from simulation to a physical UR e series robot with minimal adjustments. Ensure consistent coordinate frames and calibration between the simulation and the real robot.
+
+#### Project Variation:
+- Explore alternative optimization approaches, such as rule-based methods or machine learning–based predictions, to compare with classical optimization routines.
+- Develop a separate simulation scenario featuring a conveyor belt that delivers boxes with unpredictable sizes and frequencies, challenging the system's adaptive capabilities.
+
+#### Advanced Project Work:
+- Predictive Maintenance Integration:
+    - Collect operational sensor data (e.g., joint torque, vibration, temperature) from the UR robot using the UR support package and/or RTDE interface. 
+    - Use the [Predictive Maintenance Toolbox](https://www.mathworks.com/help/predmaint/index.html) to process sensor data and identify features indicative of wear or failure, to develop predictive models) and forecast maintenance needs. 
+    - Integrate the predictive maintenance module into the adaptive control loop, so that maintenance alerts or adjustments can influence the robot’s operational schedule.
+    - Visualize maintenance predictions and sensor trends in Sim3D or via MATLAB dashboards.
+- Extend the system by incorporating multi-robot collaboration, where several UR robots coordinate adaptive palletizing in a shared workspace.
+- Implement a predictive analytics module to forecast future order patterns and pre-optimize pallet layouts.
+- Integrate a real-time dashboard using [MATLAB App Designer](https://www.mathworks.com/products/matlab/app-designer.html) for monitoring system performance, adaptive decisions, and overall cycle time improvements.
+
 
 ## Background Material
 
@@ -58,6 +73,7 @@ Develop an adaptive palletizing system that dynamically generates and adjusts pa
 - [Palletize Boxes Using Cobot with Simulink 3D Animation](https://www.mathworks.com/help/robotics/ug/palletize-boxes-using-cobot-with-simulink-3d-animation.html)
 - [Setting Up Environment for use with MATLAB for UR Development](https://www.mathworks.com/help/robotics/ug/universal-robots-support-from-robotics-system-toolbox.html)
 - [Universal Robots Palletizing Resources](https://www.universal-robots.com/applications/palletizing/)
+- [Robotiq Simulator](https://designer.suite.robotiq.com/palletizing?_ga=2.248734023.1927584913.1674567500-144819488.1670879631)
 
 ## Suggested Papers:
 Lee J-D, Chang C-H, Cheng E-S, Kuo C-C, Hsieh C-Y. *Intelligent Robotic Palletizer System*. Applied Sciences. 2021; 11(24):12159.  
