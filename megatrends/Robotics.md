@@ -1,6 +1,17 @@
 # Robotics projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UR.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Adaptive%20Palletizing%20with%20Simulation%20Optimization">Adaptive Palletizing with Simulation Optimization</a></h2></p>
+<p>Create a flexible robotics palletizing system that adapts to varying box sizes and configurations.</p>
+<p><strong>Impact</strong>: Scale up solutions for automated manufacturing and logistics.</p>
+<p><strong>Expertise gained</strong>: Robotics, Manipulators, Modeling and Simulation, Optimization</p>
+<span><strong>Industry partner:</strong></span><br><br>
+<a href="https://www.universal-robots.com/industries/education-science/" target="_blank">
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UR_Logo.png"  width=300><br></a><br>
+</td>  
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAV_plan.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Energy-Optimal%20Trajectory%20Planning%20for%20Multirotor%20Drones">Energy-Optimal Trajectory Planning for Multirotor Drones</a></h2></p>
 <p>Develop a trajectory planning for multirotor drones that minimizes energy consumption.</p>
