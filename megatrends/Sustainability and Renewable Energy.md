@@ -1,6 +1,41 @@
 # Sustainability and Renewable Energy projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/CO2.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Detection%20and%20Visualization%20of%20CO2%20Concentration%20Using%20Hyperspectral%20Satellite%20Data">Detection and Visualization of CO2 Concentration Using Hyperspectral Satellite Data</a></h2></p>
+<p>Develop a CO2 detection algorithm using hyperspectral images and visualize the results geospatially.</p>
+<p><strong>Impact</strong>: Enable precise CO2 monitoring for effective climate action. </p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Image Processing, Machine Learning, Signal Processing</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/grid.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Energy%20Management%20Systems%20for%20Smart%20Grids">Intelligent Energy Management Systems for Smart Grids </a></h2></p>
+<p>Design and Implement an Intelligent Energy Management System (IEMS) for Smart Grids to Optimize Energy Distribution and Consumption. </p>
+<p><strong>Impact</strong>: Elevate efficiency and forge a sustainable world through advanced energy management. </p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Electrification, Modeling and Simulation, Machine Learning</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/solarTracker.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Solar%20Tracker%20Control%20Simulation">Solar Tracker Control Simulation</a></h2></p>
+<p>Design a control system for a multi axis solar tracker.</p>
+<p><strong>Impact</strong>: Maximize solar irradiance to increase renewable energy production.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Control, Modeling and Simulation, Solar Panels</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BEV.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Energy%20Management%20for%20a%202-Motor%20BEV%20using%20Model-Predictive%20Control">Energy Management for a 2-Motor BEV using Model-Predictive Control</a></h2></p>
+<p>Develop a Model-Predictive Control algorithm to optimally distribute torque in a 2-motor Battery Electric Vehicle (BEV) powertrain.</p>
+<p><strong>Impact</strong>: Reduce energy consumption while maintaining best motor performance.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Automotive, Control, Electrification, Modeling and Simulation</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/carbonNeutral.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Carbon%20Neutrality">Carbon Neutrality</a></h2></p>
+<p>Build a CO2 emission model from historical data and create a plan to achieve carbon neutrality in the future.</p>
+<p><strong>Impact</strong>: Set up a strategy for carbon neutrality and consolidate the international collaboration.</p>
+<p><strong>Expertise gained</strong>: Computational Finance, Sustainability and Renewable Energy, Modeling and Simulation, Machine Learning</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/clean-energy.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Techno-Economic%20Assessment%20of%20Green%20Hydrogen%20Production">Techno-Economic Assessment of Green Hydrogen Production</a></h2></p>
 <p>Perform early-stage economic feasibility of an energy project to determine project viability.</p>

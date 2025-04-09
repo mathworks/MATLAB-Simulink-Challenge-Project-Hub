@@ -1,6 +1,43 @@
 # Artificial Intelligence projects: 
 <table>
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/faultAnalysis.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis">Fault Detection for Electric Motors Using Vibration Analysis</a></h2></p>
+<p>Develop a Fault detection system for electric motors from vibration data using Model-Based design. </p>
+<p><strong>Impact</strong>: Enhance motor reliability and reduce downtime through advanced fault detection.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Big Data, Embedded AI, Machine Learning, Modeling and Simulation, Predictive Maintenance, Health Monitoring, Low-cost Hardware</p>
+</td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cfd.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks">Fluid Flow Simulation Using Physics-Informed Neural Networks</a></h2></p>
+<p>Develop a Physics Informed Neural Network (PINN) for fluid flow simulation. </p>
+<p><strong>Impact</strong>: Transform fluid dynamics with neural networks driving impactful innovations across industries.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Modeling and Simulation, Neural Networks</p></td>
+</td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ai-for-wireless-synthetic-waveform-dataset.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Classify%20RF%20Signals%20Using%20AI">Classify RF Signals Using AI</a></h2></p>
+<p>Use deep learning to classify wireless signals and perform real-world testing with software defined radios.</p>
+<p><strong>Impact</strong>: Help to mitigate the ever-increasing RF interference problem in the developed world.</p>
+<p><strong>Expertise gained</strong>: 5G, Artificial Intelligence, Deep Learning, Image Processing, Machine Learning, Neural Networks, Software-defined Radio, Wireless Communication</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/dip.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Deep%20Image%20Prior%20for%20Inverse%20Problems%20in%20Imaging">Deep Image Prior for Inverse Problems in Imaging</a></h2></p>
+<p>Use the Deep Image Prior to solve inverse problems in imaging.</p>
+<p><strong>Impact</strong>: Implement the Deep Image Prior to provide high-quality solutions to inverse problems in imaging that are ubiquitous in industry.  </p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Deep Learning, Image Processing, Machine Learning, Neural Networks, Optimization, Signal Processing</p></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/audio_image.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Music%20Composition%20with%20Deep%20Learning">Music Composition with Deep Learning</a></h2></p>
+<p>Design and train a deep learning model to compose music.</p>
+<p><strong>Impact</strong>: Generative music models can be used to create new assets on demand.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Machine Learning, Neural Networks, Audio</p></td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cripto.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sentiment%20Analysis%20in%20Cryptocurrency%20Trading">Sentiment Analysis in Cryptocurrency Trading</a></h2></p>
 <p>Build your own cryptocurrency trading strategies based on sentiment analysis.</p>
@@ -36,13 +73,6 @@
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Autonomous Vehicles, Deep Learning, Machine Learning, Neural Networks, Reinforcement Learning, Sensor Fusion and Tracking</p></td>
 </tbody>
 <tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Smart%20Watering%20System%20with%20Internet%20of%20Things">Smart Watering System with Internet of Things</a></h2></p>
-<p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware </p>
-<p><strong>Impact</strong>: Minimize the negative effects of the overuse of water in farming and preserve water resources. </p>
-<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Artificial Intelligence, IoT, Low-Cost Hardware, Deep Learning, Cloud Computing</p></td>
-</tbody>
-<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pmsm.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Machine%20Learning%20for%20Motor%20Control">Machine Learning for Motor Control</a></h2></p>
 <p>Enhance the performance and product quality required to develop a motor control application.</p>
@@ -55,13 +85,6 @@
 <p>Predict faults in pneumatic systems using simulation and AI/machine learning.</p>
 <p><strong>Impact</strong>: Improve efficiency and reliability of industrial processes.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Industry 4.0, Cyber-Physical Systems, Digital Twins, Embedded AI, Health Monitoring, IoT, Machine Learning, Modeling and Simulation</p></td>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Detection%20and%20Human%20Tracking%20Robot">Face Detection and Human Tracking Robot</a></h2></p>
-<p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>
-<p><strong>Impact</strong>: Leverage mobile technology and deep learning to advance human detection algorithms for impacting human safety and security.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/treadmill.jpg"  width=500 /></td>
@@ -125,13 +148,6 @@
 <p>Realistic synthetic sensor data will soon eliminate the need of collecting tons of real data for machine learning based perception algorithms. Accelerate this transition by creating a real-time camera distortion model.</p>
 <p><strong>Impact</strong>: Reduce development efforts of autonomous vehicles and robots.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Autonomous Vehicles, Computer Vision, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks</p></td>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/raspbpi.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot">Voice Controlled Robot</a></h2></p>
-<p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
-<p><strong>Impact</strong>: Open up the opportunities to create robots that can be an intuitive part of our world. </p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/AUV.png"  width=500 /></td>
