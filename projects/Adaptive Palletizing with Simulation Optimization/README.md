@@ -10,7 +10,7 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 **_Industry Partner_:**<br>
 <br>
-<a href="https://www.universal-robots.com/industries/education-science/UR/" target="_blank" style="display: inline-block; text-align: center;">
+<a href="https://www.universal-robots.com/industries/education-science/" target="_blank" style="display: inline-block; text-align: center;">
     <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UR_Logo.png" width="450" style="display: block; margin: 0 auto;"><br>
    
 </a>
