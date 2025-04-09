@@ -26,26 +26,31 @@ Develop an adaptive palletizing system that dynamically generates and adjusts pa
 
 ### Suggested Steps:
 
-#### 1. Adaptive Pallet Pattern Generation:
-- Integrate dynamic inputs—such as variable box sizes, real-time order updates, or sensor measurements—from data sources like Excel, a database, or live sensor measurements data (for example using the [Computer Vision Toolbox](https://www.mathworks.com/products/computer-vision.html)).
-- Implement a custom palletizing scenario where boxes information is unknown or known in advanced. For example:
-  - The robot obtains box details as they arrive (e.g. from a conveyor belt) 
-  - Box parameters (such as size, weight, and ID) are provided a-priori via an Excel file or database.
-- Develop a strategy to identify enough box parameters to start the patter optimization process, according with the chosen palletizing scenario. Possible approaches might be: 
-  - If box parameters are unknown, use sensors to capture their parameters and temporarily store the boxes (e.g. on a secondary conveyor) until sufficient data is gathered. 
-  - If box data is available in advance, match incoming boxes with the corresponding records from the database using direct sensor measurements or QR code. 
-- Adopt an algorithm from the MathWorks [Optimization Toolbox](https://www.mathworks.com/products/opt) or develop a custom solution to determine the optimal arrangement of boxes on a pallet. 
+#### 1. Start with the baseline model
+Familiarize yourseilf with this Simulink [Robotic palletizing example](https://www.mathworks.com/help/robotics/ug/palletize-boxes-using-cobot-with-simulink-3d-animation.html). This model uses a UR robot to palletize boxes of fixed size arriving at a fixed location. It demonstrates core elements like trajectory planning, Sim3D visualization, and interaction with virtual environments.
+
+#### 2. Parameterize the box input
+Modify the example to accept variable box sizes, and possibly weights, from structured sources such as Excel, a database, or a MAT-file.
+
+#### 3. Select your palletizing mode
+Choose between these two options to create the list of box parameters:
+- **Predefined mode:** box data is fully known before palletizing begins.
+- **Real-time mode:** box parameters are detected as boxes arrive (e.g., from a conveyor belt).
+
+#### 4. Implement a data acquisition strategy
+Use preloaded data with direct matching (e.g., QR codes or size sensors), or buffer incoming boxes (move them into a temporary different location) until enough data is available for optimization.
+
+#### 5. Integrate an adaptive layout optimizer
+Use a suitable discrete optimization method to compute an efficient arrangement of boxes on the pallet. Recommended options include, genetic algoritm ([ga](https://www.mathworks.com/help/gads/ga.html)), Simulated annealing ([simulannealbnd](https://www.mathworks.com/help/gads/simulannealbnd.html)), Mixed-integer linear programming ([intlinprog](https://www.mathworks.com/help/optim/ug/intlinprog.html)) or Custom heuristics, such as greedy or rule-based algorithms for fast, scenario-specific decisions.
+
 - Visualize the computed layouts in Sim3D (via [Simulink 3D Animation](https://www.mathworks.com/help/sl3d/index.html)) to verify that the arrangement is collision-free and efficient. Use this [example](https://www.mathworks.com/help/robotics/ug/palletize-boxes-using-cobot-with-simulink-3d-animation.html) as your starting point.
 
-#### 2. Adaptive Trajectory Planning and Simulation:
-- Utilize the [Robotics System Toolbox](https://www.mathworks.com/products/robotics.html) to generate robot trajectories corresponding to the adaptive pallet pattern.
-- Incorporate feedback loops in Simulink that allow the system to adjust trajectories in real time if box positions or pallet dimensions change unexpectedly.
-- Test various [planning algorithms](https://www.mathworks.com/help/robotics/manipulator-planning.html?s_tid=CRUX_lftnav) (such as RRT, CHOMP) in simulation, ensuring that the adaptive system can re-plan paths dynamically based on updated pallet patterns.
+#### 6. Trajectory Planning and Simulation:
+- Use the [Robotics System Toolbox](https://www.mathworks.com/products/robotics.html) to plan motion based on the box positions computed by your palletizing optimizer. Explore various [planning algorithms](https://www.mathworks.com/help/robotics/manipulator-planning.html?s_tid=CRUX_lftnav) (such as RRT, CHOMP) in simulation, ensuring that the adaptive system can re-plan paths dynamically based on updated pallet patterns.
 - Visualize these trajectories using Sim3D to confirm that the robot's motion remains smooth and collision-free under different adaptive scenarios.
 
 #### 3. Integration and Real-Time Adaptation:
 - Develop a complete control loop in Simulink that combines the adaptive pallet pattern generation with the trajectory planning module.
-- Integrate sensor feedback—such as real-time box dimensions from a vision system (via the Computer Vision Toolbox) or weight sensors—to update the optimization problem in real time.
 - Test the system in simulation using [URSim](https://www.universal-robots.com/download/software-e-series/simulator-non-linux/offline-simulator-e-series-ur-sim-for-non-linux-5126-lts/) via the [Real-Time Data Exchange (RTDE) interface](https://www.mathworks.com/help/robotics/referencelist.html?type=function&listtype=cat&category=get-started-urseries-rtde&blocktype=all&capability=&startrelease=&endrelease=) to mimic real-world variations and disturbances.
 - If applicable, utilize the RTDE to transition the adaptive control loop from simulation to a physical UR e series robot with minimal adjustments. Ensure consistent coordinate frames and calibration between the simulation and the real robot.
 
@@ -54,6 +59,7 @@ Develop an adaptive palletizing system that dynamically generates and adjusts pa
 - Develop a separate simulation scenario featuring a conveyor belt that delivers boxes with unpredictable sizes and frequencies, challenging the system's adaptive capabilities.
 
 #### Advanced Project Work:
+- Integrate sensor feedback—such as real-time box dimensions from a vision system (via the Computer Vision Toolbox) or weight sensors—to update the optimization problem in real time.
 - Predictive Maintenance Integration:
     - Collect operational sensor data (e.g., joint torque, vibration, temperature) from the UR robot using the UR support package and/or RTDE interface. 
     - Use the [Predictive Maintenance Toolbox](https://www.mathworks.com/help/predmaint/index.html) to process sensor data and identify features indicative of wear or failure, to develop predictive models) and forecast maintenance needs. 
@@ -67,6 +73,7 @@ Develop an adaptive palletizing system that dynamically generates and adjusts pa
 ## Background Material
 
 - [MATLAB Optimization Toolbox Examples](https://www.mathworks.com/help/optim/)
+- [Global Optimization Toolbox](https://www.mathworks.com/help/gads/index.html?s_tid=CRUX_topnav)
 - [Simulink 3D Animation webinar](https://www.mathworks.com/videos/simulink-3d-animation-overview-1617559290317.html)
 - [Set Up URSim Offline Simulator](https://www.universal-robots.com/articles/ur/ursim-offline-simulator/)
 - [Get Started with Real-Time Data Exchange (RTDE) Connectivity Interface](https://www.mathworks.com/help/robotics/setup-for-rtde.html)
