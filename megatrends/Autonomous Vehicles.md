@@ -1,22 +1,15 @@
 # Autonomous Vehicles projects: 
 <table>
 <tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/uamPathPlanning.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Multi-UAV%20Path%20Planning%20for%20Urban%20Air%20Mobility">Multi-UAV Path Planning for Urban Air Mobility</a></h2></p>
-<p>Develop a path planning algorithm for multiple drones flying in an urban environment.</p>
-<p><strong>Impact</strong>: Contribute to advancing drone applications in UAM and revolutionizing the logistic industry.</p>
-<p><strong>Expertise gained</strong>: Autonomous Vehicles, Drones, Robotics, Multi-agent System, Optimization, Sensor Fusion and Tracking, UAV, Modeling and Simulation</p></td>
-</tbody>
-<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAV_plan.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Energy-Optimal%20Trajectory%20Planning%20for%20Multirotor%20Drones">Energy-Optimal Trajectory Planning for Multirotor Drones</a></h2></p>
 <p>Develop a trajectory planning for multirotor drones that minimizes energy consumption.</p>
 <p><strong>Impact</strong>: Increase mission time of multirotor drones.</p>
 <p><strong>Expertise gained</strong>: Drones, Robotics, Autonomous Vehicles, Electrification, Modeling and Simulation, Optimization, UAV</p></td>
-</tbody>  
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualIntertialOdometry.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone">Visual - Inertial Odometry for a Minidrone </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone">Visual-Inertial Odometry for a Minidrone </a></h2></p>
 <p>Design and implement a visual/visual-inertial odometry system using onboard camera for a Minidrone.</p>
 <p><strong>Impact</strong>:  Advance aerial vehicle control in contracted spaces with unforeseen environment conditions.</p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Drones, Robotics, Aerospace, Control, Image Processing, Low-cost Hardware, Modeling and Simulation, Signal Processing, State Estimation, UAV</p></td>
@@ -149,7 +142,7 @@
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/auto.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Vehicle%20Localization%20Using%20Onboard%20Sensors%20and%20HD%20Geolocated%20Maps">Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Vehicle%20localization">Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps</a></h2></p>
 <p>Revolutionize the current transportation system by improving autonomous vehicles localization for level 5 automation.</p>
 <p><strong>Impact</strong>: Contribute to the change of automobile industry, and transportation system.</p>
 <p><strong>Expertise gained</strong>: Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p></td>

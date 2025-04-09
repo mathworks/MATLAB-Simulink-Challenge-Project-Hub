@@ -1,13 +1,6 @@
 # Computer Vision projects: 
 <table>
 <tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/dip.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Deep%20Image%20Prior%20for%20Inverse%20Problems%20in%20Imaging">Deep Image Prior for Inverse Problems in Imaging</a></h2></p>
-<p>Use the Deep Image Prior to solve inverse problems in imaging.</p>
-<p><strong>Impact</strong>: Implement the Deep Image Prior to provide high-quality solutions to inverse problems in imaging that are ubiquitous in industry.  </p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Deep Learning, Image Processing, Machine Learning, Neural Networks, Optimization, Signal Processing</p></td>
-</tbody>
-<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ar_image.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Augmented%20Reality%20for%20Architecture">Augmented Reality for Architecture</a></h2></p>
 <p>Develop an augmented reality system to enhance a photo or video of a 2D architectural floor plan printed on paper with a virtual 3D representation of the structure. </p>
@@ -16,7 +9,7 @@
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualIntertialOdometry.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone">Visual - Inertial Odometry for a Minidrone </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone">Visual-Inertial Odometry for a Minidrone </a></h2></p>
 <p>Design and implement a visual/visual-inertial odometry system using onboard camera for a Minidrone.</p>
 <p><strong>Impact</strong>:  Advance aerial vehicle control in contracted spaces with unforeseen environment conditions.</p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Computer Vision, Drones, Robotics, Aerospace, Control, Image Processing, Low-cost Hardware, Modeling and Simulation, Signal Processing, State Estimation, UAV</p></td>
@@ -86,7 +79,7 @@
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/auto.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Vehicle%20Localization%20Using%20Onboard%20Sensors%20and%20HD%20Geolocated%20Maps">Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Vehicle%20localization">Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps</a></h2></p>
 <p>Revolutionize the current transportation system by improving autonomous vehicles localization for level 5 automation.</p>
 <p><strong>Impact</strong>: Contribute to the change of automobile industry, and transportation system.</p>
 <p><strong>Expertise gained</strong>: Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p></td>

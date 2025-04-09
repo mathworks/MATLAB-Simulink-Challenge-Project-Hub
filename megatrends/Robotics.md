@@ -1,22 +1,6 @@
 # Robotics projects: 
 <table>
 <tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/' '"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Adaptive%20Palletizing%20with%20Simulation%20Optimization">Adaptive Palletizing with Simulation Optimization</a></h2></p>
-<p>Create a flexible robotics palletizing system that adapts to varying box sizes and configurations.</p>
-<p><strong>Impact</strong>: Scale up solutions for automated manufacturing and logistics.</p>
-<p><strong>Expertise gained</strong>: Robotics, Manipulators, Modeling and Simulation, Optimization</p>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Adaptive%20Palletizing%20with%20Simulation%20Optimization&tfa_2=254"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Adaptive%20Palletizing%20with%20Simulation%20Optimization&tfa_2=254"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
-</td>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/uamPathPlanning.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Multi-UAV%20Path%20Planning%20for%20Urban%20Air%20Mobility">Multi-UAV Path Planning for Urban Air Mobility</a></h2></p>
-<p>Develop a path planning algorithm for multiple drones flying in an urban environment.</p>
-<p><strong>Impact</strong>: Contribute to advancing drone applications in UAM and revolutionizing the logistic industry.</p>
-<p><strong>Expertise gained</strong>: Autonomous Vehicles, Drones, Robotics, Multi-agent System, Optimization, Sensor Fusion and Tracking, UAV, Modeling and Simulation</p></td>
-</tbody>
-<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAV_plan.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Energy-Optimal%20Trajectory%20Planning%20for%20Multirotor%20Drones">Energy-Optimal Trajectory Planning for Multirotor Drones</a></h2></p>
 <p>Develop a trajectory planning for multirotor drones that minimizes energy consumption.</p>
@@ -70,7 +54,7 @@
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Detection%20and%20Human%20Tracking%20Robot">Face Detection and Human Tracking Robot</a></h2></p>
 <p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>
 <p><strong>Impact</strong>: Leverage mobile technology and deep learning to advance human detection algorithms for impacting human safety and security.</p>
-<p><strong>Expertise gained</strong>: Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png"  width=500 /></td>
@@ -126,7 +110,7 @@
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot">Voice Controlled Robot</a></h2></p>
 <p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
 <p><strong>Impact</strong>: Open up the opportunities to create robots that can be an intuitive part of our world. </p>
-<p><strong>Expertise gained</strong>: Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p></td>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/quadruped.png"  width=500 /></td>
@@ -144,7 +128,7 @@
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/auto.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Vehicle%20Localization%20Using%20Onboard%20Sensors%20and%20HD%20Geolocated%20Maps">Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Vehicle%20localization">Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps</a></h2></p>
 <p>Revolutionize the current transportation system by improving autonomous vehicles localization for level 5 automation.</p>
 <p><strong>Impact</strong>: Contribute to the change of automobile industry, and transportation system.</p>
 <p><strong>Expertise gained</strong>: Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p></td>
