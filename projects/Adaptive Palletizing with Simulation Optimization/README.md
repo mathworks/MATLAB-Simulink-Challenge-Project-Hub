@@ -71,8 +71,9 @@ Use a suitable discrete optimization method to compute an efficient arrangement 
 
 - [MATLAB Optimization Toolbox Examples](https://www.mathworks.com/help/optim/)
 - [Global Optimization Toolbox](https://www.mathworks.com/help/gads/index.html?s_tid=CRUX_topnav)
-- [Simulink 3D Animation webinar](https://www.mathworks.com/videos/simulink-3d-animation-overview-1617559290317.html)
-- [Set Up URSim Offline Simulator](https://www.universal-robots.com/articles/ur/ursim-offline-simulator/)
+- [Simulink 3D Animation](https://www.mathworks.com/products/3d-animation.html)
+- [Simulink 3D Animation webinar](https://www.mathworks.com/videos/getting-started-with-simulink-3d-animation-part-1-build-a-simulink-model-68731.html)
+- [Set Up URSim Offline Simulator](https://www.universal-robots.com/download/software-e-series/simulator-non-linux/offline-simulator-e-series-ur-sim-for-non-linux-5126-lts/)
 - [Get Started with Real-Time Data Exchange (RTDE) Connectivity Interface](https://www.mathworks.com/help/robotics/setup-for-rtde.html)
 - [Palletize Boxes Using Cobot with Simulink 3D Animation](https://www.mathworks.com/help/robotics/ug/palletize-boxes-using-cobot-with-simulink-3d-animation.html)
 - [Setting Up Environment for use with MATLAB for UR Development](https://www.mathworks.com/help/robotics/ug/universal-robots-support-from-robotics-system-toolbox.html)
