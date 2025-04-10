@@ -37,19 +37,19 @@ Choose how your system will receive box parameters and prepare them for layout o
 - **Predefined mode:** All box data (size, weight, ID) is available in advance, loaded from an Excel file, database, or MAT-file. Use direct matching via identifiers like QR codes or sensor readings to verify each box as it arrives.
 - **Real-time mode:** Box parameters are unknown beforehand and detected on-the-fly (e.g., from a conveyor belt). Use sensors to capture their attributes and buffer incoming boxes in a temporary holding area until enough data is available for optimization.
 
-#### 5. Integrate an adaptive layout optimizer
+#### 4. Integrate an adaptive layout optimizer
 Use a suitable discrete optimization method to compute an efficient arrangement of boxes on the pallet. Recommended options include, genetic algoritm ([ga](https://www.mathworks.com/help/gads/ga.html)), Simulated annealing ([simulannealbnd](https://www.mathworks.com/help/gads/simulannealbnd.html)), Mixed-integer linear programming ([intlinprog](https://www.mathworks.com/help/optim/ug/intlinprog.html)) or Custom heuristics, such as greedy or rule-based algorithms for fast, scenario-specific decisions.
 
 - Visualize the computed layouts in Sim3D (via [Simulink 3D Animation](https://www.mathworks.com/help/sl3d/index.html)) to verify that the arrangement is collision-free and efficient. Use this [example](https://www.mathworks.com/help/robotics/ug/palletize-boxes-using-cobot-with-simulink-3d-animation.html) as your starting point.
 
-#### 6. Trajectory Planning and Simulation:
+#### 5. Trajectory Planning and Simulation:
 - Use the [Robotics System Toolbox](https://www.mathworks.com/products/robotics.html) to plan motion based on the box positions computed by your palletizing optimizer. Explore various [planning algorithms](https://www.mathworks.com/help/robotics/manipulator-planning.html?s_tid=CRUX_lftnav) (such as RRT, CHOMP) in simulation, ensuring that the adaptive system can re-plan paths dynamically based on updated pallet patterns.
 - Visualize these trajectories using Sim3D to confirm that the robot's motion remains smooth and collision-free under different adaptive scenarios.
 
-#### 3. Integration and Real-Time Adaptation:
+#### 6. Integration and Real-Time Adaptation:
 - Develop a complete control loop in Simulink that combines the adaptive pallet pattern generation with the trajectory planning module.
 - Test the system in simulation using [URSim](https://www.universal-robots.com/download/software-e-series/simulator-non-linux/offline-simulator-e-series-ur-sim-for-non-linux-5126-lts/) via the [Real-Time Data Exchange (RTDE) interface](https://www.mathworks.com/help/robotics/referencelist.html?type=function&listtype=cat&category=get-started-urseries-rtde&blocktype=all&capability=&startrelease=&endrelease=) to mimic real-world variations and disturbances.
-- If applicable, utilize the RTDE to transition the adaptive control loop from simulation to a physical UR e series robot with minimal adjustments. Ensure consistent coordinate frames and calibration between the simulation and the real robot.
+- If applicable, utilize the RTDE to transition the adaptive control loop from simulation to a physical UR e-series robot with minimal adjustments. Ensure consistent coordinate frames and calibration between the simulation and the real robot.
 
 #### Project Variation:
 - Explore alternative optimization approaches, such as rule-based methods or machine learning–based predictions, to compare with classical optimization routines.
