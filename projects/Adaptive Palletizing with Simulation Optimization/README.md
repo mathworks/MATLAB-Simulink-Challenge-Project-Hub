@@ -37,9 +37,6 @@ Choose how your system will receive box parameters and prepare them for layout o
 - **Predefined mode:** All box data (size, weight, ID) is available in advance, loaded from an Excel file, database, or MAT-file. Use direct matching via identifiers like QR codes or sensor readings to verify each box as it arrives.
 - **Real-time mode:** Box parameters are unknown beforehand and detected on-the-fly (e.g., from a conveyor belt). Use sensors to capture their attributes and buffer incoming boxes in a temporary holding area until enough data is available for optimization.
 
-#### 4. Implement a data acquisition strategy
-Use preloaded data with direct matching (e.g., QR codes or size sensors), or buffer incoming boxes (move them into a temporary different location) until enough data is available for optimization.
-
 #### 5. Integrate an adaptive layout optimizer
 Use a suitable discrete optimization method to compute an efficient arrangement of boxes on the pallet. Recommended options include, genetic algoritm ([ga](https://www.mathworks.com/help/gads/ga.html)), Simulated annealing ([simulannealbnd](https://www.mathworks.com/help/gads/simulannealbnd.html)), Mixed-integer linear programming ([intlinprog](https://www.mathworks.com/help/optim/ug/intlinprog.html)) or Custom heuristics, such as greedy or rule-based algorithms for fast, scenario-specific decisions.
 
