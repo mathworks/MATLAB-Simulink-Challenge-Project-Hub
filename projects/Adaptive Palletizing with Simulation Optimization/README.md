@@ -32,10 +32,10 @@ Familiarize yourseilf with this Simulink [Robotic palletizing example](https://w
 #### 2. Parameterize the box input
 Modify the example to accept variable box sizes, and possibly weights, from structured sources such as Excel, a database, or a MAT-file.
 
-#### 3. Select your palletizing mode
-Choose between these two options to create the list of box parameters:
-- **Predefined mode:** box data is fully known before palletizing begins.
-- **Real-time mode:** box parameters are detected as boxes arrive (e.g., from a conveyor belt).
+#### 3. Select your palletizing mode and define a data acquisition strategy
+Choose how your system will receive box parameters and prepare them for layout optimization:
+- **Predefined mode:** All box data (size, weight, ID) is available in advance, loaded from an Excel file, database, or MAT-file. Use direct matching via identifiers like QR codes or sensor readings to verify each box as it arrives.
+- **Real-time mode:** Box parameters are unknown beforehand and detected on-the-fly (e.g., from a conveyor belt). Use sensors to capture their attributes and buffer incoming boxes in a temporary holding area until enough data is available for optimization.
 
 #### 4. Implement a data acquisition strategy
 Use preloaded data with direct matching (e.g., QR codes or size sensors), or buffer incoming boxes (move them into a temporary different location) until enough data is available for optimization.
