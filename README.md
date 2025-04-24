@@ -78,7 +78,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 -->
 ## All projects :file_folder:
 *Updated: November 25, 2024*
-<table>
+<table><!---->
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UR.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Adaptive%20Palletizing%20with%20Simulation%20Optimization">Adaptive Palletizing with Simulation Optimization</a></h2></p>
