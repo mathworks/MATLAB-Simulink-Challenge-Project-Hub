@@ -24,14 +24,14 @@ As an advanced extension, the project may include the development of energy and 
     -	Use [MATLAB®](https://www.mathworks.com/products/matlab.html) to interface with the [Google Maps API](https://developers.google.com/maps) and extract data for a given origin-destination pair, including elevation profiles, road segments, and traffic conditions. 
     -	Parse and clean data to extract features such as road type, speed limits, elevation changes, and congestion.
     -	Construct a time-speed driving cycle from the data and format it for use in Simulink using the [Driving Cycle Source block](https://www.mathworks.com/help/vdynblks/ref/drivecyclesource.html).
-2.	 Model the Electric Vehicle Using Virtual Vehicle Composer
-    -	Use the [Virtual Vehicle Composer app](https://www.mathworks.com/help/vdynblks/ref/virtualvehiclecomposer-app.html) to create a custom BEV model by defining vehicle specifications including battery capacity, motor type, mass, and drag coefficients.
-    - Export the vehicle model for simulation.
-3.	Simulate Route Scenarios and Predict Energy Use
+2. Model the Electric Vehicle Using Virtual Vehicle Composer  
+    - Use the [Virtual Vehicle Composer app](https://www.mathworks.com/help/vdynblks/ref/virtualvehiclecomposer-app.html) to create a custom BEV model by defining vehicle specifications including battery capacity, motor type, mass, and drag coefficients.  
+    - Export the vehicle model for simulation.  
+4.	Simulate Route Scenarios and Predict Energy Use
     -	Apply the generated driving cycle to simulate the trip in Simulink.
     -	Evaluate performance metrics such as SOC, energy consumed, and estimated operational cost.
     -	Investigate how road features and driving behavior affect efficiency.
-4.	Visualization of Route and Simulation Results
+5.	Visualization of Route and Simulation Results
     -	Use the [Mapping Toolbox™](https://www.mathworks.com/products/mapping.html) to plot the simulated route, elevation profile, and key performance indicators (e.g., SOC trends, energy usage). 
     -	Provide visual summaries of trip metrics to enhance result interpretation and communication.
 
@@ -48,7 +48,9 @@ As an advanced extension, the project may include the development of energy and 
 **Charging and Route Optimization**
 1.	Integrate charging station data into the simulation framework using static or API-based sources.
 2.	Simulate vehicle range over the selected route and determine if/when charging stops are required based on SOC predictions.
-3.	Use [Optimization Toolbox™](https://www.mathworks.com/products/optimization.html) or custom algorithms.
+3.	Use [Optimization Toolbox™](https://www.mathworks.com/products/optimization.html) or custom algorithms to identify optimal charging locations and stop durations, balancing trip cost, charging time, and energy constraints.
+4.	Compare optimized charging strategies to baseline trips in terms of total travel time, cost, and energy usage.
+5.	Optionally, extend the [MATLAB App Designer](https://www.mathworks.com/products/matlab/app-designer.html) interface to allow users to input route preferences and visualize optimized plans and metrics.
 
 ## Background Material
 
