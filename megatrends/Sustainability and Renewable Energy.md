@@ -1,5 +1,14 @@
 # Sustainability and Renewable Energy projects: 
-<table>
+<table><!---->
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BEVtrip.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Trip%20Planning%20for%20Battery%20Electric%20Vehicles%20Using%20Real-Time%20Map%20Data">Intelligent Trip Planning for Battery Electric Vehicles Using Real-Time Map Data</a></h2></p>
+<p>Simulate electric vehicle trips using real-time map data to evaluate energy-efficient routes and strategies.</p>
+<p><strong>Impact</strong>: Reduce energy use and environmental impact in electric vehicle travel.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Automotive, Electrification, Modeling and Simulation, Optimization</p>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Intelligent%20Trip%20Planning%20for%20Battery%20Electric%20Vehicles%20Using%20Real-Time%20Map%20Data&tfa_2=255"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Intelligent%20Trip%20Planning%20for%20Battery%20Electric%20Vehicles%20Using%20Real-Time%20Map%20Data&tfa_2=255"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
+</td>
+</tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/CO2.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Detection%20and%20Visualization%20of%20CO2%20Concentration%20Using%20Hyperspectral%20Satellite%20Data">Detection and Visualization of CO2 Concentration Using Hyperspectral Satellite Data</a></h2></p>
