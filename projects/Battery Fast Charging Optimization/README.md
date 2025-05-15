@@ -1,6 +1,6 @@
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Battery%20Fast%20Charging%20Optimization&tfa_2=256)</strong> to <strong>register</strong> your intent to complete this project.
 
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Battery%20Fast%20Charging%20Optimization&tfa_2=256)<strong/>to <strong>submit</strong> your solution to this project and qualify for the rewards.
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Battery%20Fast%20Charging%20Optimization&tfa_2=256)</strong>to <strong>submit</strong> your solution to this project and qualify for the rewards.
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/FastChargerSPM.png"  width=500 /></td>
@@ -18,47 +18,49 @@ Use the [Single Particle Model (SPM)](https://www.mathworks.com/help/simscape-ba
 Start by simulating a standard constant current–constant voltage (CC–CV) method using a built-in controller, and then define alternative multi-stage charging profiles. By adjusting charging current levels and switching conditions, evaluate how different strategies affect charging time, voltage compliance, and temperature rise. The project emphasizes hands-on modeling, analysis, and design of safe and efficient charging protocols.
 Optionally explore advanced optimization techniques to develop high-performance charging strategies under electrochemical and thermal constraints.
 
-Suggested Steps
+**Suggested Steps:**
 1. Familiarize with the SPM Battery Model
-•	Study the theory behind the [Battery Single Particle Model (SPM)](https://www.mathworks.com/help/simscape-battery/ref/batterysingleparticle.html) block in Simscape Battery. and how it simplifies complex electrochemical equations. Identify key parameters: solid-phase concentration, electrolyte concentration, and thermal effects. Note: A more rigorous method to evaluate lithium plating risk is to compare the electric potentials at the solid and liquid phases at the anode/separator interface. When the potential difference approaches zero, metallic lithium plating becomes more favorable. However, to reduce modeling complexity with the SPM, we use lithium-ion concentrations as a practical substitute for estimating plating risk.
+    -	Study the theory behind the [Battery Single Particle Model (SPM)](https://www.mathworks.com/help/simscape-battery/ref/batterysingleparticle.html) block in Simscape Battery and how it simplifies complex electrochemical equations. Identify key parameters: solid-phase concentration, electrolyte concentration, and thermal effects.</br>
+Note: A more rigorous method to evaluate lithium plating risk is to compare the electric potentials at the solid and liquid phases at the anode/separator interface. When the potential difference approaches zero, metallic lithium plating becomes more favorable. However, to reduce modeling complexity with the SPM, we use lithium-ion concentrations as a practical substitute for estimating plating risk.
 2. Set Up the Battery Simulation
-•	Use the SPM block and configure key parameters such as nominal capacity, initial state of charge (SOC), cutoff voltage, and thermal properties (if modeling heat).
-•	Explore model inputs (charging current) and outputs (SOC, voltage, temperature).
+    -	Use the SPM block and configure key parameters such as nominal capacity, initial state of charge (SOC), cutoff voltage, and thermal properties (if modeling heat).
+    -	Explore model inputs (charging current) and outputs (SOC, voltage, temperature).
 3. Simulate Baseline CC–CV Charging
-•	Use the Battery CC–CV Controller block to implement the standard charging method as reference. 
-•	Simulate the CC–CV process and record metrics such as:
-o	Total charging time,
-o	Maximum temperature (if thermal modeling is enabled),
-o	Final SOC and terminal voltage behavior.
+    -	Use the Battery CC–CV Controller block to implement the standard charging method as reference. 
+    -	Simulate the CC–CV process and record metrics such as:Total charging time, Maximum temperature (if thermal modeling is enabled), Final SOC and terminal voltage behavior.
 4. Design and Simulate Multi-Stage Charging Profiles
-•	Create custom fast-charging strategies using step functions, lookup tables, or Signal Builder blocks. 
-•	Profiles may include 2–4 constant current stages (e.g., high current → medium → low → taper).
-•	Define transitions based on time or SOC thresholds.
-•	Run simulations for each profile and document performance.
-4. Analyze and Compare Results
-•	For each charging profile, collect:
-o	Charging duration,
-o	Maximum voltage and temperature,
-o	Final SOC.
-•	Compare performance visually and numerically against the CC–CV baseline.
-•	Recommend profiles that offer faster charging while staying within safety limits.
+    -	Create custom fast-charging strategies using step functions, lookup tables, or Signal Builder blocks. 
+    -	Profiles may include 2–4 constant current stages (e.g., high current → medium → low → taper).
+    -	Define transitions based on time or SOC thresholds.
+    -	Run simulations for each profile and document performance.
+5. Analyze and Compare Results
+    -	For each charging profile, collect:Charging duration, Maximum voltage and temperature, and Final SOC.
+    -	Compare performance visually and numerically against the CC–CV baseline.
+    -	Recommend profiles that offer faster charging while staying within safety limits.
 
-Advanced Project Work (Optional)
+**Advanced Project Work (Optional)**
 1. Optimization-Based Charging Profile Design
-•	Formulate the charging task as a constrained optimal control problem using advanced methods such as Pseudo-spectral optimization, Direct collocation, or Multiple shooting.
-•	Define objective functions (e.g., minimum charging time) with constraints on voltage, temperature, and lithium plating indicators (e.g., solid-phase concentration).
+    -	Formulate the charging task as a constrained optimal control problem using advanced methods such as Pseudo-spectral optimization, Direct collocation, or Multiple shooting.
+    -	Define objective functions (e.g., minimum charging time) with constraints on voltage, temperature, and lithium plating indicators (e.g., solid-phase concentration).
 2. Thermal Model Integration
-•	Extend the battery model with a two-state thermal system (core and surface temperatures).
-•	Model heat accumulation and apply thermal limits to prevent overheating during fast charging.
+    -	Extend the battery model with a two-state thermal system (core and surface temperatures).
+    -	Model heat accumulation and apply thermal limits to prevent overheating during fast charging.
 3. Electrochemical–Thermal Coupled Modeling
-•	Integrate thermal feedback into the electrochemical model.
-•	Observe how temperature affects lithium diffusion, resistance, and safety margins under high-current profiles.
+    -	Integrate thermal feedback into the electrochemical model.
+    -	Observe how temperature affects lithium diffusion, resistance, and safety margins under high-current profiles.
 4. Battery Parameter Fitting and Data Validation
-•	Customize the SPM model to reflect r
+    -	Customize the SPM model to reflect real-world battery characteristics.
+      -	Tailor model parameters using dataset such as [Battery Archive](https://www.batteryarchive.org/), [Volta Foundation Data Repository](https://www.volta.foundation/)
+    -	Estimate parameters such as: Capacity (from constant current discharge), OCV–SOC curves (from pulse tests), Resistance/diffusion (from EIS).
+    -	Validate simulation behavior against published charge-discharge profiles or experimental benchmarks.
+5. Degradation and State-of-Health (SOH) Analysis
+    -	Integrate a simple SOH or aging model into the battery simulation.
+    -	Analyze how fast charging impacts capacity fade, resistance growth, or lithium plating risk over multiple cycles.
+6. Adaptive and Learning-Based Charging Strategies
+    -	Implement feedback-based charging using PI or [Model Predictive Control (MPC)]( https://www.mathworks.com/help/mpc/ref/mpccontroller.html).
+    -	Explore [reinforcement learning](https://www.mathworks.com/products/reinforcement-learning.html) for adaptive charging policy development using simulated reward structures.
 
 ## Background Material
-
-
 
 ## Impact
 
