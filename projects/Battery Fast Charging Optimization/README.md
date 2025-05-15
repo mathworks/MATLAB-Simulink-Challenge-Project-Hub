@@ -26,7 +26,7 @@ Note: A more rigorous method to evaluate lithium plating risk is to compare the 
     -	Use the SPM block and configure key parameters such as nominal capacity, initial state of charge (SOC), cutoff voltage, and thermal properties (if modeling heat).
     -	Explore model inputs (charging current) and outputs (SOC, voltage, temperature).
 3. Simulate Baseline CC–CV Charging
-    -	Use the Battery CC–CV Controller block to implement the standard charging method as reference. 
+    -	Use the [Battery CC–CV](https://www.mathworks.com/help/simscape-battery/ref/batterycccv.html) controller block to implement the standard charging method as reference. 
     -	Simulate the CC–CV process and record metrics such as:Total charging time, Maximum temperature (if thermal modeling is enabled), Final SOC and terminal voltage behavior.
 4. Design and Simulate Multi-Stage Charging Profiles
     -	Create custom fast-charging strategies using step functions, lookup tables, or Signal Builder blocks. 
@@ -61,6 +61,22 @@ Note: A more rigorous method to evaluate lithium plating risk is to compare the 
     -	Explore [reinforcement learning](https://www.mathworks.com/products/reinforcement-learning.html) for adaptive charging policy development using simulated reward structures.
 
 ## Background Material
+- [Simscape Battery](https://www.mathworks.com/products/simscape-battery.html)
+- [Battery Fast Charge with Simscape Battery](https://www.mathworks.com/company/technical-articles/generating-safe-fast-charge-profiles-for-ev-batteries.html)
+- [Battery Single Particle Model](https://www.mathworks.com/help/simscape-battery/ref/batterysingleparticle.html)
+- [Battery Charging and Discharging](https://www.mathworks.com/help/simscape-battery/ug/battery-constant-current-constant-voltage.html)
+- [Battery Charging and Discharging Webinar](https://www.mathworks.com/videos/simscape-battery-essentials-part-6-battery-charging-and-discharging-1663756212085.html)
+- [Perform Grouped Estimation of Model Parameters for Single-Particle Battery Model](https://www.mathworks.com/help/sldo/ug/perform-grouped-estimation-of-model-parameters-for-single-particle-battery-model.html)
+- [A Public Battery Data Repository - Volta Foundation](https://volta.foundation/battery-bits/introducing-batteryarchive-org-a-public-battery-data-repository)
+- [Battery Archive](batteryarchive.org)
+- [Open Source Battery Data](https://github.com/lappemic/open-source-battery-data)
+- [BatteryML](https://github.com/microsoft/BatteryML/tree/main)
+
+Suggested Reading:
+	
+[1]    H. E. Perez, S. Dey, X. Hu and S. J. Moura, “Optimal Charging of Li-Ion Batteries via a Single Particle Model with Electrolyte and Thermal Dynamics“ 2017 J. Electrochem. ([pdf](https://ecal.studentorg.berkeley.edu/pubs/ACC16-SPMeT-FastChg.pdf))
+ 
+[2]    Chen, G.; Liu, Z.; Su, H. An Optimal Fast-Charging Strategy for Lithium-Ion Batteries via an Electrochemical–Thermal Model with Intercalation-Induced Stresses and Film Growth. Energies 2020, 13, 2388. https://doi.org/10.3390/en13092388
 
 ## Impact
 
