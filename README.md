@@ -80,6 +80,15 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 *Updated: May 9, 2025*
 <table><!---->
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/FastChargerSPM.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Battery%20Fast%20Charging%20Optimization">Battery Fast Charging Optimization</a></h2></p>
+<p>Optimize lithium-ion battery charging strategies while preserving longevity and safety.</p>
+<p><strong>Impact</strong>: Improve battery charging performance while preserving safety and longevity.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Modeling and Simulation, Optimization, Electrification</p>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Battery%20Fast%20Charging%20Optimization&tfa_2=256"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Battery%20Fast%20Charging%20Optimization&tfa_2=256"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
+</td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BEVtrip.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Trip%20Planning%20for%20Battery%20Electric%20Vehicles%20Using%20Real-Time%20Map%20Data">Intelligent Trip Planning for Battery Electric Vehicles Using Real-Time Map Data</a></h2></p>
 <p>Simulate electric vehicle trips using real-time map data to evaluate energy-efficient routes and strategies.</p>
