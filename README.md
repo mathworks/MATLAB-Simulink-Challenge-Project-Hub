@@ -597,7 +597,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p>Gain practical experience in wireless communication by designing inexpensive software-defined radios.</p>
 <p><strong>Impact:</strong> Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
 <p><strong>Expertise gained:</strong> Wireless Communication, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio</p>
-<span><strong>Endorsed by:</strong></span><br>
+<span><strong>Industry partner:</strong></span><br>
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/NI_Logo.png"  width=70><br>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Build a wireless communications link with software defined radio&tfa_2=162"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Build a wireless communications link with software defined radio&tfa_2=162"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
