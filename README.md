@@ -37,6 +37,9 @@ If you are industry or faculty and interested in further information, to provide
         <td colspan="4"><h2>Announcements 📢</h2></td>
     </tr>
     <tr>
+        <td colspan="4"><h3>For issues regarding registration and/or submission forms, please read <a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/discussions/133"> this discussion.</a><h3></a></td>
+    </tr>
+    <tr>
         <td valign="top" width="25%">
             <h3>Sustainability and Renewable Energy Challenge 2024* 🌞</h3>
             Winners announced <a href ="https://www.mathworks.com/academia/students/competitions/student-challenge/sustainability-and-renewable-energy-challenge/2024-winners.html">here</a>
