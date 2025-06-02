@@ -21,7 +21,7 @@ This project requires a scenario where robots are competing against each other. 
 
 Suggested steps:
 1.	Draw a virtual underwater environment in your chosen simulation software ([UAV scenario designer](https://www.mathworks.com/help/uav/ug/uav-scenario-tutorial.html) in MATLAB®, [Gazebo](http://gazebosim.org/), or [Unreal Engine](https://www.unrealengine.com/))
-2.	Adjust the Simulink® model of underwater drone provided by MathWorks to meet your maneuverability requirement, and make a duplicate so you have two agents
+2.	Create a Simulink model of the underwater drone. Some existing resources that you can use as a starting point include: <a href="https://github.com/mathworks-robotics/modeling-and-simulation-of-an-AUV-in-Simulink">reference UAV application</a> repo and <a href="https://www.mathworks.com/videos/design-modeling-and-simulation-of-autonomous-underwater-vehicles-1619636864529.html">Design, Modeling, and Simulation of Autonomous Underwater Vehicles</a> presentation. Clone the model to the two drones.
 3.	Add a sonar sensor to the Simulink model using Sensor Fusion and Tracking Toolbox™ 
 4.	Implement your own control strategy for each vehicle in Simulink (some ideas: either build a state machine using defined “if-then” or [Stateflow](https://www.mathworks.com/products/stateflow.html), or use reinforcement lerning via the [Reinforcement Learning toolbox™ ](https://www.mathworks.com/products/reinforcement-learning.html) to train your hide-and-seek algorithm on the entire Simulink model)
 5.	Show your hide-and-seek simulation in your virtual environment.
