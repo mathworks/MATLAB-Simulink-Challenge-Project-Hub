@@ -21,15 +21,17 @@ This project requires a scenario where robots are competing against each other. 
 
 Suggested steps:
 1.	Draw a virtual underwater environment in your chosen simulation software ([UAV scenario designer](https://www.mathworks.com/help/uav/ug/uav-scenario-tutorial.html) in MATLAB®, [Gazebo](http://gazebosim.org/), or [Unreal Engine](https://www.unrealengine.com/))
-2.	Adjust the Simulink® model of underwater drone provided by MathWorks to meet your maneuverability requirement, and make a duplicate so you have two agents
+2.	Adjust the [Simulink® model](https://www.mathworks.com/help/aeroblks/modeling-and-simulation-of-an-autonomous-underwater-vehicle.html) of underwater drone provided by MathWorks to meet your maneuverability requirement, and make a duplicate so you have two agents.
 3.	Add a sonar sensor to the Simulink model using Sensor Fusion and Tracking Toolbox™ 
 4.	Implement your own control strategy for each vehicle in Simulink (some ideas: either build a state machine using defined “if-then” or [Stateflow](https://www.mathworks.com/products/stateflow.html), or use reinforcement lerning via the [Reinforcement Learning toolbox™ ](https://www.mathworks.com/products/reinforcement-learning.html) to train your hide-and-seek algorithm on the entire Simulink model)
 5.	Show your hide-and-seek simulation in your virtual environment.
 
 ## Background Material
 
-- [Modeling and Simulation of an Autonomous Underwater Vehicle](https://www.mathworks.com/videos/modeling-and-simulation-of-an-autonomous-underwater-vehicle-1586937688878.html)
+- [Modeling and Simulation of an Autonomous Underwater Vehicle (Simulink Model)](https://www.mathworks.com/help/aeroblks/modeling-and-simulation-of-an-autonomous-underwater-vehicle.html). Look at this [Repo](https://github.com/mathworks-robotics/modeling-and-simulation-of-an-AUV-in-Simulink/tree/master) for connecting with 3D enviroment.
+- [Modeling and Simulation of an Autonomous Underwater Vehicle (Video)](https://www.mathworks.com/videos/modeling-and-simulation-of-an-autonomous-underwater-vehicle-1586937688878.html)
 - [Control of an Autonomous Underwater Vehicle](https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-lqr-control-of-an-autonomous-underwater-vehicle-1543831839770.html)
+- [Design, Modeling, and Simulation of Autonomous Underwater Vehicles](https://www.mathworks.com/videos/design-modeling-and-simulation-of-autonomous-underwater-vehicles-1619636864529.html)
 - [Radar System Design](https://www.mathworks.com/discovery/radar-system-design.html)
 - [Multi-Agent Hide and Seek video](https://www.youtube.com/watch?v=kopoLzvh5jY)
 
