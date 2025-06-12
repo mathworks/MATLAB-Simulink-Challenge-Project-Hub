@@ -62,6 +62,8 @@ Note: A more rigorous method to evaluate lithium plating risk is to compare the 
 
 ## Background Material
 - [Simscape Battery](https://www.mathworks.com/products/simscape-battery.html)
+- [Battery Pack Modeling](https://matlabacademy.mathworks.com/details/battery-pack-modeling/otslbpm)
+- [Battery Systems courseware](https://github.com/MathWorks-Teaching-Resources/Battery-Systems)
 - [Battery Fast Charge with Simscape Battery](https://www.mathworks.com/company/technical-articles/generating-safe-fast-charge-profiles-for-ev-batteries.html)
 - [Battery Single Particle Model](https://www.mathworks.com/help/simscape-battery/ref/batterysingleparticle.html)
 - [Battery Charging and Discharging](https://www.mathworks.com/help/simscape-battery/ug/battery-constant-current-constant-voltage.html)
@@ -71,6 +73,10 @@ Note: A more rigorous method to evaluate lithium plating risk is to compare the 
 - [Battery Archive](batteryarchive.org)
 - [Open Source Battery Data](https://github.com/lappemic/open-source-battery-data)
 - [BatteryML](https://github.com/microsoft/BatteryML/tree/main)
+- [Signal Processing Onramp](https://matlabacademy.mathworks.com/details/signal-processing-onramp/signalprocessing)
+- [Signal Processing Courses](https://matlabacademy.mathworks.com/?page=1&fq=signal-processing&sort=featured)
+- [Optimization Onramp](https://matlabacademy.mathworks.com/details/optimization-onramp/optim)
+- [Reinforcement Learning Onramp](https://matlabacademy.mathworks.com/details/reinforcement-learning-onramp/reinforcementlearning)
 
 Suggested Reading:
 	
