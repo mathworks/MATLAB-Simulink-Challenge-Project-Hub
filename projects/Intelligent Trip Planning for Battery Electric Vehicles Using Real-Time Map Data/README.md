@@ -55,10 +55,15 @@ As an advanced extension, the project may include the development of energy and 
 ## Background Material
 
 -	[Google Maps API V 3 - Tutorial](https://www.w3resource.com/API/google-maps/index.php)
+-	[Battery Systems courseware](https://github.com/MathWorks-Teaching-Resources/Battery-Systems)
+-	[Data Analysis in MATLAB](https://matlabacademy.mathworks.com/details/data-analysis-in-matlab/lpmldam)
 -	[Mapping Toolbox - Exporting Vector Data to KML](https://www.mathworks.com/help/map/exporting-vector-data-to-kml.html)
 -	[Get Started with the Virtual Vehicle Composer](https://www.mathworks.com/help/vdynblks/ug/get-started-with-the-virtual-vehicle-composer.html)
 -	[How to Build Vehicle Models with the Virtual Vehicle Composer App](https://www.youtube.com/watch?v=qKxB6k9VZ78)
 -	[Powertrain Blockset Overview](https://www.mathworks.com/products/powertrain.html)
+-	[Stateflow Onramp](https://matlabacademy.mathworks.com/details/stateflow-onramp/stateflow)
+-	[Optimization Onramp](https://matlabacademy.mathworks.com/details/optimization-onramp/optim)
+-	[App Building Onramp](https://matlabacademy.mathworks.com/details/app-building-onramp/orab)
 
 Suggested readings:
 
