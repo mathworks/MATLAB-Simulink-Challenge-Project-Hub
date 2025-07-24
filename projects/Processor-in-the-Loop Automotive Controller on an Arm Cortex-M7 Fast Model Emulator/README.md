@@ -1,9 +1,9 @@
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator&tfa_2=257)</strong> to <strong>register</strong> your intent to complete this project.
 
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator&tfa_2=257)<strong/>to <strong>submit</strong> your solution to this project and qualify for the rewards.
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator&tfa_2=257)</strong> to <strong>submit</strong> your solution to this project and qualify for the rewards.
 
 <table>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pil.png"  width=500 /></td>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pil.png"  width=600 /></td>
 <td><p><h1>Processor-in-the-Loop Automotive Controller on an Arm Cortex-M7 Fast Model Emulator</h1></p>
 <p>Verify a Simulink automotive controller by running processor-in-the-loop (PIL) tests on a virtual Arm Cortex-M7 processor.  </p>
 </table>
@@ -64,7 +64,41 @@ Start with a prebuilt Simulink automotive control model and drive it through a c
    Use Embedded Coder® to generate C code for the controller subsystem.  
    Two execution paths are available.  
    - **Virtual target — Arm Cortex-M7 Fast Models**  
-     - See full process guide 
+     - See full process guide for support package installation, code generation and PIL in the document.  
+   - **Physical target – any Cortex-M7 dev kit** (e.g. STM32H7, NXP i.MX RT)  
+     - Install the board-specific [Embedded Coder support package](https://www.mathworks.com/hardware-support/arm-cortex-m.html) and vendor tool-chain or GNU Arm GCC.
+
+7. **Run Processor-in-the-Loop (PIL) Tests**  
+   Enable PIL Mode for the controller subsystem and rerun your MIL test cases:  
+   - Code executes on a physical or virtual Arm Cortex M7 processor.  
+   - Simulink exchanges I/O data step-by-step.
+
+8. **Publish the Verification Pack**  
+   Compile your findings using Simulink Report Generator™ or a Live Script:  
+   - Requirements traceability matrix  
+   - Model and code snapshots  
+   - MIL and PIL test results  
+
+   Export as a single PDF and include your Simulink project folder for submission.
+
+### Advanced project work
+
+1. **Conduct Execution Profiling**  
+   Capture execution time with the [Code Profile Analyzer](https://www.mathworks.com/help/ecoder/ref/codeprofileanalyzer-app.html) and analyze performance:  
+   - Confirm execution time fits within your sample rate.
+
+2. **Merge and Improve Coverage**  
+   - Merge model and code coverage to exceed 95 %.  
+   - Refine code, adjust solver settings, or enhance test cases as needed.
+
+3. **Perform Static Code Analysis**  
+   Run [Polyspace®](https://www.mathworks.com/products/polyspace.html) to check for runtime errors or MISRA C violations.
+
+4. **Extend the Verification Report**  
+   Add advanced sections to your final report:  
+   - Code coverage and execution time analysis  
+   - Polyspace or other code quality results  
+   - A final conclusion on software readiness
 
 
 ## Background Material
