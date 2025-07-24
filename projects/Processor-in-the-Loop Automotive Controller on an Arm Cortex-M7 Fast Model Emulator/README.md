@@ -64,7 +64,7 @@ Start with a prebuilt Simulink automotive control model and drive it through a c
    Use Embedded Coder® to generate C code for the controller subsystem.  
    Two execution paths are available.  
    - **Virtual target — Arm Cortex-M7 Fast Models**  
-     - See full process guide for support package installation, code generation and PIL in the document.  
+     - See full process guide for support package installation, code generation, and PIL in the [Fast Model Support Package Workflow. pdf](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator/Fast%20Model%20Support%20Package%20Workflow.pdf) file.  
    - **Physical target – any Cortex-M7 dev kit** (e.g. STM32H7, NXP i.MX RT)  
      - Install the board-specific [Embedded Coder support package](https://www.mathworks.com/hardware-support/arm-cortex-m.html) and vendor tool-chain or GNU Arm GCC.
 
