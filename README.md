@@ -89,7 +89,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Impact</strong>: Accelerate automotive software validation with virtual processor testing.</p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Modeling and Simulation, Control</p>
 <span><strong>Industry partner:</strong></span><br><br>
-<a href="https://https://developer.arm.com/" target="_blank">
+<a href="https://developer.arm.com/" target="_blank">
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Arm_Logo.svg"  width=400><br></a><br>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator&tfa_2=257"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator&tfa_2=257"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
 </td>
