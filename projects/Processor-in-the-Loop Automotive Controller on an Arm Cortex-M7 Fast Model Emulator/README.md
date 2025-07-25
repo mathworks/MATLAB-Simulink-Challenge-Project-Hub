@@ -12,7 +12,7 @@ This project is developed in collaboration with **Arm**. To earn recognition and
 
 **_Industry Partner_:**<br>
 <br>
-<a href="https://https://developer.arm.com/" target="_blank" style="display: inline-block; text-align: center;">
+<a href="https://developer.arm.com/" target="_blank" style="display: inline-block; text-align: center;">
     <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Arm_Logo.svg" width="600" style="display: block; margin: 0 auto;"><br>
    
 </a>
