@@ -80,33 +80,18 @@ _After the remarkable success of our inaugural edition, we are delighted to anno
 _By participating, you have the opportunity to **win up to $1000**. Visit this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html)** to learn more about the challenge and how to participate._
 -->
 ## All projects :file_folder:
-*Updated: May 14, 2025*
+*Updated: July 25, 2025*
 <table><!---->
 <tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pil.png"  width=500 /></td>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pil.png"  width=600 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator">Processor-in-the-Loop Automotive Controller on an Arm Cortex-M7 Fast Model Emulator</a></h2></p>
 <p>Verify a Simulink automotive controller by running processor-in-the-loop (PIL) tests on a virtual Arm Cortex-M7 processor.  </p>
 <p><strong>Impact</strong>: Accelerate automotive software validation with virtual processor testing.</p>
 <p><strong>Expertise gained</strong>: Autonomous Vehicles, Automotive, Modeling and Simulation, Control</p>
+<span><strong>Industry partner:</strong></span><br><br>
+<a href="https://https://developer.arm.com/" target="_blank">
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Arm_Logo.svg"  width=400><br></a><br>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator&tfa_2=257"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator&tfa_2=257"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
-</td>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/FastChargerSPM.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Battery%20Fast%20Charging%20Optimization">Battery Fast Charging Optimization</a></h2></p>
-<p>Optimize lithium-ion battery charging strategies while preserving longevity and safety.</p>
-<p><strong>Impact</strong>: Improve battery charging performance while preserving safety and longevity.</p>
-<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Modeling and Simulation, Optimization, Electrification</p>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Battery%20Fast%20Charging%20Optimization&tfa_2=256"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Battery%20Fast%20Charging%20Optimization&tfa_2=256"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
-</td>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BEVtrip.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Trip%20Planning%20for%20Battery%20Electric%20Vehicles%20Using%20Real-Time%20Map%20Data">Intelligent Trip Planning for Battery Electric Vehicles Using Real-Time Map Data</a></h2></p>
-<p>Simulate electric vehicle trips using real-time map data to evaluate energy-efficient routes and strategies.</p>
-<p><strong>Impact</strong>: Reduce energy use and environmental impact in electric vehicle travel.</p>
-<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Automotive, Electrification, Modeling and Simulation, Optimization</p>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Intelligent%20Trip%20Planning%20for%20Battery%20Electric%20Vehicles%20Using%20Real-Time%20Map%20Data&tfa_2=255"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Intelligent%20Trip%20Planning%20for%20Battery%20Electric%20Vehicles%20Using%20Real-Time%20Map%20Data&tfa_2=255"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
 </td>
 </tbody>
 <tbody>
@@ -131,6 +116,44 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <a href="https://www.st.com/" target="_blank">
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ST_logo_2024_blue.png"  width=100><br></a>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
+</td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ai-for-wireless-synthetic-waveform-dataset.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Classify%20RF%20Signals%20Using%20AI">Classify RF Signals Using AI</a></h2></p>
+<p>Use deep learning to classify wireless signals and perform real-world testing with software defined radios.</p>
+<p><strong>Impact:</strong> Help to mitigate the ever-increasing RF interference problem in the developed world.</p>
+<p><strong>Expertise gained:</strong> Wireless Communication, Artificial Intelligence, Deep Learning, Image Processing, Machine Learning, Neural Networks, Software-defined Radio</p>
+<span><strong>Industry partner:</strong></span><br>
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/NI_Logo.png"  width=100><br>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Classify RF Signals Using AI&tfa_2=245"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Classify RF Signals Using AI&tfa_2=245"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SDR.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20software%20defined%20radio">Build a Wireless Communications Link with Software-Defined Radio</a></h2></p>
+<p>Gain practical experience in wireless communication by designing inexpensive software-defined radios.</p>
+<p><strong>Impact:</strong> Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
+<p><strong>Expertise gained:</strong> Wireless Communication, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio</p>
+<span><strong>Industry partner:</strong></span><br>
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/NI_Logo.png"  width=100><br>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Build a wireless communications link with software defined radio&tfa_2=162"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Build a wireless communications link with software defined radio&tfa_2=162"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/FastChargerSPM.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Battery%20Fast%20Charging%20Optimization">Battery Fast Charging Optimization</a></h2></p>
+<p>Optimize lithium-ion battery charging strategies while preserving longevity and safety.</p>
+<p><strong>Impact</strong>: Improve battery charging performance while preserving safety and longevity.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Modeling and Simulation, Optimization, Electrification</p>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Battery%20Fast%20Charging%20Optimization&tfa_2=256"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Battery%20Fast%20Charging%20Optimization&tfa_2=256"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
+</td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BEVtrip.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Trip%20Planning%20for%20Battery%20Electric%20Vehicles%20Using%20Real-Time%20Map%20Data">Intelligent Trip Planning for Battery Electric Vehicles Using Real-Time Map Data</a></h2></p>
+<p>Simulate electric vehicle trips using real-time map data to evaluate energy-efficient routes and strategies.</p>
+<p><strong>Impact</strong>: Reduce energy use and environmental impact in electric vehicle travel.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Automotive, Electrification, Modeling and Simulation, Optimization</p>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Intelligent%20Trip%20Planning%20for%20Battery%20Electric%20Vehicles%20Using%20Real-Time%20Map%20Data&tfa_2=255"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Intelligent%20Trip%20Planning%20for%20Battery%20Electric%20Vehicles%20Using%20Real-Time%20Map%20Data&tfa_2=255"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
 </td>
 </tbody>
 <tbody>
@@ -187,16 +210,6 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p>Develop a Model-Predictive Control algorithm to optimally distribute torque in a 2-motor Battery Electric Vehicle (BEV) powertrain.</p>
 <p><strong>Impact:</strong> Reduce energy consumption while maintaining best motor performance.</p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Automotive, Control, Electrification, Modeling and Simulation</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Energy Management for a 2-Motor BEV using Model-Predictive Control&tfa_2=246"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Energy Management for a 2-Motor BEV using Model-Predictive Control&tfa_2=246"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ai-for-wireless-synthetic-waveform-dataset.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Classify%20RF%20Signals%20Using%20AI">Classify RF Signals Using AI</a></h2></p>
-<p>Use deep learning to classify wireless signals and perform real-world testing with software defined radios.</p>
-<p><strong>Impact:</strong> Help to mitigate the ever-increasing RF interference problem in the developed world.</p>
-<p><strong>Expertise gained:</strong> Wireless Communication, Artificial Intelligence, Deep Learning, Image Processing, Machine Learning, Neural Networks, Software-defined Radio</p>
-<span><strong>Industry partner:</strong></span><br>
-<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/NI_Logo.png"  width=70><br>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Classify RF Signals Using AI&tfa_2=245"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Classify RF Signals Using AI&tfa_2=245"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/dip.png"  width=500 /></td>
@@ -602,16 +615,6 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p>Develop and use models of humanoid robots to increase understanding of how best to control them and direct them to do useful tasks.</p>
 <p><strong>Impact:</strong> Accelerate the deployment of humanoid robots to real-world tasks including in healthcare, construction, and manufacturing.</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Robotics, Control, Cyber-Physical Systems, Deep Learning, Humanoid, Human-Robot Interaction, Machine Learning, Mobile Robots, Modeling and Simulation, Optimization, Reinforcement Learning</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Simulation-Based Design of Humanoid Robots&tfa_2=170"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Simulation-Based Design of Humanoid Robots&tfa_2=170"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SDR.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20software%20defined%20radio">Build a Wireless Communications Link with Software-Defined Radio</a></h2></p>
-<p>Gain practical experience in wireless communication by designing inexpensive software-defined radios.</p>
-<p><strong>Impact:</strong> Develop your own expertise in wireless technology and drive this megatrend forward, in industry and society.</p>
-<p><strong>Expertise gained:</strong> Wireless Communication, Low-Cost Hardware, Modeling and Simulation, Signal Processing, Software-Defined Radio</p>
-<span><strong>Industry partner:</strong></span><br>
-<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/NI_Logo.png"  width=70><br>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Build a wireless communications link with software defined radio&tfa_2=162"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Build a wireless communications link with software defined radio&tfa_2=162"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fan.jpg"  width=500 /></td>
