@@ -2,11 +2,20 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator&tfa_2=257)</strong> to <strong>submit</strong> your solution to this project and qualify for the rewards.
 
+This project is developed in collaboration with **Arm**. To earn recognition and rewards from **ARM developer Labs**, make sure you also submit your solution by following the Arm Developer Labs submission process on their [GitHub page](https://github.com/arm-university/Arm-Developer-Labs); it only take three minutes.
+
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pil.png"  width=600 /></td>
 <td><p><h1>Processor-in-the-Loop Automotive Controller on an Arm Cortex-M7 Fast Model Emulator</h1></p>
 <p>Verify a Simulink automotive controller by running processor-in-the-loop (PIL) tests on a virtual Arm Cortex-M7 processor.  </p>
 </table>
+
+**_Industry Partner_:**<br>
+<br>
+<a href="https://https://developer.arm.com/" target="_blank" style="display: inline-block; text-align: center;">
+    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Arm_Logo.svg" width="600" style="display: block; margin: 0 auto;"><br>
+   
+</a>
 
 ## Motivation
 
