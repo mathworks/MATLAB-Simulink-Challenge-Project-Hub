@@ -42,7 +42,7 @@ Used wisely, Generative AI is a powerful learning aid and productivity booster. 
 
 ---
 
-## 📅 Generative AI Usage Code of Conduct for Student Projects
+## 📅 Generative AI Usage Code of Conduct for Challenge Projects
 
 1. **Use AI as a Support Tool, Not a Substitute**  
    Do your own thinking first. Use GenAI to explore ideas or enhance your work—not to replace your effort.
