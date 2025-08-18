@@ -43,10 +43,6 @@ If you are industry or faculty and interested in further information, to provide
     </tr>
     <tr>
         <td valign="top" width="25%">
-            <h3>Sustainability and Renewable Energy Challenge 2024* 🌞</h3>
-            Winners announced <a href ="https://www.mathworks.com/academia/students/competitions/student-challenge/sustainability-and-renewable-energy-challenge/2024-winners.html">here</a>
-        </td>
-         <td valign="top" width="25%">
             <h3>AI Challenge** 🧠</h3>
             More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a>
         </td>
@@ -707,4 +703,5 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Expertise gained:</strong> Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 </table>
+
 
