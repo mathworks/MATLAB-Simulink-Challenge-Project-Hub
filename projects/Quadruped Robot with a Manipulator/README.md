@@ -1,4 +1,4 @@
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Quadruped%20Robot%20with%20a%20Manipulator&tfa_2=29)</strong> to **register** your intent to complete this project.s
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Quadruped%20Robot%20with%20a%20Manipulator&tfa_2=29)</strong> to **register** your intent to complete this project.
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Quadruped%20Robot%20with%20a%20Manipulator&tfa_2=29)</strong> to **submit** your solution to this project and qualify for the rewards.
 <table>

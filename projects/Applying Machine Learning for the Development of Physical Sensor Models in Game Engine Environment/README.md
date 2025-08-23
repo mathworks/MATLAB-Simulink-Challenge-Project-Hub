@@ -1,4 +1,4 @@
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Applying%20Machine%20Learning%20for%20the%20Development%20of%20Physical%20Sensor%20Models%20in%20Game%20Engine%20Environment&tfa_2=149)</strong> to **register** your intent to complete this project.s
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Applying%20Machine%20Learning%20for%20the%20Development%20of%20Physical%20Sensor%20Models%20in%20Game%20Engine%20Environment&tfa_2=149)</strong> to **register** your intent to complete this project.
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Applying%20Machine%20Learning%20for%20the%20Development%20of%20Physical%20Sensor%20Models%20in%20Game%20Engine%20Environment&tfa_2=149)</strong> to **submit** your solution to this project and qualify for the rewards.
 
