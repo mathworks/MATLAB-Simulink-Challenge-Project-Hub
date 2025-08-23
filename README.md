@@ -39,7 +39,7 @@ If you are industry or faculty and interested in further information, to provide
         <td colspan="4"><h2>Announcements 📢</h2></td>
     </tr>
     <tr>
-        <td colspan="4"><h3>For issues regarding registration and/or submission forms, please read <a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/discussions/133"> this discussion.</a><h3></a></td>
+        <td colspan="4"><h3>For issues regarding registration and/or submission forms, please read <a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/discussions/133"> this discussion.</a></h3></td>
     </tr>
     <tr>
         <td valign="top" width="25%">
@@ -58,7 +58,7 @@ If you are industry or faculty and interested in further information, to provide
 </table>
 
 ## Projects by technology trends :file_cabinet:
-- [**Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
+- [Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
 - [Autonomous Vehicles](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Autonomous%20Vehicles.md)
 - [Big Data](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Big%20Data.md)
 - [Computer Vision](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Computer%20Vision.md)
@@ -66,7 +66,7 @@ If you are industry or faculty and interested in further information, to provide
 - [Drones](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Drones.md)
 - [Industry 4.0](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Industry%204.0.md)
 - [Robotics](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Robotics.md)
-- [*Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
+- [Sustainability and Renewable Energy](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)
 - [Wireless Communication](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Wireless%20Communication.md)
 
 

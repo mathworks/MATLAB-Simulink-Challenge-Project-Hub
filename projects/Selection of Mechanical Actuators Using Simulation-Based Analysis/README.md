@@ -3,7 +3,7 @@
 ### Be the first to sign up for this project and receive a MathWorks T-shirt!
 <br>
 -->
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Selection%20of%20Mechanical%20Actuators%20Using%20Simulation-Based%20Analysis&tfa_2=148)</strong> to **register** your intent to complete this project.s
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Selection%20of%20Mechanical%20Actuators%20Using%20Simulation-Based%20Analysis&tfa_2=148)</strong> to **register** your intent to complete this project.
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Selection%20of%20Mechanical%20Actuators%20Using%20Simulation-Based%20Analysis&tfa_2=148)</strong> to **submit** your solution to this project and qualify for the rewards.
 
