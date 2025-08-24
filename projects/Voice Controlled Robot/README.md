@@ -1,4 +1,4 @@
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Voice%20Controlled%20Robot&tfa_2=30)</strong> to **register** your intent to complete this project.s
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Voice%20Controlled%20Robot&tfa_2=30)</strong> to **register** your intent to complete this project.
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Voice%20Controlled%20Robot&tfa_2=30)</strong> to **submit** your solution to this project and qualify for the rewards.
 
