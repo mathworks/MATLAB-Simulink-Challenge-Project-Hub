@@ -43,8 +43,8 @@ If you are industry or faculty and interested in further information, to provide
     </tr>
     <tr>
         <td valign="top" width="25%">
-            <h3>AI Challenge** 🧠</h3>
-            More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a>
+            <h3>AI Challenge* 🧠</h3>
+            Winners announced <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/discussions/142#discussion-8816277">here</a>
         </td>
         <td valign="top" width="25%">
             <h3>Host Your Own Custom Challenge! 🎓</h3>
@@ -58,7 +58,7 @@ If you are industry or faculty and interested in further information, to provide
 </table>
 
 ## Projects by technology trends :file_cabinet:
-- [**Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
+- [*Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
 - [Autonomous Vehicles](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Autonomous%20Vehicles.md)
 - [Big Data](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Big%20Data.md)
 - [Computer Vision](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Computer%20Vision.md)
@@ -703,5 +703,6 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Expertise gained:</strong> Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 </table>
+
 
 
