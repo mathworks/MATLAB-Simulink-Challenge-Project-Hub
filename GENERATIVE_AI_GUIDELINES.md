@@ -12,7 +12,7 @@ Generative AI tools (such as ChatGPT, Gemini, Claude, Copilot, and others) can b
 - **Thoroughly Review AI Suggestions:** Carefully read and understand every line of code the AI provides. Never include code you cannot explain.
 - **Test and Validate Functionality:** Rigorously test any AI-generated code with multiple test cases and edge cases. Submissions with non-functional code will not be accepted.
 - **Debug and Refine as Needed:** Treat AI output as a starting point. Refactor, optimize, or correct it as needed.
-- **Check Against Official Documentation:** AI may use outdated syntax or functions. Verify against official documentation (e.g., MathWorks, Python, etc.).
+- **Check Against Official Documentation:** AI may use outdated syntax or functions. Verify against official documentation (e.g., MathWorks documentation, etc.).
 - **Ensure Toolbox Compatibility and Leverage Built-in Features:** GenAI may miss newer built-in functions, suggest incorrect toolboxes, or create custom functions that duplicate existing ones already available in MathWorks toolboxes. Always verify that the code uses the correct toolbox, aligns with your installed and licensed features, and doesn’t overlook efficient built-in solutions for your task.
 
 ## 3. Be Prepared to Explain and Justify Your Solution
