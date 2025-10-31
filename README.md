@@ -45,6 +45,8 @@ part2_vibration_compensation  % Test compensation algorithms
 
 ## 📊 Results and Performance
 
+> **📋 For detailed results with comprehensive analysis, visualizations, and performance metrics, see [RESULTS.md](RESULTS.md)**
+
 ### Vibration Detection
 
 The solution implements frequency domain analysis to detect vibrations with **>95% accuracy** for frequencies above 20Hz.
@@ -54,7 +56,13 @@ The solution implements frequency domain analysis to detect vibrations with **>9
 - Distinguishes vibration from normal motion dynamics
 - Provides frequency-specific detection with configurable thresholds
 
+![Vibration Model](vibrationModel.png)
+
+**Figure 1: Vibration Model Development** - Time-domain, 3D trajectory, and frequency spectrum analysis
+
 ![Vibration Compensation](VibrationCompensation.png)
+
+**Figure 2: Vibration Compensation Results** - Comparison of four filtering algorithms
 
 ### Compensation Algorithm Comparison
 
@@ -233,6 +241,8 @@ For detailed troubleshooting, see [MATLAB_SETUP_GUIDE.md](MATLAB_SETUP_GUIDE.md)
 
 ## 📖 Documentation
 
+- **[README.md](README.md)** - This file - Overview and quick start guide
+- **[RESULTS.md](RESULTS.md)** - Detailed results, visualizations, and performance analysis
 - **[MATLAB_SETUP_GUIDE.md](MATLAB_SETUP_GUIDE.md)** - Complete setup and installation guide
 - **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Executive summary of implementation
 - **Inline Comments** - All MATLAB files are extensively commented
