@@ -1,0 +1,41 @@
+# MATLAB Generated Files
+*.mat
+*.asv
+*.autosave
+*.mexw64
+*.mexw32
+*.mexa64
+*.mexmaci64
+*.mex
+*.slxc
+slprj/
+
+# MATLAB Profiler and Coverage
+profile_results/
+coverage_results/
+
+# Build Artifacts
+build/
+dist/
+*.o
+*.obj
+
+# Temporary Files
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output Figures (optional - uncomment if you don't want to track figures)
+# *.fig
+# *.png
+# *.jpg
+
+# Log Files
+*.log
