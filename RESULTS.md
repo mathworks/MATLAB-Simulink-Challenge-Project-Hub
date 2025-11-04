@@ -645,6 +645,7 @@ RMS values computed in 1-second sliding windows:
 
 **Generated Plot: Detection Results (Part 2 Dashboard)**
 ![Vibration Detection & Compensation](VibrationDetectionCompensation.png)
+
 #### Detection Performance
 
 | Parameter | Value | Notes |
