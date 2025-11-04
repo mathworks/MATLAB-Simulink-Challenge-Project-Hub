@@ -817,7 +817,9 @@ R = 0.1500  (scalar)
 
 **Generated Plot: 12-Panel Comparison Dashboard**
 
-![Vibration Compensation Overview](Vibration Detection & Compensation.png)
+![Vibration Compensation Overview](VibrationDetectionCompensation.png)
+
+![3D Trajectory Visualization](enhanced_vibration_analysis_part1.png)
 
 #### Panel 1: Best Method Time-Domain (Top-Left)
 
