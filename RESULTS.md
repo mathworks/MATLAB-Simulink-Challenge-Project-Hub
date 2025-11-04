@@ -305,9 +305,9 @@ P_noise = variance of vibration component
 |------|------|----------|
 | `enhanced_imu_vibration_data.mat` | 0.55 MB | Part 1 simulation data |
 | `enhanced_vibration_compensation_results.mat` | 0.40 MB | Part 2 filter results |
-| `enhanced_vibration_analysis_part1.png` | ~500 KB | 12-panel Part 1 visualization |
-| `vibration_compensation_overview.png` | ~600 KB | 12-panel Part 2 visualization |
-| `frequency_domain_analysis.png` | ~450 KB | 6-panel filter comparison |
+| `enhanced_vibration_analysis_part1.png` | ~400 KB | 12-panel Part 1 visualization |
+| `Vibration Detection & Compensation.png` | ~220 KB | 12-panel Part 2 visualization |
+| `VibrationCompensation.png` | ~170 KB | Frequency domain filter comparison |
 
 ---
 
@@ -815,7 +815,9 @@ R = 0.1500  (scalar)
 
 ### Comprehensive Filter Comparison
 
-**Generated Plot: 12-Panel Comparison Dashboard (vibration_compensation_overview.png)**
+**Generated Plot: 12-Panel Comparison Dashboard**
+
+![Vibration Compensation Overview](Vibration Detection & Compensation.png)
 
 #### Panel 1: Best Method Time-Domain (Top-Left)
 
@@ -985,7 +987,9 @@ Vibration Residual (%):
 
 ### Frequency Domain Analysis - 6-Panel Grid
 
-**Generated Plot: frequency_domain_analysis.png**
+**Generated Plot: Frequency Domain Analysis**
+
+![Vibration Compensation Frequency Domain](VibrationCompensation.png)
 
 #### Low-Pass Filter Frequency Response (Panel 1)
 
