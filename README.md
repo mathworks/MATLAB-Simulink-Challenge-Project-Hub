@@ -12,14 +12,14 @@ Are you looking for a design or research project idea with real industry relevan
 Explore this list of challenge projects to learn about technology trends, gain practical skills with MATLAB and Simulink, and make a contribution to science and engineering. 
 Even more, you gain official recognition for your problem-solving skills from technology leaders at MathWorks and rewards upon project completion! 
 
- If you are new to MATLAB and Simulink or want to learn more, discover [this comprehensive repository of resources for students](https://github.com/mathworks/awesome-matlab-students) 
+📚 If you are new to MATLAB and Simulink or want to learn more, discover [this comprehensive repository of resources for students](https://github.com/mathworks/awesome-matlab-students) 
 
- Explore exciting opportunities to test your skills and win prizes by participating in regular [contests](https://www.mathworks.com/matlabcentral/contests.html) hosted by the MATLAB Central community
+🏆 Explore exciting opportunities to test your skills and win prizes by participating in regular [contests](https://www.mathworks.com/matlabcentral/contests.html) hosted by the MATLAB Central community
 
 ## How to participate :point_down:
 Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects by completing the project sign-up form accessible from the project’s description page and we will send you more information about the project and recognition awards.
 
- Please read our **[Generative AI Guidelines](GENERATIVE_AI_GUIDELINES.md)** before starting your project. Submissions with unverified, misunderstood, or misused AI-generated work will **not** be accepted.
+📌 Please read our **[Generative AI Guidelines](GENERATIVE_AI_GUIDELINES.md)** before starting your project. Submissions with unverified, misunderstood, or misused AI-generated work will **not** be accepted.
 
 For more information about the program and <strong>how to submit your solution, please visit our [wiki page](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/wiki)</strong>. 
 
@@ -36,22 +36,22 @@ If you are industry or faculty and interested in further information, to provide
 
 <table>
     <tr>
-        <td colspan="4"><h2>Announcements </h2></td>
+        <td colspan="4"><h2>Announcements 📢</h2></td>
     </tr>
     <tr>
         <td colspan="4"><h3>For issues regarding registration and/or submission forms, please read <a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/discussions/133"> this discussion.</a><h3></a></td>
     </tr>
     <tr>
         <td valign="top" width="25%">
-            <h3>AI Challenge* </h3>
+            <h3>AI Challenge* 🧠</h3>
             Winners announced <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/discussions/142#discussion-8816277">here</a>
         </td>
         <td valign="top" width="25%">
-            <h3>Host Your Own Custom Challenge! </h3>
+            <h3>Host Your Own Custom Challenge! 🎓</h3>
             More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#host-your-own-custom-challenge-">here</a>
         </td>
         <td valign="top" width="25%">
-            <h3>Industry Collaboration </h3>
+            <h3>Industry Collaboration 🏭🤝</h3>
             More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a>
         </td>
     </tr>
@@ -745,6 +745,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Expertise gained:</strong> Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 </table>
+
 
 
 
