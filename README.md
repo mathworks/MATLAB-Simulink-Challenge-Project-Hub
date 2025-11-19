@@ -303,7 +303,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
     <p>Develop a sensor fusion algorithm for vehicle pose estimation using classical filtering or AI-based techniques.</p>
 <p><strong>Impact:</strong> Enhance navigation accuracy of autonomous vehicles. </p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Sensor Fusion and Tracking, State Estimation</p>
-<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects//Sensor%20Fusion%20for%20Autonomous%20Systems/student%20submissions">Current submissions</a></p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Sensor Fusion for Autonomous Systems&tfa_2=233"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Sensor Fusion for Autonomous Systems&tfa_2=233"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Sensor Fusion for Autonomous Systems&tfa_2=233"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Sensor Fusion for Autonomous Systems&tfa_2=233"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/motionRecognition.png"  width=500 /></td>
@@ -328,7 +328,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
     <p>Design a controller to enable a micro aerial vehicle to stabilize in the scenario of an external aggressive disturbance.</p>
 <p><strong>Impact:</strong> Contribute to advancements in aerial vehicle control in contracted spaces with unforeseen environment conditions.</p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Drones, Robotics, Aerospace, Low-cost Hardware, Modeling and Simulation, State Estimation, UAV, Control</p>
-<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects//Aggressive%20Maneuver%20Stabilization%20for%20a%20Minidrone/student%20submissions">Current submissions</a></p>
+
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Aggressive Maneuver Stabilization for a Minidrone&tfa_2=230"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Aggressive Maneuver Stabilization for a Minidrone&tfa_2=230"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
@@ -372,7 +372,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
     <p>Model and control an autonomous snake-like robot to navigate an unknown environment.</p>
 <p><strong>Impact:</strong> Advance robotics design for hazardous environments inspection and operation in constricted spaces. </p>
 <p><strong>Expertise gained:</strong> Robotics, Manipulators, Modeling and Simulation</p>
-<p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects//Snake-like%20Robot%20Modeling%20and%20Navigation/student%20submissions">Current submissions</a></p>
+
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Snake-like Robot Modeling and Navigation&tfa_2=224"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Snake-like Robot Modeling and Navigation&tfa_2=224"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
@@ -753,6 +753,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Expertise gained:</strong> Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 </table>
+
 
 
 
