@@ -181,7 +181,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/grid.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Energy%20Management%20Systems%20for%20Smart%20Grids">Intelligent Energy Management Systems for Smart Grids </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Energy%20Management%20Systems%20for%20Smart%20Grids">Intelligent Energy Management Systems for Smart Grids</a></h2></p>
 <p>Design and Implement an Intelligent Energy Management System (IEMS) for Smart Grids to Optimize Energy Distribution and Consumption. </p>
 <p><strong>Impact</strong>: Elevate efficiency and forge a sustainable world through advanced energy management. </p>
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Electrification, Modeling and Simulation, Machine Learning</p>
@@ -748,6 +748,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Expertise gained:</strong> Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 </table>
+
 
 
 
