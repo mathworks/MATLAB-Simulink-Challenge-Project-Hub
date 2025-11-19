@@ -99,12 +99,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UR.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Adaptive%20Palletizing%20with%20Simulation%20Optimization">Adaptive Palletizing with Simulation Optimization</a></h2></p>
     <p><a href="projects/Adaptive%20Palletizing%20with%20Simulation%20Optimization/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Adaptive%20Palletizing%20with%20Simulation%20Optimization"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
     <p>Create a flexible robotics palletizing system that adapts to varying box sizes and configurations.</p>
-=======
-<p>Create a flexible robotics palletizing system that adapts to varying box sizes and configurations.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact</strong>: Scale up solutions for automated manufacturing and logistics.</p>
 <p><strong>Expertise gained</strong>: Robotics, Manipulators, Modeling and Simulation, Optimization</p>
 <span><strong>Industry partner:</strong></span><br><br>
@@ -129,12 +124,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ai-for-wireless-synthetic-waveform-dataset.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Classify%20RF%20Signals%20Using%20AI">Classify RF Signals Using AI</a></h2></p>
     <p><a href="projects/Classify%20RF%20Signals%20Using%20AI/submissions.md"><img src="https://img.shields.io/badge/Submissions-3-brightgreen?style=for-the-badge" alt="Submissions: 3"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Classify%20RF%20Signals%20Using%20AI"><img src="https://img.shields.io/badge/Submissions-3-brightgreen?style=for-the-badge" alt="Submissions: 3"></a></p>
-    <p>Use deep learning to classify wireless signals and perform real-world testing with software defined radios.</p>
-=======
 <p>Use deep learning to classify wireless signals and perform real-world testing with software defined radios.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Help to mitigate the ever-increasing RF interference problem in the developed world.</p>
 <p><strong>Expertise gained:</strong> Wireless Communication, Artificial Intelligence, Deep Learning, Image Processing, Machine Learning, Neural Networks, Software-defined Radio</p>
 <span><strong>Industry partner:</strong></span><br>
@@ -173,12 +163,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cfd.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks">Fluid Flow Simulation Using Physics-Informed Neural Networks</a></h2></p>
     <p><a href="projects/Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Develop a Physics Informed Neural Network (PINN) for fluid flow simulation. </p>
-=======
 <p>Develop a Physics Informed Neural Network (PINN) for fluid flow simulation. </p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact</strong>: Transform fluid dynamics with neural networks driving impactful innovations across industries.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Deep Learning, Modeling and Simulation, Neural Networks</p>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks&tfa_2=252"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks&tfa_2=252"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
@@ -188,12 +173,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/CO2.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Detection%20and%20Visualization%20of%20CO2%20Concentration%20Using%20Hyperspectral%20Satellite%20Data">Detection and Visualization of CO2 Concentration Using Hyperspectral Satellite Data</a></h2></p>
     <p><a href="projects/Detection%20and%20Visualization%20of%20CO2%20Concentration%20Using%20Hyperspectral%20Satellite%20Data/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Detection%20and%20Visualization%20of%20CO2%20Concentration%20Using%20Hyperspectral%20Satellite%20Data"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Develop a CO2 detection algorithm using hyperspectral images and visualize the results geospatially.</p>
-=======
 <p>Develop a CO2 detection algorithm using hyperspectral images and visualize the results geospatially.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact</strong>: Enable precise CO2 monitoring for effective climate action. </p>
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Image Processing, Machine Learning, Signal Processing</p>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Detection%20and%20Visualization%20of%20CO2%20Concentration%20Using%20Hyperspectral%20Satellite%20Data&tfa_2=251"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Detection%20and%20Visualization%20of%20CO2%20Concentration%20Using%20Hyperspectral%20Satellite%20Data&tfa_2=251"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
@@ -212,12 +192,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/solarTracker.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Solar%20Tracker%20Control%20Simulation">Solar Tracker Control Simulation</a></h2></p>
     <p><a href="projects/Solar%20Tracker%20Control%20Simulation/submissions.md"><img src="https://img.shields.io/badge/Submissions-8-brightgreen?style=for-the-badge" alt="Submissions: 8"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Solar%20Tracker%20Control%20Simulation"><img src="https://img.shields.io/badge/Submissions-8-brightgreen?style=for-the-badge" alt="Submissions: 8"></a></p>
-    <p>Design a control system for a multi axis solar tracker.</p>
-=======
 <p>Design a control system for a multi axis solar tracker.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact</strong>: Maximize solar irradiance to increase renewable energy production.</p>
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Control, Modeling and Simulation, Solar Panels</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Solar%20Tracker%20Control%20Simulation&tfa_2=249"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Solar%20Tracker%20Control%20Simulation&tfa_2=249"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -225,12 +200,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coneDetection.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Cone%20Detection%20for%20Formula%20Student%20Driverless%20Competition">Cone Detection for Formula Student Driverless Competition</a></h2></p>
     <p><a href="projects/Cone%20Detection%20for%20Formula%20Student%20Driverless%20Competition/submissions.md"><img src="https://img.shields.io/badge/Submissions-5-brightgreen?style=for-the-badge" alt="Submissions: 5"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Cone%20Detection%20for%20Formula%20Student%20Driverless%20Competition"><img src="https://img.shields.io/badge/Submissions-5-brightgreen?style=for-the-badge" alt="Submissions: 5"></a></p>
-    <p>Develop a cone detection algorithm for Formula Student Driverless competition.</p>
-=======
 <p>Develop a cone detection algorithm for Formula Student Driverless competition.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Enable accurate detection for autonomous racing cars.</p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Computer Vision, Deep Learning, Modeling and Simulation</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Cone%20Detection%20for%20Formula%20Student%20Driverless%20Competition&tfa_2=248"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Cone%20Detection%20for%20Formula%20Student%20Driverless%20Competition&tfa_2=248"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -238,12 +208,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/uamPathPlanning.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Multi-UAV%20Path%20Planning%20for%20Urban%20Air%20Mobility">Multi-UAV Path Planning for Urban Air Mobility</a></h2></p>
     <p><a href="projects/Multi-UAV%20Path%20Planning%20for%20Urban%20Air%20Mobility/submissions.md"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Multi-UAV%20Path%20Planning%20for%20Urban%20Air%20Mobility"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-    <p>Develop a path planning algorithm for multiple drones flying in an urban environment.</p>
-=======
 <p>Develop a path planning algorithm for multiple drones flying in an urban environment.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to advancing drone applications in UAM and revolutionizing the logistic industry.</p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Drones, Robotics, Multi-agent System, Optimization, Sensor Fusion and Tracking, UAV, Modeling and Simulation</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Multi-UAV Path Planning for Urban Air Mobility&tfa_2=247"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Multi-UAV Path Planning for Urban Air Mobility&tfa_2=247"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -251,12 +216,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BEV.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Energy%20Management%20for%20a%202-Motor%20BEV%20using%20Model-Predictive%20Control">Energy Management for a 2-Motor BEV using Model-Predictive Control</a></h2></p>
     <p><a href="projects/Energy%20Management%20for%20a%202-Motor%20BEV%20using%20Model-Predictive%20Control/submissions.md"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Energy%20Management%20for%20a%202-Motor%20BEV%20using%20Model-Predictive%20Control"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-    <p>Develop a Model-Predictive Control algorithm to optimally distribute torque in a 2-motor Battery Electric Vehicle (BEV) powertrain.</p>
-=======
 <p>Develop a Model-Predictive Control algorithm to optimally distribute torque in a 2-motor Battery Electric Vehicle (BEV) powertrain.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Reduce energy consumption while maintaining best motor performance.</p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Automotive, Control, Electrification, Modeling and Simulation</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Energy Management for a 2-Motor BEV using Model-Predictive Control&tfa_2=246"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Energy Management for a 2-Motor BEV using Model-Predictive Control&tfa_2=246"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -264,12 +224,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/dip.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Deep%20Image%20Prior%20for%20Inverse%20Problems%20in%20Imaging">Deep Image Prior for Inverse Problems in Imaging</a></h2></p>
     <p><a href="projects/Deep%20Image%20Prior%20for%20Inverse%20Problems%20in%20Imaging/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Deep%20Image%20Prior%20for%20Inverse%20Problems%20in%20Imaging"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Use the Deep Image Prior to solve inverse problems in imaging.</p>
-=======
 <p>Use the Deep Image Prior to solve inverse problems in imaging.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Implement the Deep Image Prior to provide high-quality solutions to inverse problems in imaging that are ubiquitous in industry.  </p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Computer Vision, Deep Learning, Image Processing, Machine Learning, Neural Networks, Optimization, Signal Processing</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Deep Image Prior for Inverse Problems in Imaging&tfa_2=244"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Deep Image Prior for Inverse Problems in Imaging&tfa_2=244"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -284,12 +239,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/audio_image.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Music%20Composition%20with%20Deep%20Learning">Music Composition with Deep Learning</a></h2></p>
     <p><a href="projects/Music%20Composition%20with%20Deep%20Learning/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Music%20Composition%20with%20Deep%20Learning"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Design and train a deep learning model to compose music.</p>
-=======
 <p>Design and train a deep learning model to compose music.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Generative music models can be used to create new assets on demand.</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Deep Learning, Machine Learning, Neural Networks, Audio</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Music Composition with Deep Learning&tfa_2=243"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Music Composition with Deep Learning&tfa_2=243"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -297,12 +247,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/carbonNeutral.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Carbon%20Neutrality">Carbon Neutrality</a></h2></p>
     <p><a href="projects/Carbon%20Neutrality/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Carbon%20Neutrality"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p> a CO2 emission model from historical data and create a plan to achieve carbon neutrality in the future.</p>
-=======
 <p> a CO2 emission model from historical data and create a plan to achieve carbon neutrality in the future.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Set up a strategy for carbon neutrality and consolidate the international collaboration.</p>
 <p><strong>Expertise gained:</strong> Computational Finance, Sustainability and Renewable Energy, Modeling and Simulation, Machine Learning</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Carbon Neutrality&tfa_2=242"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Carbon Neutrality&tfa_2=242"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -317,12 +262,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/topQuark.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Top%20Quark%20Detection%20with%20Deep%20Learning%20and%20Big%20Data">Top Quark Detection with Deep Learning and Big Data</a></h2></p>
     <p><a href="projects/Top%20Quark%20Detection%20with%20Deep%20Learning%20and%20Big%20Data/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Top%20Quark%20Detection%20with%20Deep%20Learning%20and%20Big%20Data"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Develop a predictive classifier model able to discriminate jets produced by top quark decays from the background jets</p>
-=======
 <p>Develop a predictive classifier model able to discriminate jets produced by top quark decays from the background jets</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Reduce the interference of background jets and help the discovery of new fundamental physics</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Big Data, Deep Learning, Physics </p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Top Quark Detection with Deep Learning and Big Data&tfa_2=238"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Top Quark Detection with Deep Learning and Big Data&tfa_2=238"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -337,12 +277,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/clean-energy.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Techno-Economic%20Assessment%20of%20Green%20Hydrogen%20Production">Techno-Economic Assessment of Green Hydrogen Production</a></h2></p>
     <p><a href="projects/Techno-Economic%20Assessment%20of%20Green%20Hydrogen%20Production/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Techno-Economic%20Assessment%20of%20Green%20Hydrogen%20Production"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Perform early-stage economic feasibility of an energy project to determine project viability.</p>
-=======
 <p>Perform early-stage economic feasibility of an energy project to determine project viability.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Connect economic aspect to technical design.</p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Modeling and Simulation, Electrification</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Techno-Economic Assessment of Green Hydrogen Production&tfa_2=236"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Techno-Economic Assessment of Green Hydrogen Production&tfa_2=236"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -364,12 +299,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/sensorFusion.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sensor%20Fusion%20for%20Autonomous%20Systems">Sensor Fusion for Autonomous Systems</a></h2></p>
     <p><a href="projects/Sensor%20Fusion%20for%20Autonomous%20Systems/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Sensor%20Fusion%20for%20Autonomous%20Systems"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Develop a sensor fusion algorithm for vehicle pose estimation using classical filtering or AI-based techniques.</p>
-=======
 <p>Develop a sensor fusion algorithm for vehicle pose estimation using classical filtering or AI-based techniques.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Enhance navigation accuracy of autonomous vehicles. </p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Sensor Fusion and Tracking, State Estimation</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects//Sensor%20Fusion%20for%20Autonomous%20Systems/student%20submissions">Current submissions</a></p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Sensor Fusion for Autonomous Systems&tfa_2=233"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Sensor Fusion for Autonomous Systems&tfa_2=233"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -385,12 +315,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/vibration.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Vibration%20Detection%20and%20Rejection%20from%20IMU%20Data">Vibration Detection and Rejection from IMU Data</a></h2></p>
     <p><a href="projects/Vibration%20Detection%20and%20Rejection%20from%20IMU%20Data/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Vibration%20Detection%20and%20Rejection%20from%20IMU%20Data"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Remove vibration signals from inertial measurement units.</p>
-=======
 <p>Remove vibration signals from inertial measurement units.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong>  Improve navigation systems by making them robust against vibrations.</p>
 <p><strong>Expertise gained:</strong> Drones, Autonomous Vehicles, Robotics, Modeling and Simulation, Sensor Fusion and Tracking, State Estimation, Signal Processing</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Vibration Detection and Rejection from IMU Data&tfa_2=231"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Vibration Detection and Rejection from IMU Data&tfa_2=231"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -398,12 +323,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agressivemanuvre3.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Aggressive%20Maneuver%20Stabilization%20for%20a%20Minidrone">Aggressive Maneuver Stabilization for a Minidrone</a></h2></p>
     <p><a href="projects/Aggressive%20Maneuver%20Stabilization%20for%20a%20Minidrone/submissions.md"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Aggressive%20Maneuver%20Stabilization%20for%20a%20Minidrone"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-    <p>Design a controller to enable a micro aerial vehicle to stabilize in the scenario of an external aggressive disturbance.</p>
-=======
 <p>Design a controller to enable a micro aerial vehicle to stabilize in the scenario of an external aggressive disturbance.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to advancements in aerial vehicle control in contracted spaces with unforeseen environment conditions.</p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Drones, Robotics, Aerospace, Low-cost Hardware, Modeling and Simulation, State Estimation, UAV, Control</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects//Aggressive%20Maneuver%20Stabilization%20for%20a%20Minidrone/student%20submissions">Current submissions</a></p>
@@ -413,12 +333,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coastline.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Coastline%20Prediction%20using%20Existing%20Climate%20Change%20Models">Coastline Prediction using Existing Climate Change Models</a></h2></p>
     <p><a href="projects/Coastline%20Prediction%20using%20Existing%20Climate%20Change%20Models/submissions.md"><img src="https://img.shields.io/badge/Submissions-4-brightgreen?style=for-the-badge" alt="Submissions: 4"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Coastline%20Prediction%20using%20Existing%20Climate%20Change%20Models"><img src="https://img.shields.io/badge/Submissions-4-brightgreen?style=for-the-badge" alt="Submissions: 4"></a></p>
-    <p>Develop an example that predicts and visualizes coastline impact due to rising sea levels.</p>
-=======
 <p>Develop an example that predicts and visualizes coastline impact due to rising sea levels.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Assess and plan for the potential impact of climate change.</p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Modeling and Simulation</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Coastline%20Prediction%20using%20Existing%20Climate%20Change%20Models/student%20submissions">Current submissions</a></p>
@@ -428,12 +343,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/landslide.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Landslide%20Susceptibility%20Mapping%20using%20Machine%20Learning">Landslide Susceptibility Mapping using Machine Learning</a></h2></p>
     <p><a href="projects/Landslide%20Susceptibility%20Mapping%20using%20Machine%20Learning/submissions.md"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Landslide%20Susceptibility%20Mapping%20using%20Machine%20Learning"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-    <p>Develop a tool to identify and visualize geographical areas susceptible to landslides.</p>
-=======
 <p>Develop a tool to identify and visualize geographical areas susceptible to landslides.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Identify areas that are at risk for landslides to help mitigate devastating impacts on people and infrastructure.</p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Machine Learning</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Landslide Susceptibility Mapping using Machine Learning&tfa_2=228"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Landslide Susceptibility Mapping using Machine Learning&tfa_2=228"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -441,12 +351,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/satellite.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Satellite%20Collision%20Avoidance">Satellite Collision Avoidance</a></h2></p>
     <p><a href="projects/Satellite%20Collision%20Avoidance/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Satellite%20Collision%20Avoidance"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Model satellites in Low Earth Orbit (LEO) to identify conjunctions and prevent collisions with space debris, while maintaining orbital requirements.</p>
-=======
 <p>Model satellites in Low Earth Orbit (LEO) to identify conjunctions and prevent collisions with space debris, while maintaining orbital requirements.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to the success of satellite mega-constellations and improve the safety of the Low Earth Orbit (LEO) environment.</p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Control, Satellite, Modeling and Simulation</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Satellite Collision Avoidance&tfa_2=225"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Satellite Collision Avoidance&tfa_2=225"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -454,12 +359,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cripto.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sentiment%20Analysis%20in%20Cryptocurrency%20Trading">Sentiment Analysis in Cryptocurrency Trading</a></h2></p>
     <p><a href="projects/Sentiment%20Analysis%20in%20Cryptocurrency%20Trading/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Sentiment%20Analysis%20in%20Cryptocurrency%20Trading"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p> your own cryptocurrency trading strategies based on sentiment analysis.</p>
-=======
 <p> your own cryptocurrency trading strategies based on sentiment analysis.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Have a foundation on the potential opportunities on Environmental, Social, and Governance (ESG) portfolio analysis.</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Deep Learning, Machine Learning, Text Analytics</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Sentiment Analysis in Cryptocurrency Trading&tfa_2=239"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Sentiment Analysis in Cryptocurrency Trading&tfa_2=239"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -467,12 +367,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/snakeRobot.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Snake-like%20Robot%20Modeling%20and%20Navigation">Snake-like Robot Modeling and Navigation</a></h2></p>
     <p><a href="projects/Snake-like%20Robot%20Modeling%20and%20Navigation/submissions.md"><img src="https://img.shields.io/badge/Submissions-4-brightgreen?style=for-the-badge" alt="Submissions: 4"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Snake-like%20Robot%20Modeling%20and%20Navigation"><img src="https://img.shields.io/badge/Submissions-4-brightgreen?style=for-the-badge" alt="Submissions: 4"></a></p>
-    <p>Model and control an autonomous snake-like robot to navigate an unknown environment.</p>
-=======
 <p>Model and control an autonomous snake-like robot to navigate an unknown environment.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Advance robotics design for hazardous environments inspection and operation in constricted spaces. </p>
 <p><strong>Expertise gained:</strong> Robotics, Manipulators, Modeling and Simulation</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects//Snake-like%20Robot%20Modeling%20and%20Navigation/student%20submissions">Current submissions</a></p>
@@ -497,12 +392,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/objectBehavior.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles">Classify Object Behavior to Enhance the Safety of Autonomous Vehicles</a></h2></p>
     <p><a href="projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles/submissions.md"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-    <p>Automatically classify behavior of tracked objects to enhance the safety of autonomous systems.</p>
-=======
 <p>Automatically classify behavior of tracked objects to enhance the safety of autonomous systems.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Make autonomous vehicles safer by classifying behaviors of objects around them.</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Autonomous Vehicles, Robotics, Drones, Deep Learning, Explainable AI, Machine Learning, Mobile Robots, Neural Networks, Reinforcement Learning, Sensor Fusion and Tracking, UAV, UGV, Automotive</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Classify Object Behavior to Enhance the Safety of Autonomous Vehicles&tfa_2=221"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Classify Object Behavior to Enhance the Safety of Autonomous Vehicles&tfa_2=221"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -517,12 +407,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Smart%20Watering%20System%20with%20Internet%20of%20Things">Smart Watering System with Internet of Things</a></h2></p>
     <p><a href="projects/Smart%20Watering%20System%20with%20Internet%20of%20Things/submissions.md"><img src="https://img.shields.io/badge/Submissions-3-brightgreen?style=for-the-badge" alt="Submissions: 3"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Smart%20Watering%20System%20with%20Internet%20of%20Things"><img src="https://img.shields.io/badge/Submissions-3-brightgreen?style=for-the-badge" alt="Submissions: 3"></a></p>
-    <p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware.</p>
-=======
 <p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Minimize the negative effects of the overuse of water in farming and preserve water resources. </p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Artificial Intelligence, IoT, Low-Cost Hardware, Deep Learning, Cloud Computing</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Smart Watering System with Internet of Things&tfa_2=219"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Smart Watering System with Internet of Things&tfa_2=219"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -560,12 +445,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Detection%20and%20Human%20Tracking%20Robot">Face Detection and Human Tracking Robot</a></h2></p>
     <p><a href="projects/Face%20Detection%20and%20Human%20Tracking%20Robot/submissions.md"><img src="https://img.shields.io/badge/Submissions-4-brightgreen?style=for-the-badge" alt="Submissions: 4"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Face%20Detection%20and%20Human%20Tracking%20Robot"><img src="https://img.shields.io/badge/Submissions-4-brightgreen?style=for-the-badge" alt="Submissions: 4"></a></p>
-    <p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>
-=======
 <p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Leverage mobile technology and deep learning to advance human detection algorithms for impacting human safety and security.</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Detection%20and%20Human%20Tracking%20Robot/student%20submissions">Current submissions</a></p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Face Detection and Human Tracking Robot&tfa_2=214"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Face Detection and Human Tracking Robot&tfa_2=214"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -574,12 +454,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Robust%20Visual%20SLAM%20Using%20MATLAB%20Mobile%20Sensor%20Streaming">Robust Visual SLAM Using MATLAB Mobile Sensor Streaming</a></h2></p>
     <p><a href="projects/Robust%20Visual%20SLAM%20Using%20MATLAB%20Mobile%20Sensor%20Streaming/submissions.md"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Robust%20Visual%20SLAM%20Using%20MATLAB%20Mobile%20Sensor%20Streaming"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-    <p>Perform robust visual SLAM using MATLAB Mobile sensor streaming.</p>
-=======
 <p>Perform robust visual SLAM using MATLAB Mobile sensor streaming.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Enable visual SLAM from streaming sensors and extend the state-of-art in real-time visual SLAM algorithms.</p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Computer Vision, Drones, Robotics, Automotive, AUV, Mobile Robots, Manipulators, Humanoid, UAV, UGV</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Robust Visual SLAM Using MATLAB Mobile Sensor Streaming&tfa_2=213"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Robust Visual SLAM Using MATLAB Mobile Sensor Streaming&tfa_2=213"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -601,12 +476,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/hyperspectralimage.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Change%20Detection%20in%20Hyperspectral%20Imagery">Change Detection in Hyperspectral Imagery</a></h2></p>
     <p><a href="projects/Change%20Detection%20in%20Hyperspectral%20Imagery/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Change%20Detection%20in%20Hyperspectral%20Imagery"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Develop an efficient method for detecting small changes on Earth surface using hyperspectral images. </p>
-=======
 <p>Develop an efficient method for detecting small changes on Earth surface using hyperspectral images. </p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Revolutionize the management of natural resources, monitoring, and preventing of disasters, going beyond what is visible to the naked eye.</p>
 <p><strong>Expertise gained:</strong> Computer Vision, Image Processing, Deep Learning</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Change Detection in Hyperspectral Imagery&tfa_2=210"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Change Detection in Hyperspectral Imagery&tfa_2=210"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -622,12 +492,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ImagePathPlanning.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Path%20Planning%20for%20Autonomous%20Race%20Cars">Path Planning for Autonomous Race Cars</a></h2></p>
     <p><a href="projects/Path%20Planning%20for%20Autonomous%20Race%20Cars/submissions.md"><img src="https://img.shields.io/badge/Submissions-3-brightgreen?style=for-the-badge" alt="Submissions: 3"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Path%20Planning%20for%20Autonomous%20Race%20Cars"><img src="https://img.shields.io/badge/Submissions-3-brightgreen?style=for-the-badge" alt="Submissions: 3"></a></p>
-    <p>Develop an algorithm to compute an optimal path for racing tracks. </p>
-=======
 <p>Develop an algorithm to compute an optimal path for racing tracks. </p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Push racing car competitions into fully autonomous mode </p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Automotive, Optimization, Modeling and Simulation</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Path%20Planning%20for%20Autonomous%20Race%20Cars/students%20submissions">Current submissions</a></p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Path Planning for Autonomous Race Cars&tfa_2=208"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Path Planning for Autonomous Race Cars&tfa_2=208"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -657,12 +522,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fuelCell.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Green%20Hydrogen%20Production">Green Hydrogen Production</a></h2></p>
     <p><a href="projects/Green%20Hydrogen%20Production/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Green%20Hydrogen%20Production"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Develop a model of a reversible fuel-cell integrated into a renewable-energy microgrid structure.</p>
-=======
 <p>Develop a model of a reversible fuel-cell integrated into a renewable-energy microgrid structure.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to the global transition to zero-emission energy sources through the production of hydrogen from clean sources.</p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Electrification, Digital Twins, Modeling and Simulation</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Green Hydrogen Production&tfa_2=204"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Green Hydrogen Production&tfa_2=204"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -670,12 +530,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Picture1.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Automatically%20Segment%20and%20Label%20Objects%20in%20Video">Automatically Segment and Label Objects in Video</a></h2></p>
     <p><a href="projects/Automatically%20Segment%20and%20Label%20Objects%20in%20Video/submissions.md"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Automatically%20Segment%20and%20Label%20Objects%20in%20Video"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-    <p>Implement algorithms to automatically label data for deep learning model training.</p>
-=======
 <p>Implement algorithms to automatically label data for deep learning model training.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Accelerate the development of robust AI algorithms for self-driving vehicles.</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Computer Vision, Deep Learning, Machine Learning</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Automatically Segment and Label Objects in Video&tfa_2=203"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Automatically Segment and Label Objects in Video&tfa_2=203"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -683,12 +538,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/PLL_using_DL.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Behavioral%20Modelling%20of%20Phase-Locked%20Loop%20using%20Deep%20Learning%20Techniques">Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques</a></h2></p>
     <p><a href="projects/Behavioral%20Modelling%20of%20Phase-Locked%20Loop%20using%20Deep%20Learning%20Techniques/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Behavioral%20Modelling%20of%20Phase-Locked%20Loop%20using%20Deep%20Learning%20Techniques"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Leverage a deep learning approach to extract behavioral models of mixed-signal systems from measurement data and circuit simulation.</p>
-=======
 <p>Leverage a deep learning approach to extract behavioral models of mixed-signal systems from measurement data and circuit simulation.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Accelerate mixed-signal design and analysis thereby reducing Time-To-Market for semiconductor companies.</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Deep Learning, Machine Learning, Modeling and Simulation, Neural Networks, RF and Mixed Signal, Optimization, Signal Processing</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Behavioral%20Modelling%20of%20Phase-Locked%20Loop%20using%20Deep%20Learning%20Techniques/student%20submissions">Current submissions</a></p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques&tfa_2=202"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques&tfa_2=202"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -723,12 +573,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/turbine.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Wind%20Turbine%20Predictive%20Maintenance%20Using%20Machine%20Learning">Wind Turbine Predictive Maintenance Using Machine Learning</a></h2></p>
     <p><a href="projects/Wind%20Turbine%20Predictive%20Maintenance%20Using%20Machine%20Learning/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Wind%20Turbine%20Predictive%20Maintenance%20Using%20Machine%20Learning"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Improve the reliability of wind turbines by using machine learning to inform a predictive maintenance model.</p>
-=======
 <p>Improve the reliability of wind turbines by using machine learning to inform a predictive maintenance model.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to providing the world with reliable green energy.</p>
 <p><strong>Expertise gained:</strong> Industry 4.0, Sustainability and Renewable Energy, Machine Learning, Electrification, Modeling and Simulation, Predictive Maintenance, Wind Turbines</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Wind Turbine Predictive Maintenance Using Machine Learning&tfa_2=197"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Wind Turbine Predictive Maintenance Using Machine Learning&tfa_2=197"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -749,12 +594,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HVAC.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Control%2C%20Modeling%2C%20Design%2C%20and%20Simulation%20of%20Modern%20HVAC%20Systems">Control, Modeling, Design, and Simulation of Modern HVAC Systems</a></h2></p>
     <p><a href="projects/Control,%20Modeling,%20Design,%20and%20Simulation%20of%20Modern%20HVAC%20Systems/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Control,%20Modeling,%20Design,%20and%20Simulation%20of%20Modern%20HVAC%20Systems"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Model a modern HVAC system and design a controller to improve heating, cooling, ventilation, air quality, pressure, humidity, and energy efficiency.</p>
-=======
 <p>Model a modern HVAC system and design a controller to improve heating, cooling, ventilation, air quality, pressure, humidity, and energy efficiency.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to the design and control of modern homes and buildings to preserve energy and healthy living environments.</p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Modeling and Simulation, Electrification, Control</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Control, Modeling, Design, and Simulation of Modern HVAC Systems&tfa_2=195"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Control, Modeling, Design, and Simulation of Modern HVAC Systems&tfa_2=195"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -762,12 +602,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/electricVehicle.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Predictive%20Electric%20Vehicle%20Cooling">Predictive Electric Vehicle Cooling</a></h2></p>
     <p><a href="projects/Predictive%20Electric%20Vehicle%20Cooling/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Predictive%20Electric%20Vehicle%20Cooling"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Improve range, performance, and battery life by designing a cooling algorithm that keep EV battery packs cool when they need it most.</p>
-=======
 <p>Improve range, performance, and battery life by designing a cooling algorithm that keep EV battery packs cool when they need it most.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to the electrification of transport worldwide. Increase the range, performance, and battery life of EVs.</p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Sustainability and Renewable Energy, Automotive, Control, Electrification, Modeling and Simulation, Optimization</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Predictive Electric Vehicle Cooling&tfa_2=194"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Predictive Electric Vehicle Cooling&tfa_2=194"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -775,12 +610,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HearingAid.PNG"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Speech%20Background%20Noise%20Suppression%20with%20Deep%20Learning">Speech Background Noise Suppression with Deep Learning</a></h2></p>
     <p><a href="projects/Speech%20Background%20Noise%20Suppression%20with%20Deep%20Learning/submissions.md"><img src="https://img.shields.io/badge/Submissions-3-brightgreen?style=for-the-badge" alt="Submissions: 3"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Speech%20Background%20Noise%20Suppression%20with%20Deep%20Learning"><img src="https://img.shields.io/badge/Submissions-3-brightgreen?style=for-the-badge" alt="Submissions: 3"></a></p>
-    <p>Develop a deep learning neural network for audio background noise suppression.</p>
-=======
 <p>Develop a deep learning neural network for audio background noise suppression.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Advance hearing aid technology through research in speech enhancement and noise suppression and improve the quality of life of persons with a hearing impairment.</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Deep Learning, Neural Networks, Signal Processing</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Speech%20Background%20Noise%20Suppression%20with%20Deep%20Learning/student%20submissions">Current submissions</a></p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Speech Background Noise Suppression with Deep Learning&tfa_2=193"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Speech Background Noise Suppression with Deep Learning&tfa_2=193"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -803,12 +633,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/utilities-energy-image-processing-and-deep-le.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection">Deep Learning for UAV Infrastructure Inspection</a></h2></p>
     <p><a href="projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Automate the process of infrastructure inspection using \ aerial vehicles and deep learning.</p>
-=======
 <p>Automate the process of infrastructure inspection using \ aerial vehicles and deep learning.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Enhance safety and speed of infrastructure inspection across a wide range of industries.</p>
 <p><strong>Expertise gained:</strong> Computer Vision, Drones, Artificial Intelligence, Robotics, UAV, SLAM, Deep Learning</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection/student%20submissions">Current submissions</a></p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Deep Learning for UAV Infrastructure Inspection&tfa_2=187"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Deep Learning for UAV Infrastructure Inspection&tfa_2=187"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -817,12 +642,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/virtualWorld.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/3D%20Virtual%20Test%20Track%20for%20Autonomous%20Driving">3D Virtual Test Track for Autonomous Driving</a></h2></p>
     <p><a href="projects/3D%20Virtual%20Test%20Track%20for%20Autonomous%20Driving/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/3D%20Virtual%20Test%20Track%20for%20Autonomous%20Driving"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Design a 3D virtual environment to test the diverse conditions needed to develop an autonomous vehicle. </p>
-=======
 <p>Design a 3D virtual environment to test the diverse conditions needed to develop an autonomous vehicle. </p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to autonomous vehicle development by creating virtual test scenes that can be used with many simulators across multiple vehicle development programs. </p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Automotive, Modeling and Simulation</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=3D Virtual Test Track for Autonomous Driving&tfa_2=171"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=3D Virtual Test Track for Autonomous Driving&tfa_2=171"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -837,12 +657,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fan.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Intelligent%20Fan%20Air%20Cooling%20System">Intelligent Fan Air Cooling System</a></h2></p>
     <p><a href="projects/Intelligent%20Fan%20Air%20Cooling%20System/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Intelligent%20Fan%20Air%20Cooling%20System"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Design an intelligent fan cooling system to moderate temperatures in a building to eliminate or reduce the need for air conditioning systems.</p>
-=======
 <p>Design an intelligent fan cooling system to moderate temperatures in a building to eliminate or reduce the need for air conditioning systems.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to energy and carbon footprint reduction.</p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Control, Modeling and Simulation, Optimization</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Intelligent Fan Air Cooling System&tfa_2=161"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Intelligent Fan Air Cooling System&tfa_2=161"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -850,12 +665,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/wireless.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Coverage%20Maps%20Using%20Measurements%20and%20Machine%20Learning">Signal Coverage Maps Using Measurements and Machine Learning</a></h2></p>
     <p><a href="projects/Signal%20Coverage%20Maps%20Using%20Measurements%20and%20Machine%20Learning/submissions.md"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Signal%20Coverage%20Maps%20Using%20Measurements%20and%20Machine%20Learning"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-    <p>Reduce the cost of Wireless Communication and IoT network deployment by generating coverage maps from limited measurements.</p>
-=======
 <p>Reduce the cost of Wireless Communication and IoT network deployment by generating coverage maps from limited measurements.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to the evolution and deployment of new wireless communications systems.</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Wireless Communication, Machine Learning</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Coverage%20Maps%20Using%20Measurements%20and%20Machine%20Learning/student%20submissions">Current submissions</a></p>
@@ -899,12 +709,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/mimo.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/MIMO%20Engine%20Airpath%20Control">MIMO Engine Airpath Control</a></h2></p>
     <p><a href="projects/MIMO%20Engine%20Airpath%20Control/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/MIMO%20Engine%20Airpath%20Control"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Internal combustion engines will continue to be used in the automotive marketplace well into the future. Build a MIMO airflow control to improve engine performances, fuel economy, and emissions, and start your career in the automotive industry!</p>
-=======
 <p>Internal combustion engines will continue to be used in the automotive marketplace well into the future. Build a MIMO airflow control to improve engine performances, fuel economy, and emissions, and start your career in the automotive industry!</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Improve environmental friendliness of engine control by tier 1 automotive supplier.</p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Automotive, Control, Modeling and Simulation</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/MIMO%20Engine%20Airpath%20Control/students%20submissions">Current submissions</a></p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=MIMO Engine Airpath Control&tfa_2=45"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=MIMO Engine Airpath Control&tfa_2=45"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -913,12 +718,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/raspbpi.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot">Voice Controlled Robot</a></h2></p>
     <p><a href="projects/Voice%20Controlled%20Robot/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Voice%20Controlled%20Robot"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
-=======
 <p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Open up the opportunities to create robots that can be an intuitive part of our world. </p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot/student%20submissions">Current submissions</a></p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Voice Controlled Robot&tfa_2=30"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Voice Controlled Robot&tfa_2=30"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -927,12 +727,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/quadruped.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Quadruped%20Robot%20with%20a%20Manipulator">Quadruped Robot with a Manipulator</a></h2></p>
     <p><a href="projects/Quadruped%20Robot%20with%20a%20Manipulator/submissions.md"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Quadruped%20Robot%20with%20a%20Manipulator"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-    <p>Legged robots with manipulators will be the ideal platforms to traverse rough terrains and interact with the environment. Are you ready to tackle the challenge of operating robots outdoor?</p>
-=======
 <p>Legged robots with manipulators will be the ideal platforms to traverse rough terrains and interact with the environment. Are you ready to tackle the challenge of operating robots outdoor?</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to state-of-the-art technologies for exploration and search and rescue transformation.</p>
 <p><strong>Expertise gained:</strong> Robotics, Control, Image Processing, Manipulators, Mobile Robots, Modeling and Simulation</p>
 <p align="right"; style="margin-top:1px;"> <a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Quadruped%20Robot%20with%20a%20Manipulator/student%20submissions">Current submissions</a></p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Quadruped Robot with a Manipulator&tfa_2=29"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Quadruped Robot with a Manipulator&tfa_2=29"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -948,16 +743,12 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/auto.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Vehicle%20Localization%20Using%20Onboard%20Sensors%20and%20HD%20Geolocated%20Maps">Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps</a></h2></p>
     <p><a href="projects/Autonomous%20Vehicle%20Localization%20Using%20Onboard%20Sensors%20and%20HD%20Geolocated%20Maps/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<<<<<<< HEAD
-    <p><a href="projects/Autonomous%20Vehicle%20Localization%20Using%20Onboard%20Sensors%20and%20HD%20Geolocated%20Maps"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-    <p>Revolutionize the current transportation system by improving autonomous vehicles localization for level 5 automation.</p>
-=======
 <p>Revolutionize the current transportation system by improving autonomous vehicles localization for level 5 automation.</p>
->>>>>>> 74f9f4ced38bfee14e2f679f261a7d4eb6ee0086
 <p><strong>Impact:</strong> Contribute to the change of automobile industry, and transportation system.</p>
 <p><strong>Expertise gained:</strong> Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 </table>
+
 
 
 
