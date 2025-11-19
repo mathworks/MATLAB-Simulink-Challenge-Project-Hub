@@ -227,7 +227,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/hearingAid.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Simulink%20Hearing%20Aid">Simulink Hearing Aid </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Simulink%20Hearing%20Aid">Simulink Hearing Aid</a></h2></p>
 <p>Develop a hearing aid simulation in Simulink.</p>
 <p><strong>Impact:</strong> Improve hearing aid simulation and create a testbed for new audio processing algorithm prototyping. </p>
 <p><strong>Expertise gained:</strong> Signal Processing, Audio, Modeling and Simulation</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Simulink Hearing Aid &tfa_2=241"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Simulink Hearing Aid &tfa_2=241"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -287,7 +287,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualIntertialOdometry.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone">Visual - Inertial Odometry for a Minidrone </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone">Visual - Inertial Odometry for a Minidrone</a></h2></p>
 <p>Design and implement a visual/visual-inertial odometry system using onboard camera for a Minidrone.</p>
 <p><strong>Impact:</strong>  Advance aerial vehicle control in contracted spaces with unforeseen environment conditions.</p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Computer Vision, Drones, Robotics, Aerospace, Control, Image Processing, Low-cost Hardware, Modeling and Simulation, Signal Processing, State Estimation, UAV</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Visual - Inertial Odometry for a Minidrone &tfa_2=234"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Visual - Inertial Odometry for a Minidrone &tfa_2=234"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -303,7 +303,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/motionRecognition.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Human%20Motion%20Recognition%20Using%20IMUs">Human Motion Recognition Using IMUs </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Human%20Motion%20Recognition%20Using%20IMUs">Human Motion Recognition Using IMUs</a></h2></p>
 <p>Use Deep Learning and Inertial Measurement Units (IMU) data to recognize human activities and gestures.</p>
 <p><strong>Impact:</strong> Enable the next generation of wearable electronic devices with motion recognition. </p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Deep Learning, Embedded AI, Neural Networks, Signal Processing</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Human Motion Recognition Using IMUs &tfa_2=232"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Human Motion Recognition Using IMUs &tfa_2=232"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -372,14 +372,14 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/intersection.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Light%20Negotiation%20and%20Perception-Based%20Detection">Traffic Light Negotiation and Perception-Based Detection  </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Light%20Negotiation%20and%20Perception-Based%20Detection">Traffic Light Negotiation and Perception-Based Detection</a></h2></p>
 <p>Detect traffic lights and perform traffic light negotiation at an intersection in Unreal environment. </p>
 <p><strong>Impact:</strong> Contribute to the advancement of autonomous vehicles traffic coordination in intersections through simulation. </p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Computer Vision, Automotive, Control, Deep Learning, Image Processing, Modeling and Simulation, Sensor Fusion and Tracking</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Traffic Light Negotiation and Perception-Based Detection  &tfa_2=223"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Traffic Light Negotiation and Perception-Based Detection  &tfa_2=223"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/trafficanalysis.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Data%20Analysis%20for%20Modelling%20and%20Prediction%20of%20Traffic%20Scenarios">Traffic Data Analysis for Modeling and Prediction of Traffic Scenarios </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Data%20Analysis%20for%20Modelling%20and%20Prediction%20of%20Traffic%20Scenarios">Traffic Data Analysis for Modeling and Prediction of Traffic Scenarios</a></h2></p>
 <p>Analyze real-world traffic data to understand, model, and predict human driving trajectories. </p>
 <p><strong>Impact:</strong> Contribute to autonomous driving technologies and intelligent transportation research. </p>
 <p><strong>Expertise gained:</strong> Big Data, Autonomous Vehicles, Support Vector Machines, Machine Learning, Deep Learning, Automotive</p>
@@ -425,7 +425,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/portableEvCharger.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles">Portable Charging System for Electric Vehicles </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles">Portable Charging System for Electric Vehicles</a></h2></p>
 <p>Design a portable charger for Electric Vehicles.</p>
 <p><strong>Impact:</strong> Help make electric vehicles more reliable for general use.</p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Control, Electrification, Modeling and Simulation</p>
@@ -464,7 +464,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SARPicture.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Synthetic%20Aperture%20Radar%20(SAR)%20Simulator">Synthetic Aperture Radar (SAR) Simulator </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Synthetic%20Aperture%20Radar%20(SAR)%20Simulator">Synthetic Aperture Radar (SAR) Simulator</a></h2></p>
 <p>Develop a lightweight Synthetic Aperture Radar (SAR) raw data simulator.</p>
 <p><strong>Impact:</strong> Accelerate design of SAR imaging systems and reduce time and cost for their development for aerial and terrestrial applications</p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Automotive, AUV, Image Processing, Signal Processing, Radar Processing</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Synthetic Aperture Radar (SAR) Simulator &tfa_2=211"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Synthetic Aperture Radar (SAR) Simulator &tfa_2=211"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -479,7 +479,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/rover.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain">Autonomous Navigation for Vehicles in Rough Terrain </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain">Autonomous Navigation for Vehicles in Rough Terrain</a></h2></p>
 <p>Design and implement a motion planning algorithm for off-road vehicles on rough terrain.</p>
 <p><strong>Impact:</strong> Expand the frontiers of off-road exploration and navigation using mobile robots for precision agriculture, firefighting, search and rescue, and planetary exploration. </p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Computer Vision, Robotics, Image Processing, Mobile Robots, SLAM, UGV, Optimization</p>
@@ -496,7 +496,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/treadmill.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Disturbance%20Rejection%20Control%20for%20PMSM%20Motors">Disturbance Rejection Control for PMSM Motors </a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Disturbance%20Rejection%20Control%20for%20PMSM%20Motors">Disturbance Rejection Control for PMSM Motors</a></h2></p>
 <p>Implement Active Disturbance Rejection Control (ADRC) algorithm for closed-loop speed control system for a Permanent Magnet Synchronous Motors (PMSM).</p>
 <p><strong>Impact:</strong> Improve the customer experience with advanced control strategies to handle the sudden changes in the load with better dynamic control performance.</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Electrification, Control, Modeling and Simulation, Reinforcement Learning</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Disturbance Rejection Control for PMSM Motors &tfa_2=207"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Disturbance Rejection Control for PMSM Motors &tfa_2=207"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -745,6 +745,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Expertise gained:</strong> Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 </table>
+
 
 
 
