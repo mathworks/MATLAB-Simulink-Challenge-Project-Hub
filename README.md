@@ -232,7 +232,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/hearingAid.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Simulink%20Hearing%20Aid">Simulink Hearing Aid</a></h2></p>
     <p><a href="projects/Simulink%20Hearing%20Aid/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<p>Develop a hearing aid simulation in Simulink.</p>
+    <p>Develop a hearing aid simulation in Simulink.</p>
 <p><strong>Impact:</strong> Improve hearing aid simulation and create a testbed for new audio processing algorithm prototyping. </p>
 <p><strong>Expertise gained:</strong> Signal Processing, Audio, Modeling and Simulation</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Simulink Hearing Aid &tfa_2=241"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Simulink Hearing Aid &tfa_2=241"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -309,7 +309,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/motionRecognition.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Human%20Motion%20Recognition%20Using%20IMUs">Human Motion Recognition Using IMUs</a></h2></p>
     <p><a href="projects/Human%20Motion%20Recognition%20Using%20IMUs/submissions.md"><img src="https://img.shields.io/badge/Submissions-2-brightgreen?style=for-the-badge" alt="Submissions: 2"></a></p>
-<p>Use Deep Learning and Inertial Measurement Units (IMU) data to recognize human activities and gestures.</p>
+    <p>Use Deep Learning and Inertial Measurement Units (IMU) data to recognize human activities and gestures.</p>
 <p><strong>Impact:</strong> Enable the next generation of wearable electronic devices with motion recognition. </p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Deep Learning, Embedded AI, Neural Networks, Signal Processing</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Human Motion Recognition Using IMUs &tfa_2=232"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Human Motion Recognition Using IMUs &tfa_2=232"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
@@ -386,7 +386,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/trafficanalysis.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Data%20Analysis%20for%20Modelling%20and%20Prediction%20of%20Traffic%20Scenarios">Traffic Data Analysis for Modeling and Prediction of Traffic Scenarios</a></h2></p>
     <p><a href="projects/Traffic%20Data%20Analysis%20for%20Modeling%20and%20Prediction%20of%20Traffic%20Scenarios/submissions.md"><img src="https://img.shields.io/badge/Submissions-1-brightgreen?style=for-the-badge" alt="Submissions: 1"></a></p>
-<p>Analyze real-world traffic data to understand, model, and predict human driving trajectories. </p>
+    <p>Analyze real-world traffic data to understand, model, and predict human driving trajectories. </p>
 <p><strong>Impact:</strong> Contribute to autonomous driving technologies and intelligent transportation research. </p>
 <p><strong>Expertise gained:</strong> Big Data, Autonomous Vehicles, Support Vector Machines, Machine Learning, Deep Learning, Automotive</p>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Traffic Data Analysis for Modelling and Prediction of Traffic Scenarios&tfa_2=222"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Traffic Data Analysis for Modelling and Prediction of Traffic Scenarios&tfa_2=222"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -433,7 +433,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/portableEvCharger.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles">Portable Charging System for Electric Vehicles</a></h2></p>
     <p><a href="projects/Portable%20Charging%20System%20for%20Electric%20Vehicles/submissions.md"><img src="https://img.shields.io/badge/Submissions-3-brightgreen?style=for-the-badge" alt="Submissions: 3"></a></p>
-<p>Design a portable charger for Electric Vehicles.</p>
+    <p>Design a portable charger for Electric Vehicles.</p>
 <p><strong>Impact:</strong> Help make electric vehicles more reliable for general use.</p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Control, Electrification, Modeling and Simulation</p>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Portable Charging System for Electric Vehicles &tfa_2=216"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Portable Charging System for Electric Vehicles &tfa_2=216"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
@@ -488,7 +488,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/rover.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain">Autonomous Navigation for Vehicles in Rough Terrain</a></h2></p>
     <p><a href="projects/Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain/submissions.md"><img src="https://img.shields.io/badge/Submissions-3-brightgreen?style=for-the-badge" alt="Submissions: 3"></a></p>
-<p>Design and implement a motion planning algorithm for off-road vehicles on rough terrain.</p>
+    <p>Design and implement a motion planning algorithm for off-road vehicles on rough terrain.</p>
 <p><strong>Impact:</strong> Expand the frontiers of off-road exploration and navigation using mobile robots for precision agriculture, firefighting, search and rescue, and planetary exploration. </p>
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Computer Vision, Robotics, Image Processing, Mobile Robots, SLAM, UGV, Optimization</p>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Autonomous Navigation for Vehicles in Rough Terrain &tfa_2=209"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Autonomous Navigation for Vehicles in Rough Terrain &tfa_2=209"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
