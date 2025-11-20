@@ -1,5 +1,5 @@
 # Submissions for: MIMO Engine Airpath Control
 
-|#| Submission | Trends, Technologies, and Links |
+|#| Submission | Links |
 |-|-|-------------------------------------------|
 |1|[MIMO Engine Airpath Control for Transient Torque Tracking](https://github.com/YorkPatty/T513---SIEngineDynamometer)<br/> This project implements multi-input multi-output scheduled model predictive controllers for SI engine airpath components to improve transient torque tracking in a simulated dynamometer. <br><br> **Authors:** Patrick Marlatt, Frederick Peterson, Jonathan Wozny <br/> **Affiliation:** Florida A&M University <br> **Submission Date:** 2021-04-26|[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/YorkPatty/T513---SIEngineDynamometer) <br> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=YorkPatty/T513---SIEngineDynamometer) <br> <br><br>[![Trend: Autonomous Vehicles](https://img.shields.io/badge/Trend-Autonomous%20Vehicles-blue?style=flat)](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Autonomous%20Vehicles.md)|

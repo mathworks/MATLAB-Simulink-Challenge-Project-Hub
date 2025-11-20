@@ -1,5 +1,5 @@
 # Submissions for: Green Hydrogen Production
 
-|#| Submission | Trends, Technologies, and Links |
+|#| Submission | Links |
 |-|-|-------------------------------------------|
 |1|[Modeling and Simulation of a Green Hydrogen Energy Storage DC Microgrid](https://github.com/michaelfsb/green-hydrogen-production)<br/> Simscape/Simulink model of a DC microgrid that integrates a photovoltaic (PV) panel with a unitized regenerative fuel cell (URFC) to study the feasibility and efficiency of green hydrogen energy storage. <br><br> **Authors:** Michael Feliphe da Silva Barbosa <br/> **Affiliation:** Universidade Federal de Santa Catarina <br> **Submission Date:** 2022-02-02|[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/michaelfsb/green-hydrogen-production) <br> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=michaelfsb/green-hydrogen-production) <br> <br><br>[![Trend: Sustainability and Renewable Energy](https://img.shields.io/badge/Trend-Sustainability%20and%20Renewable%20Energy-blue?style=flat)](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Sustainability%20and%20Renewable%20Energy.md)|

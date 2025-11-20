@@ -1,5 +1,5 @@
 # Submissions for: Sentiment Analysis in Cryptocurrency Trading
 
-|#| Submission | Trends, Technologies, and Links |
+|#| Submission | Links |
 |-|-|-------------------------------------------|
 |1|[Bitcoin Price Prediction via Sentiment and CNN-LSTM](https://github.com/steven1he/BTC-price-prediction-using-sentimental-analysis)<br/> Predicts Bitcoin prices by integrating sentiment analysis from cryptocurrency tweets with historical price data, utilizing a MATLAB-implemented CNN-LSTM deep learning model. <br><br> **Authors:** Guoshun He, Mengsha Liu, Xiwei Yu,  Zhuotong Sheng <br/> **Affiliation:** Nanyang Technological University <br> **Submission Date:** 2024-12-20|[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/steven1he/BTC-price-prediction-using-sentimental-analysis) <br> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=steven1he/BTC-price-prediction-using-sentimental-analysis) <br> <br><br>[![Trend: Artificial Intelligence](https://img.shields.io/badge/Trend-Artificial%20Intelligence-blue?style=flat)](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)|
