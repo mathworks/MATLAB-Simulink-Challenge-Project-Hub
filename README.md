@@ -2,6 +2,27 @@
 
 **Complete MATLAB Solution for Detecting and Compensating Vibrations in Inertial Measurement Unit Sensors**
 
+---
+
+## 🏆 Certificate of Accomplishment
+
+[![MathWorks Certificate](https://img.shields.io/badge/MathWorks-Certified-blue?style=for-the-badge&logo=mathworks)](./VimalkumarChawda_certificate.pdf)
+
+**Project Completed:** Vibration Detection and Rejection from IMU Data  
+**Issued By:** MathWorks Challenge Projects  
+**Date:** November 24, 2025  
+**Issued To:** Vimalkumar Chawda  
+
+This certificate validates the successful completion of a comprehensive MATLAB implementation for detecting and compensating vibrations in Inertial Measurement Unit (IMU) sensors, demonstrating expertise in:
+- Advanced signal processing and filtering techniques
+- IMU sensor modeling and simulation
+- Real-time vibration detection algorithms
+- Performance analysis and validation
+
+[📄 View Certificate](./VimalkumarChawda_certificate.pdf)
+
+---
+
 ![Vibration Model](vibrationModel.png)
 
 ## 📋 Overview
