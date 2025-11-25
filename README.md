@@ -21,6 +21,11 @@ This certificate validates the successful completion of a comprehensive MATLAB i
 
 [📄 View Certificate](./VimalkumarChawda_certificate.pdf)
 
+<div align="center">
+  <a href="./VimalkumarChawda_certificate.pdf">
+    <img src="https://img.shields.io/badge/Download-Certificate-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Certificate"/>
+  </a>
+</div>
 ---
 
 ![Vibration Model](vibrationModel.png)
