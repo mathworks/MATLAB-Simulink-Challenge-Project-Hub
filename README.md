@@ -21,7 +21,7 @@ Even more, you gain official recognition for your problem-solving skills from te
 Make the results of your work open and accessible to receive a certificate and endorsements from MathWorks research leads. Let us know your intent to complete one of these projects by completing the project sign-up form accessible from the project’s description page and we will send you more information about the project and recognition awards.
 
 
-:pushpin: Please read our **[Generative AI Guidelines](GENERATIVE_AI_GUIDELINES.md)** before starting your project. Submissions with unverified, misunderstood, or misused AI-generated work will **not** be accepted.
+:pushpin: Please read our **[Generative AI Guidelines](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Generative-AI-Guidelines)** before starting your project. Submissions with unverified, misunderstood, or misused AI-generated work will **not** be accepted.
 
 
 For more information about the program and <strong>how to submit your solution, please visit our [wiki page](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/wiki)</strong>. 
@@ -638,6 +638,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Expertise gained:</strong> Computer Vision, Robotics, Autonomous Vehicles, SLAM, State Estimation, Sensor Fusion and Tracking</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps&tfa_2=20"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">   <p align="left" style="margin-top:6px;"><a href="projects/Autonomous%20Vehicle%20Localization%20Using%20Onboard%20Sensors%20and%20HD%20Geolocated%20Maps/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-1-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 1"></a></p></a></td>
 </tbody>
 </table>
+
 
 
 
