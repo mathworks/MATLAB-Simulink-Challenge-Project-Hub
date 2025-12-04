@@ -76,7 +76,7 @@
         "submission_title": "Hybrid Multi-Class Video Segmentation with Deep Learning",
         "summary": "This hybrid multi-class system uses YOLOv4 detection and a multi-stage classical vision pipeline for mask refinement, automatically generating high-quality pixel labels for video objects and reducing manual labeling time by 85.7%.",
         "tags": [ "Deep Learning", "Video Segmentation", "Active Contours", "Image Processing" ],
-        "authors": "Angel Gupta",
+        "authors": "Angel Gupta, Mohit Goyal",
         "affiliation": "bharati vidyapeeth college of engineering ,GGSIPU",
         "repo_url": "https://github.com/MohitGoyal09/MATLAB_CHALLENGE_203",
         "submission_date": "2025-08-20",
@@ -212,7 +212,7 @@
     {
         "project_title": "Classify RF Signals Using AI",
         "project_id": 245,
-        "tech_trend": [ "5G", "Artificial Intelligence" ],
+        "tech_trend": [ "Wireless Communication", "Artificial Intelligence" ],
         "submission_title": "Real-time RF Signal Classification for Interference Detection",
         "summary": "This project classifies real-time WiFi and Bluetooth RF signals using a machine learning model, developed in MATLAB with Adalm Pluto SDRs, to detect interference.",
         "tags": [ "RF Classification", "Machine Learning", "SDR", "MATLAB" ],
@@ -226,7 +226,7 @@
     {
         "project_title": "Classify RF Signals Using AI",
         "project_id": 245,
-        "tech_trend": [ "5G", "Artificial Intelligence" ],
+        "tech_trend": [ "Wireless Communication", "Artificial Intelligence" ],
         "submission_title": "Deep Learning Classification of WLAN and Zigbee Signals",
         "summary": "A MATLAB deep learning classifier identifies Zigbee and WLAN signals from spectrogram images, supporting synthetic generation and live classification using an ADALM-PLUTO SDR.",
         "tags": [ "Deep Learning", "WLAN", "Zigbee", "SDR" ],
@@ -240,7 +240,7 @@
     {
         "project_title": "Classify RF Signals Using AI",
         "project_id": 245,
-        "tech_trend": [ "5G", "Artificial Intelligence" ],
+        "tech_trend": [ "Wireless Communication", "Artificial Intelligence" ],
         "submission_title": "Spectrogram Semantic Segmentation for ISM Band RF Signal Classification",
         "summary": "A deep learning semantic segmentation network classifies overlapping WLAN, Bluetooth, ZigBee, and SmartBAN signals in the ISM band, using synthetic spectrograms for training and evaluation with real SDR captures.",
         "tags": [ "Deep Learning", "Semantic Segmentation", "RF Classification", "SDR" ],
@@ -870,7 +870,7 @@
     {
         "project_title": "Signal Coverage Maps Using Measurements and Machine Learning",
         "project_id": 151,
-        "tech_trend": [ "Artificial Intelligence", "5G" ],
+        "tech_trend": [ "Artificial Intelligence", "Wireless Communication" ],
         "submission_title": "Signal Coverage Maps Using Measurements and Machine Learning",
         "summary": "This project generates signal coverage maps using Log-Distance Path Loss, Ordinary Kriging, and Kriging with Drift models, alongside machine learning regression techniques, evaluating performance with MSE/RMSE.",
         "tags": [ "Signal Coverage", "Kriging", "Path Loss Modeling", "Machine Learning" ],
@@ -884,7 +884,7 @@
     {
         "project_title": "Signal Coverage Maps Using Measurements and Machine Learning",
         "project_id": 151,
-        "tech_trend": [ "Artificial Intelligence", "5G" ],
+        "tech_trend": [ "Artificial Intelligence", "Wireless Communication" ],
         "submission_title": "Advanced Machine Learning for RSRP Coverage Map Prediction",
         "summary": "This project predicts RSRP values to create signal coverage maps by comparing channel propagation models, geostatistical methods like Kriging, and diverse machine learning techniques, with top performance from optimized GPR in MATLAB.",
         "tags": [ "Machine Learning", "RSRP Prediction", "Kriging", "MATLAB" ],
