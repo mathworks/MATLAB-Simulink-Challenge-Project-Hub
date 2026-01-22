@@ -1,6 +1,6 @@
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models&tfa_2=258)</strong> to <strong>register</strong> your intent to complete this project.
 
-Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models&tfa_2=258)<strong/>to <strong>submit</strong> your solution to this project and qualify for the rewards.
+Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models&tfa_2=258)</strong> to <strong>submit</strong> your solution to this project and qualify for the rewards.
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fomc.jpg"  width=500 /></td>
@@ -39,7 +39,7 @@ Advanced project work:
 2.	LLMs with MATLAB: https://github.com/matlab-deep-learning/llms-with-matlab 
 3.	PostgreSQL Native Interface: https://www.mathworks.com/help/database/postgresql-native-interface.html 
 4.	B. Pisaneschi, RAG for Finance: Automating Document Analysis with LLMs, https://rpc.cfainstitute.org/research/the-automation-ahead-content-series/retrieval-augmented-generation
-5.     LLM Retrieve-Augmented Generation in Finance using MATLAB: https://github.com/ydong9107/RAGinFinance
+5.  LLM Retrieve-Augmented Generation in Finance using MATLAB: https://github.com/ydong9107/RAGinFinance
 
 
 ## Impact
