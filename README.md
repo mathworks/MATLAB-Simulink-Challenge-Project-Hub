@@ -60,6 +60,15 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 *Updated: July 25, 2025*
 <table><!---->
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fomc.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models">Federal Open Market Committee Minutes Analysis with Large Language Models</a></h2></p>
+<p>Use large language models in MATLAB to extract insights from central bank policy documents.</p>
+<p><strong>Impact</strong>: Harness AI to revolutionize financial text analysis and unlock deeper insights from real-world monetary policy documents.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computational Finance, Natural Language Processing, Text Analytics, Neural Networks</p>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models&tfa_2=258"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models&tfa_2=258"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
+</td>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pil.png"  width=600 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator">Processor-in-the-Loop Automotive Controller on an Arm Cortex-M7 Fast Model Emulator</a></h2></p>
 <p>Verify a Simulink automotive controller by running processor-in-the-loop (PIL) tests on a virtual Arm Cortex-M7 processor.  </p>

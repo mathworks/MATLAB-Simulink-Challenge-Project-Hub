@@ -48,7 +48,7 @@
         "submission_title": "Quaternion-Based Attitude Control and State Estimation for Aggressive Minidrone Trajectory Tracking",
         "summary": "This project implements Sliding Mode Control for quaternion-based attitude and altitude stabilization and trajectory tracking of a Parrot Minidrone in Simulink, utilizing Extended Kalman Filters for state estimation to enable aggressive maneuvers.",
         "tags": [ "Sliding Mode Control", "Quaternion Control", "Kalman Filter", "Simulink" ],
-        "authors": "Khanh Ky Do,  Aloïs Millot, Antoine Carrel",
+        "authors": "Khanh Ky Do, Aloïs Millot, Antoine Carrel",
         "affiliation": "EPFL",
         "repo_url": "https://github.com/aero309/Quaternion-based-attitude-control-and-estimation-for-a-minidrone",
         "submission_date": "2025-07-30",
