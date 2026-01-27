@@ -29,11 +29,10 @@ For more information about the program and <strong>how to submit your solution, 
 If you are industry or faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html)</strong>.
 
 <table>
-    <tr><td colspan="4"><h2>Announcements :loudspeaker:</h2></td></tr>
+    <tr><td colspan="2"><h2>Announcements :loudspeaker:</h2></td></tr>
     <tr>
-        <td valign="top" width="25%"><h3>AI Challenge :brain:</h3> Winners announced <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/discussions/142#discussion-8816277">here</a></td>
-        <td valign="top" width="25%"><h3>Host Your Own Custom Challenge! :mortar_board:</h3>More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#host-your-own-custom-challenge-">here</a></td>
-        <td valign="top" width="25%"><h3>Industry Collaboration :factory::handshake:</h3>More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a></td>
+        <td valign="top" width="50%"><h3>Host Your Own Custom Challenge! :mortar_board:</h3>More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#host-your-own-custom-challenge-">here</a></td>
+        <td valign="top" width="50%"><h3>Industry Partners: Co-Develop a Challenge Project :factory::handshake:</h3>More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a></td>
     </tr>
 </table>
 
@@ -700,6 +699,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
     <p align="left" style="margin-top:6px;"><a href="projects/Autonomous%20Vehicle%20Localization%20Using%20Onboard%20Sensors%20and%20HD%20Geolocated%20Maps/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-1-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 1"></a></p>   </a></td>
 </tbody>
 </table>
+
 
 
 
