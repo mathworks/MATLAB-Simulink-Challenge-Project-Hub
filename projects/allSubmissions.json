@@ -1232,17 +1232,31 @@
         "TS": false
     },
     {
-        "project_title": "Wind Turbine Predictive Maintenance Using Machine Learning",
+        "affiliation": "National institute of technology puducherry",
+        "authors": "Saranya M, Kavyasree U, Devansh S",
         "project_id": 197,
-        "tech_trend": [ "Industry 4.0", "Sustainability and Renewable Energy" ],
+        "project_title": "Wind Turbine Predictive Maintenance Using Machine Learning",
+        "repo_url": "https://github.com/saranya-manikandan-02/Wind-Turbine-Predictive-Maintenance-Using-Machine-Learning",
+        "submission_date": "2024-01-01",
         "submission_title": "Wind Turbine Geartrain Fault Classification via CNN Spectrograms",
         "summary": "A machine learning system classifies wind turbine geartrain faults using MATLAB simulations, spectrograms, and CNNs, enabling adaptive predictive maintenance recommendations based on fault severity.",
         "tags": [ "CNN", "Spectrogram", "MATLAB", "Predictive Maintenance" ],
-        "authors": "Saranya M, Kavyasree U, Devansh S",
-        "affiliation": "National institute of technology puducherry",
-        "repo_url": "https://github.com/saranya-manikandan-02/Wind-Turbine-Predictive-Maintenance-Using-Machine-Learning",
-        "submission_date": "2024-01-01",
-        "video_url": "https://youtu.be/thU06Blt-uU",
+        "tech_trend": [ "Industry 4.0", "Sustainability and Renewable Energy" ],
+        "TS": false,
+        "video_url": "https://youtu.be/thU06Blt-uU"
+    },
+    {
+        "project_title": "Speech Background Noise Suppression with Deep Learning",
+        "project_id": 193,
+        "tech_trend": [ "Artificial Intelligence" ],
+        "submission_title": "CNN-LSTM Deep Learning Model for Speech Background Noise Suppression",
+        "summary": "This project develops a CNN-LSTM deep learning model in MATLAB for suppressing background noise in speech signals, achieving a significant average Signal-to-Noise Ratio improvement of 10.87 dB.",
+        "tags": [ "Deep Learning", "Speech Processing", "Noise Suppression", "CNN-LSTM" ],
+        "authors": "Rianna James, Ella Hou, Jenny Li, Qien(Lynn) Lin, Sowndaryan Jayaprakashanand, Andrea, Cabochan",
+        "affiliation": "Boston University",
+        "repo_url": "https://github.com/BTTAI-9/Team-9",
+        "submission_date": "2025-12-18",
+        "video_url": "",
         "TS": false
     }
 ]
