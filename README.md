@@ -64,6 +64,9 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p>Design a real-time medical imaging pipeline that uses Analog Devices high-speed ADCs, and NVIDIA Holoscan for deployment.</p>
 <p><strong>Impact</strong>: Enable rapid medical image assessment to support faster diagnosis and earlier treatment decisions.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Embedded AI, Image Processing, Real-time medical imaging</p>
+    <span><strong>Industry partner:</strong></span><br><br>
+<a href="https://www.analog.com/en/resources/courses-and-tutorials.html" target="_blank">
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ADIlogo.jpg"  width=200><br></a><br>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Real-Time%20Acceleration%20for%20Medical%20Image%20Processing&tfa_2=259"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Real-Time%20Acceleration%20for%20Medical%20Image%20Processing&tfa_2=259"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
 </td>
 </tbody>
@@ -708,6 +711,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
     <p align="left" style="margin-top:6px;"><a href="projects/Autonomous%20Vehicle%20Localization%20Using%20Onboard%20Sensors%20and%20HD%20Geolocated%20Maps/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-1-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 1"></a></p>   </a></td>
 </tbody>
 </table>
+
 
 
 
