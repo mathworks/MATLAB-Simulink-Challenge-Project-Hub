@@ -33,7 +33,7 @@ The ADI HoloHub example demonstrates a simple beamforming approach and may be us
     - Implement your enhancement algorithm in MATLAB and regenerate the CUDA code using GPU Coder.
     - Test your enhancements by applying them to several image frames and comparing visual output or performance.
 3.	**AI-Based Detection or Classification:** Once the image is enhanced, introduce a basic AI task to add perception or decision-making capability. Options include:
-    -	Using a pretrained model such as the breast lesion detection example [example](https://www.mathworks.com/help/deeplearning/ug/breast-tumor-segmentation-from-ultrasound-using-deep-learning.html) 
+    -	Using a pretrained model such as the breast lesion detection [example](https://www.mathworks.com/help/deeplearning/ug/breast-tumor-segmentation-from-ultrasound-using-deep-learning.html) 
     -	Build and train a Convolutional Neural Network (CNN) using the [Deep Learning Toolbox](https://www.mathworks.com/help/deeplearning/index.html) for ROI-based detection such as presence of a structure or pattern. Keep model lightweight to ensure real-time inference on GPU-capable edge devices.
     -	For dataset preparation and labeling:
         -	Use datasets from the [example](https://www.mathworks.com/help/deeplearning/ug/breast-tumor-segmentation-from-ultrasound-using-deep-learning.html) or from the background material to test and validate the model. 
