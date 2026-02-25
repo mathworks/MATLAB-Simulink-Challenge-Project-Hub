@@ -8,6 +8,12 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 <p>Design a real-time medical imaging pipeline that uses Analog Devices high-speed ADCs, and NVIDIA Holoscan for deployment.</p>
 </table>
 
+**_Industry Partner_:**<br>
+<br>
+<a href="https://www.analog.com/en/resources/courses-and-tutorials.html" target="_blank" style="display: inline-block; text-align: center;">
+    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ADIlogo.jpg" width="400" style="display: block; margin: 0 auto;"><br>
+</a>
+
 ## Motivation
 
 Modern medical imaging devices, such as portable ultrasound systems, must process large amounts of sensor data in real time while delivering clear, actionable output. This requires fast and optimized pipelines for signal acquisition, image reconstruction, enhancement, and increasingly, AI-based interpretation.
