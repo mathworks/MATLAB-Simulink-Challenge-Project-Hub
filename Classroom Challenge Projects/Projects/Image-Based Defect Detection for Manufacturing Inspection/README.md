@@ -155,7 +155,7 @@ Deliverable (extension): `maskAI = segmentDefect(I)` and comparison vs classical
 Reduce defects and scrap by delivering a repeatable inspection workflow.
 
 ## Expertise Gained
-Artificial Intelligence, Image preprocessing 
+Artificial Intelligence, Image Processing 
 
 ## Project Difficulty
 Intermediate - matriculating or first-year undergraduate student, transfer student
