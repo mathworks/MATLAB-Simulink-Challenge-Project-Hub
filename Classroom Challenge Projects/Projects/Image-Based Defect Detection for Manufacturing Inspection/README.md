@@ -1,11 +1,7 @@
 <table>
-
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/defectDetection.png"  width=500 /></td>
-
 <td><p><h1>Image-Based Defect Detection for Manufacturing Inspection</h1></p>
-
 <p>Build a MATLAB inspection pipeline to detect manufacturing defects  image processing.</p>
-
 </table>
 
 ## Motivation
@@ -70,8 +66,7 @@ Return a struct/table such as:
 
 Deliverable: `evidence = measureEvidence(roi, maskEvidence)`.
 
-
-#### 6. Evidence measurements (required, but intentionally minimal)
+#### 7. Evidence measurements (required, but intentionally minimal)
 After you generate an evidence mask, compute a small set of numbers that answer: “What did the algorithm see, and how strong was the evidence?”  
 These measurements are mainly for traceability (inspection logs), debugging, and optional sanity checks, not for building a complex classical classifier.
 
@@ -88,23 +83,23 @@ Recommended minimal metrics (works for many defect types):
   (`nnz(edgeMask) / numel(edgeMask)`)
 
 
-#### 7. Baseline rule-based gate (optional but recommended)
+#### 8. Baseline rule-based gate (optional but recommended)
 Implement 2–3 conservative rules so your system can always produce an explainable fallback:
 - Example: fail if `maxArea > Amax` or `numComponents > Nmax`
 
 Deliverable: `baselineDecision = decideRules(evidence)`.
 
-#### 8. AI decision using a MathWorks pretrained network (required)
+#### 9. AI decision using a MathWorks pretrained network (required)
 Use transfer learning with a pretrained network.
 
 Recommended starter: **ResNet-18**
-- Load the network: `net = resnet18;` (installs a support package if needed). :contentReference[oaicite:1]{index=1}
-- Resize/augment input with `augmentedImageDatastore(...)` to match the network input size. :contentReference[oaicite:2]{index=2}
-- Fine-tune the last layers for your classes (start with `PASS` vs `FAIL`), using `trainNetwork(...)` or a guided workflow such as “Get started with transfer learning” / pretrained network workflows. :contentReference[oaicite:3]{index=3}
+- Load the network: use `imagePretrainedNetwork` and select `resnet18` from the Deep Learning Toolbox.  
+- Resize/augment input with `augmentedImageDatastore(...)` to match the network input size. 
+- Fine-tune the last layers for your classes (start with `PASS` vs `FAIL`), using `trainNetwork(...)` or a guided workflow such as “Get started with transfer learning” / pretrained network workflows.
 
 Deliverable: `aiLabel = classify(net, roiForNet)` (and optionally scores).
 
-#### 9. Combine outputs into a hybrid inspection result (required)
+#### 10. Combine outputs into a hybrid inspection result
 Create `inspectPart(I)` that returns:
 - `finalLabel` (from AI)
 - `confidenceScore` (from AI scores)
@@ -114,7 +109,7 @@ Create `inspectPart(I)` that returns:
 
 Overlay results on the image using `insertShape(...)` / `insertText(...)`, and save rejects with `imwrite(...)`.
 
-#### 10. Automated evaluation and reporting (required)
+#### 11. Automated evaluation and reporting 
 Write `runInspectionSuite.m` that:
 - Splits data into train/test (e.g., `splitEachLabel(...)` or a fixed split)
 - Evaluates the trained AI model and logs outcomes
@@ -122,7 +117,7 @@ Write `runInspectionSuite.m` that:
 - Summarizes yield and defect counts in tables and plots
 - Creates a montage of common errors using `montage(...)`
 
-#### 11. Robustness test (required, low difficulty)
+#### 11. Robustness test 
 Simulate station variation and re-run the evaluation:
 - Brightness/contrast: `imadjust(...)`
 - Blur: `imgaussfilt(...)`
@@ -139,25 +134,22 @@ AI segmentation is **not required** for the core project. It becomes reasonable 
 
 If you do it, use the Image Labeler to create pixel labels and train a semantic segmentation network.
 - Label pixels using the Image Labeler / pixel labeling workflows:  
-  - [Get Started with the Image Labeler](https://www.mathworks.com/help/vision/ug/get-started-with-the-image-labeler.html) :contentReference[oaicite:4]{index=4}  
-  - [Label Pixels for Semantic Segmentation](https://www.mathworks.com/help/vision/ug/label-pixels-for-semantic-segmentation.html) :contentReference[oaicite:5]{index=5}  
-- Note: the Image Labeler supports pixel labeling tools and (in recent releases) options to assist labeling. :contentReference[oaicite:6]{index=6}
+  - [Get Started with the Image Labeler](https://www.mathworks.com/help/vision/ug/get-started-with-the-image-labeler.html)
+  - [Label Pixels for Semantic Segmentation](https://www.mathworks.com/help/vision/ug/label-pixels-for-semantic-segmentation.html)
+- Note: the Image Labeler supports pixel labeling tools and (in recent releases) options to assist labeling.
 
 Deliverable (extension): `maskAI = segmentDefect(I)` and comparison vs classical evidence masks.
 
 ---
 
 ## Background Material
-- [Pretrained Deep Neural Networks (classification, feature extraction, transfer learning)](https://www.mathworks.com/help/deeplearning/ug/pretrained-convolutional-neural-networks.html) :contentReference[oaicite:7]{index=7}  
-- [`resnet18` documentation](https://www.mathworks.com/help/deeplearning/ref/resnet18.html) :contentReference[oaicite:8]{index=8}  
-- [`augmentedImageDatastore` documentation](https://www.mathworks.com/help/deeplearning/ref/augmentedimagedatastore.html) :contentReference[oaicite:9]{index=9}  
-- [Deep Learning Toolbox documentation](https://www.mathworks.com/help/deeplearning/index.html) :contentReference[oaicite:10]{index=10}  
-- [Create and Explore Datastore for Image Classification (example)](https://www.mathworks.com/help/deeplearning/ug/create-and-explore-datastore-for-image-classification.html) :contentReference[oaicite:11]{index=11}  
-- [Get Started with the Image Labeler (ROI + pixel labels)](https://www.mathworks.com/help/vision/ug/get-started-with-the-image-labeler.html) :contentReference[oaicite:12]{index=12}  
-- [Label Pixels for Semantic Segmentation](https://www.mathworks.com/help/vision/ug/label-pixels-for-semantic-segmentation.html) :contentReference[oaicite:13]{index=13}  
-
-## Suggested Papers (Optional)
-- (Instructor/course-provided) readings on industrial inspection, segmentation/morphology fundamentals, and ML evaluation.
+- [Pretrained Deep Neural Networks (classification, feature extraction, transfer learning)](https://www.mathworks.com/help/deeplearning/ug/pretrained-convolutional-neural-networks.html)   
+- [`resnet18` documentation](https://www.mathworks.com/help/deeplearning/ref/resnet18.html) 
+- [`augmentedImageDatastore` documentation](https://www.mathworks.com/help/deeplearning/ref/augmentedimagedatastore.html) 
+- [Deep Learning Toolbox documentation](https://www.mathworks.com/help/deeplearning/index.html)
+- [Create and Explore Datastore for Image Classification (example)](https://www.mathworks.com/help/deeplearning/ug/create-and-explore-datastore-for-image-classification.html) 
+- [Get Started with the Image Labeler (ROI + pixel labels)](https://www.mathworks.com/help/vision/ug/get-started-with-the-image-labeler.html) 
+- [Label Pixels for Semantic Segmentation](https://www.mathworks.com/help/vision/ug/label-pixels-for-semantic-segmentation.html) 
 
 ## Impact
 Reduce defects and scrap by delivering a repeatable inspection workflow.
@@ -166,5 +158,5 @@ Reduce defects and scrap by delivering a repeatable inspection workflow.
 Artificial Intelligence, Image preprocessing 
 
 ## Project Difficulty
-Community College (1st–2nd year), intermediate (core is approachable; optional AI segmentation is a stretch).
+Intermediate - matriculating or first-year undergraduate student, transfer student
 
