@@ -46,9 +46,9 @@ Your task: Find the optimal θ and r that maximize E(θ, r).
 
 ### Expected Results for Project Solution
 
-- Numerical value for **Optimal Tilt Angle** (e.g. 39.8 degrees)
-- Numerical value for **Optimal Aspect Ratio** (e.g. 1.2)
-- Numerical value for **Maximum Energy Output** (e.g. 1895.3 units)
+- Numerical value for optimal tilt angle (e.g. 39.8 degrees)
+- Numerical value for optimal aspect ratio (e.g. 1.2)
+- Numerical value for maximum energy output (e.g. 1895.3 units)
 - Visualization of E(θ, r) (a figure or plot)
 
 ## Learning Outcomes
