@@ -40,15 +40,9 @@ Where:
 Your task: Find the optimal θ and r that maximize E(θ, r).
 
 ### Suggested Steps
-
-1. Define the objective function in MATLAB: `E = @(x)...` where x(1)=theta, x(2)=r.
-2. Use `fmincon` to find the values of theta and r that maximize the energy output.
-   - Hint: Minimize `-E(x)` instead.
-3. Constrain the values:
-   - 0 ≤ θ ≤ π/2
-   - 0.5 ≤ r ≤ 4
-4. Plot the objective function using `fsurf` or a mesh plot to visualize E(θ, r).
-5. Print the optimal angle, ratio, and corresponding energy output.
+1. Define the objective function in MATLAB: E = @(x)... where x(1)=theta, x(2)=r.
+2. Use 'fmincon' to find the values of theta and r that maximize the energy output. (Hint: Minimize -E(x) instead.) Constrain the values: 0 ≤ θ ≤ π/2 and 0.5 ≤ r ≤ 4
+3. Plot the objective function using 'fsurf' or a mesh plot to visualize E(θ, r). Print the optimal angle, ratio, and corresponding energy output.
 
 ### Expected Results for Project Solution
 
