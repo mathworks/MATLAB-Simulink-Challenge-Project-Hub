@@ -16,7 +16,7 @@ Your solution must include:
 - A pretrained-network workflow using a **MathWorks provided pretrained network** (recommended: `resnet18`)
 
 ### Suggested Steps:
-
+Open the "ImageBasedDefectSystem_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
 1. Define defect modes and labels (keep it small)
     - Choose 2–3 defect types plus PASS (start with binary `PASS` vs `FAIL` if time is short).
     - Store labels in a table loaded by `readtable(...)`.
