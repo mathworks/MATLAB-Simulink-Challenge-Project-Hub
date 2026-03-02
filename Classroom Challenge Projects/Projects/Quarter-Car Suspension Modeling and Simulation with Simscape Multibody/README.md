@@ -123,16 +123,52 @@ Your solution must include:
     - Estimate transmissibility (road-to-body acceleration) using FFT for the rough road case
 
 ## Learning Outcomes
+- Build a physics‑based quarter‑car suspension model using Simscape Multibody, including sprung/unsprung masses, spring–damper suspension, and tire compliance.
+- Create and run an automated road‑test harness capable of executing multiple road profiles and logging key dynamic signals.
+- Compute objective performance metrics for ride comfort, road holding, and packaging (e.g., RMS acceleration, suspension travel, tire deflection).
+- Perform suspension tuning using parameter sweeps to improve performance across road cases.
+- Evaluate robustness of suspension performance under parameter variation (mass change, stiffness/damping tolerances).
+- Apply a model‑based design workflow, including repeatable testing, metrics‑driven tuning, and before/after comparison.
 
+## Suggested Background Material
+### 1. Mass–Spring–Damper Fundamentals
+- Free/forced vibration behavior
+- Natural frequency, damping ratio, resonance concepts
+- Equations of motion for 1‑DOF and 2‑DOF systems
+- How stiffness and damping affect response amplitude and settling
 
-## Background Material
+### 2. Basic Vehicle Suspension Concepts
+- Sprung vs. unsprung mass
+- Role of suspension spring, damper, and tire stiffness
+- Tradeoffs between ride comfort and road holding
+- Interpretation of typical metrics (RMS acceleration, suspension travel, tire deflection)
 
-- Simscape Multibody Documentation: https://www.mathworks.com/help/sm/
-- Simscape Physical Modeling Documentation: https://www.mathworks.com/help/simscape/
-- Mass-Spring-Damper in Simulink and Simscape (reference example): https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-simscape.html 
+### 3. MATLAB Fundamentals
+- Working with scripts, functions, and `timeseries` data
+- Generating signals (sine, filtered noise, half‑sine bumps)
+- Basic plotting and data inspection
+
+### 4. Simscape & Simscape Multibody Fundamentals
+- Understanding physical network modeling
+- Rigid bodies, joints, constraints, and frames
+- Building simple mechanical subsystems (mass, spring, damper)
+- Parameterizing components and logging simulation outputs
+- Using `From Workspace`, `Signal Editor`, or custom road‑profile inputs
+- Setting up simulation configurations for stable, fast runs
+
+## MathWorks Tutorials
+### Highly Recommended
+- [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
+- [Simscape Onramp](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape)
+  
+### Other Recommended Tutorials
+- [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink)
+- [Simscape Multibody Documentation](https://www.mathworks.com/help/sm/)
+- [Simscape Physical Modeling Documentation](https://www.mathworks.com/help/simscape/)
+- [Mass-Spring-Damper in Simulink and Simscape (reference example)](https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-simscape.html) 
 
 ## Project Difficulty
-- Intermediate: 1st-2nd year Community College or transfer student
+- Beginner: Matriculating or 1st-year undergraduate student
 
 
 
