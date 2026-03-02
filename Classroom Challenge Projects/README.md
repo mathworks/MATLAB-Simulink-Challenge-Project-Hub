@@ -6,7 +6,7 @@ Instructors are encouraged to use the resources and guidelines provided below to
 Educators and students can expect:
 - Accessible, scaffolded projects that introduce authentic engineering and science applications while remaining approachable for learners with developing technical backgrounds
 - Meaningful, industry relevant  challenges that help students build confidence with professional tools and workflows
-- Ready-to- use faculty resources that support implementation, assessment, and classroom integration
+- Ready-to-use faculty resources that support implementation, assessment, and classroom integration
 
 ## How to Participate
 Below you will find a suggested timeline and set of instructor guidelines for implementing the MathWorks Classroom Challenge Projects in your class or program. For each step, you will find a list of related resources in the rightmost column to help you with each implementation milestone.
