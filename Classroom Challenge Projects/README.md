@@ -64,32 +64,32 @@ For nominated projects to be considered for MathWorks review and a prize, studen
 
 ### Repository Guidelines
 1.	**Repository Structure**
-  - Use a clear layout (e.g., data/, models/, docs/).
-  - Include a root README.md with: Short project description, setup instructions, steps to run the project, dependencies or any external tools used, results (figures, plots, pictures, animations, or tables), references, contact information (optional)
+      - Use a clear layout (e.g., data/, models/, docs/).
+      - Include a root README.md with: Short project description, setup instructions, steps to run the project, dependencies or any external tools used, results (figures, plots, pictures, animations, or tables), references, contact information (optional)
 2.	**Main Script/Entry Point**
-  - Provide one main entry point that runs the full system end-to-end with minimal intervention: MATLAB Live Script (.mlx) or MATLAB script (.m), or
+      - Provide one main entry point that runs the full system end-to-end with minimal intervention: MATLAB Live Script (.mlx) or MATLAB script (.m), or
  MATLAB App (.mlapp) with configurable parameters
-  - The entry point should: load data (see Input Data), initialize models (if needed), run the processing pipeline, and display results (plots, metrics, reports, etc.)
-  - Aim for a “one-click run” experience (no code edits required).
+      - The entry point should: load data (see Input Data), initialize models (if needed), run the processing pipeline, and display results (plots, metrics, reports, etc.)
+      - Aim for a “one-click run” experience (no code edits required).
 3.	**Input Data**
-  - If input data are required: include a small sample dataset in data/sample/ sufficient for a basic test without extra downloads.
-  - If the full dataset is large: provide a download link and instructions in the README.
+      - If input data are required: include a small sample dataset in data/sample/ sufficient for a basic test without extra downloads.
+      - If the full dataset is large: provide a download link and instructions in the README.
 4.	**Machine Learning Models**
-  - If training is involved: include trained model files in `models/`. If too large for GitHub, upload to a shared location (e.g., Google Drive, OneDrive) and link in the README.
-  - Ensure the main script loads and runs the pre-trained model directly.
+      - If training is involved: include trained model files in `models/`. If too large for GitHub, upload to a shared location (e.g., Google Drive, OneDrive) and link in the README.
+      - Ensure the main script loads and runs the pre-trained model directly.
 5.	**Dependencies & External Tools**
-  - List all required toolboxes, add-ons, and third-party libraries in the README.
-  - For Simulink projects, specify required blocksets/toolboxes.
-  - If using external executables or Python libraries, include installation instructions.
+      - List all required toolboxes, add-ons, and third-party libraries in the README.
+      - For Simulink projects, specify required blocksets/toolboxes.
+      - If using external executables or Python libraries, include installation instructions.
 6.	**Testing and Verification**
-  - Include a suggestion for a simple test/demo that runs quickly to verify correctness.
-  - Provide expected outputs (figures, metrics, logs, etc.) so reviewers can confirm results.
+      - Include a suggestion for a simple test/demo that runs quickly to verify correctness.
+      - Provide expected outputs (figures, metrics, logs, etc.) so reviewers can confirm results.
 7.	**Documentation**
-  - Include a README.md with setup and run instructions (see above)
-  - Inline code comments explaining key functions of your written code
+      - Include a README.md with setup and run instructions (see above)
+      - Inline code comments explaining key functions of your written code
 8.	**Best Practices**
-  - Once you have uploaded your MATLAB and/or Simulink files to your repository, ensure that what you have uploaded runs without error in a ‘clean’ MATLAB
-  - Avoid unnecessarily large files (raw datasets, redundant outputs, etc.).
+      - Once you have uploaded your MATLAB and/or Simulink files to your repository, ensure that what you have uploaded runs without error in a ‘clean’ MATLAB
+      - Avoid unnecessarily large files (raw datasets, redundant outputs, etc.).
 
 ## Rewards
 Below is the list of rewards we currently provide for classroom challenge project submissions:
