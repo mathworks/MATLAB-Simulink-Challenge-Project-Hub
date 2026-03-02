@@ -59,7 +59,7 @@ Your solution must include:
       - `numComponents`, `maxArea`, `areaRatio`, `edgeDensity` (if using `edge(...)`), etc.
     - Deliverable: `evidence = measureEvidence(roi, maskEvidence)`.
 
-7. Evidence measurements (required, but intentionally minimal)
+7. Evidence metrics (required, but intentionally minimal)
     - After you generate an evidence mask, compute a small set of numbers that answer: “What did the algorithm see, and how strong was the evidence?”  
       - These measurements are mainly for traceability (inspection logs), debugging, and optional sanity checks, not for building a complex classical classifier.
       - Keep it to 3–4 metrics so it stays easy.
