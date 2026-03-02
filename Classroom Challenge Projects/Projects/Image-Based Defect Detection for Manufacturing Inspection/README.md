@@ -107,7 +107,7 @@ Open the "ImageBasedDefectSystem_StudentProjectTemplate.mlx" Live Script in MATL
     - Report how accuracy and false-reject rate change under perturbations (AI vs baseline rules).
 
 ### Expected Results for Project Solution
-- A function `inspectPart(I)` that returns the AI `finalLabel`, the `confidenceScore` from AI, `evidenceOverlay` from Step 5, and `evidenceMetrics` from Step 6
+- A function `inspectPart(I)` that returns the AI `finalLabel`, the `confidenceScore` from AI, `evidenceOverlay` from Step 5, and `evidenceMetrics` from Steps 6-7
 - A script that that divides all data into a training set and a testing set, evaluates the trained AI model, and produces a confusion matrix and yield/defect summary
 - Results from a robustness test where images were altered using changes to brightness/contrast, blur, and noise
 
