@@ -131,37 +131,37 @@ Your solution must include:
 - Understand the relationship between classical preprocessing, evidence metrics, and AI decisions, and how hybrid logic increases stability and interpretability.
 
 ## Suggested Background Material
-**1. Fundamentals of Automated Visual Inspection**
+### 1. Fundamentals of Automated Visual Inspection
 Before working with defect detection, students should understand how visual inspection systems operate in industry. Key ideas include:
 - The role of cameras, sensors, and lighting in producing reliable inspection images.
 - How visual inspection is used to detect anomalies, classify defects, and measure quality attributes.
 
-**2. Classical Image Processing for Defect Detection**
+### 2. Classical Image Processing for Defect Detection
 Before deep learning, defect detection was (and still is) heavily reliant on classical computer‑vision techniques. Students should understand:
 - Thresholding (global/local), region segmentation, edge detection.
 - Morphological operations (closing, filling, filtering small specks).
 - How classical preprocessing stabilizes feature extraction under normal variation.
 
-**3. Deep Learning Fundamentals for Visual Inspection**
+### 3. Deep Learning Fundamentals for Visual Inspection
 Deep learning drives most modern AI‑based defect detection. Students should understand:
 - CNN fundamentals: convolution, pooling, feature maps.
 - Why transfer learning (e.g., using ResNet‑18) is effective for limited defect datasets.
 - How data augmentation improves robustness to lighting, noise, blur, and pose variations. 
 
-**4. Feature Extraction and Defect Evidence Measurement**
+### 4. Feature Extraction and Defect Evidence Measurement
 Many defect‑detection pipelines rely on interpretable, numeric descriptors of defect regions. Important concepts:
 - Connected components and region properties (area, eccentricity, solidity).
 - Texture measures, intensity distributions, edge density.
 - Why features help provide explainable evidence and traceable inspection logs.
 
-**5. Robustness, Variability, and Evaluation of Inspection Systems**
+### 5. Robustness, Variability, and Evaluation of Inspection Systems
 Real inspection stations face significant variability and industry requires inspection decisions to be justified. Students should understand:
 - Why evidence overlays, metrics, and logs matter for traceability.
 - Confusion matrices, yield summaries, defect frequency analyses.
 - Differences between interpretable rule‑based gates and black‑box AI models.
 - How robustness tests reveal system weaknesses.
 
-**6. MATLAB Fundamentals**
+### 6. MATLAB Fundamentals
 - Reading images, resizing, grayscale conversion (`imread`, `imresize`, `rgb2gray`).
 - Classical preprocessing:
     - Illumination correction (`imflatfield`, Gaussian background subtraction)
