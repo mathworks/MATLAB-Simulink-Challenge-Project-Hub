@@ -14,7 +14,7 @@ Industries ranging from renewable energy companies to civil and electrical engin
 
 ## Project Description
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=kathyz95/SolarPanel-ClassroomChallengeProject)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/MATLAB-Simulink-Challenge-Project-Hub&file=/blob/main/Classroom%20Challenge%20Projects/Projects/Maximizing%20Solar%20Panel%20Output%20for%20a%20Fixed%20Area/SolarPanel_StudentProjectTemplate.mlx)
 
 Use MATLAB to formulate and solve an optimization problem: Given a fixed area, determine the optimal tilt angle and aspect ratio of a solar panel to maximize the total energy output.
 
