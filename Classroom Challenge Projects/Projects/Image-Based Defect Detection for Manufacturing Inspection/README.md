@@ -35,7 +35,7 @@ Your solution must include:
       - Denoising: `medfilt2(...)` or `imgaussfilt(...)`
    - Save intermediate results during development (e.g., `imshowpair(...)`) for quick debugging.
 
-4. ROI (often optional; keep it automatic)
+4. Define ROI (region of interest in the image) (often optional; keep it automatic)
     - If each image already contains a centered part with minimal clutter, skip ROI:
       - `roi = I;`
     - If needed, keep ROI fully automatic (no per-image manual selection):
@@ -197,5 +197,5 @@ Real inspection stations face significant variability and industry requires insp
 - [Label Pixels for Semantic Segmentation](https://www.mathworks.com/help/vision/ug/label-pixels-for-semantic-segmentation.html)
   
 ## Project Difficulty
-Intermediate - matriculating or first-year undergraduate student, transfer student
+Intermediate - Transfer student
 
