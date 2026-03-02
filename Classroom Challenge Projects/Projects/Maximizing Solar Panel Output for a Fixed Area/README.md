@@ -90,5 +90,7 @@ Open the "SolarPanel_StudentProjectTemplate.mlx" Live Script in MATLAB as a star
 - [Optimization Workflow](https://www.mathworks.com/help/optim/ug/problem-based-workflow.html)
 
 ## Project Difficulty
-Beginner - matriculating or first-year undergraduate student
+- Intermediate
+   - Matriculating or 1st-year undergraduate student
+   - 1st or 2nd year community college student or transfer student
 
