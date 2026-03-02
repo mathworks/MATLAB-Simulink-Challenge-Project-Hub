@@ -168,7 +168,9 @@ Your solution must include:
 - [Mass-Spring-Damper in Simulink and Simscape (reference example)](https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-simscape.html) 
 
 ## Project Difficulty
-- Beginner: Matriculating or 1st-year undergraduate student
+- Intermediate
+   - Matriculating or 1st-year undergraduate student
+   - 1st or 2nd year community college student or transfer student
 
 
 
