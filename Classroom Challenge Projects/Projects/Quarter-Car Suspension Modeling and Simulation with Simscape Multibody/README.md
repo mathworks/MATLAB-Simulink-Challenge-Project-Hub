@@ -26,7 +26,7 @@ Your solution must include:
 - A tuning workflow (manual sweep or simple optimization) with before/after results
 
 ### Suggested Steps:
-
+Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
 1. Start with a baseline quarter-car multibody model
    - Build two rigid bodies:
         - **Sprung mass** (vehicle body corner)
