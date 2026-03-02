@@ -197,5 +197,5 @@ Real inspection stations face significant variability and industry requires insp
 - [Label Pixels for Semantic Segmentation](https://www.mathworks.com/help/vision/ug/label-pixels-for-semantic-segmentation.html)
   
 ## Project Difficulty
-Intermediate - Transfer student
+Intermediate: 1st or 2nd year Community College or transfer student
 
