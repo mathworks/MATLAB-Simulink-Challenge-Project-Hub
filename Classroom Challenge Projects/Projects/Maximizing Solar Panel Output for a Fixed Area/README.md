@@ -93,6 +93,3 @@ Your task: Find the optimal θ and r that maximize E(θ, r).
 ## Project Difficulty
 Intermediate - matriculating or first-year undergraduate student, transfer student
 
-## Project Number
-101
-
