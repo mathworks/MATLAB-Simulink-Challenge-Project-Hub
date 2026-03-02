@@ -123,13 +123,71 @@ Your solution must include:
 - Deliverable (extension): `maskAI = segmentDefect(I)` and comparison vs classical evidence masks.
 
 ## Learning Outcomes
-Reduce defects and scrap by delivering a repeatable inspection workflow.
+- Build a hybrid classical‑vision + AI inspection workflow that mirrors modern manufacturing practice (preprocess → evidence → AI decision → test → report).
+- Implement traceable defect‑evidence generation, including segmentation masks, measurable features, and overlays for explanation and debugging.
+- Perform transfer learning using a MathWorks‑provided pretrained network (recommended: ResNet‑18) for part‑quality classification.
+- Design a fully automated inspection function that produces PASS/FAIL decisions, confidence scores, defect evidence, and rule‑based fallbacks.
+- Evaluate inspection performance and robustness via a batch test suite, confusion matrix, yield/defect statistics, and perturbation tests (lighting, blur, noise).
+- Understand the relationship between classical preprocessing, evidence metrics, and AI decisions, and how hybrid logic increases stability and interpretability.
 
 ## Suggested Background Material
+**1. Fundamentals of Automated Visual Inspection**
+Before working with defect detection, students should understand how visual inspection systems operate in industry. Key ideas include:
+- The role of cameras, sensors, and lighting in producing reliable inspection images.
+- How visual inspection is used to detect anomalies, classify defects, and measure quality attributes.
 
+**2. Classical Image Processing for Defect Detection**
+Before deep learning, defect detection was (and still is) heavily reliant on classical computer‑vision techniques. Students should understand:
+- Thresholding (global/local), region segmentation, edge detection.
+- Morphological operations (closing, filling, filtering small specks).
+- How classical preprocessing stabilizes feature extraction under normal variation.
+
+**3. Deep Learning Fundamentals for Visual Inspection**
+Deep learning drives most modern AI‑based defect detection. Students should understand:
+- CNN fundamentals: convolution, pooling, feature maps.
+- Why transfer learning (e.g., using ResNet‑18) is effective for limited defect datasets.
+- How data augmentation improves robustness to lighting, noise, blur, and pose variations. 
+
+**4. Feature Extraction and Defect Evidence Measurement**
+Many defect‑detection pipelines rely on interpretable, numeric descriptors of defect regions. Important concepts:
+- Connected components and region properties (area, eccentricity, solidity).
+- Texture measures, intensity distributions, edge density.
+- Why features help provide explainable evidence and traceable inspection logs.
+
+**5. Robustness, Variability, and Evaluation of Inspection Systems**
+Real inspection stations face significant variability and industry requires inspection decisions to be justified. Students should understand:
+- Why evidence overlays, metrics, and logs matter for traceability.
+- Confusion matrices, yield summaries, defect frequency analyses.
+- Differences between interpretable rule‑based gates and black‑box AI models.
+- How robustness tests reveal system weaknesses.
+
+**6. MATLAB Fundamentals**
+- Reading images, resizing, grayscale conversion (`imread`, `imresize`, `rgb2gray`).
+- Classical preprocessing:
+    - Illumination correction (`imflatfield`, Gaussian background subtraction)
+    - Contrast normalization (`adapthisteq`)
+    - Filtering (`medfilt2`, `imgaussfilt`)
+- Segmentation
+    - Threshold‑based segmentation (`imbinarize`, `adaptthresh`).
+    - Morphological cleanup (`bwareaopen`, `imclose`, `imfill`).
+    - Connected components (`bwconncomp`), `regionprops`, intensity statistics (`mean2`, `std2`).
+- Machine Learning / Deep Learning Basics
+    - Transfer learning with pretrained networks (e.g., ResNet‑18).
+    - Data augmentation & resizing using `augmentedImageDatastore`.
+    - Training workflow using `trainNetwork`.
+- Data Management for Classification
+    - 'imageDatastore', labeling workflows, and using tables to store part labels.
+    - Train/test splits (`splitEachLabel`).
+- Evaluation & Reporting
+    - Confusion matrices (`confusionmat`, `confusionchart`).
 
 ## MathWorks Tutorials
+### Highly Recommended
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
+- [Image Processing Onramp](https://matlabacademy.mathworks.com/details/image-processing-onramp/imageprocessing)
+- [Machine Learning Onramp](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning)
+- [Deep Learning Onramp](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning)
+### Other Recommended Tutorials
 - [Pretrained Deep Neural Networks (classification, feature extraction, transfer learning)](https://www.mathworks.com/help/deeplearning/ug/pretrained-convolutional-neural-networks.html)   
 - [`resnet18` documentation](https://www.mathworks.com/help/deeplearning/ref/resnet18.html) 
 - [`augmentedImageDatastore` documentation](https://www.mathworks.com/help/deeplearning/ref/augmentedimagedatastore.html) 
