@@ -91,5 +91,5 @@ Your task: Find the optimal θ and r that maximize E(θ, r).
 - [Optimization Workflow](https://www.mathworks.com/help/optim/ug/problem-based-workflow.html)
 
 ## Project Difficulty
-Intermediate - matriculating or first-year undergraduate student, transfer student
+Beginner - matriculating or first-year undergraduate student
 
