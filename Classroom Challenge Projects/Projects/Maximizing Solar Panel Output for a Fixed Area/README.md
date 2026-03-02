@@ -4,7 +4,7 @@
 
 <td><p><h1>Maximizing Solar Panel Output for a Fixed Area</h1></p>
 
-<p>Use MATLAB to optimize the solar panel geometry to maximize solar irradiance and energy production.</p>
+<p>Use MATLAB to optimize solar panel geometry to maximize solar irradiance and energy production.</p>
 
 </table>
 
