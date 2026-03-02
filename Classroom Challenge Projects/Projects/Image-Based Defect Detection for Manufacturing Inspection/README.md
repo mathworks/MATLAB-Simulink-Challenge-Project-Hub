@@ -87,7 +87,7 @@ Your solution must include:
       - `finalLabel` (from AI)
       - `confidenceScore` (from AI scores)
       - `evidenceOverlay` (from Step 5)
-      - `evidenceMetrics` (from Step 6)
+      - `evidenceMetrics` (from Steps 6-7)
       - (optional) `baselineDecision` and a “disagreement flag” if rules and AI disagree
     - Overlay results on the image using `insertShape(...)` / `insertText(...)`, and save rejects with `imwrite(...)`.
 
