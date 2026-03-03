@@ -70,7 +70,9 @@ Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a
   - Efficiency and resistive losses.
 ### 4. Calculus applications
   - Derivatives for rate‑of‑change analysis
+      -  [Calculus: Derivatives MATLAB Tutorial](https://www.mathworks.com/matlabcentral/fileexchange/99249-calculus-derivatives)
   - Integrals for energy computation.
+      - [Calculus: Integrals MATLAB Tutorial](https://www.mathworks.com/matlabcentral/fileexchange/105740-calculus-integrals) 
 ### 5. MATLAB Fundamentals
   - Basics of MATLAB scripting and function creation.
   - Plotting and data visualization (line plots, multiple axes, labels, annotations).
