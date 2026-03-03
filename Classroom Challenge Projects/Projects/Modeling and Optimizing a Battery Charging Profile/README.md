@@ -20,25 +20,25 @@ Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a
 2. Given data for a lithium-ion battery (e.g., max voltage, charging current limit, charging time), fit the voltage curve using MATLAB.
 4. Compute total energy delivered to the battery using integration (area under power-time curve).
 5. Analyze:
-  - Rate of voltage change at different intervals (derivatives)
-  - Time to reach 80% and 100% charge
-  - Energy lost due to resistance
+    - Rate of voltage change at different intervals (derivatives)
+    - Time to reach 80% and 100% charge
+    - Energy lost due to resistance
 6. Simulate and plot:
-  - Voltage vs. time
-  - Current vs. time
-  - Power vs. time
+    - Voltage vs. time
+    - Current vs. time
+    - Power vs. time
 
 ### Expected Results for Project Solution
 1. A fitted charging‑curve model for a given lithium‑ion battery dataset.
 2. MATLAB scripts/functions that compute and plot:
-  - Voltage vs. time
-  - Current vs. time
-  - Power vs. time
+    - Voltage vs. time
+    - Current vs. time
+    - Power vs. time
 3. Analytical results (numerical values or derivatives), presented in a summary table
-  - Numerical integration results showing total energy delivered during charging.
-  - Time required to reach 80% and 100% charge.
-  - Rate‑of‑change analysis (derivatives) at key intervals.
-  - Estimates of resistive energy loss.
+    - Numerical integration results showing total energy delivered during charging.
+    - Time required to reach 80% and 100% charge.
+    - Rate‑of‑change analysis (derivatives) at key intervals.
+    - Estimates of resistive energy loss.
 
 ### Optional Extensions (advanced):
 - Optimize charging time while keeping current within safety limits using MATLAB Optimization Toolbox.
