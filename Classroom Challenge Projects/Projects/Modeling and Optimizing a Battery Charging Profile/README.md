@@ -1,6 +1,6 @@
 <table>
 
-<td><img src=""  width=500 /></td>
+<td><img src=" BatteryCharge.png"  width=500 /></td>
 
 <td><p><h1>Modeling and Optimizing a Battery Charging Profile</h1></p>
 
