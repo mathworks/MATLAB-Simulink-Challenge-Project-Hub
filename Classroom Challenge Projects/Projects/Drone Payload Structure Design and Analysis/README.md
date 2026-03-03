@@ -22,8 +22,8 @@ Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a sta
 2. Assume each arm of the drone is modeled as a beam or truss element. Using simplified geometry, propose 1-2 designs that will minimize weight but maximize payload capacity.
 3. Calculate the maximum payload capacity.
     - First, calculate the net upward force available from motors
-    - Next, calculuate the estimated frame weight from material and geometry
-    - Finally, calculaute max payload capacity while maintaining equilibrium
+    - Next, calculate the estimated frame weight from material and geometry
+    - Finally, calculate max payload capacity while maintaining equilibrium
 4. Use MATLAB to simulate force distribution and moments (*optional*: perform a finite element analysis by first creating your drone design in a CAD tool and importing the .stl file into MATLAB)
     - Plot shear/moment diagrams for drone arms
     - Calculate center of mass to ensure stable flight
