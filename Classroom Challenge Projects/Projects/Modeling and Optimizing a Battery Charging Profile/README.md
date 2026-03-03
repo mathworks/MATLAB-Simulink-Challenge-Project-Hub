@@ -16,14 +16,15 @@ Use MATLAB to model a battery charging profile. Students will fit real or provid
 
 ### Suggested Steps:
 Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
-1. Use the equation 𝑉(𝑡) = 𝑉𝑚𝑎𝑥 ( 1 − 𝑒−𝑡/𝑅𝐶 ) to model battery voltage over time.
-2. Given data for a lithium-ion battery (e.g., max voltage, charging current limit, charging time), fit the voltage curve using MATLAB.
-4. Compute total energy delivered to the battery using integration (area under power-time curve).
-5. Analyze:
+1. Given data for a lithium-ion battery (e.g., max voltage, charging current limit, charging time), use MATLAB to fit the equation 𝑉(𝑡) = 𝑉𝑚𝑎𝑥 ( 1 − 𝑒−𝑡/𝑅𝐶 ) to model battery voltage over time
+    - Public battery datasets are available online (e.g. NASA Li-ion Battery Aging Dataset)
+    - Sample battery profiles are also available in MATLAB examples (see [MathWorks Tutorials](#mathworks-tutorials) resources below)
+2. Compute total energy delivered to the battery using integration (area under power-time curve).
+3. Analyze:
     - Rate of voltage change at different intervals (derivatives)
     - Time to reach 80% and 100% charge
     - Energy lost due to resistance
-6. Simulate and plot:
+4. Simulate and plot:
     - Voltage vs. time
     - Current vs. time
     - Power vs. time
@@ -71,4 +72,24 @@ Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a
   - Derivatives for rate‑of‑change analysis
   - Integrals for energy computation.
 ### 5. MATLAB Fundamentals
+  - Basics of MATLAB scripting and function creation.
+  - Plotting and data visualization (line plots, multiple axes, labels, annotations).
+  - Curve fitting and working with provided datasets.
+  - Numerical integration methods (`trapz`, symbolic integration optionally).
+  - Generating and managing time‑based simulation data (`timeseries`, arrays).
+  - (For optional advanced extension) MATLAB Optimization Toolbox fundamentals.
 
+## MathWorks Tutorials
+- [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
+- [Curve Fitting Onramp](https://matlabacademy.mathworks.com/details/curve-fitting-onramp/orcf)
+- [Numerical Integration with MATLAB](https://www.mathworks.com/help/matlab/ref/integral.html)
+- [Modeling RC Circuits in Simulink and Simscape](https://www.mathworks.com/help/simscape/ug/rc-circuit-in-simulink-and-simscape.html#d126e38731)
+- [Battery Charging and Discharging Example in Simscape Battery](https://www.mathworks.com/help/simscape-battery/ug/battery-constant-current-constant-voltage.html)
+    - [Simscape Battery Onramp](https://matlabacademy.mathworks.com/details/simscape-battery-onramp/orsb)
+    - Data from this Simscape Battery example can be exported to the MATLAB workspace for curve fitting and analysis
+- (For optional advanced extension) [Optimization Onramp](https://matlabacademy.mathworks.com/details/optimization-onramp/optim)
+
+## Project Difficulty
+- Intermediate
+    - Matriculating or 1st-year undegraduate student
+    - 1st or 2nd year community college or transfer student     
