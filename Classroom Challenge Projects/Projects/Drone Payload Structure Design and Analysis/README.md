@@ -17,7 +17,7 @@ Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a sta
     - Consider a quadcopter drone (4 motors) with a max takeoff weight of 2kg (including the payload)
     - Each motor can provide up to 1kg thrust
     - Arm length (you choose)
-    - Material (you choose e.g. alumnium or carbon, look up typical material properties)
+    - Material (you choose e.g. aluminum or carbon, look up typical material properties)
     - Acceleration due to gravity: $g = 9.81 m/s^2$
 2. Assume each arm of the drone is modeled as a beam or truss element. Using simplified geometry, propose 1-2 designs that will minimize weight but maximize payload capacity.
 3. Calculate the maximum payload capacity.
