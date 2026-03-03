@@ -17,7 +17,7 @@ Use MATLAB to model a battery charging profile. Students will fit real or provid
 ### Suggested Steps:
 Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
 1. Given data for a lithium-ion battery (e.g., max voltage, charging current limit, charging time), use MATLAB to fit the equation 𝑉(𝑡) = 𝑉𝑚𝑎𝑥 ( 1 − 𝑒−𝑡/𝑅𝐶 ) to model battery voltage over time
-    - Public battery datasets are available online (e.g. NASA Li-ion Battery Aging Dataset)
+    - Public battery datasets are available online (e.g. [NASA Li-ion Battery Aging Dataset](https://data.nasa.gov/dataset/li-ion-battery-aging-datasets))
     - Sample battery profiles are also available in MATLAB examples (see [MathWorks Tutorials](#mathworks-tutorials) resources below)
 2. Compute total energy delivered to the battery using integration (area under power-time curve).
 3. Analyze:
