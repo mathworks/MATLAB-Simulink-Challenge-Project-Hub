@@ -8,7 +8,7 @@ Educators and students can expect:
 - Meaningful, industry relevant  challenges that help students build confidence with professional tools and workflows
 - Ready-to-use faculty resources that support implementation, assessment, and classroom integration
 
-## How to Participate 👈
+## How to Participate 👇
 Below you will find a suggested timeline and set of instructor guidelines for implementing the MathWorks Classroom Challenge Projects in your class or program. For each step, you will find a list of related resources in the rightmost column to help you with each implementation milestone.
 
 Please Note: To participate in the MathWorks Classroom Challenge Projects program, you **must register** your class or program before project work begins **and submit** student names for certificates of completion after you have evaluated all student submissions. *All other elements in the instructor guidelines below are suggestions only*, based on what has worked well in other classrooms. You may choose to integrate these projects into your program or class at your discretion.
