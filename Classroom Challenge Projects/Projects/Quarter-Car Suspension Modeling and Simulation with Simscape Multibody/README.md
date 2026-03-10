@@ -123,13 +123,11 @@ Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB
     - Estimate transmissibility (road-to-body acceleration) using FFT for the rough road case
 
 ## Learning Outcomes
-- Build a physics‑based quarter‑car suspension model using Simscape Multibody, including sprung/unsprung masses, spring–damper suspension, and tire compliance.
-- Create and run an automated road‑test harness capable of executing multiple road profiles and logging key dynamic signals.
-- Compute objective performance metrics for ride comfort, road holding, and packaging (e.g., RMS acceleration, suspension travel, tire deflection).
-- Perform suspension tuning using parameter sweeps to improve performance across road cases.
+- Understand and apply physics‑based suspension behavior through quarter‑car modeling and simulation, including sprung/unsprung mass dynamics, suspension elements, and tire compliance. 
+- Evaluate performance metrics and perform suspension tuning using parameter sweeps to improve performance across road cases.
 - Evaluate robustness of suspension performance under parameter variation (mass change, stiffness/damping tolerances).
 - Apply a model‑based design workflow, including repeatable testing, metrics‑driven tuning, and before/after comparison.
-
+  
 ## Suggested Background Material
 ### 1. Mass–Spring–Damper Fundamentals
 - Free/forced vibration behavior
