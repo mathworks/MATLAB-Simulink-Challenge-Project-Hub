@@ -32,8 +32,8 @@
 <p>Use MATLAB to optimize solar panel geometry to maximize solar irradiance and energy production.</p>
 <strong>Learning Outcomes:</strong>
 <ul><li>Formulate a real-world problem as a mathematical optimization problem</li>
-<li>Use MATLAB's `fmincon` for constrained nonlinear optimization</li>
-<li>Visualize and interpret multivariable objective functions</li></ul></td>
+<li>Apply constrained nonliner optimization principles with computational tools, such as MATLAB's `fmincon` </li>
+<li>Analyze and interpret multivariable objective functions through visualization techniques</li></ul></td>
 </tbody>
 
 <tbody>
@@ -41,12 +41,10 @@
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Image-Based%20Defect%20Detection%20for%20Manufacturing%20Inspection">Image-Based Defect Detection for Manufacturing Inspection</a></h2></p>
 <p>Build a MATLAB inspection pipeline to detect manufacturing defects  image processing.</p>
 <strong>Learning Outcomes:</strong>
-<ul><li>Build a hybrid classical‑vision + AI inspection workflow that mirrors modern manufacturing practice (preprocess → evidence → AI decision → test → report).</li>
-<li>Implement traceable defect‑evidence generation, including segmentation masks, measurable features, and overlays for explanation and debugging.</li>
+<ul><li>Apply understanding of integrated classical-vision and AI inspection workflows and their role in modern manufacturing practice to design a fully automated inspection function.</li>
+<li>Analyze different forms of visual evidence to implement traceable defect‑evidence generation, with a design emphasis on the system's transparency, interpretability, and diagnostic insight.</li>
 <li>Perform transfer learning using a MathWorks‑provided pretrained network (recommended: ResNet‑18) for part‑quality classification.</li>
-<li>Design a fully automated inspection function that produces PASS/FAIL decisions, confidence scores, defect evidence, and rule‑based fallbacks.</li>
-<li>Evaluate inspection performance and robustness via a batch test suite, confusion matrix, yield/defect statistics, and perturbation tests (lighting, blur, noise).</li>
-<li>Understand the relationship between classical preprocessing, evidence metrics, and AI decisions, and how hybrid logic increases stability and interpretability.</li></ul></td>
+<li>Evaluate inspection performance and robustness via a batch test suite, confusion matrix, yield/defect statistics, and perturbation tests (lighting, blur, noise).</li></ul></td>
 </tbody>
 
 <tbody>
@@ -55,10 +53,8 @@
 <p>Design a lightweight but strong drone payload structure by applying core statics principles such as equilibrium, moments, trusses, and center‑of‑mass analysis.</p>
 <strong>Learning Outcomes: </strong>
 <ul><li>Apply statics concepts (equilibrium, free‑body diagrams, trusses, and moments) to a real engineering system.</li>
-<li> Estimate structural loads and evaluate design tradeoffs between strength and weight.</li>
-<li> Use MATLAB to compute forces, moments, and center‑of‑mass positions, and to generate structural diagrams.</li>
-<li> Validate and compare structural design concepts through simulation</li>
-<li> Understand how payload placement and structural design influence drone stability and performance.</li></p></ul></td>
+<li> Analyze structural loads, material choices and design tradeoffs with MATLAB-based computation of forces, moments, and center-of-mass positions.</li>
+<li> Evaluate structual design concepts through simulation, with an emphasis on understanding how payload placement and structural design influence drone stability and performance.</li></p></ul></td>
 </tbody>
 </table>
 
