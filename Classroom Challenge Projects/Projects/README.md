@@ -6,10 +6,8 @@
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/Classroom%20Challenge%20Projects/Projects/Quarter-Car%20Suspension%20Modeling%20and%20Simulation%20with%20Simscape%20Multibody">Quarter-Car Suspension Modeling and Simulation with Simscape Multibody</a></h2></p>
 <p>Build and tune a Simscape Multibody quarter-car suspension model using an automated road test suite.</p>
 <strong>Learning Outcomes:</strong>
-<ul><li>Build a physics‑based quarter‑car suspension model using Simscape Multibody, including sprung/unsprung masses, spring–damper suspension, and tire compliance.</li>
-<li>Create and run an automated road‑test harness capable of executing multiple road profiles and logging key dynamic signals.</li>
-<li>Compute objective performance metrics for ride comfort, road holding, and packaging (e.g., RMS acceleration, suspension travel, tire deflection).</li>
-<li>Perform suspension tuning using parameter sweeps to improve performance across road cases.</li>
+<ul><li>Understand and apply physics‑based suspension behavior through quarter‑car modeling and simulation, including sprung/unsprung mass dynamics, suspension elements, and tire compliance. </li>
+<li>Evaluate performance metrics and perform suspension tuning using parameter sweeps to improve performance across road cases.</li>
 <li>Evaluate robustness of suspension performance under parameter variation (mass change, stiffness/damping tolerances).</li>
 <li>Apply a model‑based design workflow, including repeatable testing, metrics‑driven tuning, and before/after comparison.</li></ul></td>
 </tbody>  
@@ -19,11 +17,10 @@
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Modeling%20and%20Optimizing%20a%20Battery%20Charging%20Profile">Modeling and Optimizing a Battery Charging Profile</a></h2></p>
 <p>Use MATLAB to model a lithium battery-charging profile</p>
 <strong>Learning Outcomes:</strong>
-<ul><li>Model battery‑charging behavior using RC‑circuit analogs and exponential equations.</li>
-<li>Apply calculus concepts—including derivatives and numerical integration—to real engineering systems.</li>
+<ul><li>Understand battery-charing dynamics through RC-circuit analogs and exponential models.</li>
+<li>Apply calculus-based reasoning, including derivatives, numerical integration, and model fitting, to characterize charging behavior in a real engineered system. </li>
 <li>Fit experimental or provided charging data using MATLAB curve‑fitting workflows.</li>
-<li>Analyze efficiency, voltage rise, and current behavior in battery‑charging scenarios.</li>
-<li>Use MATLAB to simulate and visualize engineering systems with dynamic, nonlinear behavior.</li></ul></td>
+<li>Analyze efficiency, voltage rise, current behavior, and braoder nonlinear system behavior through MATLAB-support simulation and visualization.</li></ul></td>
 </tbody>
 
 <tbody>
