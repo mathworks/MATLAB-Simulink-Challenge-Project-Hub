@@ -53,8 +53,8 @@ Open the "SolarPanel_StudentProjectTemplate.mlx" Live Script in MATLAB as a star
 ## Learning Outcomes
 
 - Formulate a real-world problem as a mathematical optimization problem
-- Use MATLAB's `fmincon` for constrained nonlinear optimization
-- Visualize and interpret multivariable objective functions
+- Apply constrained nonliner optimization principles with computational tools, such as MATLAB's `fmincon` 
+- Analyze and interpret multivariable objective functions through visualization techniques
 
 ## Suggested Background Material
 
