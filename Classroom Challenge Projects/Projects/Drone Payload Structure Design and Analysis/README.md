@@ -1,5 +1,5 @@
 <table>
-<td><img src="QuadcopterDrone.jpg"  width=500 /></td>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/QuadcopterDrone.jpg"  width=500 /></td>
 <td><p><h1>Drone Payload Structure Design and Analysis</h1></p>
 <p>Design a lightweight but strong drone payload structure by applying core statics principles such as equilibrium, moments, trusses, and center‑of‑mass analysis.</p>
 </table>
