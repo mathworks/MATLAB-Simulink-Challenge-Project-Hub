@@ -43,11 +43,9 @@ Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a
 - Compare Constant Current–Constant Voltage (CC-CV) charging with other methods using MATLAB scripts.
 
 ## Learning Outcomes
-- Model battery‑charging behavior using RC‑circuit analogs and exponential equations.
-- Apply calculus concepts—including derivatives and numerical integration—to real engineering systems.
-- Fit experimental or provided charging data using MATLAB curve‑fitting workflows.
-- Analyze efficiency, voltage rise, and current behavior in battery‑charging scenarios.
-- Use MATLAB to simulate and visualize engineering systems with dynamic, nonlinear behavior.
+- Understand battery-charing dynamics through RC-circuit analogs and exponential models.
+- Apply calculus-based reasoning, including derivatives, numerical integration, and model fitting, to characterize charging behavior in a real engineered system. 
+- Analyze efficiency, voltage rise, current behavior, and braoder nonlinear system behavior through MATLAB-support simulation and visualization. 
 
 ## Suggested Background Material
 ### 1. RC circuit fundamentals
