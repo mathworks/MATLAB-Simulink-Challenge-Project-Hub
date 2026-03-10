@@ -123,12 +123,9 @@ Open the "ImageBasedDefectSystem_StudentProjectTemplate.mlx" Live Script in MATL
 - Deliverable (extension): `maskAI = segmentDefect(I)` and comparison vs classical evidence masks.
 
 ## Learning Outcomes
-- Build a hybrid classical‑vision + AI inspection workflow that mirrors modern manufacturing practice (preprocess → evidence → AI decision → test → report).
-- Implement traceable defect‑evidence generation, including segmentation masks, measurable features, and overlays for explanation and debugging.
-- Perform transfer learning using a MathWorks‑provided pretrained network (recommended: ResNet‑18) for part‑quality classification.
-- Design a fully automated inspection function that produces PASS/FAIL decisions, confidence scores, defect evidence, and rule‑based fallbacks.
+- Apply understanding of integrated classical-vision and AI inspection workflows and their role in modern manufacturing practice to design a fully automated inspection function.
+- Analyze different forms of visual evidence to implement traceable defect‑evidence generation, with a design emphasis on the system's transparency, interpretability, and diagnostic insight.
 - Evaluate inspection performance and robustness via a batch test suite, confusion matrix, yield/defect statistics, and perturbation tests (lighting, blur, noise).
-- Understand the relationship between classical preprocessing, evidence metrics, and AI decisions, and how hybrid logic increases stability and interpretability.
 
 ## Suggested Background Material
 ### 1. Fundamentals of Automated Visual Inspection
