@@ -41,7 +41,7 @@ Use the GitHub Discussions feature to encourage collaboration among students in 
 2.	Navigate to the [‘Classroom Challenge Projects’](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/discussions/categories/classroom-challenge-projects) category.
 3.	Click ‘New discussion’ <img width="101" height="33" alt="newdiscussion" src="https://github.com/user-attachments/assets/b75cf8a5-a04f-4c5c-9cb6-b1f27418dfdb" />
  
-4.	Use your program or class name to title the discussion board.
+4.	Use your institution name and program or class name to title the discussion board. (For example, "MIT Intro to Robotics Fall 2026 Section 001").
 5.	Provide information about the program or class in the body. Provide enough information for students and MathWorks staff to easily identify the correct board for your program or class. If your program or class has different sections or is recurring, please provide information about the specific section, term, or year (as appropriate).
 6.	Click ‘Start discussion’<img width="101" height="29" alt="startdiscussion" src="https://github.com/user-attachments/assets/567af161-c4a8-4b43-883b-6fb40383b465" />
 
@@ -101,5 +101,5 @@ Below is the list of rewards we currently provide for classroom challenge projec
   - Top prize winner will receive a $200 gift card payment (Amazon by default, but can be customized upon request)
 
 ## Contact Us ❓ 
-Use [this form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html) to ask questions about or obtain more information about implementing Classroom Challenge Projects, nominate a new project idea with industry relevance, or provide feedback about the program.  Please specify the type of inquiry when filling out the form. We value new project ideas and your feedback! Any suggestions are much appreciated.
+Use [this form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html) to ask questions about or obtain more information about implementing Classroom Challenge Projects, nominate a new project idea with industry relevance, or provide feedback about the program.  Please indicate your inquiry type and specify that you are contacting us regarding the "Classroom Challenge Projects" in the free-text box when filling out the form. We value new project ideas and your feedback! Any suggestions are much appreciated.
 
