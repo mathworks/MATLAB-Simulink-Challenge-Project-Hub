@@ -42,10 +42,8 @@ Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a sta
 
 ### Learning Outcomes
 - Apply statics concepts (equilibrium, free‑body diagrams, trusses, and moments) to a real engineering system.
-- Estimate structural loads and evaluate design tradeoffs between strength and weight.
-- Use MATLAB to compute forces, moments, and center‑of‑mass positions, and to generate structural diagrams.
-- Validate and compare structural design concepts through simulation
-- Understand how payload placement and structural design influence drone stability and performance.
+- Analyze structural loads, material choices and design tradeoffs with MATLAB-based computation of forces, moments, and center-of-mass positions.
+- Evaluate structual design concepts through simulation, with an emphasis on understanding how payload placement and structural design influence drone stability and performance.
 
 ## Suggested Background Material
 ### 1. Statics and Mechanics
