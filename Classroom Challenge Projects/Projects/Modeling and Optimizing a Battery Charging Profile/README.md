@@ -1,11 +1,7 @@
 <table>
-
-<td><img src=" BatteryCharge.png"  width=500 /></td>
-
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BatteryCharge.png"  width=500 /></td>
 <td><p><h1>Modeling and Optimizing a Battery Charging Profile</h1></p>
-
 <p>Use MATLAB to model a lithium battery-charging profile</p>
-
 </table>
 
 ## Motivation
