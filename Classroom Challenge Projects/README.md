@@ -98,7 +98,7 @@ Below is the list of rewards we currently provide for classroom challenge projec
   - Endorsement for positions at MathWorks (internship, student ambassador)
   - LinkedIn recommendation
   - MathWorks T-shirts
-  - Top prize winner will receive a $200 gift card payment (Amazon by default, but can be customized upon request)
+  - Top prize winning team will receive a $200 gift card payment (Amazon by default, but can be customized upon request; 1 gift card per team)
 
 ## Contact Us ❓ 
 Use [this form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html) to ask questions about or obtain more information about implementing Classroom Challenge Projects, nominate a new project idea with industry relevance, or provide feedback about the program.  Please indicate your inquiry type and specify that you are contacting us regarding the "Classroom Challenge Projects" in the free-text box when filling out the form. We value new project ideas and your feedback! Any suggestions are much appreciated.
