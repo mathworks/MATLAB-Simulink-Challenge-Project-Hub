@@ -1258,5 +1258,47 @@
         "submission_date": "2025-12-18",
         "video_url": "",
         "TS": false
+    },
+    {
+        "project_title": "Satellite Collision Avoidance",
+        "project_id": 225,
+        "tech_trend": [ "Autonomous Vehicles" ],
+        "submission_title": "Automated Satellite Collision Avoidance with Distance-Based Maneuvers",
+        "summary": "This project implements a MATLAB-based solution for satellite collision avoidance in Low Earth Orbit, identifying conjunctions and executing distance-based along-track maneuvers to increase separation from space debris.",
+        "tags": [ "Aerospace", "Satellite Control", "Orbit Propagation", "Collision Avoidance" ],
+        "authors": "Deepak S",
+        "affiliation": "Madras Institute of Technology",
+        "repo_url": "https://github.com/Deepak7781/Satellite-Collision-Avoidance-225/",
+        "submission_date": "2026-02-06",
+        "video_url": "",
+        "TS": false
+    },
+    {
+        "project_title": "Battery Pack Design Automation",
+        "project_id": 142,
+        "tech_trend": [ "Sustainability and Renewable Energy" ],
+        "submission_title": "Automated Battery Pack Design and Optimization Workflow",
+        "summary": "This project develops a MATLAB-based workflow for automated battery pack design, including cell characterization, parameter estimation, module assembly, and multi-objective optimization for electric vehicles.",
+        "tags": [ "Battery Design", "Optimization", "Powertrain Blockset" ],
+        "authors": "Harshit Shah",
+        "affiliation": "Otto Von Guericke University",
+        "repo_url": "https://github.com/Thruster55/Battery-Pack-Design-Automation-Project-1",
+        "submission_date": "2026-01-13",
+        "video_url": "",
+        "TS": false
+    },
+    {
+        "project_title": "Multi-UAV Path Planning for Urban Air Mobility",
+        "project_id": 247,
+        "tech_trend": [ "Autonomous Vehicles", "Drones", "Robotics" ],
+        "submission_title": "Multi-UAV Urban Air Mobility Path Planning and Avoidance",
+        "summary": "This project develops a comprehensive system for multi-UAV logistics in urban environments, featuring 3D path planning, task allocation, dynamic obstacle avoidance, and sensor fusion for real-time tracking.",
+        "tags": [ "Multi-UAV", "Path Planning", "Urban Air Mobility", "Obstacle Avoidance" ],
+        "authors": "Chaoqi He, Gao Shiqi, Song Hong",
+        "affiliation": "Shanghai Jiao Tong University",
+        "repo_url": "https://github.com/Hechaoqi-byte/Multi-UAV-Path-Planning-for-Urban-Air-Mobility",
+        "submission_date": "2025-12-01",
+        "video_url": "",
+        "TS": false
     }
 ]
