@@ -19,28 +19,26 @@
 <strong>Learning Outcomes:</strong>
 <ul><li>Understand battery-charing dynamics through RC-circuit analogs and exponential models.</li>
 <li>Apply calculus-based reasoning, including derivatives, numerical integration, and model fitting, to characterize charging behavior in a real engineered system. </li>
-<li>Fit experimental or provided charging data using MATLAB curve‑fitting workflows.</li>
 <li>Analyze efficiency, voltage rise, current behavior, and braoder nonlinear system behavior through MATLAB-support simulation and visualization.</li></ul></td>
 </tbody>
 
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SolarPanel.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Maximizing%20Solar%20Panel%20Output%20for%20a%20Fixed%20Area">Maximizing Solar Panel Output for a Fixed Area</a></h2></p>
-<p>Use MATLAB to optimize solar panel geometry to maximize solar irradiance and energy production.</p>
+<p>Use MATLAB to optimize solar panel geometry for maximum solar irradiance and energy production.</p>
 <strong>Learning Outcomes:</strong>
 <ul><li>Formulate a real-world problem as a mathematical optimization problem</li>
 <li>Apply constrained nonliner optimization principles with computational tools, such as MATLAB's `fmincon` </li>
-<li>Analyze and interpret multivariable objective functions through visualization techniques</li></ul></td>
+<li>Analyze and interpret multivariable objective functions through visualization</li></ul></td>
 </tbody>
 
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/defectDetection.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Image-Based%20Defect%20Detection%20for%20Manufacturing%20Inspection">Image-Based Defect Detection for Manufacturing Inspection</a></h2></p>
-<p>Build a MATLAB inspection pipeline to detect manufacturing defects  image processing.</p>
+<p>Build a MATLAB inspection pipeline to detect manufacturing defects with image processing.</p>
 <strong>Learning Outcomes:</strong>
 <ul><li>Apply understanding of integrated classical-vision and AI inspection workflows and their role in modern manufacturing practice to design a fully automated inspection function.</li>
 <li>Analyze different forms of visual evidence to implement traceable defect‑evidence generation, with a design emphasis on the system's transparency, interpretability, and diagnostic insight.</li>
-<li>Perform transfer learning using a MathWorks‑provided pretrained network (recommended: ResNet‑18) for part‑quality classification.</li>
 <li>Evaluate inspection performance and robustness via a batch test suite, confusion matrix, yield/defect statistics, and perturbation tests (lighting, blur, noise).</li></ul></td>
 </tbody>
 
@@ -50,7 +48,7 @@
 <p>Design a lightweight but strong drone payload structure by applying core statics principles such as equilibrium, moments, trusses, and center‑of‑mass analysis.</p>
 <strong>Learning Outcomes: </strong>
 <ul><li>Apply statics concepts (equilibrium, free‑body diagrams, trusses, and moments) to a real engineering system.</li>
-<li> Analyze structural loads, material choices and design tradeoffs with MATLAB-based computation of forces, moments, and center-of-mass positions.</li>
+<li> Analyze structural loads, material choices, and design tradeoffs with MATLAB-based computation of forces, moments, and center-of-mass positions.</li>
 <li> Evaluate structual design concepts through simulation, with an emphasis on understanding how payload placement and structural design influence drone stability and performance.</li></p></ul></td>
 </tbody>
 </table>
