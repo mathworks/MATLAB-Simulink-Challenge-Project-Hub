@@ -37,7 +37,7 @@ Please Note: To participate in the MathWorks Classroom Challenge Projects progra
 ## Discussion Board 🗣️ 
 Use the GitHub Discussions feature to encourage collaboration among students in your class or program. As an instructor, you can use this discussion board to answer questions. A team of MathWorks engineers will also periodically monitor this board throughout the duration of your class or program’s project work to provide help when necessary.
 
-1.	From the [MATLAB and Simulink Challenge Projects Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub), visit the [Discussions](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/discussions) tab.
+1.	From the [MATLAB and Simulink Challenge Projects Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub), visit the [Discussions](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/discussions) tab in the toolstrip at the top of the page.
 2.	Navigate to the [‘Classroom Challenge Projects’](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/discussions/categories/classroom-challenge-projects) category.
 3.	Click ‘New discussion’ <img width="101" height="33" alt="newdiscussion" src="https://github.com/user-attachments/assets/b75cf8a5-a04f-4c5c-9cb6-b1f27418dfdb" />
  
