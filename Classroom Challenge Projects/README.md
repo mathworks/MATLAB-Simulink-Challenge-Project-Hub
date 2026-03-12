@@ -48,7 +48,7 @@ Use the GitHub Discussions feature to encourage collaboration among students in 
 7.	By default, you will be subscribed to notifications as the author of the discussion board.
 
 ## Generative AI Guidelines 🤖 
-Instructors are encouraged to review and share the [Generative AI Guidelines](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Generative-AI-Guidelines) with students before they start their projects. Nominated project submissions with unverified, misunderstood, or misused AI-generated work will not be accepted.
+Instructors are encouraged to review and share these [guidelines](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Generative-AI-Guidelines) with students before they start their projects. Nominated project submissions with unverified, misunderstood, or misused AI-generated work will not be accepted.
 
 If students are interested in taking advantage of generative AI tools to help get started on their projects, MathWorks offers a growing set of generative AI resources that help new users work faster and more intuitively with MATLAB:
 
