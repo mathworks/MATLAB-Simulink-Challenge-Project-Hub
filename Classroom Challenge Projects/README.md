@@ -9,6 +9,10 @@ Educators and students can expect:
 - Ready-to-use faculty resources that support implementation, assessment, and classroom integration
 
 ## How to Participate 👇
+### Who Can Participate
+Anyone is welcome to use these projects for educational purposes. Participation in the Classroom Challenge Projects Program is *optional* and provides the additional benefit of support from MathWorks engineers throughout project work and the opportunity for students to receive certificates of completion and nomination for a MathWorks prize. Registration in the Classroom Challenge Projects Program is limited to instructors who are using the projects in the context of a class or program. Individual students may not register to participate - only staff or instructors in the context of a class or program may register on behalf of the students in their class or program. 
+
+### Guidelines for Participation
 Below you will find a suggested timeline and set of instructor guidelines for implementing the MathWorks Classroom Challenge Projects in your class or program. For each step, you will find a list of related resources in the rightmost column to help you with each implementation milestone.
 
 Please Note: To participate in the MathWorks Classroom Challenge Projects program, you **must register** your class or program before project work begins **and submit** student names for certificates of completion after you have evaluated all student submissions. *All other elements in the instructor guidelines below are suggestions only*, based on what has worked well in other classrooms. You may choose to integrate these projects into your program or class at your discretion.
@@ -60,7 +64,10 @@ If students are interested in taking advantage of generative AI tools to help ge
 For nominated projects to be considered for MathWorks review and a prize, students must follow the steps below to publish their project solution in a GitHub repository.
 1.	**Create a public GitHub repository**. Choose the [open-source MIT license](https://opensource.org/license/mit). Students may create their repository from [this template](https://github.com/kathyz95/Classroom-Projects-Solution-Template/) by following [these instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template).
 2.	**Upload your MATLAB and/or Simulink solution**. Follow the Repository Guidelines below so your solution is easy to run, test, and verify with minimal setup and can be evaluated smoothly and fairly.
-3.	**Notify your program instructor that your project is ready for submission**. Once your GitHub repository is ready for review, let your instructor know the URL for your repository. They will send your project solution to the MathWorks team for review and will also notify you if you are selected by MathWorks for a prize. 
+3.	**Notify your program instructor that your project is ready for submission**. Once your GitHub repository is ready for review, let your instructor know the URL for your repository. They will send your project solution to the MathWorks team for review and will also notify you if you are selected by MathWorks for a prize.
+
+### New to GitHub?
+First, follow the instructions above to use the template for your project submission repository. Then, find some resources for editing your repository in the [GitHub Quickstart guide for repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories#commit-your-first-change) and for collaborating with others in the [GitHub flow documentation](https://docs.github.com/en/get-started/using-github/github-flow).
 
 ### Repository Guidelines
 1.	**Repository Structure**
