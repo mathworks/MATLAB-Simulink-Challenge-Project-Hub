@@ -1,4 +1,4 @@
-# Classrom Challenge Projects
+# Classroom Challenge Projects
 
 <table>
 <tbody>
