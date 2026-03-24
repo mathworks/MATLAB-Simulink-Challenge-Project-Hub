@@ -2,6 +2,8 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Real-Time%20Acceleration%20for%20Medical%20Image%20Processing&tfa_2=259)</strong> to <strong>submit</strong> your solution to this project and qualify for the rewards.
 
+This project is developed in collaboration with **Analog Devices**.
+
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ultrasound.png"  width=500 /></td>
 <td><p><h1>Real-Time Acceleration for Medical Image Processing</h1></p>
