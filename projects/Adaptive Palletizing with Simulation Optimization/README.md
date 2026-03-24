@@ -2,6 +2,8 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Adaptive%20Palletizing%20with%20Simulation%20Optimization&tfa_2=254)</strong> to <strong>submit</strong> your solution to this project and qualify for the rewards.
 
+This project is developed in collaboration with **Universal Robots**. 
+
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UR.png"  width=500 /></td>
 <td><p><h1>Adaptive Palletizing with Simulation Optimization</h1></p>
