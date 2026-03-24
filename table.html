@@ -72,7 +72,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
 .cards { flex: 1; display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 18px; }
 .card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; display: flex; flex-direction: column; transition: box-shadow .2s, transform .15s; }
 .card:hover { box-shadow: var(--shadow-lg); transform: translateY(-2px); }
-.card-thumb { width: 100%; height: 180px; object-fit: cover; background: #e2e6ea; display: block; }
+.card-thumb { width: 100%; height: auto; background: #e2e6ea; display: block; }
 .card-body { padding: 14px 16px 16px; flex: 1; display: flex; flex-direction: column; }
 .card-title { font-size: 1rem; font-weight: 700; color: var(--primary); text-decoration: none; line-height: 1.3; display: block; margin-bottom: 4px; }
 .card-title:hover { text-decoration: underline; }
