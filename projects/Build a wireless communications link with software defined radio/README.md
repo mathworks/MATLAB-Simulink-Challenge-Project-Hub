@@ -2,6 +2,8 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Build%20a%20wireless%20communications%20link%20with%20software%20defined%20radio&tfa_2=162)</strong> to **submit** your solution to this project and qualify for the rewards.
 
+This project is developed in collaboration with **National Instruments**. 
+
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SDR.png"  width=500 /></td>
 <td><p><h1>Build a Wireless Communications Link with Software-Defined Radio</h1></p>
