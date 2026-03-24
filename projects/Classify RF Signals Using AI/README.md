@@ -2,6 +2,8 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Classify%20RF%20Signals%20Using%20AI&tfa_2=245)</strong> to **submit** your solution to this project and qualify for the rewards.
 
+This project is developed in collaboration with **National Instruments**. 
+
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ai-for-wireless-synthetic-waveform-dataset.jpg"  width=500 /></td>
 <td><p><h1>Classify RF Signals Using AI</h1></p>
