@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Browse Challenge Projects</title>
+<style>
+:root {
+  --primary: #0076a8;
+  --primary-dark: #005a82;
+  --accent: #e16b2f;
+  --bg: #f5f7fa;
+  --card-bg: #fff;
+  --sidebar-bg: #fff;
+  --border: #dde1e6;
+  --text: #1a1a2e;
+  --text-muted: #5a6270;
+  --tag-bg: #e8f0fe;
+  --tag-text: #1a56db;
+  --beginner: #16a34a;
+  --intermediate: #d97706;
+  --advanced: #dc2626;
+  --radius: 8px;
+  --shadow: 0 1px 3px rgba(0,0,0,.08), 0 1px 2px rgba(0,0,0,.06);
+  --shadow-lg: 0 4px 12px rgba(0,0,0,.1);
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.5; }
+
+/* Header */
+.header { background: linear-gradient(135deg, var(--primary), var(--primary-dark)); color: #fff; padding: 28px 32px 20px; }
+.header h1 { font-size: 1.65rem; font-weight: 700; }
+.header p { opacity: .85; font-size: .95rem; margin-top: 4px; }
+
+/* Instructions */
+.instructions { max-width: 1400px; margin: 0 auto; padding: 16px 32px 0; }
+.instructions details { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 16px; }
+.instructions summary { cursor: pointer; font-weight: 600; font-size: .9rem; color: var(--primary); user-select: none; }
+.instructions .body { margin-top: 8px; font-size: .85rem; color: var(--text-muted); display: grid; grid-template-columns: 1fr 1fr; gap: 4px 32px; }
+.instructions .body p { margin: 2px 0; }
+.instructions .legend { margin-top: 8px; font-size: .82rem; color: var(--text-muted); border-top: 1px solid var(--border); padding-top: 8px; }
+
+/* Toolbar */
+.toolbar { max-width: 1400px; margin: 0 auto; padding: 14px 32px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.search-box { flex: 1; min-width: 260px; position: relative; }
+.search-box input { width: 100%; padding: 9px 14px 9px 36px; border: 1px solid var(--border); border-radius: var(--radius); font-size: .9rem; outline: none; transition: border .2s; }
+.search-box input:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(0,118,168,.12); }
+.search-box svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: var(--text-muted); }
+.result-count { font-size: .88rem; color: var(--text-muted); white-space: nowrap; }
+.btn-clear { padding: 8px 18px; background: var(--accent); color: #fff; border: none; border-radius: var(--radius); font-size: .85rem; font-weight: 600; cursor: pointer; white-space: nowrap; transition: background .2s; }
+.btn-clear:hover { background: #c55a24; }
+
+/* Layout */
+.main { max-width: 1400px; margin: 0 auto; padding: 0 32px 40px; display: flex; gap: 24px; align-items: flex-start; }
+
+/* Sidebar */
+.sidebar { width: 270px; min-width: 270px; position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow-y: auto; background: var(--sidebar-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 4px 0; box-shadow: var(--shadow); }
+.sidebar::-webkit-scrollbar { width: 5px; }
+.sidebar::-webkit-scrollbar-thumb { background: #c4c9d0; border-radius: 4px; }
+.filter-section { border-bottom: 1px solid var(--border); }
+.filter-section:last-child { border-bottom: none; }
+.filter-header { padding: 10px 14px; font-size: .82rem; font-weight: 700; text-transform: uppercase; letter-spacing: .4px; color: var(--primary); cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; }
+.filter-header::after { content: "▾"; font-size: .7rem; transition: transform .2s; }
+.filter-section.collapsed .filter-header::after { transform: rotate(-90deg); }
+.filter-options { padding: 0 14px 8px; }
+.filter-section.collapsed .filter-options { display: none; }
+.filter-options label { display: flex; align-items: flex-start; gap: 6px; padding: 3px 0; font-size: .83rem; color: var(--text); cursor: pointer; line-height: 1.35; }
+.filter-options input[type="checkbox"] { margin-top: 2px; accent-color: var(--primary); flex-shrink: 0; }
+.filter-options .count { color: var(--text-muted); font-size: .78rem; margin-left: auto; white-space: nowrap; }
+
+/* Cards grid */
+.cards { flex: 1; display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 18px; }
+.card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; display: flex; flex-direction: column; transition: box-shadow .2s, transform .15s; }
+.card:hover { box-shadow: var(--shadow-lg); transform: translateY(-2px); }
+.card-thumb { width: 100%; height: 180px; object-fit: cover; background: #e2e6ea; display: block; }
+.card-body { padding: 14px 16px 16px; flex: 1; display: flex; flex-direction: column; }
+.card-title { font-size: 1rem; font-weight: 700; color: var(--primary); text-decoration: none; line-height: 1.3; display: block; margin-bottom: 4px; }
+.card-title:hover { text-decoration: underline; }
+.card-id { font-size: .76rem; color: var(--text-muted); margin-bottom: 8px; }
+.card-row { margin-bottom: 6px; }
+.card-label { font-size: .74rem; font-weight: 600; text-transform: uppercase; color: var(--text-muted); letter-spacing: .3px; margin-bottom: 2px; }
+.tags { display: flex; flex-wrap: wrap; gap: 4px; }
+.tag { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: .75rem; line-height: 1.5; white-space: nowrap; }
+.tag-trend { background: #e0f2fe; color: #0369a1; }
+.tag-platform { background: #fef3c7; color: #92400e; }
+.tag-product { background: #ede9fe; color: #6d28d9; }
+.tag-area { background: #d1fae5; color: #065f46; }
+.tag-type { background: #fce7f3; color: #9d174d; }
+.tag-hw { background: #fee2e2; color: #991b1b; }
+.tag-partner { background: #fff7ed; color: #9a3412; }
+.difficulty-badge { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: .76rem; font-weight: 700; color: #fff; }
+.difficulty-badge.beginner { background: var(--beginner); }
+.difficulty-badge.intermediate { background: var(--intermediate); }
+.difficulty-badge.advanced { background: var(--advanced); }
+.card-meta { margin-top: auto; padding-top: 8px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 6px; }
+.hw-badge { font-size: .76rem; color: var(--text-muted); }
+
+/* No results */
+.no-results { grid-column: 1 / -1; text-align: center; padding: 60px 20px; color: var(--text-muted); }
+.no-results h3 { font-size: 1.1rem; margin-bottom: 6px; }
+
+/* Loading / Error */
+.status-msg { text-align: center; padding: 80px 20px; color: var(--text-muted); font-size: 1rem; }
+
+/* Responsive */
+@media (max-width: 900px) {
+  .main { flex-direction: column; }
+  .sidebar { width: 100%; min-width: 0; position: static; max-height: none; }
+  .cards { grid-template-columns: 1fr; }
+  .header { padding: 20px 16px 14px; }
+  .toolbar, .main, .instructions { padding-left: 16px; padding-right: 16px; }
+  .instructions .body { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Browse Challenge Projects</h1>
+  <p>Filter and explore MATLAB &amp; Simulink project ideas</p>
+</div>
+
+<div class="instructions">
+  <details>
+    <summary>How to use filters</summary>
+    <div class="body">
+      <p>☑ Use filters on the left to refine results</p>
+      <p>☑ You can select multiple values within a category</p>
+      <p>☑ Filters combine across categories</p>
+      <p>☑ Use the search box for keyword matching</p>
+      <p>☑ Click <strong>Clear Filters</strong> to reset everything</p>
+    </div>
+    <div class="legend">
+      <strong>Logic:</strong> Multiple selections within a filter = <strong>OR</strong> &nbsp;|&nbsp; Different filters combined = <strong>AND</strong>
+    </div>
+  </details>
+</div>
+
+<div class="toolbar">
+  <div class="search-box">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    <input type="text" id="searchInput" placeholder="Search by title, technology, toolbox, application, partner...">
+  </div>
+  <span class="result-count" id="resultCount"></span>
+  <button class="btn-clear" id="clearBtn">Clear Filters</button>
+</div>
+
+<div class="main">
+  <aside class="sidebar" id="sidebar"></aside>
+  <section class="cards" id="cardsContainer">
+    <div class="status-msg" id="statusMsg">Loading projects…</div>
+  </section>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  const FILTER_DEFS = [
+    { key: "technology_trends", label: "Technology Trends", tagClass: "tag-trend" },
+    { key: "mathworks_platforms", label: "MathWorks Platforms", tagClass: "tag-platform" },
+    { key: "mathworks_products", label: "MathWorks Products", tagClass: "tag-product" },
+    { key: "application_areas", label: "Application Areas", tagClass: "tag-area" },
+    { key: "difficulty", label: "Difficulty", tagClass: "", isScalar: true },
+    { key: "project_type", label: "Project Type", tagClass: "tag-type" },
+    { key: "hardware_required", label: "Hardware Required", tagClass: "", isScalar: true },
+    { key: "hardware_tags", label: "Hardware Tags", tagClass: "tag-hw" },
+    { key: "partners", label: "Partners", tagClass: "tag-partner" },
+  ];
+
+  let allProjects = [];
+  let filterState = {};          // key -> Set of selected values
+  let partnerOnly = false;
+
+  const $sidebar = document.getElementById("sidebar");
+  const $cards = document.getElementById("cardsContainer");
+  const $search = document.getElementById("searchInput");
+  const $count = document.getElementById("resultCount");
+  const $clear = document.getElementById("clearBtn");
+  const $status = document.getElementById("statusMsg");
+
+  // ── Data loading ──────────────────────────────────────────────
+  fetch("./projects/projects.json")
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(data => { allProjects = data; boot(); })
+    .catch(err => { $status.textContent = "Failed to load projects.json — " + err.message; });
+
+  function boot() {
+    $status.remove();
+    buildSidebar();
+    applyFilters();
+    $search.addEventListener("input", applyFilters);
+    $clear.addEventListener("click", clearAll);
+  }
+
+  // ── Sidebar construction ──────────────────────────────────────
+  function buildSidebar() {
+    let html = "";
+
+    // Partner-only toggle
+    html += `<div class="filter-section">
+      <div class="filter-header" style="cursor:default">Partner Filter</div>
+      <div class="filter-options">
+        <label><input type="checkbox" id="partnerToggle"> Only partnered projects</label>
+      </div>
+    </div>`;
+
+    FILTER_DEFS.forEach(def => {
+      const vals = collectValues(def.key, def.isScalar);
+      if (!vals.length) return;
+      filterState[def.key] = new Set();
+
+      html += `<div class="filter-section" data-key="${def.key}">`;
+      html += `<div class="filter-header">${def.label}</div>`;
+      html += `<div class="filter-options">`;
+      vals.forEach(v => {
+        const id = `f_${def.key}_${v.replace(/\W/g, "_")}`;
+        html += `<label><input type="checkbox" data-key="${def.key}" value="${escAttr(v)}" id="${id}"> ${esc(v)} <span class="count" data-ckey="${def.key}" data-cval="${escAttr(v)}"></span></label>`;
+      });
+      html += `</div></div>`;
+    });
+
+    $sidebar.innerHTML = html;
+
+    // collapse / expand
+    $sidebar.querySelectorAll(".filter-header").forEach(h => {
+      h.addEventListener("click", () => h.parentElement.classList.toggle("collapsed"));
+    });
+
+    // checkbox changes
+    $sidebar.querySelectorAll('input[type="checkbox"][data-key]').forEach(cb => {
+      cb.addEventListener("change", () => {
+        const s = filterState[cb.dataset.key];
+        cb.checked ? s.add(cb.value) : s.delete(cb.value);
+        applyFilters();
+      });
+    });
+
+    document.getElementById("partnerToggle").addEventListener("change", e => {
+      partnerOnly = e.target.checked;
+      applyFilters();
+    });
+  }
+
+  function collectValues(key, isScalar) {
+    const set = new Set();
+    allProjects.forEach(p => {
+      if (isScalar) { if (p[key]) set.add(p[key]); }
+      else { (p[key] || []).forEach(v => set.add(v)); }
+    });
+    return [...set].sort((a, b) => a.localeCompare(b));
+  }
+
+  // ── Filtering logic ───────────────────────────────────────────
+  function applyFilters() {
+    const q = $search.value.trim().toLowerCase();
+    const filtered = allProjects.filter(p => {
+      // search
+      if (q && !matchesSearch(p, q)) return false;
+      // partner toggle
+      if (partnerOnly && !p.has_partner) return false;
+      // checkbox filters
+      for (const def of FILTER_DEFS) {
+        const sel = filterState[def.key];
+        if (!sel || sel.size === 0) continue;
+        if (def.isScalar) {
+          if (!sel.has(p[def.key])) return false;
+        } else {
+          const arr = p[def.key] || [];
+          if (!arr.some(v => sel.has(v))) return false;
+        }
+      }
+      return true;
+    });
+
+    renderCards(filtered);
+    updateCounts(filtered);
+    $count.textContent = `Showing ${filtered.length} of ${allProjects.length} projects`;
+  }
+
+  function matchesSearch(p, q) {
+    const fields = [
+      p.title, p.id,
+      ...(p.technology_trends || []),
+      ...(p.mathworks_platforms || []),
+      ...(p.mathworks_products || []),
+      ...(p.application_areas || []),
+      ...(p.project_type || []),
+      ...(p.hardware_tags || []),
+      ...(p.partners || []),
+    ];
+    return fields.some(f => f && f.toLowerCase().includes(q));
+  }
+
+  function updateCounts(filtered) {
+    $sidebar.querySelectorAll(".count").forEach(span => {
+      const key = span.dataset.ckey;
+      const val = span.dataset.cval;
+      const def = FILTER_DEFS.find(d => d.key === key);
+      let n = 0;
+      filtered.forEach(p => {
+        if (def.isScalar) { if (p[key] === val) n++; }
+        else { if ((p[key] || []).includes(val)) n++; }
+      });
+      span.textContent = n;
+    });
+  }
+
+  // ── Card rendering ────────────────────────────────────────────
+  function renderCards(projects) {
+    if (!projects.length) {
+      $cards.innerHTML = `<div class="no-results"><h3>No projects match your filters</h3><p>Try broadening your search or clearing filters.</p></div>`;
+      return;
+    }
+    $cards.innerHTML = projects.map(cardHTML).join("");
+  }
+
+  function cardHTML(p) {
+    const thumb = p.thumbnail
+      ? `<img class="card-thumb" src="${escAttr(p.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'">`
+      : `<div class="card-thumb" style="display:flex;align-items:center;justify-content:center;color:#aaa;font-size:.9rem;">No image</div>`;
+
+    const diffClass = p.difficulty.toLowerCase();
+
+    let partnerHTML = "";
+    if (p.has_partner && p.partners.length) {
+      partnerHTML = `<div class="card-row"><div class="card-label">Partner</div><div class="tags">${p.partners.map(v => `<span class="tag tag-partner">${esc(v)}</span>`).join("")}</div></div>`;
+    }
+
+    return `<article class="card">
+      ${thumb}
+      <div class="card-body">
+        <a class="card-title" href="${escAttr(p.project_url)}" target="_blank" rel="noopener">${esc(p.title)}</a>
+        <div class="card-id">Project #${esc(p.id)}</div>
+
+        <div class="card-row"><div class="card-label">Technology Trends</div>
+          <div class="tags">${p.technology_trends.map(v => `<span class="tag tag-trend">${esc(v)}</span>`).join("")}</div></div>
+
+        <div class="card-row"><div class="card-label">Platforms</div>
+          <div class="tags">${p.mathworks_platforms.map(v => `<span class="tag tag-platform">${esc(v)}</span>`).join("")}</div></div>
+
+        ${p.mathworks_products.length ? `<div class="card-row"><div class="card-label">Products</div>
+          <div class="tags">${p.mathworks_products.map(v => `<span class="tag tag-product">${esc(v)}</span>`).join("")}</div></div>` : ""}
+
+        <div class="card-row"><div class="card-label">Application Areas</div>
+          <div class="tags">${p.application_areas.map(v => `<span class="tag tag-area">${esc(v)}</span>`).join("")}</div></div>
+
+        <div class="card-row"><div class="card-label">Project Type</div>
+          <div class="tags">${p.project_type.map(v => `<span class="tag tag-type">${esc(v)}</span>`).join("")}</div></div>
+
+        ${p.hardware_tags.length ? `<div class="card-row"><div class="card-label">Hardware</div>
+          <div class="tags">${p.hardware_tags.map(v => `<span class="tag tag-hw">${esc(v)}</span>`).join("")}</div></div>` : ""}
+
+        ${partnerHTML}
+
+        <div class="card-meta">
+          <span class="difficulty-badge ${diffClass}">${esc(p.difficulty)}</span>
+          <span class="hw-badge">HW: ${esc(p.hardware_required)}</span>
+        </div>
+      </div>
+    </article>`;
+  }
+
+  // ── Clear all ─────────────────────────────────────────────────
+  function clearAll() {
+    $search.value = "";
+    partnerOnly = false;
+    const pt = document.getElementById("partnerToggle");
+    if (pt) pt.checked = false;
+    Object.values(filterState).forEach(s => s.clear());
+    $sidebar.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
+    applyFilters();
+  }
+
+  // ── Helpers ───────────────────────────────────────────────────
+  function esc(s) { const d = document.createElement("div"); d.textContent = s; return d.innerHTML; }
+  function escAttr(s) { return s.replace(/&/g,"&amp;").replace(/"/g,"&quot;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
+
+})();
+</script>
+</body>
+</html>
