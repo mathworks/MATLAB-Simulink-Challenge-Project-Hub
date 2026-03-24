@@ -68,19 +68,22 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
 .filter-options input[type="checkbox"] { margin-top: 2px; accent-color: var(--primary); flex-shrink: 0; }
 .filter-options .count { color: var(--text-muted); font-size: .78rem; margin-left: auto; white-space: nowrap; }
 
-/* Cards grid */
-.cards { flex: 1; display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 18px; }
-.card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; display: flex; flex-direction: column; transition: box-shadow .2s, transform .15s; }
-.card:hover { box-shadow: var(--shadow-lg); transform: translateY(-2px); }
-.card-thumb { width: 100%; height: auto; background: #e2e6ea; display: block; }
-.card-body { padding: 14px 16px 16px; flex: 1; display: flex; flex-direction: column; }
-.card-title { font-size: 1rem; font-weight: 700; color: var(--primary); text-decoration: none; line-height: 1.3; display: block; margin-bottom: 4px; }
+/* Cards list */
+.cards { flex: 1; display: flex; flex-direction: column; gap: 14px; }
+.card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; display: flex; flex-direction: row; transition: box-shadow .2s; }
+.card:hover { box-shadow: var(--shadow-lg); }
+.card-thumb-wrap { width: 220px; min-width: 220px; display: flex; align-items: flex-start; justify-content: center; background: #e2e6ea; overflow: hidden; }
+.card-thumb { width: 100%; height: auto; display: block; }
+.card-body { padding: 14px 18px 14px; flex: 1; display: flex; flex-direction: column; min-width: 0; }
+.card-header { display: flex; align-items: baseline; gap: 10px; margin-bottom: 6px; flex-wrap: wrap; }
+.card-title { font-size: 1.05rem; font-weight: 700; color: var(--primary); text-decoration: none; line-height: 1.3; }
 .card-title:hover { text-decoration: underline; }
-.card-id { font-size: .76rem; color: var(--text-muted); margin-bottom: 8px; }
-.card-row { margin-bottom: 6px; }
-.card-label { font-size: .74rem; font-weight: 600; text-transform: uppercase; color: var(--text-muted); letter-spacing: .3px; margin-bottom: 2px; }
+.card-id { font-size: .76rem; color: var(--text-muted); white-space: nowrap; }
+.card-tags-area { display: flex; flex-wrap: wrap; gap: 5px 16px; margin-top: 2px; }
+.card-row { display: flex; align-items: baseline; gap: 6px; flex-wrap: wrap; }
+.card-label { font-size: .73rem; font-weight: 600; text-transform: uppercase; color: var(--text-muted); letter-spacing: .3px; white-space: nowrap; }
 .tags { display: flex; flex-wrap: wrap; gap: 4px; }
-.tag { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: .75rem; line-height: 1.5; white-space: nowrap; }
+.tag { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: .74rem; line-height: 1.45; white-space: nowrap; }
 .tag-trend { background: #e0f2fe; color: #0369a1; }
 .tag-platform { background: #fef3c7; color: #92400e; }
 .tag-product { background: #ede9fe; color: #6d28d9; }
@@ -92,12 +95,17 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
 .difficulty-badge.beginner { background: var(--beginner); }
 .difficulty-badge.intermediate { background: var(--intermediate); }
 .difficulty-badge.advanced { background: var(--advanced); }
-.card-meta { margin-top: auto; padding-top: 8px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 6px; }
+.card-meta { margin-top: auto; padding-top: 6px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
 .hw-badge { font-size: .76rem; color: var(--text-muted); }
 
 /* No results */
-.no-results { grid-column: 1 / -1; text-align: center; padding: 60px 20px; color: var(--text-muted); }
+.no-results { text-align: center; padding: 60px 20px; color: var(--text-muted); }
 .no-results h3 { font-size: 1.1rem; margin-bottom: 6px; }
+
+@media (max-width: 700px) {
+  .card { flex-direction: column; }
+  .card-thumb-wrap { width: 100%; min-width: 0; max-height: 180px; }
+}
 
 /* Loading / Error */
 .status-msg { text-align: center; padding: 80px 20px; color: var(--text-muted); font-size: 1rem; }
@@ -316,43 +324,39 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
   }
 
   function cardHTML(p) {
-    const thumb = p.thumbnail
-      ? `<img class="card-thumb" src="${escAttr(p.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'">`
-      : `<div class="card-thumb" style="display:flex;align-items:center;justify-content:center;color:#aaa;font-size:.9rem;">No image</div>`;
+    const thumbInner = p.thumbnail
+      ? `<img class="card-thumb" src="${escAttr(p.thumbnail)}" alt="" loading="lazy" onerror="this.parentElement.style.display='none'">`
+      : ``;
 
     const diffClass = p.difficulty.toLowerCase();
 
     let partnerHTML = "";
     if (p.has_partner && p.partners.length) {
-      partnerHTML = `<div class="card-row"><div class="card-label">Partner</div><div class="tags">${p.partners.map(v => `<span class="tag tag-partner">${esc(v)}</span>`).join("")}</div></div>`;
+      partnerHTML = `<div class="card-row"><span class="card-label">Partner:</span><div class="tags">${p.partners.map(v => `<span class="tag tag-partner">${esc(v)}</span>`).join("")}</div></div>`;
     }
 
     return `<article class="card">
-      ${thumb}
+      ${p.thumbnail ? `<div class="card-thumb-wrap">${thumbInner}</div>` : ""}
       <div class="card-body">
-        <a class="card-title" href="${escAttr(p.project_url)}" target="_blank" rel="noopener">${esc(p.title)}</a>
-        <div class="card-id">Project #${esc(p.id)}</div>
-
-        <div class="card-row"><div class="card-label">Technology Trends</div>
-          <div class="tags">${p.technology_trends.map(v => `<span class="tag tag-trend">${esc(v)}</span>`).join("")}</div></div>
-
-        <div class="card-row"><div class="card-label">Platforms</div>
-          <div class="tags">${p.mathworks_platforms.map(v => `<span class="tag tag-platform">${esc(v)}</span>`).join("")}</div></div>
-
-        ${p.mathworks_products.length ? `<div class="card-row"><div class="card-label">Products</div>
-          <div class="tags">${p.mathworks_products.map(v => `<span class="tag tag-product">${esc(v)}</span>`).join("")}</div></div>` : ""}
-
-        <div class="card-row"><div class="card-label">Application Areas</div>
-          <div class="tags">${p.application_areas.map(v => `<span class="tag tag-area">${esc(v)}</span>`).join("")}</div></div>
-
-        <div class="card-row"><div class="card-label">Project Type</div>
-          <div class="tags">${p.project_type.map(v => `<span class="tag tag-type">${esc(v)}</span>`).join("")}</div></div>
-
-        ${p.hardware_tags.length ? `<div class="card-row"><div class="card-label">Hardware</div>
-          <div class="tags">${p.hardware_tags.map(v => `<span class="tag tag-hw">${esc(v)}</span>`).join("")}</div></div>` : ""}
-
-        ${partnerHTML}
-
+        <div class="card-header">
+          <a class="card-title" href="${escAttr(p.project_url)}" target="_blank" rel="noopener">${esc(p.title)}</a>
+          <span class="card-id">#${esc(p.id)}</span>
+        </div>
+        <div class="card-tags-area">
+          <div class="card-row"><span class="card-label">Trends:</span>
+            <div class="tags">${p.technology_trends.map(v => `<span class="tag tag-trend">${esc(v)}</span>`).join("")}</div></div>
+          <div class="card-row"><span class="card-label">Platforms:</span>
+            <div class="tags">${p.mathworks_platforms.map(v => `<span class="tag tag-platform">${esc(v)}</span>`).join("")}</div></div>
+          ${p.mathworks_products.length ? `<div class="card-row"><span class="card-label">Products:</span>
+            <div class="tags">${p.mathworks_products.map(v => `<span class="tag tag-product">${esc(v)}</span>`).join("")}</div></div>` : ""}
+          <div class="card-row"><span class="card-label">Areas:</span>
+            <div class="tags">${p.application_areas.map(v => `<span class="tag tag-area">${esc(v)}</span>`).join("")}</div></div>
+          <div class="card-row"><span class="card-label">Type:</span>
+            <div class="tags">${p.project_type.map(v => `<span class="tag tag-type">${esc(v)}</span>`).join("")}</div></div>
+          ${p.hardware_tags.length ? `<div class="card-row"><span class="card-label">Hardware:</span>
+            <div class="tags">${p.hardware_tags.map(v => `<span class="tag tag-hw">${esc(v)}</span>`).join("")}</div></div>` : ""}
+          ${partnerHTML}
+        </div>
         <div class="card-meta">
           <span class="difficulty-badge ${diffClass}">${esc(p.difficulty)}</span>
           <span class="hw-badge">HW: ${esc(p.hardware_required)}</span>
