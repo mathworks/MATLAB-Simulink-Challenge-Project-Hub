@@ -1,0 +1,3339 @@
+[
+  {
+    "id": "20",
+    "title": "Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Vehicle%20Localization%20Using%20Onboard%20Sensors%20and%20HD%20Geolocated%20Maps",
+    "source_file": "projects/Autonomous Vehicle Localization Using Onboard Sensors and HD Geolocated Maps/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/auto.png",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Computer Vision",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Automated Driving Toolbox",
+      "Computer Vision Toolbox",
+      "Navigation Toolbox"
+    ],
+    "application_areas": [
+      "Automotive"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "AI / Machine Learning"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Computer Vision",
+      "Robotics",
+      "Autonomous Vehicles",
+      "SLAM",
+      "State Estimation",
+      "Sensor Fusion and Tracking"
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Underwater Drone Hide and Seek",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Underwater%20Drone%20Hide%20and%20Seek",
+    "source_file": "projects/Underwater Drone Hide and Seek/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/AUV.png",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Sensor Fusion and Tracking Toolbox",
+      "Stateflow",
+      "Reinforcement Learning Toolbox"
+    ],
+    "application_areas": [
+      "Robotics / Automation",
+      "Aerospace"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Modeling & Simulation",
+      "Control Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Robotics",
+      "AUV",
+      "Embedded AI",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Sensor Fusion and Tracking",
+      "SLAM"
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Quadruped Robot with a Manipulator",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Quadruped%20Robot%20with%20a%20Manipulator",
+    "source_file": "projects/Quadruped Robot with a Manipulator/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/quadruped.png",
+    "technology_trends": [
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape Multibody",
+      "Stateflow"
+    ],
+    "application_areas": [
+      "Robotics / Automation"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "Control Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Robotics",
+      "Control",
+      "Image Processing",
+      "Manipulators",
+      "Mobile Robots",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Voice Controlled Robot",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot",
+    "source_file": "projects/Voice Controlled Robot/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/raspbpi.png",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Audio Toolbox"
+    ],
+    "application_areas": [
+      "Robotics / Automation"
+    ],
+    "difficulty": "Beginner",
+    "project_type": [
+      "AI / Machine Learning",
+      "Hardware Integration",
+      "Signal Processing"
+    ],
+    "hardware_required": "Required",
+    "hardware_tags": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Robotics",
+      "Signal Processing",
+      "Natural Language Processing",
+      "Mobile Robots",
+      "Human-Robot Interaction",
+      "Low-Cost Hardware"
+    ]
+  },
+  {
+    "id": "45",
+    "title": "MIMO Engine Airpath Control",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/MIMO%20Engine%20Airpath%20Control",
+    "source_file": "projects/MIMO Engine Airpath Control/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/mimo.png",
+    "technology_trends": [
+      "Autonomous Vehicles"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Powertrain Blockset",
+      "Model Predictive Control Toolbox"
+    ],
+    "application_areas": [
+      "Automotive"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Control Design",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Automotive",
+      "Control",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "47",
+    "title": "Rotor-Flying Manipulator Simulation",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Rotor-Flying%20Manipulator%20Simulation",
+    "source_file": "projects/Rotor-Flying Manipulator Simulation/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/uav.png",
+    "technology_trends": [
+      "Drones",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape Multibody",
+      "UAV Toolbox",
+      "Robotics System Toolbox",
+      "Navigation Toolbox"
+    ],
+    "application_areas": [
+      "Aerospace",
+      "Robotics / Automation"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "Control Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Drones",
+      "Robotics",
+      "Manipulators",
+      "Modeling and Simulation",
+      "UAV"
+    ]
+  },
+  {
+    "id": "142",
+    "title": "Battery Pack Design Automation",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Battery%20Pack%20Design%20Automation",
+    "source_file": "projects/Battery Pack Design Automation/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/battery.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Powertrain Blockset",
+      "Optimization Toolbox",
+      "Simulink Design Optimization"
+    ],
+    "application_areas": [
+      "Automotive",
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "Optimization"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Control",
+      "Electrification",
+      "Optimization",
+      "Parallel Computing"
+    ]
+  },
+  {
+    "id": "148",
+    "title": "Selection of Mechanical Actuators Using Simulation-Based Analysis",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Selection%20of%20Mechanical%20Actuators%20Using%20Simulation-Based%20Analysis",
+    "source_file": "projects/Selection of Mechanical Actuators Using Simulation-Based Analysis/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/actuator.png",
+    "technology_trends": [
+      "Drones",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape",
+      "Simscape Electrical",
+      "Simscape Fluids"
+    ],
+    "application_areas": [
+      "Robotics / Automation",
+      "Aerospace",
+      "Manufacturing / Industry 4.0"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Modeling & Simulation",
+      "System Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Drones",
+      "Robotics",
+      "Control",
+      "Cyber-physical Systems",
+      "Electrification",
+      "Humanoid",
+      "Manipulators",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "149",
+    "title": "Applying Machine Learning for the Development of Physical Sensor Models in Game Engine Environment",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Applying%20Machine%20Learning%20for%20the%20Development%20of%20Physical%20Sensor%20Models%20in%20Game%20Engine%20Environment",
+    "source_file": "projects/Applying Machine Learning for the Development of Physical Sensor Models in Game Engine Environment/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/adas-perception.jpg",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Autonomous Vehicles",
+      "Computer Vision"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Automated Driving Toolbox",
+      "Computer Vision Toolbox",
+      "Deep Learning Toolbox"
+    ],
+    "application_areas": [
+      "Automotive"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Autonomous Vehicles",
+      "Computer Vision",
+      "Deep Learning",
+      "Machine Learning",
+      "Modeling and Simulation",
+      "Neural Networks"
+    ]
+  },
+  {
+    "id": "151",
+    "title": "Signal Coverage Maps Using Measurements and Machine Learning",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Coverage%20Maps%20Using%20Measurements%20and%20Machine%20Learning",
+    "source_file": "projects/Signal Coverage Maps Using Measurements and Machine Learning/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/wireless.jpg",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Wireless Communication"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Communications Toolbox"
+    ],
+    "application_areas": [
+      "Communications / Wireless"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning",
+      "Data Analysis"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Wireless Communication",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "161",
+    "title": "Intelligent Fan Air Cooling System",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Intelligent%20Fan%20Air%20Cooling%20System",
+    "source_file": "projects/Intelligent Fan Air Cooling System/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fan.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape"
+    ],
+    "application_areas": [
+      "Energy / Sustainability",
+      "Smart Infrastructure / IoT"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "Control Design",
+      "Optimization"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "Arduino"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Control",
+      "Modeling and Simulation",
+      "Optimization"
+    ]
+  },
+  {
+    "id": "162",
+    "title": "Build a Wireless Communications Link with Software-Defined Radio",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Build%20a%20wireless%20communications%20link%20with%20software%20defined%20radio",
+    "source_file": "projects/Build a wireless communications link with software defined radio/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SDR.png",
+    "technology_trends": [
+      "Wireless Communication"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Communications Toolbox"
+    ],
+    "application_areas": [
+      "Communications / Wireless"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Signal Processing",
+      "Hardware Integration"
+    ],
+    "hardware_required": "Required",
+    "hardware_tags": [
+      "SDR",
+      "USRP",
+      "ADALM-Pluto"
+    ],
+    "has_partner": true,
+    "partner_type": "industry",
+    "partners": [
+      "National Instruments"
+    ],
+    "expertise_gained_original": [
+      "5G",
+      "Low-Cost Hardware",
+      "Modeling and Simulation",
+      "Signal Processing",
+      "Software-Defined Radio",
+      "Wireless Communication"
+    ]
+  },
+  {
+    "id": "170",
+    "title": "Simulation-Based Design of Humanoid Robots",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Simulation-Based%20Design%20of%20Humanoid%20Robots",
+    "source_file": "projects/Simulation-Based Design of Humanoid Robots/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/humanoidRobot.png",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape Multibody",
+      "Simscape",
+      "Reinforcement Learning Toolbox",
+      "Deep Learning Toolbox",
+      "Optimization Toolbox"
+    ],
+    "application_areas": [
+      "Robotics / Automation"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Modeling & Simulation",
+      "AI / Machine Learning",
+      "Control Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Control",
+      "Cyber-Physical Systems",
+      "Deep Learning",
+      "Humanoid",
+      "Human-Robot Interaction",
+      "Machine Learning",
+      "Mobile Robots",
+      "Modeling and Simulation",
+      "Optimization",
+      "Reinforcement Learning"
+    ]
+  },
+  {
+    "id": "171",
+    "title": "3D Virtual Test Track for Autonomous Driving",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/3D%20Virtual%20Test%20Track%20for%20Autonomous%20Driving",
+    "source_file": "projects/3D Virtual Test Track for Autonomous Driving/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/virtualWorld.png",
+    "technology_trends": [
+      "Autonomous Vehicles"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "RoadRunner"
+    ],
+    "application_areas": [
+      "Automotive"
+    ],
+    "difficulty": "Beginner",
+    "project_type": [
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Automotive",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "187",
+    "title": "Deep Learning for UAV Infrastructure Inspection",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Learning%20for%20UAV%20Infrastructure%20Inspection",
+    "source_file": "projects/Deep Learning for UAV Infrastructure Inspection/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/utilities-energy-image-processing-and-deep-le.jpg",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Drones",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "UAV Toolbox",
+      "Deep Learning Toolbox",
+      "Computer Vision Toolbox",
+      "GPU Coder",
+      "Lidar Toolbox"
+    ],
+    "application_areas": [
+      "Aerospace",
+      "Smart Infrastructure / IoT"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning",
+      "Embedded / Real-Time"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "NVIDIA Jetson"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Computer Vision",
+      "Drones",
+      "Artificial Intelligence",
+      "Robotics",
+      "UAV",
+      "SLAM",
+      "Deep Learning"
+    ]
+  },
+  {
+    "id": "188",
+    "title": "Monitoring and Control of Bioreactor for Pharmaceutical Production",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Monitoring%20and%20Control%20of%20Bioreactor%20for%20Pharmaceutical%20Production",
+    "source_file": "projects/Monitoring and Control of Bioreactor for Pharmaceutical Production/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/bioreactor.jpg",
+    "technology_trends": [
+      "Big Data",
+      "Industry 4.0"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Statistics and Machine Learning Toolbox",
+      "Control System Toolbox",
+      "Simulink Design Optimization"
+    ],
+    "application_areas": [
+      "Healthcare / Medical",
+      "Manufacturing / Industry 4.0"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Control Design",
+      "Modeling & Simulation",
+      "AI / Machine Learning"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Big Data",
+      "Industry 4.0",
+      "Control",
+      "IoT",
+      "Modeling and Simulation",
+      "Optimization",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "192",
+    "title": "Improve the Accuracy of Satellite Navigation Systems",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Improve%20the%20Accuracy%20of%20Satellite%20Navigation%20Systems",
+    "source_file": "projects/Improve the Accuracy of Satellite Navigation Systems/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SatNav.jpg",
+    "technology_trends": [
+      "Wireless Communication"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Communications Toolbox",
+      "Parallel Computing Toolbox"
+    ],
+    "application_areas": [
+      "Communications / Wireless",
+      "Aerospace"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Signal Processing"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Wireless Communication",
+      "GNSS"
+    ]
+  },
+  {
+    "id": "193",
+    "title": "Speech Background Noise Suppression with Deep Learning",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Speech%20Background%20Noise%20Suppression%20with%20Deep%20Learning",
+    "source_file": "projects/Speech Background Noise Suppression with Deep Learning/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HearingAid.PNG",
+    "technology_trends": [
+      "Artificial Intelligence"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Audio Toolbox",
+      "Deep Learning Toolbox",
+      "Signal Processing Toolbox"
+    ],
+    "application_areas": [
+      "Healthcare / Medical"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Signal Processing"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "Raspberry Pi"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Neural Networks",
+      "Signal Processing"
+    ]
+  },
+  {
+    "id": "194",
+    "title": "Predictive Electric Vehicle Cooling",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Predictive%20Electric%20Vehicle%20Cooling",
+    "source_file": "projects/Predictive Electric Vehicle Cooling/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/electricVehicle.jpg",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape Fluids"
+    ],
+    "application_areas": [
+      "Automotive",
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "Control Design",
+      "Optimization"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Sustainability and Renewable Energy",
+      "Automotive",
+      "Control",
+      "Electrification",
+      "Modeling and Simulation",
+      "Optimization"
+    ]
+  },
+  {
+    "id": "195",
+    "title": "Control, Modeling, Design, and Simulation of Modern HVAC Systems",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Control%2C%20Modeling%2C%20Design%2C%20and%20Simulation%20of%20Modern%20HVAC%20Systems",
+    "source_file": "projects/Control, Modeling, Design, and Simulation of Modern HVAC Systems/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HVAC.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape",
+      "Stateflow"
+    ],
+    "application_areas": [
+      "Energy / Sustainability",
+      "Smart Infrastructure / IoT"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "Control Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Modeling and Simulation",
+      "Electrification",
+      "Control"
+    ]
+  },
+  {
+    "id": "196",
+    "title": "Optimal Data Center Cooling",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimal%20Data%20Center%20Cooling",
+    "source_file": "projects/Optimal Data Center Cooling/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/data center.jpg",
+    "technology_trends": [
+      "Big Data",
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape Fluids"
+    ],
+    "application_areas": [
+      "Smart Infrastructure / IoT",
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Modeling & Simulation",
+      "Control Design",
+      "Optimization"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Big Data",
+      "Sustainability and Renewable Energy",
+      "Cloud Computing",
+      "Control",
+      "Deep Learning",
+      "Modeling and Simulation",
+      "Parallel Computing",
+      "Predictive Maintenance"
+    ]
+  },
+  {
+    "id": "197",
+    "title": "Wind Turbine Predictive Maintenance Using Machine Learning",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Wind%20Turbine%20Predictive%20Maintenance%20Using%20Machine%20Learning",
+    "source_file": "projects/Wind Turbine Predictive Maintenance Using Machine Learning/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/turbine.png",
+    "technology_trends": [
+      "Industry 4.0",
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape Driveline"
+    ],
+    "application_areas": [
+      "Energy / Sustainability",
+      "Manufacturing / Industry 4.0"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Industry 4.0",
+      "Sustainability and Renewable Energy",
+      "Machine Learning",
+      "Electrification",
+      "Modeling and Simulation",
+      "Predictive Maintenance",
+      "Wind Turbines"
+    ]
+  },
+  {
+    "id": "198",
+    "title": "Signal Integrity Channel Feature Extraction for Deep Learning",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Signal%20Integrity%20Channel%20Feature%20Extraction%20for%20Deep%20Learning",
+    "source_file": "projects/Signal Integrity Channel Feature Extraction for Deep Learning/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/backplane.png",
+    "technology_trends": [
+      "Artificial Intelligence"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "SerDes Toolbox",
+      "Deep Learning Toolbox",
+      "RF Toolbox"
+    ],
+    "application_areas": [
+      "Communications / Wireless"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning",
+      "Signal Processing"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Machine Learning",
+      "Modeling and Simulation",
+      "Neural Networks",
+      "RF and Mixed Signal"
+    ]
+  },
+  {
+    "id": "200",
+    "title": "Electrification of Aircraft",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Electrification%20of%20Aircraft",
+    "source_file": "projects/Electrification of Aircraft/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ElectrificationAircraft.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape",
+      "Simscape Electrical"
+    ],
+    "application_areas": [
+      "Aerospace",
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "System Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Digital Twins",
+      "Electrification",
+      "Modeling and Simulation",
+      "Zero-fuel Aircraft"
+    ]
+  },
+  {
+    "id": "201",
+    "title": "Electrification of Household Heating",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Electrification%20of%20Household%20Heating",
+    "source_file": "projects/Electrification of Household Heating/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ElectrificationHouse.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape",
+      "Simscape Fluids",
+      "Simscape Electrical"
+    ],
+    "application_areas": [
+      "Energy / Sustainability",
+      "Smart Infrastructure / IoT"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "System Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Digital Twins",
+      "Electrification",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "202",
+    "title": "Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Behavioral%20Modelling%20of%20Phase-Locked%20Loop%20using%20Deep%20Learning%20Techniques",
+    "source_file": "projects/Behavioral Modelling of Phase-Locked Loop using Deep Learning Techniques/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/PLL_using_DL.png",
+    "technology_trends": [
+      "Artificial Intelligence"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Mixed-Signal Blockset",
+      "Deep Learning Toolbox"
+    ],
+    "application_areas": [
+      "Communications / Wireless"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Machine Learning",
+      "Modeling and Simulation",
+      "Neural Networks",
+      "RF and Mixed Signal",
+      "Optimization",
+      "Signal Processing"
+    ]
+  },
+  {
+    "id": "203",
+    "title": "Automatically Segment and Label Objects in Video",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Automatically%20Segment%20and%20Label%20Objects%20in%20Video",
+    "source_file": "projects/Automatically Segment and Label Objects in Video/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Picture1.png",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Computer Vision"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Computer Vision Toolbox",
+      "Deep Learning Toolbox"
+    ],
+    "application_areas": [
+      "Automotive"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Deep Learning",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "204",
+    "title": "Green Hydrogen Production",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Green%20Hydrogen%20Production",
+    "source_file": "projects/Green Hydrogen Production/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fuelCell.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape",
+      "Simscape Electrical"
+    ],
+    "application_areas": [
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Electrification",
+      "Digital Twins",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "205",
+    "title": "Optimization of Large Antenna Arrays for Astronomical Applications",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimization%20of%20Large%20Antenna%20Arrays%20for%20Astronomical%20Applications",
+    "source_file": "projects/Optimization of Large Antenna Arrays for Astronomical Applications/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/space-systems-communications.jpg",
+    "technology_trends": [
+      "Wireless Communication"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Antenna Toolbox",
+      "Optimization Toolbox"
+    ],
+    "application_areas": [
+      "Communications / Wireless",
+      "Aerospace"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Optimization",
+      "Signal Processing"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Wireless Communication",
+      "Smart Antennas",
+      "Optimization"
+    ]
+  },
+  {
+    "id": "206",
+    "title": "Optimizing Antenna Performance in an Indoor Propagation Environment",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Optimizing%20Antenna%20Performance%20in%20an%20Indoor%20Propagation%20Environment",
+    "source_file": "projects/Optimizing Antenna Performance in an Indoor Propagation Environment/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/indoor_propagation.jpg",
+    "technology_trends": [
+      "Wireless Communication"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Antenna Toolbox",
+      "Optimization Toolbox"
+    ],
+    "application_areas": [
+      "Communications / Wireless"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Optimization",
+      "Signal Processing"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Wireless Communication",
+      "Optimization",
+      "Smart Antennas"
+    ]
+  },
+  {
+    "id": "207",
+    "title": "Disturbance Rejection Control for PMSM Motors",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Disturbance%20Rejection%20Control%20for%20PMSM%20Motors",
+    "source_file": "projects/Disturbance Rejection Control for PMSM Motors/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/treadmill.jpg",
+    "technology_trends": [
+      "Artificial Intelligence"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Motor Control Blockset"
+    ],
+    "application_areas": [
+      "Manufacturing / Industry 4.0",
+      "Automotive"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Control Design",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "motor kit"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Electrification",
+      "Control",
+      "Modeling and Simulation",
+      "Reinforcement Learning"
+    ]
+  },
+  {
+    "id": "208",
+    "title": "Path Planning for Autonomous Race Cars",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Path%20Planning%20for%20Autonomous%20Race%20Cars",
+    "source_file": "projects/Path Planning for Autonomous Race Cars/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ImagePathPlanning.png",
+    "technology_trends": [
+      "Autonomous Vehicles"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Optimization Toolbox",
+      "Global Optimization Toolbox",
+      "RoadRunner",
+      "Vehicle Dynamics Blockset"
+    ],
+    "application_areas": [
+      "Automotive"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Optimization",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Automotive",
+      "Optimization",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "209",
+    "title": "Autonomous Navigation for Vehicles in Rough Terrain",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Autonomous%20Navigation%20for%20Vehicles%20in%20Rough%20Terrain",
+    "source_file": "projects/Autonomous Navigation for Vehicles in Rough Terrain/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/rover.jpg",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Computer Vision",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Robotics System Toolbox",
+      "Computer Vision Toolbox",
+      "Lidar Toolbox",
+      "Navigation Toolbox"
+    ],
+    "application_areas": [
+      "Robotics / Automation"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Modeling & Simulation",
+      "AI / Machine Learning"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Computer Vision",
+      "Robotics",
+      "Image Processing",
+      "Mobile Robots",
+      "SLAM",
+      "UGV",
+      "Optimization"
+    ]
+  },
+  {
+    "id": "210",
+    "title": "Change Detection in Hyperspectral Imagery",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Change%20Detection%20in%20Hyperspectral%20Imagery",
+    "source_file": "projects/Change Detection in Hyperspectral Imagery/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/hyperspectralimage.png",
+    "technology_trends": [
+      "Computer Vision"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Image Processing Toolbox"
+    ],
+    "application_areas": [
+      "Aerospace",
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Data Analysis"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Computer Vision",
+      "Image Processing",
+      "Deep Learning"
+    ]
+  },
+  {
+    "id": "211",
+    "title": "Synthetic Aperture Radar (SAR) Simulator",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Synthetic%20Aperture%20Radar%20(SAR)%20Simulator",
+    "source_file": "projects/Synthetic Aperture Radar (SAR) Simulator/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/SARPicture.png",
+    "technology_trends": [
+      "Autonomous Vehicles"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Phased Array System Toolbox",
+      "Radar Toolbox"
+    ],
+    "application_areas": [
+      "Aerospace"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Signal Processing",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Automotive",
+      "AUV",
+      "Image Processing",
+      "Signal Processing",
+      "Radar Processing"
+    ]
+  },
+  {
+    "id": "212",
+    "title": "Warehouse Robotics Simulation",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Warehouse%20Robotics%20Simulation",
+    "source_file": "projects/Warehouse Robotics Simulation/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/warehouseRobotics.jpg",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Computer Vision Toolbox",
+      "Navigation Toolbox",
+      "Sensor Fusion and Tracking Toolbox",
+      "UAV Toolbox",
+      "Robotics System Toolbox",
+      "Stateflow"
+    ],
+    "application_areas": [
+      "Manufacturing / Industry 4.0",
+      "Robotics / Automation"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Robotics",
+      "Human-Robot Interaction",
+      "Humanoid",
+      "Mobile Robots"
+    ]
+  },
+  {
+    "id": "213",
+    "title": "Robust Visual SLAM Using MATLAB Mobile Sensor Streaming",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Robust%20Visual%20SLAM%20Using%20MATLAB%20Mobile%20Sensor%20Streaming",
+    "source_file": "projects/Robust Visual SLAM Using MATLAB Mobile Sensor Streaming/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Computer Vision",
+      "Drones",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Computer Vision Toolbox",
+      "Navigation Toolbox",
+      "Sensor Fusion and Tracking Toolbox"
+    ],
+    "application_areas": [
+      "Robotics / Automation"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "smartphone"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Computer Vision",
+      "Drones",
+      "Robotics",
+      "Automotive",
+      "AUV",
+      "Mobile Robots",
+      "Manipulators",
+      "Humanoid",
+      "UAV",
+      "UGV"
+    ]
+  },
+  {
+    "id": "214",
+    "title": "Face Detection and Human Tracking Robot",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Detection%20and%20Human%20Tracking%20Robot",
+    "source_file": "projects/Face Detection and Human Tracking Robot/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Computer Vision Toolbox",
+      "Deep Learning Toolbox"
+    ],
+    "application_areas": [
+      "Robotics / Automation"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Hardware Integration"
+    ],
+    "hardware_required": "Required",
+    "hardware_tags": [
+      "Arduino",
+      "Raspberry Pi"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Robotics",
+      "Deep Learning",
+      "Embedded AI",
+      "Human-Robot Interaction",
+      "Mobile Robots",
+      "Modeling and Simulation",
+      "Machine Learning",
+      "Low-cost Hardware",
+      "Image Processing",
+      "Control"
+    ]
+  },
+  {
+    "id": "215",
+    "title": "Digital Twin and Predictive Maintenance of Pneumatic Systems",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Digital%20Twin%20and%20Predictive%20Maintenance%20of%20Pneumatic%20Systems",
+    "source_file": "projects/Digital Twin and Predictive Maintenance of Pneumatic Systems/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pneumaticSys.jpg",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Industry 4.0"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape",
+      "Predictive Maintenance Toolbox",
+      "Statistics and Machine Learning Toolbox"
+    ],
+    "application_areas": [
+      "Manufacturing / Industry 4.0"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Modeling & Simulation",
+      "AI / Machine Learning"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "Raspberry Pi",
+      "Speedgoat"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Industry 4.0",
+      "Cyber-Physical Systems",
+      "Digital Twins",
+      "Embedded AI",
+      "Health Monitoring",
+      "IoT",
+      "Machine Learning",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "216",
+    "title": "Portable Charging System for Electric Vehicles",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Portable%20Charging%20System%20for%20Electric%20Vehicles",
+    "source_file": "projects/Portable Charging System for Electric Vehicles/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/portableEvCharger.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape",
+      "Simscape Electrical"
+    ],
+    "application_areas": [
+      "Automotive",
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "System Design"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Control",
+      "Electrification",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "217",
+    "title": "Flight Controller Design and Hardware Deployment",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Flight%20Controller%20Design%20and%20Hardware%20Deployment",
+    "source_file": "projects/Flight Controller Design and Hardware Deployment/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/drone.jpg",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Drones"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "UAV Toolbox"
+    ],
+    "application_areas": [
+      "Aerospace"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Control Design",
+      "Hardware Integration"
+    ],
+    "hardware_required": "Required",
+    "hardware_tags": [
+      "Pixhawk",
+      "PX4"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Drones",
+      "Autonomous Vehicles",
+      "Control",
+      "Low-cost Hardware",
+      "UAV"
+    ]
+  },
+  {
+    "id": "218",
+    "title": "Machine Learning for Motor Control",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Machine%20Learning%20for%20Motor%20Control",
+    "source_file": "projects/Machine Learning for Motor Control/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pmsm.jpg",
+    "technology_trends": [
+      "Artificial Intelligence"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape",
+      "Statistics and Machine Learning Toolbox",
+      "Deep Learning Toolbox",
+      "Reinforcement Learning Toolbox",
+      "Motor Control Blockset"
+    ],
+    "application_areas": [
+      "Automotive",
+      "Manufacturing / Industry 4.0"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Control Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Control",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Automotive"
+    ]
+  },
+  {
+    "id": "219",
+    "title": "Smart Watering System with Internet of Things",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Smart%20Watering%20System%20with%20Internet%20of%20Things",
+    "source_file": "projects/Smart Watering System with Internet of Things/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "ThingSpeak"
+    ],
+    "application_areas": [
+      "Smart Infrastructure / IoT",
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Beginner",
+    "project_type": [
+      "Hardware Integration",
+      "Data Analysis"
+    ],
+    "hardware_required": "Required",
+    "hardware_tags": [
+      "Arduino",
+      "sensors"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Artificial Intelligence",
+      "IoT",
+      "Low-Cost Hardware",
+      "Deep Learning",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": "220",
+    "title": "Testing Realtime Robustness of ROS in Autonomous Driving",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Testing%20Realtime%20Robustness%20of%20ROS%20in%20Autonomous%20Driving",
+    "source_file": "projects/Testing Realtime Robustness of ROS in Autonomous Driving/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ros.png",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "ROS Toolbox",
+      "Automated Driving Toolbox"
+    ],
+    "application_areas": [
+      "Automotive",
+      "Robotics / Automation"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Embedded / Real-Time",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "Raspberry Pi",
+      "NVIDIA Jetson"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Robotics",
+      "Automotive",
+      "Image Processing",
+      "Modeling and Simulation",
+      "Sensor Fusion and Tracking",
+      "Low-Cost Hardware"
+    ]
+  },
+  {
+    "id": "221",
+    "title": "Classify Object Behavior to Enhance the Safety of Autonomous Vehicles",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Classify%20Object%20Behavior%20to%20Enhance%20the%20Safety%20of%20Autonomous%20Vehicles",
+    "source_file": "projects/Classify Object Behavior to Enhance the Safety of Autonomous Vehicles/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/objectBehavior.jpg",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Autonomous Vehicles",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Automated Driving Toolbox",
+      "Statistics and Machine Learning Toolbox",
+      "Deep Learning Toolbox",
+      "Reinforcement Learning Toolbox",
+      "Sensor Fusion and Tracking Toolbox",
+      "RoadRunner"
+    ],
+    "application_areas": [
+      "Automotive"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Autonomous Vehicles",
+      "Robotics",
+      "Drones",
+      "Deep Learning",
+      "Explainable AI",
+      "Machine Learning",
+      "Mobile Robots",
+      "Neural Networks",
+      "Reinforcement Learning",
+      "Sensor Fusion and Tracking",
+      "UAV",
+      "UGV",
+      "Automotive"
+    ]
+  },
+  {
+    "id": "222",
+    "title": "Traffic Data Analysis for Modeling and Prediction of Traffic Scenarios",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Data%20Analysis%20for%20Modelling%20and%20Prediction%20of%20Traffic%20Scenarios",
+    "source_file": "projects/Traffic Data Analysis for Modelling and Prediction of Traffic Scenarios/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/trafficanalysis.jpg",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Big Data"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Deep Learning Toolbox",
+      "Statistics and Machine Learning Toolbox",
+      "RoadRunner",
+      "Mapping Toolbox"
+    ],
+    "application_areas": [
+      "Automotive"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Data Analysis",
+      "AI / Machine Learning"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Big Data",
+      "Autonomous Vehicles",
+      "Support Vector Machines",
+      "Machine Learning",
+      "Deep Learning",
+      "Automotive"
+    ]
+  },
+  {
+    "id": "223",
+    "title": "Traffic Light Negotiation and Perception-Based Detection",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Traffic%20Light%20Negotiation%20and%20Perception-Based%20Detection",
+    "source_file": "projects/Traffic Light Negotiation and Perception-Based Detection/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/intersection.jpg",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Computer Vision"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Automated Driving Toolbox",
+      "Computer Vision Toolbox",
+      "Lidar Toolbox",
+      "Sensor Fusion and Tracking Toolbox",
+      "Stateflow"
+    ],
+    "application_areas": [
+      "Automotive"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Modeling & Simulation",
+      "Control Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Computer Vision",
+      "Automotive",
+      "Control",
+      "Deep Learning",
+      "Image Processing",
+      "Modeling and Simulation",
+      "Sensor Fusion and Tracking"
+    ]
+  },
+  {
+    "id": "224",
+    "title": "Snake-like Robot Modeling and Navigation",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Snake-like%20Robot%20Modeling%20and%20Navigation",
+    "source_file": "projects/Snake-like Robot Modeling and Navigation/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/snakeRobot.jpg",
+    "technology_trends": [
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape Multibody",
+      "ROS Toolbox",
+      "Simulink 3D Animation"
+    ],
+    "application_areas": [
+      "Robotics / Automation"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "Control Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Robotics",
+      "Manipulators",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "225",
+    "title": "Satellite Collision Avoidance",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Satellite%20Collision%20Avoidance",
+    "source_file": "projects/Satellite Collision Avoidance/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/satellite.jpg",
+    "technology_trends": [
+      "Autonomous Vehicles"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Aerospace Toolbox",
+      "Aerospace Blockset"
+    ],
+    "application_areas": [
+      "Aerospace"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "Control Design"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Control",
+      "Satellite",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "228",
+    "title": "Landslide Susceptibility Mapping using Machine Learning",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Landslide%20Susceptibility%20Mapping%20using%20Machine%20Learning",
+    "source_file": "projects/Landslide Susceptibility Mapping using Machine Learning/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/landslide.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Deep Learning Toolbox",
+      "Mapping Toolbox"
+    ],
+    "application_areas": [
+      "Energy / Sustainability",
+      "Education / Research"
+    ],
+    "difficulty": "Beginner",
+    "project_type": [
+      "AI / Machine Learning",
+      "Data Analysis"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "229",
+    "title": "Coastline Prediction using Existing Climate Change Models",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Coastline%20Prediction%20using%20Existing%20Climate%20Change%20Models",
+    "source_file": "projects/Coastline Prediction using Existing Climate Change Models/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coastline.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Mapping Toolbox"
+    ],
+    "application_areas": [
+      "Energy / Sustainability",
+      "Education / Research"
+    ],
+    "difficulty": "Beginner",
+    "project_type": [
+      "Data Analysis",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "230",
+    "title": "Aggressive Maneuver Stabilization for a Minidrone",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Aggressive%20Maneuver%20Stabilization%20for%20a%20Minidrone",
+    "source_file": "projects/Aggressive Maneuver Stabilization for a Minidrone/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agressivemanuvre3.png",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Drones",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simulink Support Package for Parrot Minidrones"
+    ],
+    "application_areas": [
+      "Aerospace"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Control Design",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "Parrot Mambo Minidrone"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Drones",
+      "Robotics",
+      "Aerospace",
+      "Low-cost Hardware",
+      "Modeling and Simulation",
+      "State Estimation",
+      "UAV",
+      "Control"
+    ]
+  },
+  {
+    "id": "231",
+    "title": "Vibration Detection and Rejection from IMU Data",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Vibration%20Detection%20and%20Rejection%20from%20IMU%20Data",
+    "source_file": "projects/Vibration Detection and Rejection from IMU Data/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/vibration.png",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Drones",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Navigation Toolbox",
+      "Sensor Fusion and Tracking Toolbox",
+      "Signal Processing Toolbox",
+      "Wavelet Toolbox"
+    ],
+    "application_areas": [
+      "Aerospace"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Signal Processing",
+      "Data Analysis"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "Arduino",
+      "IMU"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Drones",
+      "Autonomous Vehicles",
+      "Robotics",
+      "Modeling and Simulation",
+      "Sensor Fusion and Tracking",
+      "State Estimation",
+      "Signal Processing"
+    ]
+  },
+  {
+    "id": "232",
+    "title": "Human Motion Recognition Using IMUs",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Human%20Motion%20Recognition%20Using%20IMUs",
+    "source_file": "projects/Human Motion Recognition Using IMUs/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/motionRecognition.png",
+    "technology_trends": [
+      "Artificial Intelligence"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Statistics and Machine Learning Toolbox",
+      "Deep Learning Toolbox",
+      "Navigation Toolbox",
+      "Sensor Fusion and Tracking Toolbox"
+    ],
+    "application_areas": [
+      "Healthcare / Medical"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Signal Processing"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "Arduino",
+      "IMU",
+      "smartphone"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Embedded AI",
+      "Neural Networks",
+      "Signal Processing"
+    ]
+  },
+  {
+    "id": "233",
+    "title": "Sensor Fusion for Autonomous Systems",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sensor%20Fusion%20for%20Autonomous%20Systems",
+    "source_file": "projects/Sensor Fusion for Autonomous Systems/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/sensorFusion.jpg",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Computer Vision Toolbox",
+      "Automated Driving Toolbox",
+      "Lidar Toolbox",
+      "Navigation Toolbox",
+      "UAV Toolbox",
+      "Sensor Fusion and Tracking Toolbox"
+    ],
+    "application_areas": [
+      "Automotive",
+      "Aerospace"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Signal Processing",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Sensor Fusion and Tracking",
+      "State Estimation"
+    ]
+  },
+  {
+    "id": "234",
+    "title": "Visual - Inertial Odometry for a Minidrone",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Visual%20-%20Inertial%20Odometry%20for%20a%20Minidrone",
+    "source_file": "projects/Visual - Inertial Odometry for a Minidrone/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualIntertialOdometry.png",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Computer Vision",
+      "Drones",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Computer Vision Toolbox",
+      "Simulink Support Package for Parrot Minidrones"
+    ],
+    "application_areas": [
+      "Aerospace"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Signal Processing",
+      "Control Design",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "Parrot Mambo Minidrone"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Computer Vision",
+      "Drones",
+      "Robotics",
+      "Aerospace",
+      "Control",
+      "Image Processing",
+      "Low-cost Hardware",
+      "Modeling and Simulation",
+      "Signal Processing",
+      "State Estimation",
+      "UAV"
+    ]
+  },
+  {
+    "id": "235",
+    "title": "Reinforcement Learning Based Fault Tolerant Control of a Quadrotor",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Reinforcement%20Learning%20Based%20Fault%20Tolerant%20Control%20of%20a%20Quadrotor",
+    "source_file": "projects/Reinforcement Learning Based Fault Tolerant Control of a Quadrotor/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAM.jpg",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Drones",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Reinforcement Learning Toolbox",
+      "Simscape"
+    ],
+    "application_areas": [
+      "Aerospace"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning",
+      "Control Design",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Drones",
+      "Artificial Intelligence",
+      "Robotics",
+      "Control",
+      "Reinforcement Learning",
+      "UAV"
+    ]
+  },
+  {
+    "id": "236",
+    "title": "Techno-Economic Assessment of Green Hydrogen Production",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Techno-Economic%20Assessment%20of%20Green%20Hydrogen%20Production",
+    "source_file": "projects/Techno-Economic Assessment of Green Hydrogen Production/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/clean-energy.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape"
+    ],
+    "application_areas": [
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Beginner",
+    "project_type": [
+      "Data Analysis",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Modeling and Simulation",
+      "Electrification"
+    ]
+  },
+  {
+    "id": "237",
+    "title": "Energy-Optimal Trajectory Planning for Multirotor Drones",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Energy-Optimal%20Trajectory%20Planning%20for%20Multirotor%20Drones",
+    "source_file": "projects/Energy-Optimal Trajectory Planning for Multirotor Drones/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UAV_plan.png",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Drones",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "UAV Toolbox",
+      "Simscape Multibody",
+      "Simscape Battery",
+      "Optimization Toolbox"
+    ],
+    "application_areas": [
+      "Aerospace"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Optimization",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Drones",
+      "Robotics",
+      "Autonomous Vehicles",
+      "Electrification",
+      "Modeling and Simulation",
+      "Optimization",
+      "UAV"
+    ]
+  },
+  {
+    "id": "238",
+    "title": "Top Quark Detection with Deep Learning and Big Data",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Top%20Quark%20Detection%20with%20Deep%20Learning%20and%20Big%20Data",
+    "source_file": "projects/Top Quark Detection with Deep Learning and Big Data/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/topQuark.png",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Big Data"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Deep Learning Toolbox"
+    ],
+    "application_areas": [
+      "Education / Research"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Data Analysis"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "FPGA",
+      "GPU"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Big Data",
+      "Deep Learning",
+      "Physics"
+    ]
+  },
+  {
+    "id": "239",
+    "title": "Sentiment Analysis in Cryptocurrency Trading",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Sentiment%20Analysis%20in%20Cryptocurrency%20Trading",
+    "source_file": "projects/Sentiment Analysis in Cryptocurrency Trading/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cripto.png",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Computational Finance"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Datafeed Toolbox",
+      "Statistics and Machine Learning Toolbox",
+      "Deep Learning Toolbox",
+      "Text Analytics Toolbox",
+      "Econometrics Toolbox",
+      "Financial Toolbox"
+    ],
+    "application_areas": [
+      "Finance / Economics"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Data Analysis"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Machine Learning",
+      "Text Analytics"
+    ]
+  },
+  {
+    "id": "240",
+    "title": "Augmented Reality for Architecture",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Augmented%20Reality%20for%20Architecture",
+    "source_file": "projects/Augmented Reality for Architecture/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ar_image.png",
+    "technology_trends": [
+      "Computer Vision"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Computer Vision Toolbox"
+    ],
+    "application_areas": [
+      "Smart Infrastructure / IoT"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "App / UI Development"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "webcam"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Computer Vision",
+      "Image Processing",
+      "Sensor Fusion and Tracking"
+    ]
+  },
+  {
+    "id": "241",
+    "title": "Simulink Hearing Aid",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Simulink%20Hearing%20Aid",
+    "source_file": "projects/Simulink Hearing Aid/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/hearingAid.jpg",
+    "technology_trends": [],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Audio Toolbox"
+    ],
+    "application_areas": [
+      "Healthcare / Medical"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Signal Processing",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "Raspberry Pi"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Signal Processing",
+      "Audio",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "242",
+    "title": "Carbon Neutrality",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Carbon%20Neutrality",
+    "source_file": "projects/Carbon Neutrality/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/carbonNeutral.jpg",
+    "technology_trends": [
+      "Computational Finance",
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Econometrics Toolbox",
+      "Curve Fitting Toolbox",
+      "Mapping Toolbox",
+      "Deep Learning Toolbox"
+    ],
+    "application_areas": [
+      "Energy / Sustainability",
+      "Finance / Economics"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Data Analysis",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Computational Finance",
+      "Sustainability and Renewable Energy",
+      "Modeling and Simulation",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "243",
+    "title": "Music Composition with Deep Learning",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Music%20Composition%20with%20Deep%20Learning",
+    "source_file": "projects/Music Composition with Deep Learning/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/audio_image.png",
+    "technology_trends": [
+      "Artificial Intelligence"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Deep Learning Toolbox",
+      "Audio Toolbox"
+    ],
+    "application_areas": [
+      "Education / Research"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Machine Learning",
+      "Neural Networks",
+      "Audio"
+    ]
+  },
+  {
+    "id": "244",
+    "title": "Deep Image Prior for Inverse Problems in Imaging",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Deep%20Image%20Prior%20for%20Inverse%20Problems%20in%20Imaging",
+    "source_file": "projects/Deep Image Prior for Inverse Problems in Imaging/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/dip.png",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Computer Vision"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Deep Learning Toolbox",
+      "Computer Vision Toolbox",
+      "Image Processing Toolbox"
+    ],
+    "application_areas": [
+      "Healthcare / Medical",
+      "Education / Research"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Deep Learning",
+      "Image Processing",
+      "Machine Learning",
+      "Neural Networks",
+      "Optimization",
+      "Signal Processing"
+    ]
+  },
+  {
+    "id": "245",
+    "title": "Classify RF Signals Using AI",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Classify%20RF%20Signals%20Using%20AI",
+    "source_file": "projects/Classify RF Signals Using AI/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ai-for-wireless-synthetic-waveform-dataset.jpg",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Wireless Communication"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Communications Toolbox",
+      "Deep Learning Toolbox",
+      "GPU Coder"
+    ],
+    "application_areas": [
+      "Communications / Wireless"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Signal Processing"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "SDR",
+      "USRP",
+      "ADALM-Pluto",
+      "FPGA"
+    ],
+    "has_partner": true,
+    "partner_type": "industry",
+    "partners": [
+      "National Instruments"
+    ],
+    "expertise_gained_original": [
+      "Wireless Communication",
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Image Processing",
+      "Machine Learning",
+      "Neural Networks",
+      "Software-defined Radio"
+    ]
+  },
+  {
+    "id": "246",
+    "title": "Energy Management for a 2-Motor BEV using Model-Predictive Control",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Energy%20Management%20for%20a%202-Motor%20BEV%20using%20Model-Predictive%20Control",
+    "source_file": "projects/Energy Management for a 2-Motor BEV using Model-Predictive Control/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BEV.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Powertrain Blockset",
+      "Model Predictive Control Toolbox"
+    ],
+    "application_areas": [
+      "Automotive",
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Control Design",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "Speedgoat",
+      "dSPACE"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Automotive",
+      "Control",
+      "Electrification",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "247",
+    "title": "Multi-UAV Path Planning for Urban Air Mobility",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Multi-UAV%20Path%20Planning%20for%20Urban%20Air%20Mobility",
+    "source_file": "projects/Multi-UAV Path Planning for Urban Air Mobility/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/uamPathPlanning.png",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Drones",
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "UAV Toolbox",
+      "Sensor Fusion and Tracking Toolbox",
+      "Optimization Toolbox"
+    ],
+    "application_areas": [
+      "Aerospace"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "Optimization",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Drones",
+      "Robotics",
+      "Multi-agent System",
+      "Optimization",
+      "Sensor Fusion and Tracking",
+      "UAV",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "248",
+    "title": "Cone Detection for Formula Student Driverless Competition",
+    "project_url": "https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/projects/Cone%20Detection%20for%20Formula%20Student%20Driverless%20Competition",
+    "source_file": "projects/Cone Detection for Formula Student Driverless Competition/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/coneDetection.png",
+    "technology_trends": [
+      "Autonomous Vehicles",
+      "Computer Vision"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Vehicle Dynamics Blockset",
+      "Automated Driving Toolbox",
+      "GPU Coder",
+      "Lidar Toolbox"
+    ],
+    "application_areas": [
+      "Automotive"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "NVIDIA Jetson"
+    ],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Computer Vision",
+      "Deep Learning",
+      "Modeling and Simulation"
+    ]
+  },
+  {
+    "id": "249",
+    "title": "Solar Tracker Control Simulation",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Solar%20Tracker%20Control%20Simulation",
+    "source_file": "projects/Solar Tracker Control Simulation/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/solarTracker.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape Multibody",
+      "Simscape Electrical",
+      "Control System Toolbox"
+    ],
+    "application_areas": [
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Control Design",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Control",
+      "Modeling and Simulation",
+      "Solar Panels"
+    ]
+  },
+  {
+    "id": "250",
+    "title": "Intelligent Energy Management Systems for Smart Grids",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Energy%20Management%20Systems%20for%20Smart%20Grids",
+    "source_file": "projects/Intelligent Energy Management Systems for Smart Grids/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/grid.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape Electrical",
+      "Statistics and Machine Learning Toolbox",
+      "Deep Learning Toolbox"
+    ],
+    "application_areas": [
+      "Energy / Sustainability",
+      "Smart Infrastructure / IoT"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning",
+      "Modeling & Simulation",
+      "Optimization"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Electrification",
+      "Modeling and Simulation",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "251",
+    "title": "Detection and Visualization of CO2 Concentration Using Hyperspectral Satellite Data",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Detection%20and%20Visualization%20of%20CO2%20Concentration%20Using%20Hyperspectral%20Satellite%20Data",
+    "source_file": "projects/Detection and Visualization of CO2 Concentration Using Hyperspectral Satellite Data/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/CO2.jpg",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Image Processing Toolbox",
+      "Mapping Toolbox",
+      "Statistics and Machine Learning Toolbox"
+    ],
+    "application_areas": [
+      "Energy / Sustainability",
+      "Aerospace"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Data Analysis",
+      "Signal Processing"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Image Processing",
+      "Machine Learning",
+      "Signal Processing"
+    ]
+  },
+  {
+    "id": "252",
+    "title": "Fluid Flow Simulation Using Physics-Informed Neural Networks",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks",
+    "source_file": "projects/Fluid Flow Simulation Using Physics-Informed Neural Networks/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/cfd.jpg",
+    "technology_trends": [
+      "Artificial Intelligence"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Deep Learning Toolbox"
+    ],
+    "application_areas": [
+      "Aerospace",
+      "Education / Research"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Modeling and Simulation",
+      "Neural Networks"
+    ]
+  },
+  {
+    "id": "253",
+    "title": "Fault Detection for Electric Motors Using Vibration Analysis",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis",
+    "source_file": "projects/Fault Detection for Electric Motors Using Vibration Analysis/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/faultAnalysis.jpg",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Big Data"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Predictive Maintenance Toolbox",
+      "Statistics and Machine Learning Toolbox",
+      "Deep Learning Toolbox",
+      "Simscape",
+      "Simscape Electrical",
+      "Simscape Driveline"
+    ],
+    "application_areas": [
+      "Manufacturing / Industry 4.0"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "AI / Machine Learning",
+      "Hardware Integration",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "Required",
+    "hardware_tags": [
+      "STM32",
+      "accelerometer"
+    ],
+    "has_partner": true,
+    "partner_type": "industry",
+    "partners": [
+      "STMicroelectronics"
+    ],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Big Data",
+      "Embedded AI",
+      "Machine Learning",
+      "Modeling and Simulation",
+      "Predictive Maintenance",
+      "Health Monitoring",
+      "Low-cost Hardware"
+    ]
+  },
+  {
+    "id": "254",
+    "title": "Adaptive Palletizing with Simulation Optimization",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Adaptive%20Palletizing%20with%20Simulation%20Optimization",
+    "source_file": "projects/Adaptive Palletizing with Simulation Optimization/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/UR.png",
+    "technology_trends": [
+      "Robotics"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Robotics System Toolbox",
+      "Optimization Toolbox",
+      "Computer Vision Toolbox",
+      "Simulink 3D Animation"
+    ],
+    "application_areas": [
+      "Manufacturing / Industry 4.0",
+      "Robotics / Automation"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Modeling & Simulation",
+      "Optimization"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "robot arm"
+    ],
+    "has_partner": true,
+    "partner_type": "industry",
+    "partners": [
+      "Universal Robots"
+    ],
+    "expertise_gained_original": [
+      "Robotics",
+      "Manipulators",
+      "Modeling and Simulation",
+      "Optimization"
+    ]
+  },
+  {
+    "id": "255",
+    "title": "Intelligent Trip Planning for Battery Electric Vehicles Using Real-Time Map Data",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Intelligent%20Trip%20Planning%20for%20Battery%20Electric%20Vehicles%20Using%20Real-Time%20Map%20Data",
+    "source_file": "projects/Intelligent Trip Planning for Battery Electric Vehicles Using Real-Time Map Data/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BEVtrip.png",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Mapping Toolbox",
+      "Powertrain Blockset",
+      "Vehicle Dynamics Blockset",
+      "Optimization Toolbox",
+      "Stateflow"
+    ],
+    "application_areas": [
+      "Automotive",
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Optimization",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Automotive",
+      "Electrification",
+      "Modeling and Simulation",
+      "Optimization"
+    ]
+  },
+  {
+    "id": "256",
+    "title": "Battery Fast Charging Optimization",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Battery%20Fast%20Charging%20Optimization",
+    "source_file": "projects/Battery Fast Charging Optimization/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/FastChargerSPM.png",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Simscape Battery",
+      "Simscape",
+      "Reinforcement Learning Toolbox"
+    ],
+    "application_areas": [
+      "Energy / Sustainability",
+      "Automotive"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Optimization",
+      "Modeling & Simulation"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Modeling and Simulation",
+      "Optimization",
+      "Electrification"
+    ]
+  },
+  {
+    "id": "257",
+    "title": "Processor-in-the-Loop Automotive Controller on an Arm Cortex-M7 Fast Model Emulator",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Processor-in-the-Loop%20Automotive%20Controller%20on%20an%20Arm%20Cortex-M7%20Fast%20Model%20Emulator",
+    "source_file": "projects/Processor-in-the-Loop Automotive Controller on an Arm Cortex-M7 Fast Model Emulator/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pil.png",
+    "technology_trends": [
+      "Autonomous Vehicles"
+    ],
+    "mathworks_platforms": [
+      "MATLAB",
+      "Simulink"
+    ],
+    "mathworks_products": [
+      "Embedded Coder",
+      "Simulink Test",
+      "Simulink Coverage",
+      "Requirements Toolbox"
+    ],
+    "application_areas": [
+      "Automotive"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Verification / Testing",
+      "Embedded / Real-Time"
+    ],
+    "hardware_required": "Optional",
+    "hardware_tags": [
+      "Arm Cortex-M7"
+    ],
+    "has_partner": true,
+    "partner_type": "industry",
+    "partners": [
+      "Arm"
+    ],
+    "expertise_gained_original": [
+      "Autonomous Vehicles",
+      "Automotive",
+      "Modeling and Simulation",
+      "Control"
+    ]
+  },
+  {
+    "id": "258",
+    "title": "Federal Open Market Committee Minutes Analysis with Large Language Models",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models",
+    "source_file": "projects/Federal Open Market Committee Minutes Analysis with Large Language Models/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fomc.jpg",
+    "technology_trends": [
+      "Artificial Intelligence",
+      "Computational Finance"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Text Analytics Toolbox",
+      "Statistics and Machine Learning Toolbox",
+      "Deep Learning Toolbox"
+    ],
+    "application_areas": [
+      "Finance / Economics"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning",
+      "Data Analysis"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": false,
+    "partner_type": "",
+    "partners": [],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Computational Finance",
+      "Natural Language Processing",
+      "Text Analytics",
+      "Neural Networks"
+    ]
+  },
+  {
+    "id": "259",
+    "title": "Real-Time Acceleration for Medical Image Processing",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Real-Time%20Acceleration%20for%20Medical%20Image%20Processing",
+    "source_file": "projects/Real-Time Acceleration for Medical Image Processing/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ultrasound.png",
+    "technology_trends": [
+      "Artificial Intelligence"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "GPU Coder",
+      "Phased Array System Toolbox",
+      "Image Processing Toolbox",
+      "Deep Learning Toolbox",
+      "Medical Imaging Toolbox"
+    ],
+    "application_areas": [
+      "Healthcare / Medical"
+    ],
+    "difficulty": "Advanced",
+    "project_type": [
+      "AI / Machine Learning",
+      "Embedded / Real-Time"
+    ],
+    "hardware_required": "Required",
+    "hardware_tags": [
+      "ADC",
+      "NVIDIA Holoscan"
+    ],
+    "has_partner": true,
+    "partner_type": "industry",
+    "partners": [
+      "Analog Devices"
+    ],
+    "expertise_gained_original": [
+      "Artificial Intelligence",
+      "Embedded AI",
+      "Image Processing",
+      "Real-time medical imaging"
+    ]
+  }
+]
