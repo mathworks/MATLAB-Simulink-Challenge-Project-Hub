@@ -2,6 +2,8 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Fault%20Detection%20for%20Electric%20Motors%20Using%20Vibration%20Analysis&tfa_2=253)</strong> to <strong>submit</strong> your solution to this project and qualify for the rewards.
 
+This project is developed in collaboration with **STMicroelectronics**. 
+
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/faultAnalysis.jpg"  width=500 /></td>
 <td><p><h1>Fault Detection for Electric Motors Using Vibration Analysis</h1></p>
