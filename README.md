@@ -25,9 +25,11 @@ Make the results of your work open and accessible to receive a certificate and e
 
 
 For more information about the program and <strong>how to submit your solution, please visit our [wiki page](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/wiki)</strong>. 
+You can also find more information about [**Custom Competitions and Industry Collaborations**](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Custom-Competitions-and-Industry-Collaborations).
 
 If you are industry or faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html)</strong>.
 
+<!--
 <table>
     <tr><td colspan="2"><h2>Announcements :loudspeaker:</h2></td></tr>
     <tr>
@@ -35,6 +37,12 @@ If you are industry or faculty and interested in further information, to provide
         <td valign="top" width="50%"><h3>Industry Partners: Co-Develop a Challenge Project :factory::handshake:</h3>More details <a href ="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Announcements-%F0%9F%93%A2#industry-collaboration-">here</a></td>
     </tr>
 </table>
+https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Custom-Competitions-and-Industry-Collaborations
+-->
+## Project Explorer :mag:
+Explore all projects using an interactive filtering tool. Search and filter by technology, application area, MATLAB/Simulink tools, and more to quickly find projects that match your interests.
+
+👉 [**Open Project Explorer**](https://mathworks.github.io/MATLAB-Simulink-Challenge-Project-Hub/table)
 
 ## Projects by technology trends :file_cabinet:
 - [Artificial Intelligence](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/blob/main/megatrends/Artificial%20Intelligence.md)
@@ -56,7 +64,7 @@ _After the remarkable success of our inaugural edition, we are delighted to anno
 _By participating, you have the opportunity to **win up to $1000**. Visit this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html)** to learn more about the challenge and how to participate._
 -->
 ## All projects :file_folder:
-*Updated: January 22, 2026*
+*Updated: February 25, 2026*
 <table><!---->
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ultrasound.png"  width=500 /></td>
