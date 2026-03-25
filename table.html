@@ -41,13 +41,21 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
 .instructions .legend { margin-top: 8px; font-size: .82rem; color: var(--text-muted); border-top: 1px solid var(--border); padding-top: 8px; }
 
 /* Toolbar */
-.toolbar { max-width: 1400px; margin: 0 auto; padding: 14px 32px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.toolbar { max-width: 1400px; margin: 0 auto; padding: 14px 32px 0; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
 .search-box { flex: 1; min-width: 260px; position: relative; }
 .search-box input { width: 100%; padding: 9px 14px 9px 36px; border: 1px solid var(--border); border-radius: var(--radius); font-size: .9rem; outline: none; transition: border .2s; }
 .search-box input:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(0,118,168,.12); }
 .search-box svg { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); color: var(--text-muted); }
 .result-count { font-size: .88rem; color: var(--text-muted); white-space: nowrap; }
-.btn-clear { padding: 8px 18px; background: var(--accent); color: #fff; border: none; border-radius: var(--radius); font-size: .85rem; font-weight: 600; cursor: pointer; white-space: nowrap; transition: background .2s; }
+
+/* Active filters bar */
+.active-filters { max-width: 1400px; margin: 0 auto; padding: 6px 32px 10px; display: none; align-items: center; gap: 8px; flex-wrap: wrap; }
+.active-filters.visible { display: flex; }
+.active-filters-label { font-size: .8rem; font-weight: 600; color: var(--text-muted); white-space: nowrap; }
+.af-chip { display: inline-flex; align-items: center; gap: 4px; padding: 2px 10px; border-radius: 12px; font-size: .76rem; background: var(--primary); color: #fff; cursor: pointer; white-space: nowrap; transition: background .15s; }
+.af-chip:hover { background: var(--primary-dark); }
+.af-chip .af-x { font-weight: 700; font-size: .82rem; line-height: 1; }
+.btn-clear { padding: 6px 14px; background: var(--accent); color: #fff; border: none; border-radius: var(--radius); font-size: .8rem; font-weight: 600; cursor: pointer; white-space: nowrap; transition: background .2s; }
 .btn-clear:hover { background: #c55a24; }
 
 /* Layout */
@@ -150,7 +158,11 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
     <input type="text" id="searchInput" placeholder="Search by title, technology, toolbox, application, partner...">
   </div>
   <span class="result-count" id="resultCount"></span>
-  <button class="btn-clear" id="clearBtn">Clear Filters</button>
+</div>
+<div class="active-filters" id="activeFilters">
+  <span class="active-filters-label">Filtered by:</span>
+  <span id="activeChips"></span>
+  <button class="btn-clear" id="clearBtn">Clear All</button>
 </div>
 
 <div class="main">
@@ -166,14 +178,14 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
 
   const FILTER_DEFS = [
     { key: "technology_trends", label: "Technology Trends", tagClass: "tag-trend" },
-    { key: "mathworks_platforms", label: "MathWorks Platforms", tagClass: "tag-platform" },
-    { key: "mathworks_products", label: "MathWorks Products", tagClass: "tag-product" },
     { key: "application_areas", label: "Application Areas", tagClass: "tag-area" },
     { key: "difficulty", label: "Difficulty", tagClass: "", isScalar: true },
     { key: "project_type", label: "Project Type", tagClass: "tag-type" },
     { key: "hardware_required", label: "Hardware Required", tagClass: "", isScalar: true },
     { key: "hardware_tags", label: "Hardware Tags", tagClass: "tag-hw" },
     { key: "partners", label: "Partners", tagClass: "tag-partner" },
+    { key: "mathworks_platforms", label: "MathWorks Platforms", tagClass: "tag-platform" },
+    { key: "mathworks_products", label: "MathWorks Products", tagClass: "tag-product" },
   ];
 
   let allProjects = [];
@@ -186,6 +198,8 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
   const $count = document.getElementById("resultCount");
   const $clear = document.getElementById("clearBtn");
   const $status = document.getElementById("statusMsg");
+  const $activeFilters = document.getElementById("activeFilters");
+  const $activeChips = document.getElementById("activeChips");
 
   // ── Data loading ──────────────────────────────────────────────
   fetch("./projects/projects.json")
@@ -205,15 +219,17 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
   function buildSidebar() {
     let html = "";
 
-    // Partner-only toggle
-    html += `<div class="filter-section">
-      <div class="filter-header" style="cursor:default">Partner Filter</div>
-      <div class="filter-options">
-        <label><input type="checkbox" id="partnerToggle"> Only partnered projects</label>
-      </div>
-    </div>`;
-
     FILTER_DEFS.forEach(def => {
+      // Insert partner toggle right before Partners section
+      if (def.key === "partners") {
+        html += `<div class="filter-section">
+          <div class="filter-header" style="cursor:default">Partner Filter</div>
+          <div class="filter-options">
+            <label><input type="checkbox" id="partnerToggle"> Only partnered projects</label>
+          </div>
+        </div>`;
+      }
+
       const vals = collectValues(def.key, def.isScalar);
       if (!vals.length) return;
       filterState[def.key] = new Set();
@@ -283,6 +299,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
 
     renderCards(filtered);
     updateCounts(filtered);
+    renderActiveFilters();
     $count.textContent = `Showing ${filtered.length} of ${allProjects.length} projects`;
   }
 
@@ -311,6 +328,50 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
         else { if ((p[key] || []).includes(val)) n++; }
       });
       span.textContent = n;
+    });
+  }
+
+  // ── Active filter chips ────────────────────────────────────────
+  function renderActiveFilters() {
+    let chips = [];
+    const q = $search.value.trim();
+    if (q) {
+      chips.push(`<span class="af-chip" data-action="search">Search: "${esc(q)}" <span class="af-x">✕</span></span>`);
+    }
+    if (partnerOnly) {
+      chips.push(`<span class="af-chip" data-action="partner">Partnered only <span class="af-x">✕</span></span>`);
+    }
+    FILTER_DEFS.forEach(def => {
+      const sel = filterState[def.key];
+      if (!sel) return;
+      sel.forEach(v => {
+        chips.push(`<span class="af-chip" data-action="filter" data-key="${def.key}" data-val="${escAttr(v)}">${esc(v)} <span class="af-x">✕</span></span>`);
+      });
+    });
+
+    $activeChips.innerHTML = chips.join("");
+    $activeFilters.classList.toggle("visible", chips.length > 0);
+
+    // click to remove individual chip
+    $activeChips.querySelectorAll(".af-chip").forEach(chip => {
+      chip.addEventListener("click", () => {
+        const action = chip.dataset.action;
+        if (action === "search") {
+          $search.value = "";
+        } else if (action === "partner") {
+          partnerOnly = false;
+          const pt = document.getElementById("partnerToggle");
+          if (pt) pt.checked = false;
+        } else if (action === "filter") {
+          const key = chip.dataset.key;
+          const val = chip.dataset.val;
+          filterState[key].delete(val);
+          // uncheck matching sidebar checkbox
+          const cb = $sidebar.querySelector(`input[data-key="${key}"][value="${CSS.escape(val)}"]`);
+          if (cb) cb.checked = false;
+        }
+        applyFilters();
+      });
     });
   }
 
