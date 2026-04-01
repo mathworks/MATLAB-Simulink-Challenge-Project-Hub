@@ -24,7 +24,7 @@ Make the results of your work open and accessible to receive a certificate and e
 :pushpin: Please read our **[Generative AI Guidelines](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Generative-AI-Guidelines)** before starting your project. Submissions with unverified, misunderstood, or misused AI-generated work will **not** be accepted.
 
 
-For more information about the program and <strong>how to submit your solution, please visit our [wiki page](https://github.com/mathworks/MathWorks-Excellence-in-Innovation/wiki)</strong>. 
+For more information about the program and <strong>how to submit your solution, please visit our [wiki page](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki)</strong>. 
 You can also find more information about [**Custom Competitions and Industry Collaborations**](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/wiki/Custom-Competitions-and-Industry-Collaborations).
 
 If you are industry or faculty and interested in further information, to provide feedback, or to nominate a new project, contact us <strong>[here](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-contact-us.html)</strong>.
