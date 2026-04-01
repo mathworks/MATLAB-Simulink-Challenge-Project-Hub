@@ -1,0 +1,35 @@
+name: Auto Reply to Discussion Comments
+
+on:
+  discussion_comment:
+    types: [created]
+
+jobs:
+  reply:
+    runs-on: ubuntu-latest
+    if: >
+      github.event.comment.user.login != 'github-actions[bot]' &&
+      contains(github.event.discussion.title, '(Project ')
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Clone wiki
+        run: git clone --depth 1 https://github.com/${{ github.repository }}.wiki.git wiki || true
+
+      - name: Setup MATLAB
+        uses: matlab-actions/setup-matlab@v2
+
+      - name: Run auto-reply bot
+        uses: matlab-actions/run-command@v2
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          DISCUSSION_NUMBER: ${{ github.event.discussion.number }}
+          COMMENT_NODE_ID: ${{ github.event.comment.node_id }}
+          REPO_FULL_NAME: ${{ github.repository }}
+        with:
+          command: addpath('.github/scripts'); auto_reply
