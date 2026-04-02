@@ -2,7 +2,7 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Real-Time%20Acceleration%20for%20Medical%20Image%20Processing&tfa_2=259)</strong> to <strong>submit</strong> your solution to this project and qualify for the rewards.
 
-This project is developed in collaboration with **Analog Devices**.
+This project is developed in collaboration with **Analog Devices, Inc. (ADI)**.
 
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ultrasound.png"  width=500 /></td>
@@ -19,13 +19,13 @@ This project is developed in collaboration with **Analog Devices**.
 ## Motivation
 
 Modern medical imaging devices, such as portable ultrasound systems, must process large amounts of sensor data in real time while delivering clear, actionable output. This requires fast and optimized pipelines for signal acquisition, image reconstruction, enhancement, and increasingly, AI-based interpretation.
-This project allows students to explore this full workflow using a realistic industry-style toolchain&#58; capturing analog signals with Analog Devices hardware (or simulated equivalents), designing algorithms in MATLAB, compiling them to CUDA using GPU Coder, and deploying them on edge hardware with Holoscan.
+This project allows students to explore this full workflow using a realistic industry-style toolchain: capturing analog signals with Analog Devices (ADI) hardware (or simulated equivalents), designing algorithms in MATLAB, compiling them to CUDA using GPU Coder, and deploying them on edge hardware with Holoscan.
 
 
 ## Project Description
 
 Build a real-time image processing and interpretation pipeline for a medical imaging use case such as ultrasound. Simulate or acquire analog imaging data, reconstruct an image, enhance it, and run a simple AI inference task — all within a Holoscan-deployed real-time streaming application.
-When available, Analog Devices high-speed ADC hardware should be used for real data acquisition. If hardware access is limited, simulated or pre-recorded datasets that mimic ADC output may be used. The [ADI HoloHub GitHub example](https://github.com/analogdevicesinc/holohub/tree/main/applications/matlab_gpu_coder) (matlab_gpu_coder application) provides a reference implementation that can serve as a starting point.
+When available, Analog Devices high-speed Analog-to-Digital Converter (ADC) hardware should be used for real data acquisition. If hardware access is limited, simulated or pre-recorded datasets that mimic ADC output may be used. The [ADI HoloHub GitHub example](https://github.com/analogdevicesinc/holohub/tree/main/applications/matlab_gpu_coder) (matlab_gpu_coder application) provides a reference implementation that can serve as a starting point.
 While ultrasound imaging is the suggested application, other modalities (e.g., RF imaging, thermal imaging) may be explored provided the full acquisition-to-deployment workflow is preserved.
 
 Suggested Steps
@@ -45,7 +45,7 @@ The ADI HoloHub example demonstrates a simple beamforming approach and may be us
     -	Build and train a Convolutional Neural Network (CNN) using the [Deep Learning Toolbox](https://www.mathworks.com/help/deeplearning/index.html) for ROI-based detection such as presence of a structure or pattern. Keep model lightweight to ensure real-time inference on GPU-capable edge devices.
     -	For dataset preparation and labeling:
         -	Use datasets from the [example](https://www.mathworks.com/help/deeplearning/ug/breast-tumor-segmentation-from-ultrasound-using-deep-learning.html) or from the background material to test and validate the model. 
-        -	For labeling explore the [Medical Image Labeler]( https://www.mathworks.com/help/medical-imaging/ug/get-started-with-medsam-in-medical-image-labeler.html) app from the Medical Imaging Toolbox. For medical imaging you can use Semi-automated (requires bounding box) segmentation such as the Medical Segment Anything Model ([MedSAM]( https://www.mathworks.com/help/medical-imaging/ug/get-started-with-medsam-in-medical-image-labeler.html)) or a flexible solution Medical Open Network for AI ([MONAI](https://www.mathworks.com/help/medical-imaging/ug/get-started-with-monai-label-in-medical-image-labeler-app.html)) that supports both semi-automated and automated pipelines
+        -	For labeling explore the [Medical Image Labeler]( https://www.mathworks.com/help/medical-imaging/ug/get-started-with-medsam-in-medical-image-labeler.html) app from the Medical Imaging Toolbox. For medical imaging you can use semi-automated (requires bounding box) segmentation such as the Medical Segment Anything Model ([MedSAM]( https://www.mathworks.com/help/medical-imaging/ug/get-started-with-medsam-in-medical-image-labeler.html)) or a flexible solution like the Medical Open Network for AI ([MONAI](https://www.mathworks.com/help/medical-imaging/ug/get-started-with-monai-label-in-medical-image-labeler-app.html)), which supports both semi-automated and automated pipelines.
 
 4.	**CUDA Code Generation:** After developing and testing your entire image processing pipeline in MATLAB (including beamforming, enhancement, and AI detection), you will use GPU Coder to generate CUDA code suitable for real-time execution in a Holoscan pipeline. The [ADI HoloHub GitHub example](https://github.com/analogdevicesinc/holohub/tree/main/applications/matlab_gpu_coder) show how to how to develop Holoscan applications that uses CUDA code generated by [MATLAB GPU Coder](https://www.mathworks.com/products/gpu-coder.html)
 5.	**Holoscan Integration**: Create a real-time processing pipeline using the NVIDIA Holoscan SDK, with operators representing:
