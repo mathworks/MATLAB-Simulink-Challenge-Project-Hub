@@ -88,7 +88,7 @@ Open the "SolarPanel_StudentProjectTemplate.mlx" Live Script in MATLAB as a star
 ## MathWorks Tutorials and Helpful Resources
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
 - [Optimization Onramp](https://matlabacademy.mathworks.com/details/optimization-onramp/optim)
-- [Optimization Workflow](https://www.mathworks.com/help/optim/ug/problem-based-workflow.html)
+- [Problem-Based Optimization Workflow](https://www.mathworks.com/help/optim/ug/problem-based-workflow.html)
 - [Creating a 3D Surface Plot](https://www.mathworks.com/help/matlab/ref/surf.html)
 
 ## Project Difficulty
