@@ -39,7 +39,7 @@ The given value for A, suggested starting ranges for θ and r, and the equations
 Your task: Find the optimal θ and r that maximizes energy output, using the provided energy function E(θ, r).
 
 ### Suggested Steps
-Open the "SolarPanel_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
+Open the "SolarPanel_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project. More detailed implementation guidelines for each suggested task are provided in the Live Script file.
 1. Define the objective function in MATLAB (the energy function).
       - Plug the given values and equations into the energy output equation, as shown below:
             <img width="444" height="249" alt="image" src="./Equation_SolarPanel.png"/>
