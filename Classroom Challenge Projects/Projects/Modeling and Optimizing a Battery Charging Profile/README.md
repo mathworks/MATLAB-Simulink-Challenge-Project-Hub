@@ -4,8 +4,6 @@
 <p>Use MATLAB to model a lithium battery-charging profile</p>
 </table>
 
-**THIS GITHUB REPO IS CURRENTLY BEING EDITED 05/12/26**
-
 ## Motivation
 Understanding battery charging is essential in the age of electric vehicles, drones, and consumer electronics. A battery’s charging curve involves non-linear changes in current and voltage over time. This project provides an opportunity to apply knowledge of electric circuits, energy transfer, and calculus to model charging behavior, evaluate efficiency, and explore the design of safe charging systems.
 
@@ -38,11 +36,6 @@ Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a
     - Rate‑of‑change analysis (derivatives at key intervals).
     - Estimates of resistive energy loss.
 
-### Optional Extensions (advanced):
-- Optimize charging time while keeping current within safety limits using MATLAB Optimization Toolbox.
-- Introduce temperature effects or non-ideal behavior into the model.
-- Compare Constant Current–Constant Voltage (CC-CV) charging with other methods using MATLAB scripts.
-
 ## Learning Outcomes
 - Understand battery-charging dynamics through a first-order RC-circuit analog and exponential model, and evaluate model fit
 - Analyze and interpret time-series battery data to generate and explain voltage, current, and power behavior
@@ -69,10 +62,14 @@ Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a
   - Internal resistance reduces efficiency by causing votlage drop, dissipating energy as heat
   - Rate of change of voltage is dynamic during charging
 
-### For optional extension: Battery‑charging principles
-  - CC‑CV charging
-  - Nonlinear behavior
-  - Efficiency and resistive losses.
+## Optional Extension (intermediate):
+The lithium-ion battery from the example dataset follows a Constant Current-Constant Voltage (CC-CV) charging profile (standard for lithium ion batteries), where constant current is initially applied to rapidly increase voltage and then switches to constant voltage to safely complete the charge as current decreases.
+
+As an optional extension of this project:
+1. Utilize the data from one cycle. Identify the charging phases in the dataset and split the data into two regions: CC region (where voltage is increasing and current is approximately constant) and CV region (constant voltage, decreasing current). Clearly mark the transition points on plots. Optionally, confirm using rate of voltage change analysis (the derivative should be 0 at the start of the CV phase).
+2. Analyze each phase separately. Fit the same exponential model as above to the CC phase and fit an exponential decay model to the plot of current vs. time during the CV phase.
+3. Compare power vs. time during each phase and compute total energy delivered during each phase. Identify when charging is most efficient and when most energy is delivered.
+4. CC-CV is one type of charging profile. Use Simscape Battery to model and compare different charging profiles (such as constant current, multi-stage/smart charging, or fast electric vehicle charging). Plot the simulation results (charging/discharing current, battery voltage, and battery temperature) for different charging profiles. This [example](https://www.mathworks.com/help/simscape-battery/ug/battery-constant-current-constant-voltage.html) shows how to simulate a CC-CV battery charging profile in Simscape, and shows the example plots of the simulation results. You can also use the [Battery Builder app](https://www.mathworks.com/help/simscape-battery/ref/batterybuilder-app.html) to export a custom battery object to Simulink for circuit modeling and analysis. 
 
 ## MathWorks Tutorials and Helpful Resources
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
@@ -80,11 +77,12 @@ Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a
 - [Example MathWorks Lithium Ion Battery Data](https://www.mathworks.com/help/predmaint/ug/data-analysis-and-feature-extraction-for-battery-raw-cycling-data.html)
 - [Curve Fitting Workflow](https://www.mathworks.com/help/curvefit/fit.html)
 - [Numerical Integration and Differentiation with MATLAB](https://www.mathworks.com/help/matlab/numerical-integration-and-differentiation.html)
+  
 *For optional extension*:
-- [Modeling RC Circuits in Simulink and Simscape](https://www.mathworks.com/help/simscape/ug/rc-circuit-in-simulink-and-simscape.html#d126e38731)
-- [Battery Charging and Discharging Example in Simscape Battery](https://www.mathworks.com/help/simscape-battery/ug/battery-constant-current-constant-voltage.html)
 - [Simscape Battery Onramp](https://matlabacademy.mathworks.com/details/simscape-battery-onramp/orsb)
-
+- [Battery Charging and Discharging Example in Simscape Battery](https://www.mathworks.com/help/simscape-battery/ug/battery-constant-current-constant-voltage.html)
+- [Battery Charing and Discharing Example in Simscape Battery Video Tutorial](https://www.mathworks.com/videos/simscape-battery-essentials-part-6-battery-charging-and-discharging-1663756212085.html)
+- [Battery Builder App](https://www.mathworks.com/help/simscape-battery/ref/batterybuilder-app.html)
 
 ## Project Difficulty
 - *Without optional extension*: Beginner
