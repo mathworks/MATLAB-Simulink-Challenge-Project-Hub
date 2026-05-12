@@ -14,7 +14,7 @@ Use MATLAB to model a battery charging profile. Students will fit real lithiumâ€
 
 ### Suggested Steps:
 Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
-1. Given real time-series voltage data for a lithium-ion battery, use MATLAB Curve Fitting Toolbox to fit the equation $V(t) = V_{max}(1 - e^{-t/RC})$ and model the battery charging profile as a simple RC-circuit analog
+1. Given real time-series voltage data for a lithium-ion battery, use MATLAB Curve Fitting Toolbox to fit the equation $V(t) = V_{max}(1 - e^{-t/RC})$ and model the battery charging profile as a simple RC-circuit analog. This is the equation used to describe capacitor charging, and capacitors are often used as simple battery models.
     - Load MathWorks example lithium-ion battery cycling data by following the steps [here](https://www.mathworks.com/help/predmaint/ug/data-analysis-and-feature-extraction-for-battery-raw-cycling-data.html). The page also includes information about the dataset, how the data was recorded, and the battery's maximum voltage.
     - Follow the steps [here](https://www.mathworks.com/help/curvefit/fit.html) to fit the curve to the loaded data
     - Plot the data and the fitted curve on the same graph
@@ -44,9 +44,8 @@ Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a
 - Compare Constant Currentâ€“Constant Voltage (CC-CV) charging with other methods using MATLAB scripts.
 
 ## Learning Outcomes
-- Understand battery-charging dynamics through a first-order RC-circuit analog and exponential model.
-- Develop and evaluate a mathematical model of lithium-ion battery charging by fitting an exponential function to experimental data and assessing model accuracy using quantitative metrics and visual comparisons.
-- Analyze and interpret time-series battery data to generate and explain voltage, current, and power behavior, including computing derived quantities such as energy, rates of change, and key charging milestones. 
+- Understand battery-charging dynamics through a first-order RC-circuit analog and exponential model, and evaluate model fit
+- Analyze and interpret time-series battery data to generate and explain voltage, current, and power behavior
 - Apply and justify numerical and physical methods to estimate system performance (e.g., energy delivery and resistive losses)
 
 ## Suggested Background Material
