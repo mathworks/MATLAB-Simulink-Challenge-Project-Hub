@@ -8,7 +8,7 @@
 Understanding battery charging is essential in the age of electric vehicles, drones, and consumer electronics. A battery’s charging curve involves non-linear changes in current and voltage over time. This project provides an opportunity to apply knowledge of electric circuits, energy transfer, and calculus to model charging behavior, evaluate efficiency, and explore the design of safe charging systems.
 
 ## Project Description
-Use MATLAB to model a battery charging profile. Students will fit real lithium‑ion battery data in MATLAB to model battery charging as a simple first-order RC system (like capacitor charging), compute energy transfer through numerical integration, and analyze key performance characteristics such as charge‑rate behavior and efficiency losses. 
+Use MATLAB to model a battery charging profile. Students will fit real lithium‑ion battery data in MATLAB to model battery charging as a simple first-order RC system (as capacitor charging), compute energy transfer through numerical integration, and analyze key performance characteristics such as charge‑rate behavior and efficiency losses. 
 
 ### Suggested Steps:
 Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
