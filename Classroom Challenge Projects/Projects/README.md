@@ -12,7 +12,7 @@
 
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/BatteryCharge.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Modeling%20and%20Optimizing%20a%20Battery%20Charging%20Profile">Modeling and Optimizing a Battery Charging Profile</a></h2></p>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Modeling%20and%20Analyzing%20a%20Battery%20Charging%20Profile">Modeling and Analyzing a Battery Charging Profile</a></h2></p>
 <p>Use MATLAB to model a lithium battery-charging profile</p>
 <p><strong>Skills Gained:</strong> Battery charging modeling, RC-circuit dynamics, exponential curve fitting, energy computation, charging efficiency analysis</p>
 <p><strong>Suggested Courses:</strong> Calculus I, Calculus II, Physics II (Electricity and Magnetism), Circuit Analysis I</p>
