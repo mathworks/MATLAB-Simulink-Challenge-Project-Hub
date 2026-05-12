@@ -8,8 +8,6 @@
 
 </table>
 
-**THIS REPO IS ACTIVELY BEING EDITED 05/12/26**
-
 ## Motivation
 Industries ranging from renewable energy companies to civil and electrical engineering firms frequently optimize solar panel layouts to maximize power output, especially as solar technology expands across residential rooftops, commercial buildings, and large‑scale solar farms. In this project, students will practice skills widely used in industry, including numerical optimization, MATLAB programming, and design‑based decision-making. With solar installations becoming more widespread, these skills will help those in engineering roles design sustainable energy systems in constrained environments.
 
@@ -45,8 +43,8 @@ Open the "SolarPanel_StudentProjectTemplate.mlx" Live Script in MATLAB as a star
 1. Define the objective function in MATLAB (the energy function).
       - Plug the given values and equations into the energy output equation, as shown below:
             <img width="444" height="249" alt="image" src="./Equation_SolarPanel.png"/>
-3. Use 'fmincon' to find the values of θ and r that maximize the energy output. (Hint: Minimize -E(x) instead.) Constrain the values: 0° ≤ θ ≤ 90° and 0.5 ≤ r ≤ 4.
-4. Plot the objective function using 'fsurf' or a mesh plot to visualize E(θ, r). Print the optimal angle, ratio, and corresponding energy output.
+3. Use a [problem-based optimization workflow](https://www.mathworks.com/help/releases/R2026a/optim/ug/problem-based-workflow.html?searchPort=57359) to find the values of θ and r that maximize the energy output. Constrain the values: 0° ≤ θ ≤ 90° and 0.5 ≤ r ≤ 4.
+4. Plot the objective function using `meshgrid` and [`surf`](https://www.mathworks.com/help/matlab/ref/surf.html) to visualize E(θ, r) as a 3D surface plot. Then, print the optimal angle, ratio, and corresponding energy output.
 
 ### Expected Results for Project Solution
 
@@ -58,8 +56,7 @@ Open the "SolarPanel_StudentProjectTemplate.mlx" Live Script in MATLAB as a star
 ## Learning Outcomes
 
 - Formulate a real-world problem as a mathematical optimization problem
-- Apply constrained nonliner optimization principles with computational tools, such as MATLAB's `fmincon` 
-- Analyze and interpret multivariable objective functions through visualization techniques
+- Analyze and interpret a multivariable objective function through visualization
 
 ## Suggested Background Material
 
@@ -69,30 +66,30 @@ Open the "SolarPanel_StudentProjectTemplate.mlx" Live Script in MATLAB as a star
 - Concept of solar irradiance and why it varies with angle
 
 ### 2. Trigonometry and Geometry
-- Understanding angles in degrees/radians
-- Cosine function and how it models directional effects
+- Understanding angles
+- Cosine function
 - Aspect ratio and area constraints for rectangles
 
 ### 3. Introduction to Optimization
+- Core math foundations: algebra, matrix operations, functions (as math expressions), some calculus (core concept in optimization but not explicitly required to complete this project)
+- Structure of an optimization problem and conceptual understanding of objective function, variables, and constraints
 - Difference between maximizing and minimizing an objective function
-- Local vs. global optima (at a conceptual level)
-- Using constraints in optimization problems
 
 ### 4. MATLAB Fundamentals
-- Writing function handles (e.g., E = @(x) ...)
-- Working with vectors and indexing (x(1), x(2))
-- Plotting surfaces using `fsurf`, `mesh`, or `surf`
-- Basics of `fmincon` (objective functions, bounds, options)
+- Writing functions
+- Element-wise matrix operations
+- MATLAB Optimization Workflow
+- Plotting surfaces using `meshgrid` and `surf`
 
 ### 5. Numerical Modeling Skills
 - Building simplified models of real systems
-- Understanding how assumptions influence results
 - Interpreting plots and optimization outputs
 
-## MathWorks Tutorials
+## MathWorks Tutorials and Helpful Resources
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
 - [Optimization Onramp](https://matlabacademy.mathworks.com/details/optimization-onramp/optim)
 - [Optimization Workflow](https://www.mathworks.com/help/optim/ug/problem-based-workflow.html)
+- [Creating a 3D Surface Plot](https://www.mathworks.com/help/matlab/ref/surf.html)
 
 ## Project Difficulty
 - Beginner
