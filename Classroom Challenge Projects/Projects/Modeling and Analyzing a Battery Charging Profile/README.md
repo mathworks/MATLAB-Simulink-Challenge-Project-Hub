@@ -88,7 +88,8 @@ As an optional extension of this project:
 - *Without optional extension*: Beginner
     - High school senior
     - Matriculating or 1st-year undegraduate student
-    - 1st or 2nd year community college or transfer student   
+    - 1st or 2nd year community college 
 - *With optional extension*: Intermediate
+    - Community college transfer student
     - 2nd year undergraduate student and above 
       
