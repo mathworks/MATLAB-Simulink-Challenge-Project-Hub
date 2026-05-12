@@ -43,10 +43,8 @@ Your task: Find the optimal θ and r that maximizes energy output, using the pro
 ### Suggested Steps
 Open the "SolarPanel_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
 1. Define the objective function in MATLAB (the energy function).
-      - Plug the given values and equations into the energy output equation, as shown below
-
-
-
+      - Plug the given values and equations into the energy output equation, as shown below:
+            <img width="444" height="249" alt="image" src="./Equation_SolarPanel.png"/>
 3. Use 'fmincon' to find the values of θ and r that maximize the energy output. (Hint: Minimize -E(x) instead.) Constrain the values: 0° ≤ θ ≤ 90° and 0.5 ≤ r ≤ 4.
 4. Plot the objective function using 'fsurf' or a mesh plot to visualize E(θ, r). Print the optimal angle, ratio, and corresponding energy output.
 
