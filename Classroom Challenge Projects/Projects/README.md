@@ -39,8 +39,8 @@
 
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/QuadcopterDrone.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Drone%20Payload%20Structure%20Design%20and%20Analysis">Drone Payload Structure Design and Analysis</a></h2></p>
-<p>Test different drone arm designs and materials to meet a minimum payload capacity by performing thrust-to-weight analysis and finite element analysis in MATLAB.</p>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Drone%20Payload%20Capacity%20and%20Structural%20Design%20Analysis">Drone Payload Capacity and Structural Design Analysis</a></h2></p>
+<p>Test different drone arm designs and materials to maximize payload capacity while maintaining structural integrity by performing thrust-to-weight analysis and finite element analysis in MATLAB.</p>
 <p><strong>Skills Gained: </strong>Drone structural design, thrust-to-weight analysis, payload capacity estimation, finite element analysis, CAD (optional)</p>
 <p><strong>Suggested Courses where Project can be used:</strong> Physics I (Mechanics), Statics, Introduction to Engineering Design, Differential Equations, Introduction to CAD, Introductory Aerospace or Robotics Engineering</p>
 <p><strong>Estimated Time to Complete</strong> (teams of 4, excluding tutorial self-study time): 30-40 hours</p></td>
