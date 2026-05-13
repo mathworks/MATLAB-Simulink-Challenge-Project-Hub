@@ -33,7 +33,7 @@
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Image-Based%20Defect%20Detection%20for%20Manufacturing%20Inspection">Image-Based Defect Detection for Manufacturing Inspection</a></h2></p>
 <p>Build a MATLAB inspection pipeline to detect manufacturing defects with image processing.</p>
 <p><strong>Skills Gained:</strong> Automated visual inspection, image preprocessing, image segmentation, feature extraction, deep learning–based image classification, model evaluation and robustness testing</p>
-<p><strong>Suggested Courses where Project can be used:</strong> Introduction to Programming, Linear Algebra, Introduction to Engineering, Physics I (Mechanics)</p>
+<p><strong>Suggested Courses where Project can be used:</strong> Introduction to Programming, Linear Algebra, Introduction to Engineering, Physics I (Mechanics), Introduction to Data Science</p>
 <p><strong>Estimated Time to Complete</strong> (teams of 4, excluding tutorial self-study time): 40-55 hours</p></td>
 </tbody>
 
