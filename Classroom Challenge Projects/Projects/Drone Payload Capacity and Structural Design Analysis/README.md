@@ -1,7 +1,7 @@
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/QuadcopterDrone.jpg"  width=500 /></td>
 <td><p><h1>Drone Payload Capacity and Structural Design Analysis</h1></p>
-<p>Design a lightweight but strong drone payload structure by applying core statics principles such as equilibrium, moments, trusses, and center‑of‑mass analysis.</p>
+<p>Test different drone arm designs and materials to maximize payload capacity while maintaining structural integrity by performing thrust-to-weight analysis and finite element analysis in MATLAB.</p>
 </table>
 
 **THIS GITHUB REPO IS CURRENTLY BEING EDITED 05/13/26**
