@@ -10,7 +10,11 @@
 As drone use becomes increasingly common, such as in aerial photography, infrastructure inspection, and package delivery, there is a critical need to design lightweight structures that can safely support increasing payload demands. This project focuses on the engineering challenge of optimizing drone arm geometry and material selection to maximize payload capacity while ensuring structural integrity under motor-induced loads. By applying force balance analysis alongside finite element modeling, the work reflects industry practices used to design reliable, high-performance components in commercial drones, aircraft structures, and automotive systems.
 
 ## Project Description
-This project challenges students to apply core principles from physics and engineering, such as force balance, material properties, and structural analysis, to the real-world problem of designing a drone capable of maximizing payload capacity. Using MATLAB for both analytical calculations and finite element analysis, the project integrates computational tools commonly used in industry to evaluate performance and predict structural behavior. Through this process, students explore authentic engineering tradeoffs, such as balancing weight, strength, and efficiency, to arrive at an optimized and realistic design solution.
+This project challenges students to apply core principles from physics and engineering, such as force balance, material properties, and structural analysis, to the real-world problem of designing a quadcopter drone capable of maximizing payload capacity. 
+
+First, you will propose at least two designs for the drone arms. Then, given the properties of different materials, weight of other drone elements, and a minimum payload, you will use MATLAB to perform thrust-to-weight analysis to test the different materials across your designs to meet safety standards and maximize the payload capacity. Next, using a CAD software of your choice, create a digital model of one of your drone arms and import the model into MATLAB to perform finite element analysis. You will use FEA to calculate deformation and stress under motor thrust and component weight, and perform a parameter sweep of material properties to select the material that provides the highest structural integrity. As an optional extension, you will also optimize your design by minimizing total cost, using the average cost of each material to evaluate and compare design choices. 
+
+Through this process, students explore authentic engineering tradeoffs, such as balancing weight, strength, and efficiency, to arrive at a design solution.
 
 ### Suggested Steps
 Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
@@ -36,10 +40,8 @@ Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a sta
 - Using MATLAB for structural calculations (arrays, matrix operations)
   
 ### 4. Optional
-- Optimization Toolbox basics for design optimization
-- Simscape/Simulink fundamentals for dynamic modeling
-- Finite element analysis in MATLAB
-- CAD tools for drone design (e.g. Onshape)
+- Optimization 
+
 
 ## MathWorks Tutorials
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
