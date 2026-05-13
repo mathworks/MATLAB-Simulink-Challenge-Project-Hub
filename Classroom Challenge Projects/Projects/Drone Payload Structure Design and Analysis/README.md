@@ -4,6 +4,8 @@
 <p>Design a lightweight but strong drone payload structure by applying core statics principles such as equilibrium, moments, trusses, and center‑of‑mass analysis.</p>
 </table>
 
+**THIS GITHUB REPO IS CURRENTLY BEING EDITED 05/13/26**
+
 ## Motivation
 As drone delivery becomes increasingly common, there is a critical need to design lightweight but strong structural frames that can safely carry payloads without compromising stability or control. This project challenges students to apply concepts from Statics and Physics to optimize drone frame design using principles like force equilibrium, moments, trusses, and center of mass. The experience simulates real-world engineering
 decisions around tradeoffs between weight, strength, and performance.
@@ -76,5 +78,5 @@ Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a sta
 
 ## Project Difficulty
 - Intermediate
-    - Matriculating or 1st-year undegraduate student
-    - 1st or 2nd year community college or transfer student    
+    - Community college transfer students
+    - 2nd year undergraduate or above 
