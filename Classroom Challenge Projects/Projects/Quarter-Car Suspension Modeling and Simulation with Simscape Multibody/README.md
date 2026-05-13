@@ -158,6 +158,8 @@ Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB
 ### Highly Recommended
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
 - [Simscape Onramp](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape)
+- [Technical Guide to Optimizing Vehicle Suspension Design Through System-Level Simulation](https://www.mathworks.com/company/technical-articles/optimizing-vehicle-suspension-design-through-system-level-simulation.html)
+- [Video Tutorial on Analyzing the Ride Quality of a Car Suspension](https://www.youtube.com/watch?v=aEPcyBqubb8)
   
 ### Other Recommended Tutorials
 - [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink)
