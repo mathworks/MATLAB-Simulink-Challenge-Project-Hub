@@ -7,11 +7,10 @@
 **THIS GITHUB REPO IS CURRENTLY BEING EDITED 05/13/26**
 
 ## Motivation
-As drone delivery becomes increasingly common, there is a critical need to design lightweight but strong structural frames that can safely carry payloads without compromising stability or control. This project challenges students to apply concepts from Statics and Physics to optimize drone frame design using principles like force equilibrium, moments, trusses, and center of mass. The experience simulates real-world engineering
-decisions around tradeoffs between weight, strength, and performance.
+As drone use becomes increasingly common, such as in aerial photography, infrastructure inspection, and package delivery, there is a critical need to design lightweight structures that can safely support increasing payload demands. This project focuses on the engineering challenge of optimizing drone arm geometry and material selection to maximize payload capacity while ensuring structural integrity under motor-induced loads. By applying force balance analysis alongside finite element modeling, the work reflects industry practices used to design reliable, high-performance components in commercial drones, aircraft structures, and automotive systems.
 
 ## Project Description
-This project challenges students to design a lightweight but strong drone payload structure by applying core statics principles such as equilibrium, moments, trusses, and center‑of‑mass analysis. Using MATLAB simulation, students will estimate payload capacity, analyze structural loads on drone arms, and validate stability for safe flight. Through iterative design, they explore real engineering tradeoffs between strength, weight, and performance in modern drone applications.
+This project challenges students to apply core principles from physics and engineering, such as force balance, material properties, and structural analysis, to the real-world problem of designing a drone capable of maximizing payload capacity. Using MATLAB for both analytical calculations and finite element analysis, the project integrates computational tools commonly used in industry to evaluate performance and predict structural behavior. Through this process, students explore authentic engineering tradeoffs, such as balancing weight, strength, and efficiency, to arrive at an optimized and realistic design solution.
 
 ### Suggested Steps
 Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
