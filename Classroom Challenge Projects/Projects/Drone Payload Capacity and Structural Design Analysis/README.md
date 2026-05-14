@@ -4,8 +4,6 @@
 <p>Test different drone arm designs and materials to maximize payload capacity while maintaining structural integrity by performing thrust-to-weight analysis and finite element analysis in MATLAB.</p>
 </table>
 
-**THIS GITHUB REPO IS CURRENTLY BEING EDITED 05/14/26**
-
 ## Motivation
 As drone use becomes increasingly common, such as in aerial photography, infrastructure inspection, and package delivery, there is a critical need to design lightweight structures that can safely support increasing payload demands. This project focuses on the engineering challenge of optimizing drone arm geometry and material selection to maximize payload capacity while ensuring structural integrity under motor-induced loads. By applying thrust-to-weight analysis alongside finite element modeling, the work reflects industry practices used to design reliable, high-performance components in commercial drones, aircraft structures, and automotive systems.
 
