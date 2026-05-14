@@ -52,18 +52,52 @@ Using the results of both the thrust-to-weight analysis and finite element analy
 4. A final design recommendation justified using the results of your analyses
 
 ### Learning Outcomes
-
+- Apply principles of force balance to model the relationship between thrust, weight, and payload capacity in a quadcopter system.
+- Evaluate design–material combinations using thrust-to-weight ratio, displacement, stress, and factor of safety to determine whether designs meet flight and structural requirements.
+- Develop a 3D CAD model of a drone arm and use MATLAB to perform computational analysis and finite element modeling of its structural behavior.
 
 ## Suggested Background Material
 ### 1. Statics and Mechanics
+- Force balance, Newton's Second Law, weight vs. mass
+- Moments and bending
+- Qualitative understanding of stress and strain
+- Relationship between force, deformation, and stiffness
 
 ### 2. Drone/Flight Basics
+- Thrust and how propellers generate lift
+- Thrust-to-weight ratio and its role in flight
+- Payload capacity and system mass breakdown
+- Basic quadcopter structure
+- Safety factors in engineering design
 
-### 3. CAD
+### 3. Materials and Structural Behavior
+- Density, Young's modulus (stiffness), yield strength and impacts on mass and performance
+- Tradeoffs between strength and weight
 
-### 4. MATLAB Fundamentals
-- Basic matrix operations, function creation, and plotting
+### 4. CAD (Computer-Aided Design) Fundamentals
+- Creating simple 3D geometries
+- Representing dimensions and constraints
+- Exporting models as STEP or STL files
+- Understanding simplified vs realistic geometry 
+
+### 5. MATLAB Fundamentals
+- Basic matrix operations and variales
+- Writing functions
+- Looping and parameter sweeps (for design evaluation)
+- Plotting and data visualization
 - Finite Element Analysis in MATLAB (see below for tutorial and examples)
+
+### 6. Finite Element Analysis in MATLAB
+- What FEA is and why it's used
+- Loads and boundary conditions (forces, constraints)
+- Interpreting results (displacement and von Mises stress)
+- Concept of factor of safety
+- Understanding model assumptions (e.g. simplified geometry)
+
+### 7. Engineering Design
+- Iterative design process
+- Tradeoffs between weight and strength, performance and cost (for optional extension)
+- Using quantitative results to justify decisions
   
 ### Optional Extension
 Extend your analysis by formulating and solving an optimization problem to minimize the total material cost of your drone arm. Using your parameter sweep results, identify designs that satisfy all performance constraints (payload requirement, thrust-to-weight ratio, and factor of safety), and determine which valid design achieves the lowest cost. Include the results of your cost optimization analysis in your final recommended design solution for the drone arm.
