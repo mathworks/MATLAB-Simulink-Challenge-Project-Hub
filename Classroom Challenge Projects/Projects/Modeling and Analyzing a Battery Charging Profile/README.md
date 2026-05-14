@@ -11,7 +11,8 @@ Understanding battery charging is essential in the age of electric vehicles, dro
 Use MATLAB to model a battery charging profile. Students will fit real lithium‑ion battery data in MATLAB to model battery charging as a simple first-order RC system (as capacitor charging), compute energy transfer through numerical integration, and analyze key performance characteristics such as charge‑rate behavior and efficiency losses. 
 
 ### Suggested Steps:
-Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
+Open the "BatteryCharging_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project. The Live Script contains more detailed information for each of the suggested steps.
+
 1. Given real time-series voltage data for a lithium-ion battery, use MATLAB Curve Fitting Toolbox to fit the equation $V(t) = V_{max}(1 - e^{-t/RC})$ and model the battery charging profile as a simple RC-circuit analog. This is the equation used to describe capacitor charging, and capacitors are often used as simple battery models.
     - Load MathWorks example lithium-ion battery cycling data by following the steps [here](https://www.mathworks.com/help/predmaint/ug/data-analysis-and-feature-extraction-for-battery-raw-cycling-data.html). The page also includes information about the dataset, how the data was recorded, and the battery's maximum voltage.
     - Follow the steps [here](https://www.mathworks.com/help/curvefit/fit.html) to fit the curve to the loaded data
