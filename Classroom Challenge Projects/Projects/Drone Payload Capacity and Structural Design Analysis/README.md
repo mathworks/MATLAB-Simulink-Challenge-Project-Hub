@@ -94,7 +94,7 @@ Using the results of both the thrust-to-weight analysis and finite element analy
 
 ### 7. Engineering Design
 - Iterative design process
-- Tradeoffs between weight and strength, performance and cost (for optional extension)
+- Tradeoffs between weight and strength (and performance and cost for optional extension)
 - Using quantitative results to justify decisions
   
 ### Optional Extension
