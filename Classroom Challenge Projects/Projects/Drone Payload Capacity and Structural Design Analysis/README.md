@@ -38,7 +38,7 @@ Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a sta
     - Your goal is to maximize payload capacity (i.e. what is the heaviest payload your drone design could carry while still allowing the drone to safely take off?)
 4. Perform finite element analysis (FEA) across all design and material options to evaluate the structural safety factor of your drone arm design. To simplify the task, you will perform the FEA only on a single drone arm. 
     - Using a CAD software of your choice, create a 3D model of one drone arm for each of your designs (CAD software options: Tinkercad, Onshape, Fusion 360, Solidworks). Be sure your model can be exported as a STEP or STL file for analysis in MATLAB.
-    - Import your model into MATLAB and perform FEA. Apply two loads at the tip of the arm: upward thurst force from the motor and downward weight of the motor.
+    - Import your model into MATLAB and perform FEA. Apply two loads: upward thrust force from the motor and downward weight of the motor.
     - For each design and material combination, you should report the overall maximum displacement, maximum stress, and factor of safety and include visualizations of the x-, y-, and z-displacement and Von Mises stress.
 
 Using the results of both the thrust-to-weight analysis and finite element analysis, propose a final design solution for the drone arm that maximizes payload capacity while meeting safe flight standards and maintaining structural integrity under load.
@@ -105,6 +105,7 @@ Extend your analysis by formulating and solving an optimization problem to minim
 ## MathWorks Tutorials and Helpful Resources
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
 - [Introduction to Finite Element Analysis in MATLAB](https://matlabacademy.mathworks.com/details/introduction-to-finite-element-analysis-with-matlab/otmlfea)
+- [Partial Differential Equation Toolbox Documentation](https://www.mathworks.com/help/pde/index.html?s_tid=CRUX_lftnav)
 - [Structural Mechanics Documentation](https://www.mathworks.com/help/pde/structural-mechanics.html)
 - [Example Finite Element Analysis Workflow](https://www.mathworks.com/help/pde/ug/deflection-analysis-of-bracket-femodel.html)
 
