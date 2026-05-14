@@ -15,7 +15,7 @@ First, you will propose at least two drone arm designs. Using the provided mater
 Through this process, students explore authentic engineering tradeoffs, such as balancing weight, strength, and efficiency, to arrive at a design solution.
 
 ### Suggested Steps
-Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
+Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project. The Live Script contains more detailed information for each of the suggested steps.
 
 1. Gather your starter assumptions and load the material properties into MATLAB.
    - Load the provided `droneArmMaterials.mat` file into MATLAB. This contains a data struct with the material properties for six different materials commonly used for drones. For each material, you have been provided the following information:
