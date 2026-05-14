@@ -30,9 +30,12 @@ Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a sta
        - Quadcopter drone with 4 motors and 4 propellers
        - Each motor can provide up to 1kg thrust
        - Acceleration due to gravity: $g = 9.81m/s^2$
-       - Total weight of the drone components without the arms or the payload
-2. 
-
+       - Total weight of the drone components without the arms or the payload: 1kg
+2. Develop at least two distinct drone arm designs by drawing clear, neatly labeled sketches that show key geometric features (overall shape, approximate dimensions, motor mount location, connection points to drone body). The two designs should be meaningfully different from each other (e.g. different geometries or structural strategies) and not just small variations of the same idea.
+3. Perform a thrust-to-weight analysis across all design and material options to evaluate which drone arm design and which material optimizes payload capacity while meeting suggested safety requirements. Write a MATLAB function that will perform the necessary calculations for each design and material combination.
+    - Your design must support a minimum payload of 0.5kg
+    - Your design must meet a thrust-to-weight ratio of at least 2:1 to ensure safe and stable flight
+    - Your goal is maximize payload capacity (i.e. what is the heaviest payload your drone design could carry while still allowing the drone to safely take off?)
 
 ### Expected Results for Project Solution
 
