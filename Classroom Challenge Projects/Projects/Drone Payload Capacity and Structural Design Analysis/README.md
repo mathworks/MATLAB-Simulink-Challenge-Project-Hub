@@ -7,7 +7,7 @@
 **THIS GITHUB REPO IS CURRENTLY BEING EDITED 05/14/26**
 
 ## Motivation
-As drone use becomes increasingly common, such as in aerial photography, infrastructure inspection, and package delivery, there is a critical need to design lightweight structures that can safely support increasing payload demands. This project focuses on the engineering challenge of optimizing drone arm geometry and material selection to maximize payload capacity while ensuring structural integrity under motor-induced loads. By applying force balance analysis alongside finite element modeling, the work reflects industry practices used to design reliable, high-performance components in commercial drones, aircraft structures, and automotive systems.
+As drone use becomes increasingly common, such as in aerial photography, infrastructure inspection, and package delivery, there is a critical need to design lightweight structures that can safely support increasing payload demands. This project focuses on the engineering challenge of optimizing drone arm geometry and material selection to maximize payload capacity while ensuring structural integrity under motor-induced loads. By applying thrust-to-weight analysis alongside finite element modeling, the work reflects industry practices used to design reliable, high-performance components in commercial drones, aircraft structures, and automotive systems.
 
 ## Project Description
 This project challenges students to apply core principles from physics and engineering, such as force balance, material properties, and structural analysis, to the real-world problem of designing a quadcopter drone capable of maximizing payload capacity. 
@@ -20,7 +20,7 @@ Through this process, students explore authentic engineering tradeoffs, such as 
 Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
 
 1. Gather your starter assumptions and load the material properties into MATLAB.
-   - Load the provided `droneMaterials.mat` file into MATLAB. This contains a data struct with the material properties for six different materials commonly used for drones. For each material, you have been provided the following information:
+   - Load the provided `droneArmMaterials.mat` file into MATLAB. This contains a data struct with the material properties for six different materials commonly used for drones. For each material, you have been provided the following information:
        - Density ($\rho$), in $kg/m^3$
        - Young's Modulus ($E$) in Pa
        - Poisson's ratio ($\nu$), unitless
@@ -35,13 +35,21 @@ Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a sta
 3. Perform a thrust-to-weight analysis across all design and material options to evaluate which drone arm design and which material optimizes payload capacity while meeting suggested safety requirements. Write a MATLAB function that will perform the necessary calculations for each design and material combination.
     - Your design must support a minimum payload of 0.5kg
     - Your design must meet a thrust-to-weight ratio of at least 2:1 to ensure safe and stable flight
-    - Your goal is maximize payload capacity (i.e. what is the heaviest payload your drone design could carry while still allowing the drone to safely take off?)
+    - Your goal is to maximize payload capacity (i.e. what is the heaviest payload your drone design could carry while still allowing the drone to safely take off?)
+4. Perform finite element analysis (FEA) across all design and material options to evaluate the structural safety factor of your drone arm design. To simplify the task, you will perform the FEA only on a single drone arm. 
+    - Using a CAD software of your choice, create a 3D model of one drone arm for each of your designs (CAD software options: Tinkercad, Onshape, Fusion 360, Solidworks). Be sure your model can be exported as a STEP or STL file for analysis in MATLAB.
+    - Import your model into MATLAB and perform FEA. Apply two loads at the tip of the arm: upward thurst force from the motor and downward weight of the motor.
+    - For each design and material combination, you should report the overall maximum displacement, maximum stress, and factor of safety and include visualizations of the x-, y-, and z-displacement and Von Mises stress.
 
+Using the results of both the thrust-to-weight analysis and finite element analysis, propose a final design solution for the drone arm that maximizes payload capacity while meeting safe flight standards and maintaining structural integrity under load.
+      
 ### Expected Results for Project Solution
-
-
-### Optional Extension
-
+1. At least two drone design sketches showing key geometric features
+2. Results of thrust-to-weight analysis presented either in a summary table or plot
+3. Results of finite element analysis
+     - Numerical values presented in a summary table
+     - Visualizations of x-, y-, and z-displacement and Von Mises stress
+4. A final design recommendation justified using the results of your analyses
 
 ### Learning Outcomes
 
@@ -51,20 +59,20 @@ Open the "DroneDesign_StudentProjectTemplate.mlx" Live Script in MATLAB as a sta
 
 ### 2. Drone/Flight Basics
 
-### 3. MATLAB Fundamentals
-- Basic scripting and function creation
-- Plotting 
-- Using MATLAB for structural calculations (arrays, matrix operations)
+### 3. CAD
+
+### 4. MATLAB Fundamentals
+- Basic matrix operations, function creation, and plotting
+- Finite Element Analysis in MATLAB (see below for tutorial and examples)
   
-### 4. Optional
-- Optimization 
+### Optional Extension
+Extend your analysis by formulating and solving an optimization problem to minimize the total material cost of your drone arm. Using your parameter sweep results, identify designs that satisfy all performance constraints (payload requirement, thrust-to-weight ratio, and factor of safety), and determine which valid design achieves the lowest cost. Include the results of your cost optimization analysis in your final recommended design solution for the drone arm.
 
-
-## MathWorks Tutorials
+## MathWorks Tutorials and Helpful Resources
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
 - [Introduction to Finite Element Analysis in MATLAB](https://matlabacademy.mathworks.com/details/introduction-to-finite-element-analysis-with-matlab/otmlfea)
-- (For optional extension) [Optimization Onramp](https://matlabacademy.mathworks.com/details/optimization-onramp/optim)
-
+- [Structural Mechanics Documentation](https://www.mathworks.com/help/pde/structural-mechanics.html)
+- [Example Finite Element Analysis Workflow](https://www.mathworks.com/help/pde/ug/deflection-analysis-of-bracket-femodel.html)
 
 ## Project Difficulty
 - Intermediate
