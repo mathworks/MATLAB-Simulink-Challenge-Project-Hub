@@ -49,10 +49,10 @@ Open the "SolarPanel_StudentProjectTemplate.mlx" Live Script in MATLAB as a star
 
 ### Expected Results for Project Solution
 
-- Numerical value for optimal tilt angle (e.g. 39.8 degrees)
-- Numerical value for optimal aspect ratio (e.g. 1.2)
-- Numerical value for maximum energy output (e.g. 1895.3 units) - note: these are simplified arbitrary units that, in a real-world context, would more often be defined in units of solar irrandiance (watts per m²).
-- Visualization of E(θ, r) (a figure or plot)
+- Numerical value for optimal tilt angle 
+- Numerical value for optimal aspect ratio 
+- Numerical value for maximum energy output - note: this value will be in simplified arbitrary units that, in a real-world context, would more often be defined in units of solar irrandiance (watts per m²).
+- Visualization of E(θ, r)
 
 ## Learning Outcomes
 
