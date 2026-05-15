@@ -57,6 +57,7 @@ Open the "SolarPanel_StudentProjectTemplate.mlx" Live Script in MATLAB as a star
 ## Learning Outcomes
 
 - Formulate a real-world problem as a mathematical optimization problem
+- Apply a problem-based optimization workflow to compute the optimal tilt angle and aspect ratio that maximize energy output, and interpret the numerical solution
 - Analyze and interpret a multivariable objective function through visualization
 
 ## Suggested Background Material
