@@ -69,6 +69,8 @@ For nominated projects to be considered for MathWorks review and a prize, studen
 ### New to GitHub?
 First, follow the instructions above to use the template for your project submission repository. Then, find some resources for editing your repository in the [GitHub Quickstart guide for repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories#commit-your-first-change) and for collaborating with others in the [GitHub flow documentation](https://docs.github.com/en/get-started/using-github/github-flow).
 
+You can also find documents to familiarize yourself with the GitHub workflow and GitHub vocabular in the ["GitHub Resources" folder](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/GitHub%20Resources) in this repository. In this folder, you'll find guidance on creating and sharing a new GitHub repository as well as using Git with MATLAB.
+
 ### Repository Guidelines
 1.	**Repository Structure**
       - Use a clear layout (e.g., data/, models/, docs/).
