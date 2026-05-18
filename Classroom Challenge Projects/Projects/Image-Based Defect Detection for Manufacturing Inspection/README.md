@@ -195,6 +195,6 @@ Real inspection stations face significant variability and industry requires insp
   
 ## Project Difficulty
 - Intermediate
-   - Matriculating or 1st-year undergraduate student
-   - 1st or 2nd year community college student or transfer student
+    - Community college transfer students
+    - 3rd year undergraduate or above 
 
