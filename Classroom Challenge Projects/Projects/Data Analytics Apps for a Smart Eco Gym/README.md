@@ -1,1 +1,88 @@
+## THIS PAGE IS UNDER CONSTRUCTION 06/03/26
+KZ to do: custom resources for NACME NVB (presentation guidelines, teamwork agreement, assessment rubric for the presentation, requirements), sensor data set directory with README on what's included in each data set (units e.g.)
 
+<table>
+<td></td>
+<td><p><h1>Data Analytics Apps for a Smart Eco Gym</h1></p>
+<p>Design interactive apps that transform real-world sensor data into actionable insights across engineering disciplines.</p>
+</table>
+
+## Motivation
+From optimizing energy use in smart buildings to tracking performance in wearable fitness devices and monitoring equipment in manufacturing systems, engineers build and rely upon data analytics app (also known as sensor monitoring dashboards) to make sense of large volumes of sensor data. These applications enable faster decision-making, improved efficiency, and better user experiences by translating raw data into intuitive visual insights. In this challenge, you will design your own data analytics app to support decision-making in an eco-friendly gym.
+
+## Project Description
+You have been hired by a next-generation, eco-friendly gym that is looking to incorporate new features to improve member experiences while increasing energy efficiency. The gym has collected a wide variety of sensor data and is seeking intuitive, user-friendly tools to help them make data-driven decisions.
+
+In this project, you will design and build an interactive sensor monitoring dashboard in MATLAB that converts raw sensor data into clear, actionable metrics and insights. Your minimum viable product (MVP) should be able to process real-world data, compute meaningful metrics, and present results through an intuitive user interface.
+
+You will begin by exploring a shared dataset containing sensor measurements from different gym systems, such as wearable devices, equipment energy usage, environmental conditions, or building infrastructure. Based on your chosen engineering discipline, you will identify relevant signals, apply basic data processing techniques (e.g., filtering, smoothing, or classification), and define, compute, and display metrics that help answer a specific question. For example, accelerometer and heart rate data from wearable devices can be used to calculate metrics such as steps taken, stairs climbed, calories burned, or metabolic rate to form the basis of a fitness tracking app. Similar approaches can be applied across disciplines to evaluate airflow, energy efficiency, air quality, or structural safety.
+
+Your MVP should not only visualize data, but also enable users to interact with the dashboard and easily interpret key insights. The project will culminate in a presentation or report where you will describe your app's functionality, explain design decisions and tradeoffs, and communicate how your solution supports real-world, data-driven decision-making in a smart eco-friendly gym.
+
+### Project Requirements
+1.	Your user interface must accept/import a .mat file as an input (raw sensor data)
+2.	You must compute at least one metric
+3.	You must perform at least one data processing step on raw data (e.g. smoothing, filtering, classifying etc.)
+4.	Your user interface must include at least one interactive component (e.g. a button press, somewhere where the user provides input etc.)
+5.	Your user interface must include at least one graph and one visual indicator (e.g. heatmap, colored alert signal etc.)
+6.	Your code must run entirely in MATLAB
+7.	Your code must be shared as a GitHub repository with detailed documentation that clearly explains to a new user how to download, use, and understand your app's functionalities
+
+### Mini Design Challenges
+Add images? Turn this into a table?
+You will have access to one big raw sensor dataset. Based on your interest in a specific engineering discipline, choose the challenge and associated data you want to work with and pick which metrics you think are appropriate to compute and display in your app. Below, you will find additional information pertaining to each mini challenge: 1. the question that your data analytics apps should help answer, 2. suggested sensor data to choose from the larger dataset, 3. suggested metrics to compute from the raw sensor data, and 4. suggested features to include in your interactive user interface.
+
+*Biomedical Engineering*: Human Performance and Efficiency Metrics
+Add in some context about what the gym wants from this; key questions for engineering thinking
+1. **Goal**: What is your workout efficiency?
+2. **Suggested Sensor Data**: Accelerometer (X, Y, Z coordinates across time), heart rate
+3. **Suggested Metrics to Compute**: Calories burned, time spent in different heart rate zones, activity classification (walking, running, lifting), a 'workout intensity' score
+4. **Suggested Dashboard Features**: Fitness summary panel, progress indicators, personalized user feedback (e.g. user inputs workout details and specific goals, app provides feedback based on most recent workout session and suggestions for the next workout)
+
+*Mechanical/Aerospace Engineering*: Improving Natural Air Circulation
+Add in some context about what the gym wants from this; key questions for engineering thinking
+1. **Goal**: Which ceiling fan blade design circulates air most efficiently?
+2. **Suggested Sensor Data**: For different blade designs (e.g. flat v. curved balde, short v. long blade, high pitch angle v. low pitch angle) - air velocity at multiple locations, fan rotation speed, temperature distribution, power consumption
+3. **Suggested Metrics to Compute**: Air velocity/uniformity around the fan and across space, temperature reduction across time and space, airflow variability, airflow per unit power (energy efficiency)
+4. **Suggested Dashboard Features**: Design selector (dropdown menu for different blade types), visualizations that clearly show comparisons of computed metrics across different blade designs, heatmap of airflow distribution
+
+*Electrical Engineering or Environmental Engineering*: Energy and Sustainability Tracking
+Add in some context about what the gym wants from this; key questions for engineering thinking
+1. **Goal**: Are our machines efficient and how green is the gym?
+2. **Suggested Sensor Data**: Voltage/current from gym equipment, power usage over time, renewable energy generation from specialized treadmills and bikes
+3. **Suggested Metrics to Compute**: Energy consumption (kWh), idle v. active energy waste, energy use per person, carbon footprint estimate, % renewable energy contribution, an 'energy efficiency' score
+4. **Suggested Dashboard Features**: Real-time energy usage graphs, alerts for inefficient machines, 'top energy-consuming equipment' chart, energy usage breakdown by system, 'energy generated by members today' from specialized treadmills and bikes
+
+*Chemical Engineering*: Air Quality and Ventilation Efficiency
+Add in some context about what the gym wants from this; key questions for engineering thinking
+1. **Goal**: How healthy is the air?
+2. **Suggested Sensor Data**: CO2 air concentration, humidity, temperature, concentration of volatile organic compounds
+3. **Suggested Metrics to Compute**: Air quality index, ventilation effectiveness (CO2 decay rate), sweat/odor buildup (proxy via humidity and volatile organic compounds)
+4. **Suggested Dashboard Features**: Color-coded 'air quality score', heatmap of sweat/odor buildup, real-time recommendations (e.g. 'increase ventilation'), trends over time
+
+*Civil Engineering*: Structural Load and Space Utilization
+Add in some context about what the gym wants from this; key questions for engineering thinking
+1. **Goal**: Is the gym space safe and efficient?
+2. **Suggested Sensor Data**: Floor vibration/accelerometer, occupancy counts
+3. **Suggested Metrics to Compute**: Peak floor vibration levels, estimated load distribution (people per area), 'overcrowding risk index', space utilization rate (% capacity)
+4. **Suggested Dashboard Features**: Heatmap of crowded zones, alerts for high vibration/load areas, 'best times to use each area', suggestions for improved layout or scheduling changes
+
+### Suggested Steps
+Open the "SensorDashboard_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project. The Live Script contains more detailed information for each of the suggested steps. These are generic suggested steps applicable to each of the mini design challenges. Adapt the suggestions for the specific mini challenge you choose.
+
+### Expected Results for Project Solution
+
+### Learning Outcomes
+
+## Suggested Background Material
+- generic, for each mini challenge, matlab fundamentals
+
+## Optional Extension
+
+## MathWorks Tutorials and Helpful Resources
+
+## Project Difficulty
+- Beginner
+    - High school senior
+    - Matriculating or 1st-year undergraduate student
+    - 1st or 2nd year community college student
