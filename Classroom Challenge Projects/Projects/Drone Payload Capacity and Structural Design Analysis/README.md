@@ -97,7 +97,7 @@ Using the results of both the thrust-to-weight analysis and finite element analy
 - Tradeoffs between weight and strength (and performance and cost for optional extension)
 - Using quantitative results to justify decisions
   
-### Optional Extension
+## Optional Extension
 Extend your analysis by formulating and solving an optimization problem to minimize the total material cost of your drone arm. Using your parameter sweep results, identify designs that satisfy all performance constraints (payload requirement, thrust-to-weight ratio, and factor of safety), and determine which valid design achieves the lowest cost. Include the results of your cost optimization analysis in your final recommended design solution for the drone arm.
 
 ## MathWorks Tutorials and Helpful Resources
