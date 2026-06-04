@@ -149,7 +149,7 @@ Open the "SensorDashboard_StudentProjectTemplate.mlx" Live Script in MATLAB as a
 1. MATLAB App and any supporting code, submitted as a public GitHub repository with a descriptive README file
    - A functional MATLAB app (`.mlapp`) that meets the project requirements listed above
    - Any additional `.m` files for supporting/helper functions
-   - Ensure your code is well-organized and well-document with comments explaining key logic
+   - Ensure your code is well-organized and well-documented with comments
 2. Presentation or report that states the problem, goal, and approach, key design decisions and tradeoffs, app demo or walkthrough, and next steps or improvements
 
 *Remember*: Overall, your project solution should function as a complete, usable data analytics app that clearly connects data &rarr; metrics &rarr; insights &rarr; decisions
@@ -191,9 +191,45 @@ Open the "SensorDashboard_StudentProjectTemplate.mlx" Live Script in MATLAB as a
     - Assessing structural performance using vibration data
     - Evaluating space usage and load distribution      
 
-## Optional Extension
+### 3. MATLAB Fundamentals
+- Importing data (e.g., `load` for `.mat` files)
+- Working with data structures (e.g. arrays, tables, matrices, vectors)
+- Writing basic scripts and functions
+- Applying simple data processing (e.g. `movmean`, filtering)
+- Creating and customizing plots (e.g. `plot`, `bar`, `scatter`, `heatmap`, adding titles, labels, and legends)
+- Building apps using MATLAB App Designer (adding UI components and writing callbacks to respond to user input)
+
+## Optional Extensions
+1. Combine several mini challenges to build a comprehensive smart gym app
+   - For example, combine occupancy, air quality, and energy use data to provide users with a live recommendation of the "best" place to work out
+2. Make your app as efficient as possible by creating the most informative dashboard you can with the fewest but most meaningful metrics
 
 ## MathWorks Tutorials and Helpful Resources
+### Getting Started with MATLAB
+- [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
+- [Beginners' Guide on 'How To' with MATLAB Video Playlist](https://www.youtube.com/playlist?list=PLn8PRpmsu08popSwGbmiRoH3PZIXoXXP8)
+
+### Building Apps with MATLAB
+- [App Designer Onramp](https://matlabacademy.mathworks.com/details/app-building-onramp/orab)
+- [Overview of App Designer Capabilities](https://www.mathworks.com/products/matlab/app-designer.html)
+- [Video: Getting Started with App Designer](https://www.mathworks.com/videos/app-designer-overview-1510748719083.html)
+- [Video: How To Build a GUI in MATLAB with App Designer](https://www.youtube.com/watch?v=nb0jHVXKY2w)
+- [Interactive Tutorial: Create and Run a Simple App using App Designer](https://www.mathworks.com/help/matlab/creating_guis/create-a-simple-app-or-gui-using-app-designer.html)
+
+### Introduction to Data Analysis and Visualization
+- [Documentation for Data Import and Analysis](https://www.mathworks.com/help/matlab/data-import-and-analysis.html)
+- [Documentation for MATLAB Graphics](https://www.mathworks.com/help/matlab/graphics.html)
+- [Online Course: Clean and Prepare Data for Analysis](https://matlabacademy.mathworks.com/details/clean-and-prepare-data-for-analysis/otmlpda)
+- [Online Course: Common Data Analysis Techniques](https://matlabacademy.mathworks.com/details/common-data-analysis-techniques/otmldat)
+- [Online Course: Explore Data with MATLAB Plots](https://matlabacademy.mathworks.com/details/explore-data-with-matlab-plots/otmledp)
+- [Statistics Onramp](https://matlabacademy.mathworks.com/details/statistics-onramp/orst)
+
+### More Advanced Data Analysis Methods
+Depending on the type of metrics you want to compute, you may consider other helpful MathWorks resources:
+- [Signal Processing Onramp](https://matlabacademy.mathworks.com/details/signal-processing-onramp/signalprocessing)
+- [Machine Learning Onramp](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning)
+- [Online Course: Classification Methods with Machine Learning](https://matlabacademy.mathworks.com/details/classification-methods-with-machine-learning/otmlcmml)
+
 
 ## Project Difficulty
 - Beginner
