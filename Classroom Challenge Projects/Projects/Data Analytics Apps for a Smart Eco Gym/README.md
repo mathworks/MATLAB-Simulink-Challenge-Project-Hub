@@ -91,6 +91,31 @@ Add in some context about what the gym wants from this; key questions for engine
 ### Suggested Steps
 Open the "SensorDashboard_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project. The Live Script contains more detailed information for each of the suggested steps. These are generic suggested steps applicable to each of the mini design challenges. Adapt the suggestions for the specific mini challenge you choose.
 
+1. Define the Problem and Goal
+   - Identify the specific question you want to answer
+   - Determine who your end user is and what decisions they need to make
+2. Explore and Understand the Data
+   - Decide what sensor data is relevant for your problem and goal
+   - Load and inspect your chosen sensor data
+   - Identify and understand the relevant variables (e.g. time, location, signal type)
+   - Make a quick `plot` of the data to look for patterns, trends, and anomalies
+3. Process and Prepare the Data
+   - Clean and organize the data
+   - Apply basic processing techniques such as: filtering or smoothing, aggregating values over time, classifying or segmenting data, etc.
+4. Define Meaningful Metrics
+   - Decide what metrics best capture the behavior or performance of the system your mini challenge focuses on
+   - Ensure your metrics: are easy to interpret, help answer your overarching question, could inform a real decision
+5. Design and Build Your App
+   - Develop an interactive MATLAB app (e.g. using App Designer) that:
+       - Imports data (e.g. from a `.mat` file using `load`)
+       - Processes the data and computes your selected metrics
+       - Updates outputs dynamically based on user interaction
+   - Add at least one user interaction element, such as: dropdown menu, button, slider, etc.
+   - *Tips*:
+       - Structure your app workflow as follows: Input &rarr; Processing &rarr; Metrics &rarr; Visualization
+       - Organize your code so that data loading happens in one function, metric calculations are handled in separate functions, updates are triggered by user interaction
+       - Write reusable functions for data processing and metric calculations to make your app easier to debug and extend
+
 ### Expected Results for Project Solution
 
 ### Learning Outcomes
