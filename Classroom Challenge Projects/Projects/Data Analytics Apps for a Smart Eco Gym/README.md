@@ -29,25 +29,34 @@ Your MVP should not only visualize data, but also enable users to interact with 
 7.	Your code must be shared as a GitHub repository with detailed documentation that clearly explains to a new user how to download, use, and understand your app's functionalities
 
 ### Mini Design Challenges
-Add images? Turn this into a table?
-You will have access to one big raw sensor dataset. Based on your interest in a specific engineering discipline, choose the challenge and associated data you want to work with and pick which metrics you think are appropriate to compute and display in your app. Below, you will find additional information pertaining to each mini challenge: 1. the question that your data analytics apps should help answer, 2. suggested sensor data to choose from the larger dataset, 3. suggested metrics to compute from the raw sensor data, and 4. suggested features to include in your interactive user interface.
+You will have access to one big raw sensor dataset. Based on your interest in a specific engineering discipline, choose the challenge and associated data you want to work with and pick which metrics you think are appropriate to compute and display in your app. Below, you will find additional information pertaining to each mini challenge: 
+1. The goal you are aiming to achieve with your app, framed as a question that your data analytics should help answer
+2. Suggested sensor data to choose from the larger dataset
+3. Suggested metrics to compute from the raw sensor data
+4. Suggested features to include in your interactive user interface
+5. Key questions to drive engineering thinking and decision-making.
+
+**Note**: You can choose to compute *any* metrics from all available sensor data and include *any* features in your app that you believe help to achieve the overarching goal for the user. The suggestions are to provide inspiration to help you get started.
 
 <table>
 <tbody>
-<td></td>
-<td><p><h3>Biomedical Engineering: Human Performance and Efficiency Metrics</h3></p>
-<p>Build and tune a Simscape Multibody quarter-car suspension model using an automated road test suite.</p>
-<p><strong>Skills Gained:</strong> Quarter-car suspension modeling, vehicle dynamics simulation, road disturbance modeling, suspension parameter tuning, ride comfort and road-holding analysis, robustness evaluation</p>
-<p><strong>Suggested Courses where Project can be used:</strong> Physics I (Mechanics), Dynamics, Statics, Differential Equations, Introduction to Engineering</p>
-<p><strong>Estimated Time to Complete</strong> (teams of 4, excluding tutorial self-study time): 40-60 hours</p></td>
-</tbody> 
+<td><img src="https://gist.github.com/user-attachments/assets/c8b03654-6225-4f3c-84d0-6c158769caac" width = 314/></td>
+<td><h3>Biomedical Engineering: Human Performance and Efficiency Metrics</h3>
+<p>The gym wants to offer a personalized fitness tracking app for each of its members.</p></td></tbody>
+<tbody><td><strong>Goal</strong></td><td>What is your workout efficiency?</td></tbody>
+<tbody><td><strong>Suggested Sensor Data</strong></td>
+    <td>Accelerometer (X, Y, Z coordinates across time), heart rate</td></tbody>
+<tbody><td><strong>Suggested Metrics to Compute</strong></td>
+    <td>Calories burned, time spent in different heart rate zones, activity classification (walking, running, lifting), a 'workout intensity' score</td></tbody>
+<tbody><td><strong>Suggested Dashboard Features</strong></td>
+    <td>Fitness summary panel, progress indicators, personalized user feedback (e.g. user inputs workout details and specific goals, app provides feedback based on most recent workout session and suggestions for the next workout)</td></tbody>
+<tbody><td><strong>Key Questions for Engineering Thinking</strong></td>
+    <td><p>- What does it mean for a workout to be 'efficient' and how might that vary between individuals?</p>
+    <p>- How could your app provide feedback that meaningfully changes user behavior?</p>
+    <p>- How do different types of activity (e.g., cardio v. strength training) affect the metrics you choose to compute and display?</p></td>
+</tbody>
+</table>
     
-*Biomedical Engineering*: Human Performance and Efficiency Metrics
-Add in some context about what the gym wants from this; key questions for engineering thinking
-1. **Goal**: What is your workout efficiency?
-2. **Suggested Sensor Data**: Accelerometer (X, Y, Z coordinates across time), heart rate
-3. **Suggested Metrics to Compute**: Calories burned, time spent in different heart rate zones, activity classification (walking, running, lifting), a 'workout intensity' score
-4. **Suggested Dashboard Features**: Fitness summary panel, progress indicators, personalized user feedback (e.g. user inputs workout details and specific goals, app provides feedback based on most recent workout session and suggestions for the next workout)
 
 *Mechanical/Aerospace Engineering*: Improving Natural Air Circulation
 Add in some context about what the gym wants from this; key questions for engineering thinking
