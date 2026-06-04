@@ -34,7 +34,7 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 2. Suggested sensor data to choose from the larger dataset
 3. Suggested metrics to compute from the raw sensor data
 4. Suggested features to include in your interactive user interface
-5. Key questions to drive engineering thinking and decision-making.
+5. Key questions to drive engineering thinking and decision-making
 
 **Note**: You can choose to compute *any* metrics from all available sensor data and include *any* features in your app that you believe help to achieve the overarching goal for the user. The suggestions are to provide inspiration to help you get started.
 
