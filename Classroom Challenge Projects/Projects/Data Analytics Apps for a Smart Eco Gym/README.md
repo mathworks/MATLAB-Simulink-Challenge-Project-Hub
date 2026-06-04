@@ -109,8 +109,8 @@ Open the "SensorDashboard_StudentProjectTemplate.mlx" Live Script in MATLAB as a
    - Develop an interactive MATLAB app (e.g. using App Designer) that:
        - Imports data (e.g. from a `.mat` file using `load`)
        - Processes the data and computes your selected metrics
+       - Includes at least one user interaction element, such as: dropdown menu, button, slider, etc.
        - Updates outputs dynamically based on user interaction
-   - Add at least one user interaction element, such as: dropdown menu, button, slider, etc.
    - *Tips*:
        - Structure your app workflow as follows: Input &rarr; Processing &rarr; Metrics &rarr; Visualization
        - Organize your code so that data loading happens in one function, metric calculations are handled in separate functions, updates are triggered by user interaction
@@ -146,8 +146,19 @@ Open the "SensorDashboard_StudentProjectTemplate.mlx" Live Script in MATLAB as a
        - Potential next steps or improvements      
 
 ### Expected Results for Project Solution
+1. MATLAB App and any supporting code, submitted as a public GitHub repository with a descriptive README file
+   - A functional MATLAB app (`.mlapp`) that meets the project requirements listed above
+   - Any additional `.m` files for supporting/helper functions
+   - Ensure your code is well-organized and well-document with comments explaining key logic
+2. Presentation or report that states the problem, goal, and approach, key design decisions and tradeoffs, app demo or walkthrough, and next steps or improvements
+
+*Remember*: Overall, your project solution should function as a complete, usable data analytics app that clearly connects data &rarr; metrics &rarr; insights &rarr; decisions
 
 ### Learning Outcomes
+- Analyze sensor data to identify patterns, trends, and relevant signals that inform engineering decisions.
+- Develop an interactive data analytics app in MATLAB that processes raw data, computes meaningful metrics, and communicates results through clear visualizations.
+- Evaluate design tradeoffs by interpreting computed metrics and assessing how effectively the solution supports data-driven decision-making for a non-expert audience.
+- Apply concepts and methods from a specific engineering discipline to develop a data-driven solution that addresses a real-world performance, efficiency, or user experience challenge.
 
 ## Suggested Background Material
 - generic, for each mini challenge, matlab fundamentals
