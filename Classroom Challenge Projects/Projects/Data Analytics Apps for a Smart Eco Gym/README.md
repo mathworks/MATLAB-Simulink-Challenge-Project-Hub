@@ -41,7 +41,7 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 <table>
 <tbody>
 <td><p align="center">
-<img src="https://gist.githubusercontent.com/kathyz95/37efc6d85c3c596d273683b93c98c9b3/raw/0f2d70b9cf477b7d8222075a8d493298033e2368/biomed.png" width = 100 /></p>
+<img src="https://gist.githubusercontent.com/kathyz95/1d15ddfb9c8e325fcc121f3e57019497/raw/7bbac73c50e815089dbcead335a7107e4bceb1cc/biomed.png" width = 100 /></p>
 </td>
 <td><h3>Biomedical Engineering: Human Performance and Efficiency Metrics</h3>
 <p>The gym wants to offer a personalized fitness tracking app for each of its members.</p></td></tbody>
