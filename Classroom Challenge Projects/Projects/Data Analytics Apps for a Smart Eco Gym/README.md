@@ -32,6 +32,16 @@ Your MVP should not only visualize data, but also enable users to interact with 
 Add images? Turn this into a table?
 You will have access to one big raw sensor dataset. Based on your interest in a specific engineering discipline, choose the challenge and associated data you want to work with and pick which metrics you think are appropriate to compute and display in your app. Below, you will find additional information pertaining to each mini challenge: 1. the question that your data analytics apps should help answer, 2. suggested sensor data to choose from the larger dataset, 3. suggested metrics to compute from the raw sensor data, and 4. suggested features to include in your interactive user interface.
 
+<table>
+<tbody>
+<td></td>
+<td><p><h3>Biomedical Engineering: Human Performance and Efficiency Metrics</h3></p>
+<p>Build and tune a Simscape Multibody quarter-car suspension model using an automated road test suite.</p>
+<p><strong>Skills Gained:</strong> Quarter-car suspension modeling, vehicle dynamics simulation, road disturbance modeling, suspension parameter tuning, ride comfort and road-holding analysis, robustness evaluation</p>
+<p><strong>Suggested Courses where Project can be used:</strong> Physics I (Mechanics), Dynamics, Statics, Differential Equations, Introduction to Engineering</p>
+<p><strong>Estimated Time to Complete</strong> (teams of 4, excluding tutorial self-study time): 40-60 hours</p></td>
+</tbody> 
+    
 *Biomedical Engineering*: Human Performance and Efficiency Metrics
 Add in some context about what the gym wants from this; key questions for engineering thinking
 1. **Goal**: What is your workout efficiency?
