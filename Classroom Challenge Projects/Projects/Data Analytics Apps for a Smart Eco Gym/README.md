@@ -40,7 +40,9 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 
 <table>
 <tbody>
-<td><img src="https://gist.github.com/user-attachments/assets/a2104679-13af-4917-b6f1-ee9d2ce138b2" /></td>
+<td><p align="center">
+<img src="https://gist.githubusercontent.com/kathyz95/37efc6d85c3c596d273683b93c98c9b3/raw/0f2d70b9cf477b7d8222075a8d493298033e2368/biomed.png" width = 100 /></p>
+</td>
 <td><h3>Biomedical Engineering: Human Performance and Efficiency Metrics</h3>
 <p>The gym wants to offer a personalized fitness tracking app for each of its members.</p></td></tbody>
 <tbody><td><strong>Goal</strong></td><td>What is your workout efficiency?</td></tbody>
@@ -51,9 +53,9 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 <tbody><td><strong>Suggested Dashboard Features</strong></td>
     <td>Fitness summary panel, progress indicators, personalized user feedback (e.g. user inputs workout details and specific goals, app provides feedback based on most recent workout session and suggestions for the next workout)</td></tbody>
 <tbody><td><strong>Key Questions for Engineering Thinking</strong></td>
-    <td><p>- What does it mean for a workout to be 'efficient' and how might that vary between individuals?</p>
-    <p>- How could your app provide feedback that meaningfully changes user behavior?</p>
-    <p>- How do different types of activity (e.g., cardio v. strength training) affect the metrics you choose to compute and display?</p></td>
+    <td>- What does it mean for a workout to be 'efficient' and how might that vary between individuals?<br>
+    - How could your app provide feedback that meaningfully changes user behavior?<br>
+    - How do different types of activity (e.g., cardio v. strength training) affect the metrics you choose to compute and display?</td>
 </tbody>
 </table>
     
