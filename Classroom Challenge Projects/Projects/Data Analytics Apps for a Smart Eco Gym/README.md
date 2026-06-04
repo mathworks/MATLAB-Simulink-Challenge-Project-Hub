@@ -40,7 +40,7 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 
 <table>
 <tbody>
-<td><img src="https://gist.github.com/user-attachments/assets/c8b03654-6225-4f3c-84d0-6c158769caac" width = 314/></td>
+<td><img src="https://gist.github.com/user-attachments/assets/a2104679-13af-4917-b6f1-ee9d2ce138b2" /></td>
 <td><h3>Biomedical Engineering: Human Performance and Efficiency Metrics</h3>
 <p>The gym wants to offer a personalized fitness tracking app for each of its members.</p></td></tbody>
 <tbody><td><strong>Goal</strong></td><td>What is your workout efficiency?</td></tbody>
