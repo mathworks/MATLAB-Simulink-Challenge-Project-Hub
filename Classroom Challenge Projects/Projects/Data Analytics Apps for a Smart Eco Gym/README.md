@@ -47,7 +47,7 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 <p>The gym wants to offer a personalized fitness tracking app for each of its members.</p></td></tbody>
 <tbody><td><strong>Goal</strong></td><td>What is your workout efficiency?</td></tbody>
 <tbody><td><strong>Suggested Sensor Data</strong></td>
-    <td>Accelerometer (X, Y, Z coordinates across time), heart rate</td></tbody>
+    <td>Accelerometer (X, Y, Z accerelation over time), heart rate</td></tbody>
 <tbody><td><strong>Suggested Metrics to Compute</strong></td>
     <td>Calories burned, time spent in different heart rate zones, activity classification (walking, running, lifting), a 'workout intensity' score</td></tbody>
 <tbody><td><strong>Suggested Dashboard Features</strong></td>
@@ -161,7 +161,35 @@ Open the "SensorDashboard_StudentProjectTemplate.mlx" Live Script in MATLAB as a
 - Apply concepts and methods from a specific engineering discipline to develop a data-driven solution that addresses a real-world performance, efficiency, or user experience challenge.
 
 ## Suggested Background Material
-- generic, for each mini challenge, matlab fundamentals
+### 1. Data Analytics and Engineering Design
+- Basics of data analysis and intepretation (trends, comparisons, etc.)
+- Understanding sensor data (time-series data, sampling, noise, etc.)
+- Basic data processing techniques (smoothing, filtering, aggregation, etc.)
+- Designing meaningful metrics that support decision-making
+- Principles of data visualization (clarity, labeling, choosing appropriate plots, etc.)
+- Basics of the engineering design process (problem, definition, tradeoffs, iteration, etc.)
+- Designing for a non-expert audience (clear communication, simple interfaces, etc.)
+
+### 2. Discipline-Specific Background Topics (suggestions *only*, with a focus on conceptual understanding)
+- Biomedical Engineering
+    - Making interpretations about motion from acceleration signals collected from a wearable sensor
+    - Estimating activity and energy expenditure from physiological signals
+- Mechanical and Aerospace Engineering
+    - Relating fan design to airflow behavior (motion &rarr; fluid response)
+    - Assessing how air moves through space
+    - Evaluating performance vs energy use
+- Electrical and Environmental Engineering
+    - Relating power usage to total energy consumption
+    - Identifying inefficient operating patterns (time-series analysis to detect periods of high energy use, e.g.)
+    - Evaluating sustainability performance (compaing energy use, occupancy, and renewable contributions, e.g.)
+- Chemical Engineering
+    - Tracking air quality changes over time
+    - Relating ventilation to air quality improvement
+    - Combining multiple signals into meaningful air quality metrics
+- Civil Engineering
+    - Relating occupancy to structural behavior
+    - Assessing structural performance using vibration data
+    - Evaluating space usage and load distribution      
 
 ## Optional Extension
 
