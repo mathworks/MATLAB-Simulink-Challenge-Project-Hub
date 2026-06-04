@@ -115,6 +115,35 @@ Open the "SensorDashboard_StudentProjectTemplate.mlx" Live Script in MATLAB as a
        - Structure your app workflow as follows: Input &rarr; Processing &rarr; Metrics &rarr; Visualization
        - Organize your code so that data loading happens in one function, metric calculations are handled in separate functions, updates are triggered by user interaction
        - Write reusable functions for data processing and metric calculations to make your app easier to debug and extend
+6. Visualize and Communicate Results for your App User Interface (UI)
+   - Choose visualizations that clearly connect data &rarr; metric &rarr; insight; for example:
+       - Time-series plots (e.g., sensor values over time)
+       - Bar charts or comparisons (e.g., across designs or zones)
+       - Heatmaps (e.g., spatial distributions like airflow or occupancy)
+   - Use MATLAB functions for effective plotting; for example:
+       - `plot`, `scatter`, or `bar` for comparisons
+       - `imagesc` or `heatmap` for spatial data
+       - Add labels, title, and legends for easy interpretation
+   - Design for a non-expert audience
+       - Highlight key results using, for example, color indicators (e.g., green = good, red = alert) and simple summary values
+       - Avoid overwhelming the user with raw data and focus instead on interpretable outputs
+   - Provide context for your results by adding text labels or annotations that explain what metrics represent and why they matter
+       - For example, instead of just showing a number, display "High energy use detected"
+   - Ensure your visuals respond to interaction
+       - Update plots when users, for example, select a different dataset or change a parameter
+       - Remember that your app is not just a static display, but rather a tool for decision-making
+7. Evaluate and Refine Your Solution
+   - Test your app with different inputs or scenarios
+   - Consider, for example: Does your app answer the original question? Are the results clear and useful? What tradeoffs did you make in your design?
+8. Present Your Work
+   - Prepare your code for submission as a GitHub repository with clear documentation
+       - Follow [these guidelines](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects#instructions-for-nominated-project-solution-submissions-) for your repository
+       - New to GitHub? Check out these [introductory resources](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/GitHub%20Resources) 
+   - Prepare either a presentation or a report that clear communicates:
+       - Your goal and approach
+       - Key design decisions and tradeoffs
+       - A demonstration of your app's functionality
+       - Potential next steps or improvements      
 
 ### Expected Results for Project Solution
 
