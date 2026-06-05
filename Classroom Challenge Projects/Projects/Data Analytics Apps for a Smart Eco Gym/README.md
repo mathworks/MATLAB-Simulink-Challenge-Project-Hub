@@ -87,7 +87,7 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 </td>
 <td><h3>Electrical and Environmental Engineering: Energy and Sustainability Tracking</h3>
 <p>The gym management wants to track energy consumption of different gym machines. They have also recently purchased a few specialized treadmills that can transform gym members' usage into electricity (i.e. running on the treadmill generates electricity) and they want to evaluate the renewable energy generation before deciding whether to purchase more. </p></td></tbody>
-<tbody><td><strong>Goal</strong></td><td>Are our machines efficient and how green is the gym?</td></tbody>
+<tbody><td><strong>Goal</strong></td><td>Are gym machines efficient and how green is the gym?</td></tbody>
 <tbody><td><strong>Suggested Sensor Data</strong></td>
     <td>Voltage/current from gym equipment, power usage over time, renewable energy generation from specialized treadmills and bikes</td></tbody>
 <tbody><td><strong>Suggested Metrics to Compute</strong></td>
@@ -122,12 +122,26 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 </tbody>
 </table>
 
-*Civil Engineering*: Structural Load and Space Utilization
-Add in some context about what the gym wants from this; key questions for engineering thinking
-1. **Goal**: Is the gym space safe and efficient?
-2. **Suggested Sensor Data**: Floor vibration/accelerometer, occupancy counts
-3. **Suggested Metrics to Compute**: Peak floor vibration levels, estimated load distribution (people per area), 'overcrowding risk index', space utilization rate (% capacity)
-4. **Suggested Dashboard Features**: Heatmap of crowded zones, alerts for high vibration/load areas, 'best times to use each area', suggestions for improved layout or scheduling changes
+<table>
+<tbody>
+<td><p align="center">
+<img src="https://gist.githubusercontent.com/kathyz95/994fc5648a3196512e3a7b7612a04849/raw/9cc3f1ae57b33a1a134b0c79b438fb9503aa5ffd/floorplan.png" width = 200 /></p>
+</td>
+<td><h3>Civil Engineering: Structural Load and Space Utilization</h3>
+<p>The gym wants to understand how they could improve the spatial layout of the gym for comfort and safety of their members. They also want to provide their members with a dashboard that lets them see how busy the gym is at a given time.</p></td></tbody>
+<tbody><td><strong>Goal</strong></td><td>Is the gym space safe and efficient?</td></tbody>
+<tbody><td><strong>Suggested Sensor Data</strong></td>
+    <td>Floor vibration/accelerometer, occupancy counts</td></tbody>
+<tbody><td><strong>Suggested Metrics to Compute</strong></td>
+    <td>Peak floor vibration levels, estimated load distribution (people per area), 'overcrowding risk index', space utilization rate (% capacity)</td></tbody>
+<tbody><td><strong>Suggested Dashboard Features</strong></td>
+    <td>Heatmap of crowded zones, alerts for high vibration/load areas, 'best times to use each area', suggestions for improved layout or scheduling changes</td></tbody>
+<tbody><td><strong>Key Questions for Engineering Thinking</strong></td>
+    <td>- What is the relationship between occupancy (load) and structural response (vibration)?<br>
+    - When does a space become uncomfortable versus unsafe?<br>
+    - How could layout or scheduling changes improve overall system performance?</td>
+</tbody>
+</table>
 
 ### Suggested Steps
 Open the "SensorDashboard_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project. The Live Script contains more detailed information for each of the suggested steps. These are generic suggested steps applicable to each of the mini design challenges. Adapt the suggestions for the specific mini challenge you choose.
