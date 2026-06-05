@@ -51,7 +51,7 @@
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Data%20Analytics%20Apps%20for%20a%20Smart%20Eco%20Gym">Data Analytics Apps for a Smart Eco Gym</a></h2></p>
 <p>Use MATLAB and MATLAB App Designer to design an interactive user interface that transforms real-world sensor data into actionable insights across engineering disciplines.</p>
 <p><strong>Skills Gained: </strong>Data processing and analysis, designing meaningful engeering metrics, data visualization and user interface design, app development using MATLAB App Designer, engineering design process </p>
-<p><strong>Suggested Courses where Project can be used:</strong>Introduction to Engineering, First-Year Engineering projects course, Introduction to Programming, Data Science for Engineers, discipline-specific introductory courses</p>
+<p><strong>Suggested Courses where Project can be used:</strong> Introduction to Engineering, First-Year Engineering projects course, Introduction to Programming, Data Science for Engineers, discipline-specific introductory courses</p>
 <p><strong>Estimated Time to Complete</strong> (teams of 4, excluding tutorial self-study time): 12-20 hours</p></td>
 </tbody>
 </table>
