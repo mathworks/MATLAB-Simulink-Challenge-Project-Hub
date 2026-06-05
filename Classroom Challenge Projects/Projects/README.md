@@ -45,6 +45,15 @@
 <p><strong>Suggested Courses where Project can be used:</strong> Physics I (Mechanics), Statics, Introduction to Engineering Design, Differential Equations, Introduction to CAD, Introductory Aerospace or Robotics Engineering</p>
 <p><strong>Estimated Time to Complete</strong> (teams of 4, excluding tutorial self-study time): 30-40 hours</p></td>
 </tbody>
+
+<tbody>
+<td><img src="https://gist.githubusercontent.com/kathyz95/994fc5648a3196512e3a7b7612a04849/raw/9cc3f1ae57b33a1a134b0c79b438fb9503aa5ffd/apps.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/Classroom%20Challenge%20Projects/Projects/Data%20Analytics%20Apps%20for%20a%20Smart%20Eco%20Gym">Data Analytics Apps for a Smart Eco Gym</a></h2></p>
+<p>Use MATLAB and MATLAB App Designer to design an interactive user interface that transforms real-world sensor data into actionable insights across engineering disciplines.</p>
+<p><strong>Skills Gained: </strong>Data processing and analysis, designing meaningful engeering metrics, data visualization and user interface design, app development using MATLAB App Designer, engineering design process </p>
+<p><strong>Suggested Courses where Project can be used:</strong>Introduction to Engineering, First-Year Engineering projects course, Introduction to Programming, Data Science for Engineers, discipline-specific introductory courses</p>
+<p><strong>Estimated Time to Complete</strong> (teams of 4, excluding tutorial self-study time): 12-20 hours</p></td>
+</tbody>
 </table>
 
 
