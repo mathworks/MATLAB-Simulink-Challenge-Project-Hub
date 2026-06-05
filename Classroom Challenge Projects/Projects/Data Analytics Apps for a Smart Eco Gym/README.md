@@ -41,7 +41,7 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 <table>
 <tbody>
 <td><p align="center">
-<img src="https://gist.githubusercontent.com/kathyz95/994fc5648a3196512e3a7b7612a04849/raw/0dd9f3b65449acfebe67cf5fb770fd062bd07d83/biomed.png" width = 100 /></p>
+<img src="https://gist.githubusercontent.com/kathyz95/994fc5648a3196512e3a7b7612a04849/raw/0dd9f3b65449acfebe67cf5fb770fd062bd07d83/biomed.png" width = 200 /></p>
 </td>
 <td><h3>Biomedical Engineering: Human Performance and Efficiency Metrics</h3>
 <p>The gym wants to offer a personalized fitness tracking app for each of its members.</p></td></tbody>
@@ -59,13 +59,26 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 </tbody>
 </table>
     
-
-*Mechanical/Aerospace Engineering*: Improving Natural Air Circulation
-Add in some context about what the gym wants from this; key questions for engineering thinking
-1. **Goal**: Which ceiling fan blade design circulates air most efficiently?
-2. **Suggested Sensor Data**: For different blade designs (e.g. flat v. curved balde, short v. long blade, high pitch angle v. low pitch angle) - air velocity at multiple locations, fan rotation speed, temperature distribution, power consumption
-3. **Suggested Metrics to Compute**: Air velocity/uniformity around the fan and across space, temperature reduction across time and space, airflow variability, airflow per unit power (energy efficiency)
-4. **Suggested Dashboard Features**: Design selector (dropdown menu for different blade types), visualizations that clearly show comparisons of computed metrics across different blade designs, heatmap of airflow distribution
+<table>
+<tbody>
+<td><p align="center">
+<img src="https://gist.githubusercontent.com/kathyz95/994fc5648a3196512e3a7b7612a04849/raw/57a9112a779017fd59bc51960ac56f925316ddca/fan.png" width = 200 /></p>
+</td>
+<td><h3>Mechanical and Aerospace Engineering: Improving Natural Air Circulation</h3>
+<p>The gym management is deciding what ceiling fans to install, and wants to compare air circulation efficiency across fans with different blade designs</p></td></tbody>
+<tbody><td><strong>Goal</strong></td><td>Which ceiling fan blade design circulates air most efficiently?</td></tbody>
+<tbody><td><strong>Suggested Sensor Data</strong></td>
+    <td>For different blade designs (e.g. flat v. curved balde, short v. long blade, high pitch angle v. low pitch angle) - air velocity at multiple locations, fan rotation speed, temperature distribution, power consumption</td></tbody>
+<tbody><td><strong>Suggested Metrics to Compute</strong></td>
+    <td>Air velocity/uniformity around the fan and across space, temperature reduction across time and space, airflow variability, airflow per unit power (energy efficiency)</td></tbody>
+<tbody><td><strong>Suggested Dashboard Features</strong></td>
+    <td>Design selector (dropdown menu for different blade types), visualizations that clearly show comparisons of computed metrics across different blade designs, heatmap of airflow distribution</td></tbody>
+<tbody><td><strong>Key Questions for Engineering Thinking</strong></td>
+    <td>- How do design parameters (blade shape, pitch angle, length) influence airflow distribution?<br>
+    - How do you define "effective air circulation"?<br>
+    - What tradeoffs exist between airflow performance and energy efficiency?</td>
+</tbody>
+</table>
 
 *Electrical Engineering or Environmental Engineering*: Energy and Sustainability Tracking
 Add in some context about what the gym wants from this; key questions for engineering thinking
