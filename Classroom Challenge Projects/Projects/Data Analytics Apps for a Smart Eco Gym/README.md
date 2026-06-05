@@ -101,13 +101,26 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 </tbody>
 </table>
 
-
-*Chemical Engineering*: Air Quality and Ventilation Efficiency
-Add in some context about what the gym wants from this; key questions for engineering thinking
-1. **Goal**: How healthy is the air?
-2. **Suggested Sensor Data**: CO2 air concentration, humidity, temperature, concentration of volatile organic compounds
-3. **Suggested Metrics to Compute**: Air quality index, ventilation effectiveness (CO2 decay rate), sweat/odor buildup (proxy via humidity and volatile organic compounds)
-4. **Suggested Dashboard Features**: Color-coded 'air quality score', heatmap of sweat/odor buildup, real-time recommendations (e.g. 'increase ventilation'), trends over time
+<table>
+<tbody>
+<td><p align="center">
+<img src="https://gist.githubusercontent.com/kathyz95/994fc5648a3196512e3a7b7612a04849/raw/6445c647fd1ede0350f209c2942c9fee336f6848/airquality.png" width = 200 /></p>
+</td>
+<td><h3>Chemical Engineering: Air Quality and Ventilation Efficiency</h3>
+<p>The gym wants to understand how well their ventilation systems work and provide their members with a dashboard that shows the temperature, humidity, and overall air quality in different areas of the gym </p></td></tbody>
+<tbody><td><strong>Goal</strong></td><td>How healthy is the air?</td></tbody>
+<tbody><td><strong>Suggested Sensor Data</strong></td>
+    <td>CO2 air concentration, humidity, temperature, concentration of volatile organic compounds</td></tbody>
+<tbody><td><strong>Suggested Metrics to Compute</strong></td>
+    <td>Air quality index, ventilation effectiveness (CO2 decay rate), sweat/odor buildup (proxy via humidity and volatile organic compounds)</td></tbody>
+<tbody><td><strong>Suggested Dashboard Features</strong></td>
+    <td>Color-coded 'air quality score', heatmap of sweat/odor buildup, real-time recommendations (e.g. 'increase ventilation'), trends over time</td></tbody>
+<tbody><td><strong>Key Questions for Engineering Thinking</strong></td>
+    <td>- How do different environmental variables interact to affect perceived air quality?<br>
+    - What does "good ventilation" mean, and how can it be quantified?<br>
+    - How do you design a metric that simplifies complex chemical and environmental data for non-expert users?</td>
+</tbody>
+</table>
 
 *Civil Engineering*: Structural Load and Space Utilization
 Add in some context about what the gym wants from this; key questions for engineering thinking
