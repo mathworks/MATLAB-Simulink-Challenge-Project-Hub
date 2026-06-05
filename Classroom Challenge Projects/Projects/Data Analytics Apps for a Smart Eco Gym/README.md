@@ -1,5 +1,5 @@
-## THIS PAGE IS UNDER CONSTRUCTION 06/03/26
-KZ to do: custom resources for NACME NVB (presentation guidelines, teamwork agreement, assessment rubric for the presentation, requirements), sensor data set directory with README on what's included in each data set (units e.g.)
+## THIS PAGE IS UNDER CONSTRUCTION - last updated 06/05/26
+KZ to do: custom resources for NACME NVB (presentation guidelines, teamwork agreement, assessment rubric for the presentation, requirements), sensor data set directory with README on what's included in each data set (units e.g.), starter template
 
 <table>
 <td><img src = "https://gist.githubusercontent.com/kathyz95/994fc5648a3196512e3a7b7612a04849/raw/0dd9f3b65449acfebe67cf5fb770fd062bd07d83/apps.jpg" width = 500/></td>
