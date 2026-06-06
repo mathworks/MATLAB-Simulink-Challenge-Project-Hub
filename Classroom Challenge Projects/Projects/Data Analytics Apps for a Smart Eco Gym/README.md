@@ -65,7 +65,7 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 <img src="https://gist.githubusercontent.com/kathyz95/994fc5648a3196512e3a7b7612a04849/raw/57a9112a779017fd59bc51960ac56f925316ddca/fan.png" width = 150 /></p>
 </td>
 <td><h3>Mechanical and Aerospace Engineering: Improving Natural Air Circulation</h3>
-<p>The gym management is deciding what ceiling fans to install, and wants to compare air circulation efficiency across fans with different blade designs</p></td></tbody>
+<p>The gym management is deciding what ceiling fans to install, and wants to compare air circulation efficiency across fans with different blade designs.</p></td></tbody>
 <tbody><td><strong>Goal</strong></td><td>Which ceiling fan blade design circulates air most efficiently?</td></tbody>
 <tbody><td><strong>Suggested Sensor Data</strong></td>
     <td>For different blade designs (e.g. flat v. curved balde, short v. long blade, high pitch angle v. low pitch angle) - air velocity at multiple locations, fan rotation speed, temperature distribution, power consumption</td></tbody>
@@ -107,7 +107,7 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 <img src="https://gist.githubusercontent.com/kathyz95/994fc5648a3196512e3a7b7612a04849/raw/6445c647fd1ede0350f209c2942c9fee336f6848/airquality.png" width = 200 /></p>
 </td>
 <td><h3>Chemical Engineering: Air Quality and Ventilation Efficiency</h3>
-<p>The gym wants to understand how well their ventilation systems work and provide their members with a dashboard that shows the temperature, humidity, and overall air quality in different areas of the gym </p></td></tbody>
+<p>The gym wants to understand how well their ventilation systems work and provide their members with a dashboard that shows the temperature, humidity, and overall air quality in different areas of the gym. </p></td></tbody>
 <tbody><td><strong>Goal</strong></td><td>How healthy is the air?</td></tbody>
 <tbody><td><strong>Suggested Sensor Data</strong></td>
     <td>CO2 air concentration, humidity, temperature, concentration of volatile organic compounds</td></tbody>
