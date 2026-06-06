@@ -227,24 +227,25 @@ Open the "SensorDashboard_StudentProjectTemplate.mlx" Live Script in MATLAB as a
 
 ### 2. Discipline-Specific Background Topics (suggestions *only*, with a focus on conceptual understanding)
 - Biomedical Engineering
-    - Making interpretations about motion from acceleration signals collected from a wearable sensor
-    - Estimating activity and energy expenditure from physiological signals
+    - Working with accelerometer data (vector signals and magnitude, understanding x/y/z acceleration and computing overall movement)
+    - Interpreting heart rate data
+    - Summarizing time-series data (computing averages, peaks, durations from continuous signals)
 - Mechanical and Aerospace Engineering
-    - Relating fan design to airflow behavior (motion &rarr; fluid response)
-    - Assessing how air moves through space
+    - Basic relationships between motion and airflow
+    - Understanding spatial measurements (interpreting how values vary across different locations)
     - Evaluating performance vs energy use
 - Electrical and Environmental Engineering
-    - Relating power usage to total energy consumption
-    - Identifying inefficient operating patterns (time-series analysis to detect periods of high energy use, e.g.)
-    - Evaluating sustainability performance (compaing energy use, occupancy, and renewable contributions, e.g.)
+    - Understanding the difference between instantaneous power and total energy use over time
+    - Summarizing time-series data (computing averages, peaks, durations from continuous signals)
+    - Basic energy efficiency concepts
 - Chemical Engineering
-    - Tracking air quality changes over time
-    - Relating ventilation to air quality improvement
+    - Interpreting concentration data (e.g. CO2 and humidity)
+    - How ventilation affects air quality
     - Combining multiple signals into meaningful air quality metrics
 - Civil Engineering
-    - Relating occupancy to structural behavior
     - Assessing structural performance using vibration data
-    - Evaluating space usage and load distribution      
+    - Evaluating space usage and load distribution (comparing values across locations and time)
+    - Occupancy and density calculations      
 
 ### 3. MATLAB Fundamentals
 - Importing data (e.g., `load` for `.mat` files)
