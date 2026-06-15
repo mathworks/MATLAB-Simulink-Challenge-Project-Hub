@@ -92,6 +92,8 @@ Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB
             - Sweep `Ks` and `Cs` across small ranges
             - Score each design across all road cases
             - Select a design that meets constraints and minimizes score
+      
+           Implement the parameter sweep in MATLAB using Simulink.SimulationInput objects to programmatically create simulation runs with different values of suspension stiffness (Ks) and damping (Cs) without modifying the model manually. For each design point, configure the parameter values in a SimulationInput object, execute the sweep using [parsim](https://www.mathworks.com/help/simulink/slref/parsim.html) ([Running Parallel simulations](https://www.mathworks.com/help/simulink/ug/running-parallel-simulations.html)) when Parallel Computing Toolbox is available, or sim for a serial fallback. To reduce repeated run time, use [Fast Restart](https://www.mathworks.com/help/simulink/ug/fast-restart-workflow.html) for iterative scripted simulations, and optionally [Rapid Accelerator](https://www.mathworks.com/help/simulink/ug/how-the-acceleration-modes-work.html) for faster batch execution of the design space
         - **Option B — Lightweight optimization (recommended for intermediate-level users)**
             - Use a simple search (pattern search / constrained minimization / custom heuristic)
             - Minimize comfort subject to travel/deflection limits
