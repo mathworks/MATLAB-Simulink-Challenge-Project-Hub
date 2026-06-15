@@ -1,4 +1,4 @@
-# Ceiling Fan Blade Design Sensor Dataset
+# Ceiling Fan Airflow and Energy Sensor Dataset
 
 This dataset contains synthetic sensor data representing controlled tests of different ceiling fan blade designs in the same gym room.
 
