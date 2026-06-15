@@ -1,0 +1,6 @@
+zone_id,zone_name,floor_area_m2,ceiling_height_m,room_volume_m3,typical_activity_level,has_direct_vent_supply,notes
+Z01,cardio_zone,80.0,3.0,240.0,high,True,"Main 10 m x 8 m gym room, consistent with the fan and energy datasets."
+Z02,free_weight_zone,55.0,3.0,165.0,moderate,True,Mostly mechanically powered equipment and free weights.
+Z03,yoga_studio,45.0,3.0,135.0,moderate,True,Group class space with scheduled occupancy peaks.
+Z04,locker_room,35.0,3.0,105.0,low,True,Higher humidity and odor/VOC buildup potential.
+Z05,front_desk_lobby,30.0,3.0,90.0,low,True,Entry and waiting area.
