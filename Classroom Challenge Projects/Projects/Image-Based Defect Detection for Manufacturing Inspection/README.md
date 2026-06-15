@@ -79,7 +79,7 @@ Open the "ImageBasedDefectSystem_StudentProjectTemplate.mlx" Live Script in MATL
     - Recommended starter: **ResNet-18**
       - Load the network: use `imagePretrainedNetwork` and select `resnet18` from the Deep Learning Toolbox.  
       - Resize/augment input with `augmentedImageDatastore(...)` to match the network input size. 
-      - Fine-tune the last layers for your classes (start with `PASS` vs `FAIL`), using `trainNetwork(...)` or a guided workflow such as “Get started with transfer learning” / pretrained network workflows.
+      - Fine-tune the last layers for your classes (start with `PASS` vs `FAIL`), using `trainNetwork(...)` or a guided workflow such as “[Get started with transfer learning](https://www.mathworks.com/help/deeplearning/gs/get-started-with-transfer-learning.html)” / [pretrained network workflows](https://www.mathworks.com/help/deeplearning/built-in-pretrained-networks.html).
     - Deliverable: `aiLabel = classify(net, roiForNet)` (and optionally scores).
 
 10. Combine outputs into a hybrid inspection result
@@ -139,26 +139,33 @@ Before deep learning, defect detection was (and still is) heavily reliant on cla
 - Morphological operations (closing, filling, filtering small specks).
 - How classical preprocessing stabilizes feature extraction under normal variation.
 
-### 3. Deep Learning Fundamentals for Visual Inspection
+### 3. Datasets
+Recommended datasets for implementing and evaluating the inspection system:
+-  A dataset for benchmarking anomaly detection methods with a focus on industrial inspection - [MVTec AD](https://www.mvtec.com/research-teaching/datasets/mvtec-ad)
+-  Images of defected production items - Kolektor Surface-Defect Dataset 2 ([KSDD2](https://www.vicos.si/resources/kolektorsdd2/))
+-  A real-world industrial anomaly dataset - BeanTech Anomaly Detection Dataset (BTAD): [Paper](https://arxiv.org/pdf/2104.10036), [Dataset](http://avires.dimi.uniud.it/papers/btad/btad.zip).
+-  A dataset aimed at benchmarking visual defect detection methods in industrial metal parts manufacturing - Metal Parts Defect Detection Dataset ([MPDD](https://github.com/stepanje/MPDD))
+
+### 4. Deep Learning Fundamentals for Visual Inspection
 Deep learning drives most modern AI‑based defect detection. Students should understand:
 - CNN fundamentals: convolution, pooling, feature maps.
 - Why transfer learning (e.g., using ResNet‑18) is effective for limited defect datasets.
 - How data augmentation improves robustness to lighting, noise, blur, and pose variations. 
 
-### 4. Feature Extraction and Defect Evidence Measurement
+### 5. Feature Extraction and Defect Evidence Measurement
 Many defect‑detection pipelines rely on interpretable, numeric descriptors of defect regions. Important concepts:
 - Connected components and region properties (area, eccentricity, solidity).
 - Texture measures, intensity distributions, edge density.
 - Why features help provide explainable evidence and traceable inspection logs.
 
-### 5. Robustness, Variability, and Evaluation of Inspection Systems
+### 6. Robustness, Variability, and Evaluation of Inspection Systems
 Real inspection stations face significant variability and industry requires inspection decisions to be justified. Students should understand:
 - Why evidence overlays, metrics, and logs matter for traceability.
 - Confusion matrices, yield summaries, defect frequency analyses.
 - Differences between interpretable rule‑based gates and black‑box AI models.
 - How robustness tests reveal system weaknesses.
 
-### 6. MATLAB Fundamentals
+### 7. MATLAB Fundamentals
 - Reading images, resizing, grayscale conversion (`imread`, `imresize`, `rgb2gray`).
 - Classical preprocessing:
     - Illumination correction (`imflatfield`, Gaussian background subtraction)
