@@ -23,7 +23,6 @@ All data are synthetic. They are designed for introductory engineering analysis 
 * `fan_design_metadata.csv` — fan blade design information as a CSV file
 * `fan_test_runs.csv` — test run metadata as a CSV file
 * `fan_sensor_locations.csv` — sensor location metadata as a CSV file
-* `fan_test_run_summary.csv` — one-row-per-test summary metrics
 
 ## Dataset overview
 
