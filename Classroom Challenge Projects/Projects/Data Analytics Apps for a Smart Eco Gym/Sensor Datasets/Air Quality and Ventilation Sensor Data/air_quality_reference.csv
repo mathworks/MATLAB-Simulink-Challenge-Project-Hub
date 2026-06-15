@@ -1,0 +1,2 @@
+co2_good_ppm,co2_poor_ppm,humidity_low_pct,humidity_high_pct,tvoc_good_ppb,tvoc_poor_ppb,temperature_low_C,temperature_high_C,recommended_max_occupancy_density_people_per_m2,notes
+800,1200,30,60,220,660,20,24,0.15,Simplified reference assumptions for student calculations; not regulatory limits or medical guidance.

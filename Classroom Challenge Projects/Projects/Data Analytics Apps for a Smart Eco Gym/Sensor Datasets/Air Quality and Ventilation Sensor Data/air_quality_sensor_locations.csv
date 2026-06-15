@@ -1,0 +1,16 @@
+location_id,zone_id,zone_name,x_m,y_m,z_m,location_label,location_type
+AQ_L01,Z01,cardio_zone,2.0,2.0,1.5,west,breathing_zone_air_quality
+AQ_L02,Z01,cardio_zone,5.0,4.0,1.5,center,breathing_zone_air_quality
+AQ_L03,Z01,cardio_zone,8.0,6.0,1.5,east,breathing_zone_air_quality
+AQ_L04,Z02,free_weight_zone,1.5,1.5,1.5,west,breathing_zone_air_quality
+AQ_L05,Z02,free_weight_zone,4.0,3.0,1.5,center,breathing_zone_air_quality
+AQ_L06,Z02,free_weight_zone,6.5,4.5,1.5,east,breathing_zone_air_quality
+AQ_L07,Z03,yoga_studio,1.0,1.0,1.5,front,breathing_zone_air_quality
+AQ_L08,Z03,yoga_studio,3.5,3.0,1.5,center,breathing_zone_air_quality
+AQ_L09,Z03,yoga_studio,6.0,5.0,1.5,back,breathing_zone_air_quality
+AQ_L10,Z04,locker_room,1.0,1.0,1.5,entrance,breathing_zone_air_quality
+AQ_L11,Z04,locker_room,3.0,2.5,1.5,center,breathing_zone_air_quality
+AQ_L12,Z04,locker_room,5.0,4.0,1.5,showers,breathing_zone_air_quality
+AQ_L13,Z05,front_desk_lobby,1.0,1.0,1.5,entry,breathing_zone_air_quality
+AQ_L14,Z05,front_desk_lobby,3.0,2.0,1.5,desk,breathing_zone_air_quality
+AQ_L15,Z05,front_desk_lobby,5.0,3.5,1.5,waiting,breathing_zone_air_quality
