@@ -1,0 +1,2 @@
+comfort_rms_accel_m_s2,attention_rms_accel_m_s2,high_peak_accel_m_s2,default_person_mass_kg,recommended_occupancy_density_people_per_m2,high_occupancy_density_people_per_m2,notes
+0.015,0.03,0.08,75,0.15,0.25,Simplified reference values for student dashboard calculations; not building-code limits or professional safety limits.
