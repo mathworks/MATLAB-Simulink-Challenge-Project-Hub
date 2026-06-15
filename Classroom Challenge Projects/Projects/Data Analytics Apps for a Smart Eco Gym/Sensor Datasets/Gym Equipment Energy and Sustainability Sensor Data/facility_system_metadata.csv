@@ -1,0 +1,6 @@
+system_id,system_name,system_category
+FE_CARDIO_TOTAL,Cardio Equipment Total,cardio_equipment
+FE_HVAC,HVAC System,hvac
+FE_LIGHTING,Lighting System,lighting
+FE_AIR_CIRCULATION,Ceiling Fan System,air_circulation
+FE_PLUG_LOAD,General Plug Loads,plug_load

@@ -1,0 +1,26 @@
+equipment_id,equipment_name,equipment_type,system_category,is_energy_generating,rated_power_W,standby_power_W,location_zone,manufacturer_efficiency_rating
+TR001,Regular Treadmill 1,regular_treadmill,cardio_equipment,False,1500,45,cardio_zone,medium
+TR002,Regular Treadmill 2,regular_treadmill,cardio_equipment,False,1500,45,cardio_zone,medium
+TR003,Regular Treadmill 3,regular_treadmill,cardio_equipment,False,1500,45,cardio_zone,medium
+TR004,Regular Treadmill 4,regular_treadmill,cardio_equipment,False,1500,45,cardio_zone,medium
+EGT001,Energy-Generating Treadmill 1,energy_generating_treadmill,cardio_equipment,True,450,35,cardio_zone,high
+EGT002,Energy-Generating Treadmill 2,energy_generating_treadmill,cardio_equipment,True,450,35,cardio_zone,high
+EGT003,Energy-Generating Treadmill 3,energy_generating_treadmill,cardio_equipment,True,450,35,cardio_zone,high
+BI001,Stationary Bike 1,stationary_bike,cardio_equipment,False,90,8,cardio_zone,high
+BI002,Stationary Bike 2,stationary_bike,cardio_equipment,False,90,8,cardio_zone,high
+BI003,Stationary Bike 3,stationary_bike,cardio_equipment,False,90,8,cardio_zone,high
+BI004,Stationary Bike 4,stationary_bike,cardio_equipment,False,90,8,cardio_zone,high
+EGB001,Energy-Generating Bike 1,energy_generating_bike,cardio_equipment,True,75,8,cardio_zone,high
+EGB002,Energy-Generating Bike 2,energy_generating_bike,cardio_equipment,True,75,8,cardio_zone,high
+EGB003,Energy-Generating Bike 3,energy_generating_bike,cardio_equipment,True,75,8,cardio_zone,high
+EL001,Elliptical 1,elliptical,cardio_equipment,False,180,12,cardio_zone,medium
+EL002,Elliptical 2,elliptical,cardio_equipment,False,180,12,cardio_zone,medium
+EL003,Elliptical 3,elliptical,cardio_equipment,False,180,12,cardio_zone,medium
+EL004,Elliptical 4,elliptical,cardio_equipment,False,180,12,cardio_zone,medium
+ROW001,Rowing Machine 1,rowing_machine,cardio_equipment,False,70,5,cardio_zone,high
+ROW002,Rowing Machine 2,rowing_machine,cardio_equipment,False,70,5,cardio_zone,high
+ROW003,Rowing Machine 3,rowing_machine,cardio_equipment,False,70,5,cardio_zone,high
+SYS_HVAC,HVAC System,hvac_system,hvac,False,12000,2500,whole_gym,medium
+SYS_LIGHTING,Lighting System,lighting_system,lighting,False,3200,250,whole_gym,high
+SYS_CEILING_FANS,Ceiling Fan System,ceiling_fan_system,air_circulation,False,600,0,whole_gym,high
+SYS_PLUG_LOAD,General Plug Loads,plug_load_system,plug_load,False,1800,450,whole_gym,medium

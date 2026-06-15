@@ -1,0 +1,2 @@
+grid_carbon_intensity_kgCO2_per_kWh,renewable_credit_kgCO2_per_kWh,electricity_cost_USD_per_kWh,target_idle_power_fraction,target_renewable_fraction,notes
+0.35,0.35,0.22,0.15,0.05,Synthetic reference assumptions for introductory engineering calculations.
