@@ -31,7 +31,7 @@ Those files may be useful for cross-dataset analysis, but this air quality datas
 Related shared files:
 
 * `zone_metadata.mat` / `zone_metadata.csv`
-* `zone_occupancy.mat` / `zone_occupancy.csv`
+* `zone_occupancy.mat`
 
 ## Dataset overview
 
