@@ -1,5 +1,5 @@
 # Wearable Sensor Data
-This dataset contains synthetic wearable sensor data from a smart gym. The data represent one day of workout sessions from anonymized gym members.
+This dataset contains synthetic wearable sensor data representing one day of workout sessions from anonymized gym members.
 
 ## Files
 
