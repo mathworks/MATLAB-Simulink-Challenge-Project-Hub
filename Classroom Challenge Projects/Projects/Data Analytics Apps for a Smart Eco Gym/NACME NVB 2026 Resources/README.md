@@ -1,0 +1,1 @@
+This folder contains resources specifically for students participating in the NACME National Virtual Bridge Summer 2026 Program and completing this project as part of the Engineering Design Process course.
