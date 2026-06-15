@@ -16,7 +16,6 @@ All data are synthetic. They are designed for introductory engineering analysis 
 ### CSV metadata files
 
 * `zone_metadata.csv` — zone metadata as a CSV file
-* `zone_occupancy.csv` — estimated occupancy by zone as a CSV file
 
 ## Dataset overview
 
