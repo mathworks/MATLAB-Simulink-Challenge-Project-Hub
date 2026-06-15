@@ -1,4 +1,4 @@
-## THIS PAGE IS UNDER CONSTRUCTION - last updated 06/05/26
+## THIS PAGE IS UNDER CONSTRUCTION - last updated 06/15/26
 KZ to do: custom resources for NACME NVB (presentation guidelines, teamwork agreement, assessment rubric for the presentation, requirements), sensor data set directory with README on what's included in each data set (units e.g.), starter template
 
 <table>
