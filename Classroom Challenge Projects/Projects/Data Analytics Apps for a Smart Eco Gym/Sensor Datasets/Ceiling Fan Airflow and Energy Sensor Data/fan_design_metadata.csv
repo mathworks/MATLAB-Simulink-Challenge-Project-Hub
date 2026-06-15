@@ -1,0 +1,9 @@
+fan_id,blade_shape,blade_length,blade_length_m,pitch_angle,pitch_angle_deg,blade_count,design_label
+F01,flat,short,0.55,low,10,4,flat_short_lowPitch
+F02,flat,short,0.55,high,18,4,flat_short_highPitch
+F03,flat,long,0.75,low,10,4,flat_long_lowPitch
+F04,flat,long,0.75,high,18,4,flat_long_highPitch
+F05,curved,short,0.55,low,10,4,curved_short_lowPitch
+F06,curved,short,0.55,high,18,4,curved_short_highPitch
+F07,curved,long,0.75,low,10,4,curved_long_lowPitch
+F08,curved,long,0.75,high,18,4,curved_long_highPitch
