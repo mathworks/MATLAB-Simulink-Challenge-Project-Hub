@@ -86,7 +86,7 @@ You will have access to one big raw sensor dataset. Based on your interest in a 
 <img src="https://gist.githubusercontent.com/kathyz95/994fc5648a3196512e3a7b7612a04849/raw/04bacf5ad9f56442d74b120157e0da7fd1c2812a/greenenergy.jpg" width = 450 /></p>
 </td>
 <td><h3>Electrical and Environmental Engineering: Energy and Sustainability Tracking</h3>
-<p>The gym management wants to track energy consumption of different gym machines. They have also recently purchased a few specialized treadmills that can transform gym members' usage into electricity (i.e. running on the treadmill generates electricity) and they want to evaluate the renewable energy generation before deciding whether to purchase more. </p></td></tbody>
+<p>The gym management wants to track energy consumption of different gym machines. They have also recently purchased a few specialized treadmills and bikes that can transform gym members' usage into electricity (i.e. running on the treadmill generates electricity) and they want to evaluate the renewable energy generation before deciding whether to purchase more. </p></td></tbody>
 <tbody><td><strong>Goal</strong></td><td>Are gym machines efficient and how green is the gym?</td></tbody>
 <tbody><td><strong>Suggested Sensor Data</strong></td>
     <td>Voltage/current from gym equipment, power usage over time, renewable energy generation from specialized treadmills and bikes</td></tbody>
