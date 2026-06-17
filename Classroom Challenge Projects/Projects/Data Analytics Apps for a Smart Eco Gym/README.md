@@ -26,7 +26,11 @@ Your MVP should not only visualize data, but also enable users to interact with 
 7.	Your code must be shared as a GitHub repository with detailed documentation that clearly explains to a new user how to download, use, and understand your app's functionalities
 
 ### Mini Design Challenges
-You will have access to one big raw sensor dataset. Based on your interest in a specific engineering discipline, choose the challenge and associated data you want to work with and pick which metrics you think are appropriate to compute and display in your app. Below, you will find additional information pertaining to each mini challenge: 
+You will have access to one big raw sensor dataset. Based on your interest in a specific engineering discipline, choose the challenge and associated data you want to work with and pick which metrics you think are appropriate to compute and display in your app. 
+
+Not seeing your intended engineering discipline represented? You can still engage meaningfully with this project. For example, software engineering students can focus on designing and developing the app itself, while industrial engineering students may explore how to integrate and optimize across multiple systems using data analytics (consider challenging yourself to combine 2-3 mini challenges). More broadly, the engineering design process and data analytics skills developed in this project are widely applicable and students are encouraged to explore challenges beyond their primary discipline and engage in interdisciplinary problem-solving.
+
+Below, you will find additional information pertaining to each mini challenge: 
 1. The goal you are aiming to achieve with your app, framed as a question that your data analytics should help answer
 2. Suggested sensor data to choose from the larger dataset
 3. Suggested metrics to compute from the raw sensor data
