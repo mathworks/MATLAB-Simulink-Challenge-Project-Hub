@@ -21,9 +21,12 @@ Open the "ImageBasedDefectSystem_StudentProjectTemplate.mlx" Live Script in MATL
 2. Build a Single-Image Inspection Function
     - Your goal in this step is to create a function that analyzes an image to identify and quantify suspected defects detected in the image. You're trying to answer the question: "What in the image looks suspicious?"
     - To build this function, you will need to:
-      a. Standardize the images (size, color, lighting, etc)
-      b. Extract defect evidence by applying minimal image processing (e.g. an evidence mask that highlights where the suspected defect is)
-      c. Compute a small set of interpretable measurements to quantify defect evidence (e.g. number of suspicious regions, largest region area, fraction of the image flagged)
+
+        a. Standardize and preprocess the images (size, color, lighting, etc)
+        
+        b. Extract defect evidence by applying minimal image processing (e.g. an evidence mask that highlights where the suspected defect is)
+
+        c. Compute a small set of interpretable measurements to quantify defect evidence (e.g. number of suspicious regions, largest region area, fraction of the image flagged)
 
 3. Integrate an AI Classifier into your Single-Image Inspection Function
     - Your goal in this step is to use a MathWorks provided pretrained network (recommended: `resnet18`) to classify each part as either a PASS or FAIL, that will be part of the output of the function you began to build in the previous step
@@ -128,7 +131,8 @@ Real inspection stations face significant variability and industry requires insp
 - [Machine Learning Onramp](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning)
 - [Deep Learning Onramp](https://matlabacademy.mathworks.com/details/deep-learning-onramp/deeplearning)
 ### Other Recommended Tutorials
-- [Pretrained Deep Neural Networks (classification, feature extraction, transfer learning)](https://www.mathworks.com/help/deeplearning/ug/pretrained-convolutional-neural-networks.html)   
+- [Pretrained Deep Neural Networks (classification, feature extraction, transfer learning)](https://www.mathworks.com/help/deeplearning/ug/pretrained-convolutional-neural-networks.html) 
+- [Get Started with Transfer Learning](https://www.mathworks.com/help/deeplearning/gs/get-started-with-transfer-learning.html)  
 - [`resnet18` documentation](https://www.mathworks.com/help/deeplearning/ref/resnet18.html) 
 - [`augmentedImageDatastore` documentation](https://www.mathworks.com/help/deeplearning/ref/augmentedimagedatastore.html) 
 - [Deep Learning Toolbox documentation](https://www.mathworks.com/help/deeplearning/index.html)
