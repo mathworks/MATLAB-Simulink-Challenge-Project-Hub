@@ -10,109 +10,45 @@ Modern manufacturing inspection needs two things at once: traceable evidence (wh
 ## Project Description
 Use MATLAB to create a virtual inspection station that processes images of a single part type, produces defect evidence overlays and measurable features, and classifies parts using a pretrained network via transfer learning. You will then evaluate performance and robustness across a repeatable test suite.
 
-Your solution must include:
-- A single-image inspection function that outputs PASS/FAIL, defect label (optional), confidence score, and evidence overlay
-- A batch test runner that produces a confusion matrix and yield/defect summaries
-- A pretrained-network workflow using a **MathWorks provided pretrained network** (recommended: `resnet18`)
-
 ### Suggested Steps:
-Open the "ImageBasedDefectSystem_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
-1. Define defect modes and labels (keep it small)
-    - Choose 2–3 defect types plus PASS (start with binary `PASS` vs `FAIL` if time is short).
-    - Store labels in a table loaded by `readtable(...)`.
-    - Manage images and labels with `imageDatastore(...)` and the `Labels` property (or use the example workflow for setting up labeled image datastores).  
-    - Helpful reference: [Create and Explore Datastore for Image Classification](https://www.mathworks.com/help/deeplearning/ug/create-and-explore-datastore-for-image-classification.html).
+Open the "ImageBasedDefectSystem_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project. More detailed implementation guidelines for each suggested task are provided in the Live Script file.
 
-2. Standardize images (fast, repeatable)
-    - Read images with `imread(...)` or through `imageDatastore(...)`.
-    - Standardize size with `imresize(...)` so metrics and model input are consistent.
-    - Convert to grayscale with `rgb2gray(...)` if your classical evidence uses intensity operations (the AI branch can still use RGB).
+1. Explore and Organize Image Dataset
+    - Your goal in this step is to define defect classes and labels (keep it small)
+    - Load and inspect the images and labels from your chosen dataset (see below for recommended datasets) to understand the part types, defect classes, and data balance
+    - Organize images and labels for use in the image classification workflow you will create
 
-3. Minimal classical preprocessing (for stability + evidence quality)
-    - Apply only what you need to reduce sensitivity to normal station variation:
-      - Lighting correction: `imflatfield(...)` (or background estimate with `imgaussfilt(...)` and subtraction)
-      - Contrast normalization: `adapthisteq(...)`
-      - Denoising: `medfilt2(...)` or `imgaussfilt(...)`
-   - Save intermediate results during development (e.g., `imshowpair(...)`) for quick debugging.
+2. Build a Single-Image Inspection Function
+    - Your goal in this step is to create a function that analyzes an image to identify and quantify suspected defects detected in the image. You're trying to answer the question: "What in the image looks suspicious?"
+    - To build this function, you will need to:
+      a. Standardize the images (size, color, lighting, etc)
+      b. Extract defect evidence by applying minimal image processing (e.g. an evidence mask that highlights where the suspected defect is)
+      c. Compute a small set of interpretable measurements to quantify defect evidence (e.g. number of suspicious regions, largest region area, fraction of the image flagged)
 
-4. Define ROI (region of interest in the image) (often optional; keep it automatic)
-    - If each image already contains a centered part with minimal clutter, skip ROI:
-      - `roi = I;`
-    - If needed, keep ROI fully automatic (no per-image manual selection):
-      - Fixed crop defined once (camera is consistent): indexing or `imcrop(...)`.
-      -  Auto-crop from the part mask: segment the part, compute `BoundingBox` using `regionprops(...)`, then `imcrop(...)`.
+3. Integrate an AI Classifier into your Single-Image Inspection Function
+    - Your goal in this step is to use a MathWorks provided pretrained network (recommended: `resnet18`) to classify each part as either a PASS or FAIL, that will be part of the output of the function you began to build in the previous step
+    - Train the AI classifier using transfer learning
+    - The AI classifier should provide the main classification decision (PASS/FAIL) along with a confidence/probability score in that classification
+    - The output of your function should combine both this AI prediction and the evidence metrics from the previous step into an easily interpretable result for the user
 
-5. Evidence segmentation (required, but intentionally minimal)
-    - Goal: generate an evidence overlay and a few measurable numbers—not a perfect segmentation. Use a defect-appropriate recipe and keep it short:
-      - Start with thresholding: `imbinarize(...)` or `adaptthresh(...)` + `imbinarize(...)`
-      - Clean small specks: `bwareaopen(...)`
-      - Bridge gaps (if appropriate): `imclose(...)`
-      - Fill holes (only when it matches your goal (e.g., for a clean outer part silhouette): `imfill(...,'holes')`
-    - Deliverable: `maskEvidence = defectEvidence(roi)`.
+In other words, your image inspection function should integrate both classical evidence from image processing and an AI classification decision. The AI classifier provides the main decision (PASS/FAIL) while the classicail evidence extraction provides interpretability, traceability, and sanity checks for that decision.
 
-6. Evidence measurements (required, small set)
-    - Extract a compact feature set for logging and interpretation:
-      - Connected components: `bwconncomp(...)`
-      - Region measurements: `regionprops(...,'Area','Eccentricity','Solidity','BoundingBox')`
-      - Simple intensity stats: `mean2(...)`, `std2(...)` on ROI or masked region
-    - Return a struct/table such as:
-      - `numComponents`, `maxArea`, `areaRatio`, `edgeDensity` (if using `edge(...)`), etc.
-    - Deliverable: `evidence = measureEvidence(roi, maskEvidence)`.
+4. Evaluate Inspection System Performance
+    - Now that you've built a hybrid inspection system that integrates classical evidence with an AI decision, your goal in this step is to test the system on a batch of images.
+    - The results of this test should be summarized with a confusion matrix, report yield, and defect rates across the entire batch of images.
 
-7. Evidence metrics (required, but intentionally minimal)
-    - After you generate an evidence mask, compute a small set of numbers that answer: “What did the algorithm see, and how strong was the evidence?”  
-      - These measurements are mainly for traceability (inspection logs), debugging, and optional sanity checks, not for building a complex classical classifier.
-      - Keep it to 3–4 metrics so it stays easy.
-    - Recommended minimal metrics (works for many defect types):
-      - `numComponents`: how many separate suspicious regions were found (use `bwconncomp(maskEvidence)` and read `NumObjects`)
-      - `maxArea`: size of the largest suspicious region (use `regionprops(maskEvidence,'Area')`)
-      - `areaRatio`: fraction of the ROI flagged as suspicious (`nnz(maskEvidence) / numel(maskEvidence)`)
-      - *(optional)* `edgeDensity`: if your evidence comes from edges (chips/scratches), measure how “edgy” the ROI is  (`nnz(edgeMask) / numel(edgeMask)`)
-
-8. Baseline rule-based gate (optional but recommended)
-    - Implement 2–3 conservative rules so your system can always produce an explainable fallback:
-      - Example: fail if `maxArea > Amax` or `numComponents > Nmax`
-    - Deliverable: `baselineDecision = decideRules(evidence)`.
-
-9. AI decision using a MathWorks pretrained network (required)
-    - Use transfer learning with a pretrained network.
-    - Recommended starter: **ResNet-18**
-      - Load the network: use `imagePretrainedNetwork` and select `resnet18` from the Deep Learning Toolbox.  
-      - Resize/augment input with `augmentedImageDatastore(...)` to match the network input size. 
-      - Fine-tune the last layers for your classes (start with `PASS` vs `FAIL`), using `trainNetwork(...)` or a guided workflow such as “[Get started with transfer learning](https://www.mathworks.com/help/deeplearning/gs/get-started-with-transfer-learning.html)” / [pretrained network workflows](https://www.mathworks.com/help/deeplearning/built-in-pretrained-networks.html).
-    - Deliverable: `aiLabel = classify(net, roiForNet)` (and optionally scores).
-
-10. Combine outputs into a hybrid inspection result
-    - Create function `inspectPart(I)` that returns:
-      - `finalLabel` (from AI)
-      - `confidenceScore` (from AI scores)
-      - `evidenceOverlay` (from Step 5)
-      - `evidenceMetrics` (from Steps 6-7)
-      - (optional) `baselineDecision` and a “disagreement flag” if rules and AI disagree
-    - Overlay results on the image using `insertShape(...)` / `insertText(...)`, and save rejects with `imwrite(...)`.
-
-11. Automated evaluation and reporting 
-    - Write `runInspectionSuite.m` that:
-      - Splits data into train/test (e.g., `splitEachLabel(...)` or a fixed split)
-      - Evaluates the trained AI model and logs outcomes
-      - Produces a confusion matrix with `confusionmat(...)` / `confusionchart(...)`
-      - Summarizes yield and defect counts in tables and plots
-      - Creates a montage of common errors using `montage(...)`
-
-12. Robustness test 
-    - Simulate station variation and re-run the evaluation:
-      - Brightness/contrast: `imadjust(...)`
-      - Blur: `imgaussfilt(...)`
-      - Noise: `imnoise(...)`
-    - Report how accuracy and false-reject rate change under perturbations (AI vs baseline rules).
+5. Test Robustness
+    - Your goal in this step is to assess how your system performs under simulated variations.
+    - You can simulate image inspection station variation by altering the lighting, blur, or noise in the images.
+    - Evaluate the system's robustness by reporting how accuracy and false-reject rates change under this variations.
 
 ### Expected Results for Project Solution
-- A function `inspectPart(I)` that returns the AI `finalLabel`, the `confidenceScore` from AI, `evidenceOverlay` from Step 5, and `evidenceMetrics` from Steps 6-7
-- A script that that divides all data into a training set and a testing set, evaluates the trained AI model, and produces a confusion matrix and yield/defect summary
+- A single-image inspection function that returns a PASS/FAIL AI classification decision, a confidence score in the PASS/FAIL decision, and the evidence overlay and evidence metrics to support the AI decision
+- A script for a batch test runner that that divides all data into a training set and a testing set, evaluates the trained AI model, and produces a confusion matrix and yield/defect summary
 - Results from a robustness test where images were altered using changes to brightness/contrast, blur, and noise
 
 ### Optional Extension: AI-Based Segmentation (advanced; only if data is provided)
-- AI segmentation is **not required** for the core project. It becomes reasonable only if you have:
+- AI image segmentation is **not required** for the core project. It becomes reasonable only if you have:
   - pixel-level ground truth masks, or
   - time to label masks using an app.
 - If you do it, use the Image Labeler to create pixel labels and train a semantic segmentation network.
@@ -120,7 +56,7 @@ Open the "ImageBasedDefectSystem_StudentProjectTemplate.mlx" Live Script in MATL
     - [Get Started with the Image Labeler](https://www.mathworks.com/help/vision/ug/get-started-with-the-image-labeler.html)
     - [Label Pixels for Semantic Segmentation](https://www.mathworks.com/help/vision/ug/label-pixels-for-semantic-segmentation.html)
     - Note: the Image Labeler supports pixel labeling tools and (in recent releases) options to assist labeling.
-- Deliverable (extension): `maskAI = segmentDefect(I)` and comparison vs classical evidence masks.
+- Deliverable for the extension: a function `maskAI = segmentDefect(I)` and comparison vs classical evidence masks.
 
 ## Learning Outcomes
 - Apply understanding of integrated classical-vision and AI inspection workflows and their role in modern manufacturing practice to design a fully automated inspection function.
