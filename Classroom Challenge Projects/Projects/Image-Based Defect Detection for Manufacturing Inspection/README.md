@@ -133,8 +133,8 @@ Real inspection stations face significant variability and industry requires insp
 - [`augmentedImageDatastore` documentation](https://www.mathworks.com/help/deeplearning/ref/augmentedimagedatastore.html) 
 - [Deep Learning Toolbox documentation](https://www.mathworks.com/help/deeplearning/index.html)
 - [Create and Explore Datastore for Image Classification (example)](https://www.mathworks.com/help/deeplearning/ug/create-and-explore-datastore-for-image-classification.html) 
-- [Get Started with the Image Labeler (ROI + pixel labels)](https://www.mathworks.com/help/vision/ug/get-started-with-the-image-labeler.html) 
-- [Label Pixels for Semantic Segmentation](https://www.mathworks.com/help/vision/ug/label-pixels-for-semantic-segmentation.html)
+- [Get Started with the Image Labeler (ROI + pixel labels)](https://www.mathworks.com/help/vision/ug/get-started-with-the-image-labeler.html) (for the Optional Extension)
+- [Label Pixels for Semantic Segmentation](https://www.mathworks.com/help/vision/ug/label-pixels-for-semantic-segmentation.html) (for the Optional Extension)
   
 ## Project Difficulty
 - Intermediate
