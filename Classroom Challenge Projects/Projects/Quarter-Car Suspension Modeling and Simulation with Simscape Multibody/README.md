@@ -19,14 +19,9 @@ As a reference for how physical networks can be modeled in Simscape, you may use
 - [Mass-Spring-Damper in Simulink and Simscape](https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-simscape.html) 
 
 
-Your solution must include:
-
-- A runnable `*.slx` model of the quarter-car corner using **Simscape Multibody**
-- A MATLAB-based **automated test runner** that executes all road cases and computes metrics
-- A tuning workflow (manual sweep or simple optimization) with before/after results
-
 ### Suggested Steps:
-Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project.
+Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB as a starting point for your project. The Live Script contains more detailed information for each of the suggested steps.
+
 1. Start with a baseline quarter-car multibody model
    - Build two rigid bodies:
         - **Sprung mass** (vehicle body corner)
@@ -35,7 +30,6 @@ Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB
         - Suspension spring + damper (parameterized)
         - Tire vertical compliance element (parameterized or fixed)
     - Provide a road displacement input (e.g., a vertically moving “road plate” or equivalent road excitation subsystem)
-    - **Tip:** Keep geometry simple (vertical DOF-focused) so the model is stable and fast to simulate.
 
 2. Create a road test suite (3–5 cases)
     - Implement a set of road displacement profiles such as:
@@ -44,21 +38,6 @@ Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB
         - **Rough road** (band-limited noise)
         - (optional) **Washboards** (sinusoidal corrugation)
         - (optional) **Two bumps** (repeatability / transient recovery)
-    - Below are a few options for building the road suite (choose one approach or mix them):
-        - MATLAB-generated signals (recommended):
-            - Create each road profile as a `timeseries` or `[t, z]` array in `roadSuite.m`
-            - Examples:
-                - speed bump: half-sine hump over a fixed duration
-                - pothole: negative half-sine dip
-                - rough road: filtered noise using `randn` + a simple filter
-            - Feed into the model using **From Workspace** (or **Signal Editor**) blocks.
-    - Simulink blocks (no MATLAB scripting required):
-        - speed bump / pothole: Signal Builder or Signal Editor with a hand-drawn profile
-        - washboard: Sine Wave block
-        - two bumps: Pulse Generator (smoothed with a filter) or concatenated segments in Signal Editor
-        - rough road: Band-Limited White Noise block (optionally followed by a Transfer Fcn / Discrete Filter block to shape the spectrum)
-    - Data-driven (optional):
-        - Import a recorded profile from CSV (e.g., `readtable`) and feed it via From Workspace.
     - Deliverable: `roadSuite.m` (or `roadSuite.mat`) that produces named road inputs, plus a short note explaining how each profile was made.
 
 3. Log signals and define objective metrics
@@ -91,9 +70,7 @@ Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB
         - **Option A — Parameter sweep (recommended for beginners)**
             - Sweep `Ks` and `Cs` across small ranges
             - Score each design across all road cases
-            - Select a design that meets constraints and minimizes score
-      
-           Implement the parameter sweep in MATLAB using Simulink.SimulationInput objects to programmatically create simulation runs with different values of suspension stiffness (Ks) and damping (Cs) without modifying the model manually. For each design point, configure the parameter values in a SimulationInput object, execute the sweep using [parsim](https://www.mathworks.com/help/simulink/slref/parsim.html) ([Running Parallel simulations](https://www.mathworks.com/help/simulink/ug/running-parallel-simulations.html)) when Parallel Computing Toolbox is available, or sim for a serial fallback. To reduce repeated run time, use [Fast Restart](https://www.mathworks.com/help/simulink/ug/fast-restart-workflow.html) for iterative scripted simulations, and optionally [Rapid Accelerator](https://www.mathworks.com/help/simulink/ug/how-the-acceleration-modes-work.html) for faster batch execution of the design space
+            - Select a design that meets constraints and minimizes score      
         - **Option B — Lightweight optimization (recommended for intermediate-level users)**
             - Use a simple search (pattern search / constrained minimization / custom heuristic)
             - Minimize comfort subject to travel/deflection limits
@@ -106,22 +83,20 @@ Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB
   - Deliverable: a robustness summary (worst-case metrics and pass rate).
 
 ### Expected Results for Project Solution
-- A quarter-car suspension model built in Simscape Multibody
-- A MATLAB function/script that runs 3-5 road test cases, logs reults to a table, outputs a clear pass/fail for each requirement and generates a brief summary figure or report
-- A tuning workflow to determine optimal suspension spring stiffness (`Ks`) and suspension damping (`Cs`) that outputs the two optimal parameter values (as two numerical values) and an accompaniying plot/table that justifies the chosen optimal parameters
+- A runnable `*.slx` model of the quarter-car corner using **Simscape Multibody**
+- A MATLAB-based **automated test runner** that executes all road cases and computes metrics
+- A tuning workflow (manual sweep or simple optimization) with before/after results
   
-### Optional Project Variation:
+### Optional Project Extensions:
 - Add a **“ride-quality grade” dashboard**:
     - Convert your metrics into letter grades (A/B/C/F) per test case
     - Show a compact dashboard plot (bar chart or table + sparklines)
 - Add a “design comparison” mode:
   - Compare baseline vs tuned vs one alternative (e.g., comfort-focused vs handling-focused)
-
-### Optional Project Expansion (Advanced):
-- Add an extra tuning parameter (keep it simple), such as:
+- **Advanced**: Add an extra tuning parameter (keep it simple), such as:
     - Tire stiffness `Kt` (within a range), or
     - A bump stop modeled as a nonlinear stiffness element
-- Introduce a basic frequency-domain view:
+- **Advanced**: Introduce a basic frequency-domain view:
     - Estimate transmissibility (road-to-body acceleration) using FFT for the rough road case
 
 ## Learning Outcomes
@@ -174,6 +149,3 @@ Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB
 - Intermediate
     - Community college transfer students
     - 3rd year undergraduate or above 
-
-
-
