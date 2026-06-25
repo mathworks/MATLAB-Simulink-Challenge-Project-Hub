@@ -34,7 +34,7 @@ Open the "ImageBasedDefectSystem_StudentProjectTemplate.mlx" Live Script in MATL
     - The AI classifier should provide the main classification decision (PASS/FAIL) along with a confidence/probability score in that classification
     - The output of your function should combine both this AI prediction and the evidence metrics from the previous step into an easily interpretable result for the user
 
-In other words, your image inspection function should integrate both classical evidence from image processing and an AI classification decision. The AI classifier provides the main decision (PASS/FAIL) while the classicail evidence extraction provides interpretability, traceability, and sanity checks for that decision.
+In other words, your image inspection function should integrate both classical evidence from image processing and an AI classification decision. The AI classifier provides the main decision (PASS/FAIL) while the classical evidence extraction provides interpretability, traceability, and sanity checks for that decision.
 
 4. Evaluate Inspection System Performance
     - Now that you've built a hybrid inspection system that integrates classical evidence with an AI decision, your goal in this step is to test the system on a batch of images.
