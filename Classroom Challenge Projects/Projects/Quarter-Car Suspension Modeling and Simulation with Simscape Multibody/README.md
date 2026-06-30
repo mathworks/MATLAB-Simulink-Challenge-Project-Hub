@@ -14,7 +14,7 @@ This project gives students hands-on experience with that workflow in a manageab
 
 Develop a **quarter-car suspension model** using **Simscape Multibody** to represent the mechanical structure and motion of a vehicle corner (body corner + wheel assembly connected through suspension and tire compliance). Create a **test harness** that runs a small suite of road profiles and automatically computes objective metrics for comfort and road holding. Then tune the suspension parameters to meet constraints and improve performance across all road cases.
 
-As a reference for how physical networks can be modeled in Simscape, you may use the Simscape example here:  
+As a reference for how a 1D physical networks can be modeled in Simscape, you may use the Simscape example here to help you get started conceptually:  
 
 - [Mass-Spring-Damper in Simulink and Simscape](https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-simscape.html) 
 
@@ -132,9 +132,11 @@ Open the "QuarterCarSuspension_StudentProjectTemplate.mlx" Live Script in MATLAB
 - Setting up simulation configurations for stable, fast runs
 
 ## MathWorks Tutorials
+Please note: some of the examples below will help you learn about spring and damper behavior, system dynamics, and parameter tuning. They are meant to be **conceptual scaffolding** and **not** a direct template for the final model. 1D examples in Simscape can help you understand physics without the added 3D complexity and the mass-spring-damper is the canonical abstraction for a quarter-car model.
 ### Highly Recommended
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
 - [Simscape Onramp](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape)
+- [Multibody Simulation Onramp](https://matlabacademy.mathworks.com/details/multibody-simulation-onramp/ormb)
 - [Interactive Mass-Spring-Damper Tutorial](https://www.mathworks.com/matlabcentral/fileexchange/94585-mass-spring-damper-systems)
 - [Technical Guide to Optimizing Vehicle Suspension Design Through System-Level Simulation](https://www.mathworks.com/company/technical-articles/optimizing-vehicle-suspension-design-through-system-level-simulation.html)
 - [Video Tutorial on Analyzing the Ride Quality of a Car Suspension](https://www.youtube.com/watch?v=aEPcyBqubb8)
