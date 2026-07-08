@@ -1,0 +1,46 @@
+name: Update Submission Markdown Files
+
+on:
+  push:
+    paths:
+      - 'projects/allSubmissions.json'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup MATLAB
+        uses: matlab-actions/setup-matlab@v2
+
+      - name: Generate submission files
+        uses: matlab-actions/run-command@v2
+        with:
+          command: |
+            addpath('.github/scripts');
+            build_submissions_markdown('projects/allSubmissions.json', pwd);
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet && git diff --cached --quiet && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add projects/ALL_SUBMISSIONS.md
+          git add "projects/*/submissions.md"
+          git add README.md
+          git commit -m "Auto-update submission markdown files"
+          git push
