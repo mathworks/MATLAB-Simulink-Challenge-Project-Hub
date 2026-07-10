@@ -2033,5 +2033,28 @@
         "submission_date": "2026-04-30",
         "video_url": "https://youtu.be/2-E-i5EQIcE",
         "TS": false
+    },
+    {
+        "project_title": "Federal Open Market Committee Minutes Analysis with Large Language Models",
+        "project_id": 258,
+        "tech_trend": [
+            "Artificial Intelligence",
+            "Computational Finance"
+        ],
+        "submission_title": "MATLAB-First RAG Platform for FOMC Minutes Intelligence with Multi-Provider LLM Routing",
+        "summary": "A MATLAB-driven RAG system that ingests FOMC minutes, generates embeddings via all-MiniLM-L12-v2, stores vectors in PostgreSQL+pgvector, and queries multiple LLM providers for policy analysis.",
+        "tags": [
+            "Natural Language Processing",
+            "Text Analytics",
+            "RAG",
+            "Computational Finance",
+            "Deep Learning"
+        ],
+        "authors": "Karan Chhunchha",
+        "affiliation": "Department of Computer and Information Technology, HNGU Patan",
+        "repo_url": "https://github.com/Karanchhunchha/fomc-ai-analyzer",
+        "submission_date": "2026-07-10",
+        "video_url": "",
+        "TS": false
     }
 ]
