@@ -85,7 +85,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Impact</strong>: Harness AI to revolutionize financial text analysis and unlock deeper insights from real-world monetary policy documents.</p>
 <p><strong>Expertise gained</strong>: Artificial Intelligence, Computational Finance, Natural Language Processing, Text Analytics, Neural Networks</p>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models&tfa_2=258"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models&tfa_2=258"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
-    <p align="left" style="margin-top:6px;"><a href="projects/Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-1-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 1"></a></p></a>
+    <p align="left" style="margin-top:6px;"><a href="projects/Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-1-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 1"></a></p>
 </td>
 </tbody>
 <tbody>
@@ -304,7 +304,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p>Use Deep Learning and Inertial Measurement Units (IMU) data to recognize human activities and gestures.</p>
 <p><strong>Impact:</strong> Enable the next generation of wearable electronic devices with motion recognition. </p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Deep Learning, Embedded AI, Neural Networks, Signal Processing</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Human Motion Recognition Using IMUs &tfa_2=232"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Human Motion Recognition Using IMUs &tfa_2=232"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
-    <p align="left" style="margin-top:6px;"><a href="projects/Human%20Motion%20Recognition%20Using%20IMUs/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-2-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 2"></a></p>
+    <p align="left" style="margin-top:6px;"><a href="projects/Human%20Motion%20Recognition%20Using%20IMUs/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-4-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 4"></a></p>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/vibration.png"  width=500 /></td>
@@ -425,7 +425,7 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Impact:</strong> Help make electric vehicles more reliable for general use.</p>
 <p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Control, Electrification, Modeling and Simulation</p>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Portable Charging System for Electric Vehicles &tfa_2=216"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Portable Charging System for Electric Vehicles &tfa_2=216"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
-    <p align="left" style="margin-top:6px;"><a href="projects/Portable%20Charging%20System%20for%20Electric%20Vehicles/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-3-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 3"></a></p>
+    <p align="left" style="margin-top:6px;"><a href="projects/Portable%20Charging%20System%20for%20Electric%20Vehicles/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-4-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 4"></a></p>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pneumaticSys.jpg"  width=500 /></td>
