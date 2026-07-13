@@ -2056,5 +2056,71 @@
         "submission_date": "2026-07-10",
         "video_url": "",
         "TS": false
+    },
+    {
+        "project_title": "Portable Charging System for Electric Vehicles",
+        "project_id": 216,
+        "tech_trend": [
+            "Sustainability and Renewable Energy"
+        ],
+        "submission_title": "CC-CV Closed-Loop Portable EV Charger with Buck Converter and Thermal Modeling",
+        "summary": "Simulink model of a portable CC-CV charging system for EVs using a buck converter, dual PI controllers, Stateflow logic, and IGBT/battery thermal models based on Cadillac Lyriq specifications.",
+        "tags": [
+            "Simscape Electrical",
+            "Stateflow",
+            "Power Electronics",
+            "Battery Charging",
+            "Control Systems"
+        ],
+        "authors": "Peter Saad, Peter Saad",
+        "affiliation": "Christopher Newport University",
+        "repo_url": "https://github.com/saadpeter026-source/CC-CV-Portable-EV-Charging-System",
+        "submission_date": "2026-07-10",
+        "video_url": "",
+        "TS": true
+    },
+    {
+        "project_title": "Human Motion Recognition Using IMUs",
+        "project_id": 232,
+        "tech_trend": [
+            "Artificial Intelligence"
+        ],
+        "submission_title": "1D-CNN Human Activity Recognition from Raw Smartphone IMU Signals",
+        "summary": "Implements a 1D Convolutional Neural Network in MATLAB to classify six human activities from 9-channel raw IMU sensor data, achieving 91.92% accuracy on the UCI HAR dataset.",
+        "tags": [
+            "Deep Learning",
+            "Signal Processing",
+            "IMU",
+            "Human Activity Recognition",
+            "Convolutional Neural Networks"
+        ],
+        "authors": "BHOGALA SRIKA, Bhogala Srika",
+        "affiliation": "PES University",
+        "repo_url": "https://github.com/BHOGALA-SRIKA/ActivityRecognition-1DCNN",
+        "submission_date": "2026-07-12",
+        "video_url": "",
+        "TS": false
+    },
+    {
+        "project_title": "Human Motion Recognition Using IMUs",
+        "project_id": 232,
+        "tech_trend": [
+            "Artificial Intelligence"
+        ],
+        "submission_title": "Edge-Optimized HAR Pipeline with Logistic Regression and MATLAB Mobile Integration",
+        "summary": "Implements an edge-deployable human activity recognition system using logistic regression on windowed IMU features from the HARTH dataset, achieving 93% test accuracy with MATLAB Mobile validation.",
+        "tags": [
+            "Machine Learning",
+            "Signal Processing",
+            "IMU",
+            "Human Activity Recognition",
+            "Classification"
+        ],
+        "authors": "Muhammed Abdulrehman Bin Yasin",
+        "affiliation": "Bahria University",
+        "repo_url": "https://github.com/bcap52/EdgeHAR-Efficient-Human-Activity-Recognition-Using-IMU-Sensors",
+        "submission_date": "2026-07-13",
+        "video_url": "",
+        "TS": false
     }
 ]
