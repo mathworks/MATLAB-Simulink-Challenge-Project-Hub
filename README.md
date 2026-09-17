@@ -67,6 +67,39 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 *Updated: February 25, 2026*
 <table><!---->
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Detection%20and%20Human%20Tracking%20Robot">Face Detection and Human Tracking Robot</a></h2></p>      <p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>
+<p><strong>Impact:</strong> Leverage mobile technology and deep learning to advance human detection algorithms for impacting human safety and security.</p>
+<p><strong>Expertise gained:</strong> Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p>
+<span><strong>Industry partner:</strong></span><br>
+<a href="https://www.microchip.com/en-us/education/academic-program" target="_blank">
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Microchip-Logo.png"  width=220><br></a>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Face Detection and Human Tracking Robot&tfa_2=214"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Face Detection and Human Tracking Robot&tfa_2=214"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
+    <p align="left" style="margin-top:6px;"><a href="projects/Face%20Detection%20and%20Human%20Tracking%20Robot/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-4-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 4"></a></p>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/raspbpi.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot">Voice Controlled Robot</a></h2></p>     <p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
+<p><strong>Impact:</strong> Open up the opportunities to create robots that can be an intuitive part of our world. </p>
+<p><strong>Expertise gained:</strong> Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p>
+<span><strong>Industry partner:</strong></span><br>
+<a href="https://www.microchip.com/en-us/education/academic-program" target="_blank">
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Microchip-Logo.png"  width=220><br></a>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Voice Controlled Robot&tfa_2=30"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Voice Controlled Robot&tfa_2=30"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
+    <p align="left" style="margin-top:6px;"><a href="projects/Voice%20Controlled%20Robot/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-1-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 1"></a></p>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Smart%20Watering%20System%20with%20Internet%20of%20Things">Smart Watering System with Internet of Things</a></h2></p>      <p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware.</p>
+<p><strong>Impact:</strong> Minimize the negative effects of the overuse of water in farming and preserve water resources. </p>
+<p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Artificial Intelligence, IoT, Low-Cost Hardware, Deep Learning, Cloud Computing</p>
+<span><strong>Industry partner:</strong></span><br>
+<a href="https://www.microchip.com/en-us/education/academic-program" target="_blank">
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Microchip-Logo.png"  width=220><br></a>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Smart Watering System with Internet of Things&tfa_2=219"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Smart Watering System with Internet of Things&tfa_2=219"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
+    <p align="left" style="margin-top:6px;"><a href="projects/Smart%20Watering%20System%20with%20Internet%20of%20Things/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-3-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 3"></a></p>
+</tbody>
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ultrasound.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Real-Time%20Acceleration%20for%20Medical%20Image%20Processing">Real-Time Acceleration for Medical Image Processing</a></h2></p>
 <p>Design a real-time medical imaging pipeline that uses Analog Devices high-speed ADCs, and NVIDIA Holoscan for deployment.</p>
@@ -76,16 +109,6 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <a href="https://www.analog.com/en/resources/courses-and-tutorials.html" target="_blank">
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ADIlogo.jpg"  width=170><br></a><br>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Real-Time%20Acceleration%20for%20Medical%20Image%20Processing&tfa_2=259"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Real-Time%20Acceleration%20for%20Medical%20Image%20Processing&tfa_2=259"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
-</td>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fomc.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models">Federal Open Market Committee Minutes Analysis with Large Language Models</a></h2></p>
-<p>Use large language models in MATLAB to extract insights from central bank policy documents.</p>
-<p><strong>Impact</strong>: Harness AI to revolutionize financial text analysis and unlock deeper insights from real-world monetary policy documents.</p>
-<p><strong>Expertise gained</strong>: Artificial Intelligence, Computational Finance, Natural Language Processing, Text Analytics, Neural Networks</p>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models&tfa_2=258"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models&tfa_2=258"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
-    <p align="left" style="margin-top:6px;"><a href="projects/Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-1-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 1"></a></p>
 </td>
 </tbody>
 <tbody>
@@ -145,6 +168,16 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <span><strong>Industry partner:</strong></span><br>
 <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/NI_Logo.png"  width=100><br>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Build a wireless communications link with software defined radio&tfa_2=162"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Build a wireless communications link with software defined radio&tfa_2=162"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
+</tbody>
+<tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/fomc.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models">Federal Open Market Committee Minutes Analysis with Large Language Models</a></h2></p>
+<p>Use large language models in MATLAB to extract insights from central bank policy documents.</p>
+<p><strong>Impact</strong>: Harness AI to revolutionize financial text analysis and unlock deeper insights from real-world monetary policy documents.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Computational Finance, Natural Language Processing, Text Analytics, Neural Networks</p>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models&tfa_2=258"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models&tfa_2=258"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
+    <p align="left" style="margin-top:6px;"><a href="projects/Federal%20Open%20Market%20Committee%20Minutes%20Analysis%20with%20Large%20Language%20Models/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-1-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 1"></a></p>
+</td>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/FastChargerSPM.png"  width=500 /></td>
@@ -399,13 +432,6 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Robotics, Automotive, Image Processing, Modeling and Simulation, Sensor Fusion and Tracking, Low-Cost Hardware</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Testing Realtime Robustness of ROS in Autonomous Driving&tfa_2=220"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Testing Realtime Robustness of ROS in Autonomous Driving&tfa_2=220"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
 </tbody>
 <tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Smart%20Watering%20System%20with%20Internet%20of%20Things">Smart Watering System with Internet of Things</a></h2></p>      <p>Develop a smart plant water system using Internet of Things (IoT) and low-cost hardware.</p>
-<p><strong>Impact:</strong> Minimize the negative effects of the overuse of water in farming and preserve water resources. </p>
-<p><strong>Expertise gained:</strong> Sustainability and Renewable Energy, Artificial Intelligence, IoT, Low-Cost Hardware, Deep Learning, Cloud Computing</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Smart Watering System with Internet of Things&tfa_2=219"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Smart Watering System with Internet of Things&tfa_2=219"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
-    <p align="left" style="margin-top:6px;"><a href="projects/Smart%20Watering%20System%20with%20Internet%20of%20Things/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-3-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 3"></a></p>
-</tbody>
-<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/pmsm.jpg"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Machine%20Learning%20for%20Motor%20Control">Machine Learning for Motor Control</a></h2></p>
 <p>Enhance the performance and product quality required to develop a motor control application.</p>
@@ -434,14 +460,6 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p>Predict faults in pneumatic systems using simulation and AI/machine learning.</p>
 <p><strong>Impact:</strong> Improve efficiency and reliability of industrial processes.</p>
 <p><strong>Expertise gained:</strong> Artificial Intelligence, Industry 4.0, Cyber-Physical Systems, Digital Twins, Embedded AI, Health Monitoring, IoT, Machine Learning, Modeling and Simulation</p><a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Digital Twin and Predictive Maintenance of Pneumatic Systems&tfa_2=215"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Digital Twin and Predictive Maintenance of Pneumatic Systems&tfa_2=215"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a></td>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Face%20Detection%20and%20Human%20Tracking%20Robot">Face Detection and Human Tracking Robot</a></h2></p>      <p>Design and implement a real time autonomous human tracking robot using low-cost hardware. </p>
-<p><strong>Impact:</strong> Leverage mobile technology and deep learning to advance human detection algorithms for impacting human safety and security.</p>
-<p><strong>Expertise gained:</strong> Artificial Intelligence, Computer Vision, Robotics, Deep Learning, Embedded AI, Human-Robot Interaction, Mobile Robots, Modeling and Simulation, Machine Learning, Low-cost Hardware, Image Processing, Control</p>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Face Detection and Human Tracking Robot&tfa_2=214"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Face Detection and Human Tracking Robot&tfa_2=214"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
-    <p align="left" style="margin-top:6px;"><a href="projects/Face%20Detection%20and%20Human%20Tracking%20Robot/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-4-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 4"></a></p>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/visualslamPicture4.png"  width=500 /></td>
@@ -691,14 +709,6 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p><strong>Expertise gained:</strong> Autonomous Vehicles, Automotive, Control, Modeling and Simulation</p>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=MIMO Engine Airpath Control&tfa_2=45"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=MIMO Engine Airpath Control&tfa_2=45"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
     <p align="left" style="margin-top:6px;"><a href="projects/MIMO%20Engine%20Airpath%20Control/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-1-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 1"></a></p>
-</tbody>
-<tbody>
-<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/raspbpi.png"  width=500 /></td>
-<td><p><h2><a href="https://github.com/mathworks/MathWorks-Excellence-in-Innovation/tree/main/projects/Voice%20Controlled%20Robot">Voice Controlled Robot</a></h2></p>     <p>Smart devices and robots have become part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market. Talking to a machine is going to complete change the way we work with robots.</p>
-<p><strong>Impact:</strong> Open up the opportunities to create robots that can be an intuitive part of our world. </p>
-<p><strong>Expertise gained:</strong> Artificial Intelligence, Computer Vision, Robotics, Signal Processing, Natural Language Processing, Mobile Robots, Human-Robot Interaction, Low-Cost Hardware</p>
-<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Voice Controlled Robot&tfa_2=30"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Voice Controlled Robot&tfa_2=30"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150">
-    <p align="left" style="margin-top:6px;"><a href="projects/Voice%20Controlled%20Robot/submissions.md"><img src="https://img.shields.io/badge/View%20Submissions-1-%23137DAA?style=flat&labelColor=%23BD5013" alt="Submissions: 1"></a></p>
 </tbody>
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/quadruped.png"  width=500 /></td>

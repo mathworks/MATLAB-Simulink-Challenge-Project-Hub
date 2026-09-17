@@ -2,11 +2,19 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Face%20Detection%20and%20Human%20Tracking%20Robot&tfa_2=214)</strong> to **submit** your solution to this project and qualify for the rewards.
 
+This project is developed in collaboration with **Microchip Technology Inc.**
+
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/HumanTrackingRobot.png"  width=400 /></td>
 <td><p><h1>Face Detection and Human Tracking Robot</h1></p>
 <p> Design and implement a real time autonomous human tracking robot on Microchip&reg; FPGA/SoC and MCU hardware.</p>
 </table>
+
+**_Industry Partner_:**<br>
+<br>
+<a href="https://www.microchip.com/en-us/education/academic-program" target="_blank" style="display: inline-block; text-align: center;">
+    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Microchip-Logo.png" width="300" style="display: block; margin: 0 auto;"><br>
+</a>
 
 ## Motivation
 

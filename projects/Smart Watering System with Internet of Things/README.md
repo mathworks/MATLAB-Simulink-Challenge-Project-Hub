@@ -2,11 +2,19 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Smart%20Watering%20System%20with%20Internet%20of%20Things&tfa_2=219)</strong> to **submit** your solution to this project and qualify for the rewards.
 
+This project is developed in collaboration with **Microchip Technology Inc.**
+
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/agriculture.jpg"  width=500 /></td>
 <td><p><h1>Smart Watering System with Internet of Things</h1></p>
 <p>Develop a smart plant watering system using Internet of Things (IoT) and Microchip&reg; low-cost hardware </p>
 </table>
+
+**_Industry Partner_:**<br>
+<br>
+<a href="https://www.microchip.com/en-us/education/academic-program" target="_blank" style="display: inline-block; text-align: center;">
+    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Microchip-Logo.png" width="300" style="display: block; margin: 0 auto;"><br>
+</a>
 
 ## Motivation
 

@@ -2,11 +2,19 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 Fill out this <strong>[form](https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Voice%20Controlled%20Robot&tfa_2=30)</strong> to **submit** your solution to this project and qualify for the rewards.
 
+This project is developed in collaboration with **Microchip Technology Inc.**
+
 <table>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/raspbpi.png"  width=400 /></td>
 <td><p><h1>Voice Controlled Robot</h1></p>
 <p>Smart devices and robots are nowadays part of our everyday life and human-robot interaction plays a crucial role in this rapidly expanding market.</p>
 </table>
+
+**_Industry Partner_:**<br>
+<br>
+<a href="https://www.microchip.com/en-us/education/academic-program" target="_blank" style="display: inline-block; text-align: center;">
+    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/Microchip-Logo.png" width="300" style="display: block; margin: 0 auto;"><br>
+</a>
 
 ## Motivation
 
