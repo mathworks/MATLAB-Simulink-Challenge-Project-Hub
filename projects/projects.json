@@ -141,21 +141,41 @@
       "Simulink"
     ],
     "mathworks_products": [
-      "Audio Toolbox"
+      "Audio Toolbox",
+      "Deep Learning Toolbox",
+      "Signal Processing Toolbox",
+      "DSP System Toolbox",
+      "Statistics and Machine Learning Toolbox",
+      "Computer Vision Toolbox",
+      "Image Processing Toolbox",
+      "Stateflow",
+      "Robotics System Toolbox",
+      "Navigation Toolbox",
+      "Fixed-Point Designer",
+      "Embedded Coder",
+      "Simulink Coder",
+      "MATLAB Coder"
     ],
     "application_areas": [
       "Robotics / Automation"
     ],
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "project_type": [
       "AI / Machine Learning",
+      "Signal Processing",
+      "Control Design",
       "Hardware Integration",
-      "Signal Processing"
+      "Embedded / Real-Time"
     ],
     "hardware_required": "Required",
     "hardware_tags": [
-      "Arduino",
-      "Raspberry Pi"
+      "Microchip",
+      "Timberwolf EV08Z13A",
+      "SAM E54 Curiosity Ultra",
+      "Curiosity",
+      "ATSAME70-XULT",
+      "microphone",
+      "motor driver"
     ],
     "has_partner": false,
     "partner_type": "",
@@ -1517,20 +1537,35 @@
     ],
     "mathworks_products": [
       "Computer Vision Toolbox",
-      "Deep Learning Toolbox"
+      "Deep Learning Toolbox",
+      "Image Processing Toolbox",
+      "Vision HDL Toolbox",
+      "HDL Coder",
+      "Fixed-Point Designer",
+      "Embedded Coder",
+      "Simulink Coder",
+      "MATLAB Coder",
+      "Stateflow"
     ],
     "application_areas": [
       "Robotics / Automation"
     ],
-    "difficulty": "Intermediate",
+    "difficulty": "Advanced",
     "project_type": [
+      "Modeling & Simulation",
       "AI / Machine Learning",
-      "Hardware Integration"
+      "Hardware Integration",
+      "Embedded / Real-Time"
     ],
     "hardware_required": "Required",
     "hardware_tags": [
-      "Arduino",
-      "Raspberry Pi"
+      "Microchip",
+      "PolarFire SoC Video Kit",
+      "ATSAME70-XULT",
+      "FPGA",
+      "Arm Cortex-M7",
+      "motor driver",
+      "camera"
     ],
     "has_partner": false,
     "partner_type": "",
@@ -1733,20 +1768,35 @@
       "Simulink"
     ],
     "mathworks_products": [
-      "ThingSpeak"
+      "ThingSpeak",
+      "Statistics and Machine Learning Toolbox",
+      "Signal Processing Toolbox",
+      "DSP System Toolbox",
+      "Stateflow",
+      "Fixed-Point Designer",
+      "Embedded Coder",
+      "Simulink Coder",
+      "MATLAB Coder"
     ],
     "application_areas": [
       "Smart Infrastructure / IoT",
       "Energy / Sustainability"
     ],
-    "difficulty": "Beginner",
+    "difficulty": "Intermediate",
     "project_type": [
+      "AI / Machine Learning",
+      "Data Analysis",
+      "Signal Processing",
       "Hardware Integration",
-      "Data Analysis"
+      "Embedded / Real-Time"
     ],
     "hardware_required": "Required",
     "hardware_tags": [
-      "Arduino",
+      "Microchip",
+      "AVR-IoT Cellular Mini",
+      "SAM D21 Curiosity Nano",
+      "Curiosity",
+      "Click boards",
       "sensors"
     ],
     "has_partner": false,
