@@ -1,6 +1,18 @@
 # Artificial Intelligence projects: 
 <table><!---->
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/oil_gas_engineer.jpg"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/AI-Based%20Analysis%20of%20Oil%20and%20Gas%20Fatal%20Incident%20Reports">AI-Based Analysis of Oil and Gas Fatal Incident Reports</a></h2></p>
+<p>Turn published fatal incident reports into structured data and visualizations, then use AI to classify accidents as human acts or process design.</p>
+<p><strong>Impact</strong>: Transform fatal incident reports into evidence that aligns industry safety remedies with their true causes.</p>
+<p><strong>Expertise gained</strong>: Artificial Intelligence, Text Analytics, Natural Language Processing</p>
+<span><strong>Industry partner:</strong></span><br><br>
+<a href="https://www.iogp.org/" target="_blank">
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/iogpLogo.jpg"  width=220><br></a><br>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=AI-Based%20Analysis%20of%20Oil%20and%20Gas%20Fatal%20Incident%20Reports&tfa_2=260"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=AI-Based%20Analysis%20of%20Oil%20and%20Gas%20Fatal%20Incident%20Reports&tfa_2=260"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
+</td>
+</tbody><!---->
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/ultrasound.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Real-Time%20Acceleration%20for%20Medical%20Image%20Processing">Real-Time Acceleration for Medical Image Processing</a></h2></p>
 <p>Design a real-time medical imaging pipeline that uses Analog Devices high-speed ADCs, and NVIDIA Holoscan for deployment.</p>

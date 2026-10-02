@@ -3391,5 +3391,50 @@
       "Image Processing",
       "Real-time medical imaging"
     ]
+  },
+  {
+    "id": "260",
+    "title": "AI-Based Analysis of Oil and Gas Fatal Incident Reports",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/AI-Based%20Analysis%20of%20Oil%20and%20Gas%20Fatal%20Incident%20Reports",
+    "source_file": "projects/AI-Based Analysis of Oil and Gas Fatal Incident Reports/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/oil_gas_engineer.jpg",
+    "technology_trends": [
+      "Artificial Intelligence"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Text Analytics Toolbox",
+      "Statistics and Machine Learning Toolbox",
+      "Deep Learning Toolbox",
+      "Database Toolbox"
+    ],
+    "application_areas": [
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Intermediate",
+    "project_type": [
+      "Data Analysis",
+      "AI / Machine Learning"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": true,
+    "partner_type": "industry",
+    "partners": [
+      "International Association of Oil & Gas Producers (IOGP)"
+    ],
+    "expertise_gained_original": [
+      "Data Analytics",
+      "Data Visualization",
+      "Text Analytics",
+      "Natural Language Processing",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Large Language Models",
+      "Process Safety",
+      "Risk Assessment"
+    ]
   }
 ]
