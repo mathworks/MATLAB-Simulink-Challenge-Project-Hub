@@ -16,7 +16,7 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 
 ## Motivation
 
-Each year the [International Association of Oil \&amp; Gas Producers (IOGP)](https&#58;//www.iogp.org/) publishes the fatal incident reports submitted by its member companies. Every record gives the date, country, number of deaths, activity, cause, the Life-Saving Rules involved, a narrative of what happened, the corrective actions and recommendations, and a coded list of causal factors. It is a detailed public record of how people die at work in this industry published as a PDF which can reveal some trends and insights if further data analysis and visualizations are performed.
+Each year the [International Association of Oil \& Gas Producers (IOGP)](https&#58;//www.iogp.org/) publishes the fatal incident reports submitted by its member companies. Every record gives the date, country, number of deaths, activity, cause, the Life-Saving Rules involved, a narrative of what happened, the corrective actions and recommendations, and a coded list of causal factors. It is a detailed public record of how people die at work in this industry published as a PDF which can reveal some trends and insights if further data analysis and visualizations are performed.
 
 Behind the data problem sits the question the industry argues about constantly. When an investigation concludes that a worker was &quot;in the line of fire&quot;, is that a finding about a person or about a plant that allowed a person to stand there? The answer decides what the organization does next&#58; a training campaign, or an engineering change. The reports make this measurable, because they already sort every causal factor into PEOPLE (ACTS) and PROCESS (CONDITIONS).
 
