@@ -64,7 +64,7 @@ _After the remarkable success of our inaugural edition, we are delighted to anno
 _By participating, you have the opportunity to **win up to $1000**. Visit this **[page](https://www.mathworks.com/academia/student-challenge/sustainability-and-renewable-energy-challenge-2024.html)** to learn more about the challenge and how to participate._
 -->
 ## All projects :file_folder:
-*Updated: February 25, 2026*
+*Updated: October 2, 2026*
 <table><!---->
 <tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/oil_gas_engineer.jpg"  width=500 /></td>
