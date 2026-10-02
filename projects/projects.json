@@ -177,9 +177,11 @@
       "microphone",
       "motor driver"
     ],
-    "has_partner": false,
-    "partner_type": "",
-    "partners": [],
+    "has_partner": true,
+    "partner_type": "industry",
+    "partners": [
+      "Microchip"
+    ],
     "expertise_gained_original": [
       "Artificial Intelligence",
       "Computer Vision",
@@ -1567,9 +1569,11 @@
       "motor driver",
       "camera"
     ],
-    "has_partner": false,
-    "partner_type": "",
-    "partners": [],
+    "has_partner": true,
+    "partner_type": "industry",
+    "partners": [
+      "Microchip"
+    ],
     "expertise_gained_original": [
       "Artificial Intelligence",
       "Computer Vision",
@@ -1799,9 +1803,11 @@
       "Click boards",
       "sensors"
     ],
-    "has_partner": false,
-    "partner_type": "",
-    "partners": [],
+    "has_partner": true,
+    "partner_type": "industry",
+    "partners": [
+      "Microchip"
+    ],
     "expertise_gained_original": [
       "Sustainability and Renewable Energy",
       "Artificial Intelligence",
