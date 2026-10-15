@@ -210,6 +210,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
   function boot() {
     $status.remove();
     buildSidebar();
+    readStateFromURL();
     applyFilters();
     $search.addEventListener("input", applyFilters);
     $clear.addEventListener("click", clearAll);
@@ -300,7 +301,45 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helve
     renderCards(filtered);
     updateCounts(filtered);
     renderActiveFilters();
+    writeStateToURL();
     $count.textContent = `Showing ${filtered.length} of ${allProjects.length} projects`;
+  }
+
+  // ── URL sync ──────────────────────────────────────────────────
+  // e.g. table.html?q=robot&difficulty=Beginner&partners=A&partners=B&partner_only=1
+  function readStateFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get("q");
+    if (q) $search.value = q;
+    if (params.get("partner_only") === "1") {
+      partnerOnly = true;
+      const pt = document.getElementById("partnerToggle");
+      if (pt) pt.checked = true;
+    }
+    FILTER_DEFS.forEach(def => {
+      const sel = filterState[def.key];
+      if (!sel) return;
+      params.getAll(def.key).forEach(v => {
+        const cb = $sidebar.querySelector(`input[data-key="${def.key}"][value="${CSS.escape(v)}"]`);
+        if (!cb) return;   // ignore values that no longer exist
+        cb.checked = true;
+        sel.add(v);
+      });
+    });
+  }
+
+  function writeStateToURL() {
+    const params = new URLSearchParams();
+    const q = $search.value.trim();
+    if (q) params.set("q", q);
+    if (partnerOnly) params.set("partner_only", "1");
+    FILTER_DEFS.forEach(def => {
+      const sel = filterState[def.key];
+      if (sel) sel.forEach(v => params.append(def.key, v));
+    });
+    const qs = params.toString();
+    const url = window.location.pathname + (qs ? "?" + qs : "") + window.location.hash;
+    history.replaceState(null, "", url);
   }
 
   function matchesSearch(p, q) {
