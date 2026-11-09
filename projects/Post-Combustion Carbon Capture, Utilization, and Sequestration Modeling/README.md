@@ -11,7 +11,7 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 **_Industry Partner_:**<br>
 <br>
 <a href="https://www.datacor.com/solutions/education" target="_blank" style="display: inline-block; text-align: center;">
-    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/datacor_logo.svg" width="450" style="display: block; margin: 0 auto;"><br>
+    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/datacor_logo.svg" width="350" style="display: block; margin: 0 auto;"><br>
 </a>
 
 ## Motivation
