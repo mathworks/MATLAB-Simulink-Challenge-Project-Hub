@@ -3436,5 +3436,48 @@
       "Process Safety",
       "Risk Assessment"
     ]
+  },
+  {
+    "id": "261",
+    "title": "Post-Combustion Carbon Capture, Utilization, and Sequestration Modeling",
+    "project_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Post-Combustion%20Carbon%20Capture,%20Utilization,%20and%20Sequestration%20Modeling",
+    "source_file": "projects/Post-Combustion Carbon Capture, Utilization, and Sequestration Modeling/README.md",
+    "thumbnail": "https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/carbon_capture.png",
+    "technology_trends": [
+      "Sustainability and Renewable Energy"
+    ],
+    "mathworks_platforms": [
+      "MATLAB"
+    ],
+    "mathworks_products": [
+      "Industrial Communication Toolbox",
+      "Optimization Toolbox",
+      "Global Optimization Toolbox",
+      "Statistics and Machine Learning Toolbox",
+      "Symbolic Math Toolbox",
+      "SimBiology",
+      "Simulink Design Optimization"
+    ],
+    "application_areas": [
+      "Energy / Sustainability"
+    ],
+    "difficulty": "Beginner",
+    "project_type": [
+      "Modeling & Simulation",
+      "Optimization"
+    ],
+    "hardware_required": "None",
+    "hardware_tags": [],
+    "has_partner": true,
+    "partner_type": "industry",
+    "partners": [
+      "Datacor"
+    ],
+    "expertise_gained_original": [
+      "Sustainability and Renewable Energy",
+      "Modeling and Simulation",
+      "Optimization",
+      "Reaction kinetics"
+    ]
   }
 ]
