@@ -1,6 +1,15 @@
 # Sustainability and Renewable Energy projects: 
 <table><!---->
 <tbody>
+<td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/carbon_capture.png"  width=500 /></td>
+<td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Post-Combustion%20Carbon%20Capture,%20Utilization,%20and%20Sequestration%20Modeling">Post-Combustion Carbon Capture, Utilization, and Sequestration Modeling</a></h2></p>
+<p>Design, cost, and optimize an MEA-based post-combustion CO₂ capture and compression plant by connecting CHEMCAD to MATLAB.</p>
+<p><strong>Impact</strong>: Reduce climate impact of CO2 by carbon capture, storage and utilization in other chemicals manufacturing.</p>
+<p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Modeling and Simulation, Optimization, Reaction kinetics</p>
+<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Post-Combustion%20Carbon%20Capture,%20Utilization,%20and%20Sequestration%20Modeling&tfa_2=261"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Post-Combustion%20Carbon%20Capture,%20Utilization,%20and%20Sequestration%20Modeling&tfa_2=261"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
+</td>
+</tbody><!---->
+<tbody>
 <td><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/FastChargerSPM.png"  width=500 /></td>
 <td><p><h2><a href="https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/blob/main/projects/Battery%20Fast%20Charging%20Optimization">Battery Fast Charging Optimization</a></h2></p>
 <p>Optimize lithium-ion battery charging strategies while preserving longevity and safety.</p>
