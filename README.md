@@ -72,6 +72,9 @@ _By participating, you have the opportunity to **win up to $1000**. Visit this *
 <p>Design, cost, and optimize an MEA-based post-combustion CO₂ capture and compression plant by connecting CHEMCAD to MATLAB.</p>
 <p><strong>Impact</strong>: Reduce climate impact of CO2 by carbon capture, storage and utilization in other chemicals manufacturing.</p>
 <p><strong>Expertise gained</strong>: Sustainability and Renewable Energy, Modeling and Simulation, Optimization, Reaction kinetics</p>
+<span><strong>Industry partner:</strong></span><br><br>
+<a href="https://www.datacor.com/solutions/education" target="_blank">
+<img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/datacor_logo.svg"  width=300><br></a><br>
 <a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-signup.html?tfa_1=Post-Combustion%20Carbon%20Capture,%20Utilization,%20and%20Sequestration%20Modeling&tfa_2=261"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/registerButton.png" alt="name" width="150"></a>&nbsp;&nbsp;<a href="https://www.mathworks.com/academia/student-challenge/mathworks-excellence-in-innovation-submission-form.html?tfa_1=Post-Combustion%20Carbon%20Capture,%20Utilization,%20and%20Sequestration%20Modeling&tfa_2=261"><img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/submitButton.png" alt="name" width="150"></a>
 </td>
 </tbody>

@@ -8,6 +8,12 @@ Fill out this <strong>[form](https://www.mathworks.com/academia/student-challeng
 <p>Design, cost, and optimize an MEA-based post-combustion CO₂ capture and compression plant by connecting CHEMCAD to MATLAB.</p>
 </table>
 
+**_Industry Partner_:**<br>
+<br>
+<a href="https://www.datacor.com/solutions/education" target="_blank" style="display: inline-block; text-align: center;">
+    <img src="https://gist.githubusercontent.com/robertogl/e0115dc303472a9cfd52bbbc8edb7665/raw/datacor_logo.svg" width="450" style="display: block; margin: 0 auto;"><br>
+</a>
+
 ## Motivation
 
 CO2 contributes to climate change. In order to mitigate that, engineers and scientists explore various technologies to capture CO2. Post-combustion carbon capture aims to separate CO2 from flue gas generated from fossil fuel combustion in a coal-fired power plant. The captured CO2 can be directly utilized to produce other chemicals such as methane and methanol. The captured CO2 can also be compressed to a state of near supercritical liquid in preparation for transportation and permanent storage in deep geologic formation.
